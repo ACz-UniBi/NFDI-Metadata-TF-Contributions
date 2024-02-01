@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010910</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PDBj</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Protein Data Bank Japan</r3d:additionalName>
+                <r3d:repositoryURL>https://pdbj.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rs2815</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_07430</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_008912</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_151484</r3d:repositoryIdentifier>
+                <r3d:description language="eng">PDBj (Protein Data Bank Japan) provides a centralized PDB archive of macromolecular structures, integrated tools for data retrieval, visualization, and functional characterization. PDBj is supported by JST-NBDC and Osaka University.</r3d:description>
+                    <r3d:repositoryContact>https://pdbj.org/contact?tab=PDBjmaster</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-11-21">146.502 entries</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>http://www.wwpdb.org/about/faq</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>proteomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Japan Science and Technology Agency, National Bisocience Database Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JST NBDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://biosciencedbc.jp/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Osaka University, Institute of Protein Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IPR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.protein.osaka-u.ac.jp/index_e.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Worldwide Protein Data Bank</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">wwPDB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.wwpdb.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Usage Policies</r3d:policyName>
+                <r3d:policyURL>http://www.rcsb.org/pdb/static.do?p=general_information/about_pdb/policies_references.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>wwPDB Agreement</r3d:policyName>
+                <r3d:policyURL>http://www.wwpdb.org/about/agreement</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://pdbj.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.wwpdb.org/about/agreement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.pdbj.org/</r3d:api>
+                            <r3d:pidSystem>ARK</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://pdbj.org/rest/blogPostsHandler/requestSummariesForCategory?CID=2&amp;cdateSort=1&amp;rss=1&amp;lang=en</r3d:syndication>
+                <r3d:remarks>is covered by Elsevier. PDBj is member of wwPDB (Worldwide Protein Data Bank)http://www.wwpdb.org/</r3d:remarks>
+        <r3d:entryDate>2014-08-12</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

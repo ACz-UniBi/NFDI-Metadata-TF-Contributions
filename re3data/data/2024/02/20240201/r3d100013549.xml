@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013549</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MUSE-Wide</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MUSE-Wide archive</r3d:additionalName>
+                    <r3d:additionalName language="eng">Multi Unit Spectroscopic Explorer Wide</r3d:additionalName>
+                <r3d:repositoryURL>https://musewide.aip.de/</r3d:repositoryURL>
+                <r3d:description language="eng">We present the MUSE-Wide survey, a blind, 3D spectroscopic survey in the CANDELS/GOODS-S and CANDELS/COSMOS regions. Each MUSE-Wide pointing has a depth of 1 hour and hence targets more extreme and more luminous objects over 10 times the area of the MUSE-Deep fields (Bacon et al. 2017). The legacy value of MUSE-Wide lies in providing &quot;spectroscopy of everything&quot; without photometric pre-selection. We describe the data reduction, post-processing and PSF characterization of the first 44 CANDELS/GOODS-S MUSE-Wide pointings released with this publication. Using a 3D matched filtering approach we detected 1,602 emission line sources, including 479 Lyman-α (Lya) emitting galaxies with redshifts 2.9≲z≲6.3. We cross-match the emission line sources to existing photometric catalogs, finding almost complete agreement in redshifts and stellar masses for our low redshift (z &lt; 1.5) emitters. At high redshift, we only find ~55% matches to photometric catalogs. We encounter a higher outlier rate and a systematic offset of Δz≃0.2 when comparing our MUSE redshifts with photometric redshifts. Cross-matching the emission line sources with X-ray catalogs from the Chandra Deep Field South, we find 127 matches, including 10 objects with no prior spectroscopic identification. Stacking X-ray images centered on our Lya emitters yielded no signal; the Lya population is not dominated by even low luminosity AGN. A total of 9,205 photometrically selected objects from the CANDELS survey lie in the MUSE-Wide footprint, which we provide optimally extracted 1D spectra of. We are able to determine the spectroscopic redshift of 98% of 772 photometrically selected galaxies brighter than 24th F775W magnitude. All the data in the first data release - datacubes, catalogs, extracted spectra, maps - are available at the website.</r3d:description>
+                    <r3d:repositoryContact>https://musewide.aip.de/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2018-11-19</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://musewide.aip.de/project/the-muse-wide-survey-survey-description-and-first-data-release/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>3D-Spectroscopy</r3d:keyword>
+                    <r3d:keyword>CANDELS/COSMOS</r3d:keyword>
+                    <r3d:keyword>CANDELS/GOODS-S</r3d:keyword>
+                    <r3d:keyword>MUSE</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute for Astrophysics Potsdam</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">AIP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut für Astrophysik Potsdam</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aip.de/en/institute/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mrbr458</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">MUSE Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Multi-unit spectroscopic explorer Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://muse.univ-lyon1.fr/spip.php?article97</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Apache License 2.0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://github.com/django-daiquiri/daiquiri/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://musewide.aip.de/query/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://musewide.aip.de/oai/</r3d:api>
+                    <r3d:api apiType="other">https://musewide.aip.de/tap/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://musewide.aip.de</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2021-04-16</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

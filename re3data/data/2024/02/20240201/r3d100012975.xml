@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012975</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The City of Saint John Open Data</r3d:repositoryName>
+                <r3d:repositoryURL>https://catalogue-saintjohn.opendata.arcgis.com/</r3d:repositoryURL>
+                <r3d:description language="eng">Find open data for the City of Saint John via their Open Data catalogue.</r3d:description>
+                    <r3d:repositoryContact>service@saintjohn.ca</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://saintjohn.ca/en/saint-john-new-brunswick</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>administration</r3d:keyword>
+                    <r3d:keyword>air photos</r3d:keyword>
+                    <r3d:keyword>development</r3d:keyword>
+                    <r3d:keyword>environment</r3d:keyword>
+                    <r3d:keyword>historic maps</r3d:keyword>
+                    <r3d:keyword>parks</r3d:keyword>
+                    <r3d:keyword>recreation</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                    <r3d:keyword>topography</r3d:keyword>
+                    <r3d:keyword>transportation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">City of Saint John</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.saintjohn.ca/en/home/default.aspx</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>service@saintjohn.ca</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Open Data Policy Guidelines</r3d:policyName>
+                <r3d:policyURL>https://sunlightfoundation.com/opendataguidelines/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Open Government Licence - Canada</r3d:policyName>
+                <r3d:policyURL>https://open.canada.ca/en/open-government-licence-canada</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://open.canada.ca/en/open-government-licence-canada</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2019-03-09</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

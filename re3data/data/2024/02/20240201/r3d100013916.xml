@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013916</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Jean Paul – Sämtliche Briefe digital</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.jeanpaul-edition.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>https://doi.org/10.5281/zenodo.4155301</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The digital edition provides the complete correspondence of the German author Jean Paul (1763-1825) as well as some letters from contemporaries from his circle.</r3d:description>
+                    <r3d:repositoryContact>neuber@bbaw.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-07-13">6.682 documents</r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">105 Literary Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10502 Modern German Literature</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10504 General and Comparative Literature and Cultural Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.jeanpaul-edition.de/intro.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>correspondence</r3d:keyword>
+                    <r3d:keyword>digital edition</r3d:keyword>
+                    <r3d:keyword>romanticism</r3d:keyword>
+                    <r3d:keyword>scholarly edition</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Berlin-Brandenburg Academy of Sciences and Humanities</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BBAW</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Berlin-Brandenburgische Akademie der Wissenschaften</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bbaw.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05jgq9443</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bbaw.de/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.jeanpaul-edition.de/daten.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://www.jeanpaul-edition.de/correspSearch/jeanpaul-an_CMIF.xml</r3d:api>
+                    <r3d:api apiType="other">https://www.jeanpaul-edition.de/correspSearch/jeanpaul-von_CMIF.xml</r3d:api>
+                    <r3d:api apiType="other">https://www.jeanpaul-edition.de/modules/api/beacon.xql</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-07-13</r3d:entryDate>
+        <r3d:lastUpdate>2022-07-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

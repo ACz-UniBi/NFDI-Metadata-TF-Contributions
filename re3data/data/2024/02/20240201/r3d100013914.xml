@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013914</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Canadian Integrated Ocean Observing System Data Catalogue</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CIOOS Data Catalogue</r3d:additionalName>
+                    <r3d:additionalName language="fra">Catalogue de données du SIOOC</r3d:additionalName>
+                    <r3d:additionalName language="fra">Catalogue de données du Système Intégré d&#039;Observation des Oceans du Canada</r3d:additionalName>
+                <r3d:repositoryURL>https://catalogue.cioos.ca/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>https://fairsharing.org/3260</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Canadian Integrated Ocean Observing System (CIOOS) Data Catalogue is an online open-access data catalogue designed for sharing reliable and high-quality.
+CIOOS is a collaboration between institutional, governmental, and non-governmental partners located in the Pacific, the St. Lawrence, and the Atlantic. These Regional Associations (RAs) work closely with local organizations to meet end-user needs and develop place-based solutions for a diverse country.</r3d:description>
+                    <r3d:repositoryContact>info@cioos.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-07-12">1.564 datasets</r3d:size>
+        <r3d:startDate>2018</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://catalogue.cioos.ca/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>coral</r3d:keyword>
+                    <r3d:keyword>essential ocean variable (EOV)</r3d:keyword>
+                    <r3d:keyword>fish</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>microbe</r3d:keyword>
+                    <r3d:keyword>sea weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Integrated Ocean Observing System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIOOS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">SIOOC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Système Intégré d&#039;Observation des Oceans du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cioos.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>FAQ</r3d:policyName>
+                <r3d:policyURL>https://cioos.ca/faq/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://novascotia.ca/opendata/licence.asp</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://open.canada.ca/en/open-government-licence-canada</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Regional associations: Pacific Regional Association, St.Lawrence Regional Association, Atlantic Regional Association
+CIOOS founders: https://cioos.ca/founders/</r3d:remarks>
+        <r3d:entryDate>2022-07-12</r3d:entryDate>
+        <r3d:lastUpdate>2022-07-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

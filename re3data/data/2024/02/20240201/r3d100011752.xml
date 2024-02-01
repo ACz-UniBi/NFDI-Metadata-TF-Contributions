@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011752</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">European Soil Data Centre</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ESDAC</r3d:additionalName>
+                    <r3d:additionalName language="eng">European Soil Data Centre Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://esdac.jrc.ec.europa.eu/</r3d:repositoryURL>
+                <r3d:description language="eng">The European Soil Data Centre (ESDAC) is the thematic centre for soil related data in Europe. Its ambition is to be the single reference point for and to host all relevant soil data and information at European level. It contains a number of resources that are organized and presented in various ways: datasets, services/applications, maps, documents, events, projects and external links.</r3d:description>
+                    <r3d:repositoryContact>ec-esdac@ec.europa.eu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20701 Soil Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ESDB</r3d:keyword>
+                    <r3d:keyword>European Soil Database</r3d:keyword>
+                    <r3d:keyword>LUCAS</r3d:keyword>
+                    <r3d:keyword>SPADE</r3d:keyword>
+                    <r3d:keyword>compaction</r3d:keyword>
+                    <r3d:keyword>contaminated Sites</r3d:keyword>
+                    <r3d:keyword>erosion</r3d:keyword>
+                    <r3d:keyword>landslides</r3d:keyword>
+                    <r3d:keyword>salinization</r3d:keyword>
+                    <r3d:keyword>soil biodiversity</r3d:keyword>
+                    <r3d:keyword>soil organic carmvon</r3d:keyword>
+                    <r3d:keyword>soil sealing</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Joint Research Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EC, JRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/jrc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02qezmz13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ec.europa.eu/jrc/en/contact/form</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>disclaimer, copyright notice</r3d:policyName>
+                <r3d:policyURL>https://ec.europa.eu/info/legal-notice_en</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ec.europa.eu/info/legal-notice_en#copyright-notice</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The activities of ESDAC are institutional and are planned and executed under the JRC Work Programme.</r3d:remarks>
+        <r3d:entryDate>2016-04-27</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

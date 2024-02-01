@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010539</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ChEMBL</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/chembl/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.m3jtpg</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_02731</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_014042</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ChEMBL is a database of bioactive drug-like small molecules, it contains 2-D structures, calculated properties (e.g. logP, Molecular Weight, Lipinski Parameters, etc.) and abstracted bioactivities (e.g. binding constants, pharmacology and ADMET data).
+The data is abstracted and curated from the primary scientific literature, and cover a significant fraction of the SAR and discovery of modern drugs
+We attempt to normalise the bioactivities into a uniform set of end-points and units where possible, and also to tag the links between a molecular target and a published assay with a set of varying confidence levels. Additional data on clinical progress of compounds is being integrated into ChEMBL at the current time.</r3d:description>
+                    <r3d:repositoryContact>chembl-help@ebi.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-26">215 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.ebi.ac.uk/services</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>basic research</r3d:keyword>
+                    <r3d:keyword>life science experiments</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_72386</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>chembl-help@ebi.ac.uk</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Research Councils UK, Biotechnology and Biological Sciences Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BBSRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bbsrc.ukri.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cwqg982</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011118</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005015</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">US Department of Health and Human Services, National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HHS, NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011417</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005116</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust Sanger Institute</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sanger.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05cy4wa09</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011784</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_91258</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/chembl/</r3d:api>
+                    <r3d:api apiType="REST">https://chembl.gitbook.io/chembl-interface-documentation/web-services/chembl-data-web-services</r3d:api>
+                    <r3d:api apiType="SPARQL">https://www.ebi.ac.uk/rdf/services/sparql</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ebi.ac.uk/chembl/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.embl.org/rss/embl_news.xml</r3d:syndication>
+                <r3d:remarks>ChEMBL is a service of EMBL-EBI. 
+As part of the European Molecular Biology Laboratory (EMBL), the largest part of our funding comes from the governments of EMBL’s member states. The global importance of our work is reflected in the fact that we also attract significant funds from external sources, including some beyond Europe.</r3d:remarks>
+        <r3d:entryDate>2013-11-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

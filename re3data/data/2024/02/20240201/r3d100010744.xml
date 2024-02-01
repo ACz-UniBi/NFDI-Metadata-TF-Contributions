@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010744</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Animal QTLdb</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Animal Quantitative Trait Loci</r3d:additionalName>
+                <r3d:repositoryURL>https://www.animalgenome.org/cgi-bin/QTLdb/index</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.HO0DyR</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_04527</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_001748</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-02550</r3d:repositoryIdentifier>
+                <r3d:description language="eng">This Animal Quantitative Trait Loci (QTL) database (Animal QTLdb) is designed to house all publicly available QTL and trait mapping data (i.e. trait and genome location association data; collectively called &quot;QTL data&quot; on this site) on livestock animal species for easily locating and making comparisons within and between species. New database tools are continuely added to align the QTL and association data to other types of genome information, such as annotated genes, RH / SNP markers, and human genome maps. Besides the QTL data from species listed below, the QTLdb is open to house QTL/association date from other animal species where feasible. Note that the JAS along with other journals, now require that new QTL/association data be entered into a QTL database as part of their publication requirements.</r3d:description>
+                    <r3d:repositoryContact>https://www.animalgenome.org/bioinfo/community/team</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.animalgenome.org/helpdesk/?subj=</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-10-17">278.738 QTLs; 2.135 traits; 7 species; 2.725 publications</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.animalgenome.org/bioinfo/community/mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA sequence</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>cattle</r3d:keyword>
+                    <r3d:keyword>chicken</r3d:keyword>
+                    <r3d:keyword>chromosome</r3d:keyword>
+                    <r3d:keyword>comparative genomics</r3d:keyword>
+                    <r3d:keyword>gene association information</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>permuation</r3d:keyword>
+                    <r3d:keyword>pig</r3d:keyword>
+                    <r3d:keyword>rainbow trout</r3d:keyword>
+                    <r3d:keyword>sheep</r3d:keyword>
+                    <r3d:keyword>single-nucleotide polymorphism</r3d:keyword>
+                    <r3d:keyword>structural genomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Huazhong Agriculture University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="zho">华中农业大学</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hzau.edu.cn/en/HOME.htm</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:023b72294</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Iowa State University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iastate.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04rswrd78</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000972</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_75450</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.animalgenome.org/bioinfo/community/team</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Animal Genome Research Program, Bioinformatics Coordination Program</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NAGRP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">USDA NRSP-8 Program</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.animalgenome.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_006564</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_149170</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Department of Agriculture, National Institute of Food and Agriculture</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USDA - NIFA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nifa.usda.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05qx3fv49</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://nifa.usda.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Computer User Account Policies</r3d:policyName>
+                <r3d:policyURL>https://www.animalgenome.org/bioinfo/resources/computers/account_policy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.animalgenome.org/QTLdb/app</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.animalgenome.org/QTLdb/API/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.animalgenome.org/QTLdb/faq/#12</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Animal QTLdb is covered by Thomson Reuters Data Citation Index. The current Animal QTL Database development is a project led by a team at the Iowa State University, initially under the NAGRP Pig Genome Program and currently under the NAGRP Bioinformatics Coordination Program since 2003. 
+A mirror site is kindly hosted by Huazhong Agriculture University: https://www.cn.animalgenome.org/cgi-bin/QTLdb/index</r3d:remarks>
+        <r3d:entryDate>2013-11-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

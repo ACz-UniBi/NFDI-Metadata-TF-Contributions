@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010255</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Inter-university Consortium for Political and Social Research</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ICPSR data archive</r3d:additionalName>
+                <r3d:repositoryURL>https://www.icpsr.umich.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.y0df7m</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003194</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00615</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ICPSR maintains a data archive of more than 250,000 files of research in the social and behavioral sciences. It hosts 21 specialized collections of data in education, aging, criminal justice, substance abuse, terrorism, and other fields.
+ICPSR advances and expands social and behavioral research, acting as a global leader in data stewardship and providing rich data resources and responsive educational opportunities for present and future generations.</r3d:description>
+                    <r3d:repositoryContact>ICPSR-help@umich.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.icpsr.umich.edu/web/pages/about/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2019-08-28">17.302 studies; 6,015,302 variables; 103,236 publications</r3d:size>
+        <r3d:startDate>1962</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">110 Psychology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">113 Jurisprudence</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11305 Criminology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.icpsr.umich.edu/icpsrweb/content/membership/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>aging</r3d:keyword>
+                    <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>criminal justice</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>engineering</r3d:keyword>
+                    <r3d:keyword>geography</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>icpsr</r3d:keyword>
+                    <r3d:keyword>inter-university consortium for political and social research</r3d:keyword>
+                    <r3d:keyword>legal systems</r3d:keyword>
+                    <r3d:keyword>nacjd</r3d:keyword>
+                    <r3d:keyword>organizational behavior</r3d:keyword>
+                    <r3d:keyword>political science</r3d:keyword>
+                    <r3d:keyword>politics</r3d:keyword>
+                    <r3d:keyword>social science</r3d:keyword>
+                    <r3d:keyword>substance abuse</r3d:keyword>
+                    <r3d:keyword>terrorism</r3d:keyword>
+                    <r3d:keyword>university of michigan</r3d:keyword>
+                    <r3d:keyword>urban studies</r3d:keyword>
+                    <r3d:keyword>voting behavior</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">List of Member institutions of ICPSR</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.icpsr.umich.edu/icpsrweb/membership/administration/institutions</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, Institute for Social Research, Inter-University Consortium for Political and Social Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICPSR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.icpsr.umich.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02q7mkh03</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.icpsr.umich.edu/icpsrweb/content/about/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSealAssessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/08/Inter-university-Consortium-for-Political-and-Social-Research.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ICPSR Collection Development Policy</r3d:policyName>
+                <r3d:policyURL>https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/policies/colldev.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.icpsr.umich.edu/icpsrweb/content/shared/ICPSR/faqs/terms-of-use.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.icpsr.umich.edu/files/ICPSR/access/restricted/all.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/lifecycle/details.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.icpsr.umich.edu/icpsrweb/content/shared/ICPSR/faqs/terms-of-use.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Start Deposit</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.icpsr.umich.edu/icpsrweb/deposit/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/citations.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>ICPSR is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. ICPSR is an international, membership-based consortium of more than 700 academic institutions and research organizations; ICPSR provides leadership and training in data access, curation, and methods of analysis for the social science research community.In fiscal year 2012, ICPSR secured $10 million in grants and contracts through federal agencies, foundations, and the private sector. ICPSR is also a subcontractor on grants through outside universities and organizations.</r3d:remarks>
+        <r3d:entryDate>2013-04-23</r3d:entryDate>
+        <r3d:lastUpdate>2022-08-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

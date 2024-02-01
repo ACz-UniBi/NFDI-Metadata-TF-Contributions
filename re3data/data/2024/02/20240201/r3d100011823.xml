@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011823</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Dallas Heart Study</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DHS</r3d:additionalName>
+                    <r3d:additionalName language="eng">DHS cohort</r3d:additionalName>
+                <r3d:repositoryURL>https://www.utsouthwestern.edu/research/translational-medicine/doing-research/dallas-heart/</r3d:repositoryURL>
+                <r3d:description language="eng">The Dallas Heart Study (DHS) is a multi-ethnic, population-based probability sample of Dallas County designed to define the social and the biological variables contributingto ethnic differences in cardiovascular health at the community level and to support hypothesis-driven research aimed at determining the underlying mechanisms contributing to differences in cardiovascular risk. The initial data collection from the population was performed in three sequential stages over a two year period(2000-2002) and included the collection of detailed socioeconomic, biomarker and imaging data from each participant. The underlying assumption of the study is that successful identification of new risk factors for cardiovascular disease will require the availability of an exquisitely phenotyped, multiethnic population in close proximity to the Center.</r3d:description>
+                    <r3d:repositoryContact>dallasheartstudy@utsouthwestern.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20512 Cardiology, Angiology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.utsouthwestern.edu/edumedia/edufiles/research/center_translational_medicine/dallas_heart_study/dhs-study-overview.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DXA</r3d:keyword>
+                    <r3d:keyword>Dallas county</r3d:keyword>
+                    <r3d:keyword>EKG</r3d:keyword>
+                    <r3d:keyword>MDCT</r3d:keyword>
+                    <r3d:keyword>MRI</r3d:keyword>
+                    <r3d:keyword>accelerometer placement</r3d:keyword>
+                    <r3d:keyword>acoustic cardiogram</r3d:keyword>
+                    <r3d:keyword>ankle-brachial index</r3d:keyword>
+                    <r3d:keyword>anthropometrics</r3d:keyword>
+                    <r3d:keyword>blood collection</r3d:keyword>
+                    <r3d:keyword>blood pressure</r3d:keyword>
+                    <r3d:keyword>cognitive screening test</r3d:keyword>
+                    <r3d:keyword>medications</r3d:keyword>
+                    <r3d:keyword>urine collection</r3d:keyword>
+                    <r3d:keyword>walk test</r3d:keyword>
+                    <r3d:keyword>weight</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Donald W. Reynolds Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://philanthropynewsdigest.org/news/donald-w.-reynolds-foundation-prepares-to-close-its-doors</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2017</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UT Southwestern, Medical Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Donald W. Reynolds Cardiovascular Clinical Research Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.utsouthwestern.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.utsouthwestern.edu/about-us/contact-us.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Research Ethics</r3d:policyName>
+                <r3d:policyURL>https://www.utsouthwestern.edu/research/translational-medicine/doing-research/berd/research-ethics.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>THE DALLAS HEART STUDY</r3d:policyName>
+                <r3d:policyURL>https://www.utsouthwestern.edu/edumedia/edufiles/research/center_translational_medicine/dallas_heart_study/dhs-study-overview.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.utsouthwestern.edu/research/translational-medicine/doing-research/dallas-heart/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.utsouthwestern.edu/research/translational-medicine/about/citing-support.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>DHS is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2016-03-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

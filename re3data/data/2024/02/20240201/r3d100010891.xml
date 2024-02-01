@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010891</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Rhea</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.rhea-db.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.pn1sr5</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000082</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_06093</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_70986</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Rhea is a freely available and comprehensive resource of expert-curated biochemical reactions. It has been designed to provide a non-redundant set of chemical transformations for applications such as the functional annotation of enzymes, pathway inference and metabolic network reconstruction. There are three types of reaction participants (reactants and products): Small molecules,  Rhea polymers, Generic compounds.
+All three types of reaction participants are linked to the ChEBI database (Chemical Entities of Biological Interest) which provides detailed information about structure, formula and charge. Rhea provides built-in validations that ensure both mass and charge balance of the reactions. We have populated the database with the reactions found in the enzyme classification (i.e. in the IntEnz and ENZYME databases), extending it with additional known reactions of biological interest. While the main focus of Rhea is enzyme-catalysed reactions, other biochemical reactions (including those that are often termed &quot;spontaneous&quot;) also are included.</r3d:description>
+                    <r3d:repositoryContact>https://www.rhea-db.org/feedback</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-10">16.112 reactions with 13.402 unique compounds from 17.608 unique references</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.rhea-db.org/help/what-is-rhea</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Bioinformatics</r3d:keyword>
+                    <r3d:keyword>Chemical reactions</r3d:keyword>
+                    <r3d:keyword>Enzymes - Analysis</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/research-and-innovation_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k4n6c32</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011211</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swiss Institute of Bioinformatics,  Swiss-Prot Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SIB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://web.expasy.org/groups/swissprot/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Reaction curation</r3d:policyName>
+                <r3d:policyURL>https://www.rhea-db.org/help/reaction-curation</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Rhea user guide</r3d:policyName>
+                <r3d:policyURL>https://www.rhea-db.org/help</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Apache License 2.0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://sourceforge.net/directory/windows/?license=apache2</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.rhea-db.org/help/license-disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Rhea at sourceforge</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://sourceforge.net/projects/rhea-ebi/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://ftp.expasy.org/databases/rhea/</r3d:api>
+                    <r3d:api apiType="REST">https://www.rhea-db.org/help/rest-api</r3d:api>
+                    <r3d:api apiType="SPARQL">https://sparql.rhea-db.org/sparql</r3d:api>
+                        <r3d:citationGuidelineURL>https://www.rhea-db.org/help/publications</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The database is extensively cross-referenced. The ChEBI index is used to resolve any synonyms or cross references. Reactions are currently linked to the EC list, KEGG and MetaCyc, and the reactions will be used in the IntEnz database and in all relevant UniProtKB entries. Furthermore, the reactions will also be used in the UniPathway database to generate pathways and metabolic networks.</r3d:remarks>
+        <r3d:entryDate>2014-05-19</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

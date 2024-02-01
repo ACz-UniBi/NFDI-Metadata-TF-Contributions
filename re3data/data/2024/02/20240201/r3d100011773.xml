@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011773</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Remote Sensing Systems</r3d:repositoryName>
+                    <r3d:additionalName language="eng">RSS</r3d:additionalName>
+                <r3d:repositoryURL>https://www.remss.com/</r3d:repositoryURL>
+                <r3d:description language="eng">Remote Sensing Systems is a world leader in processing and analyzing microwave data from satellite microwave sensors.  We specialize in algorithm development, instrument calibration, ocean product development, and product validation.  We have worked with more than 30 satellite microwave radiometer, sounder, and scatterometer instruments over the past 40 years. Currently, we operationally produce satellite retrievals for SSMIS, AMSR2, WindSat, and ASCAT. The geophysical retrievals obtained from these sensors are made available in near-real-time (NRT) to the global scientific community and general public via FTP and this web site.</r3d:description>
+                    <r3d:repositoryContact>https://www.remss.com/about/contact/</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@remss.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1974</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.remss.com/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>earth</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>measurements</r3d:keyword>
+                    <r3d:keyword>microwave data</r3d:keyword>
+                    <r3d:keyword>near-real-time (NRT) data</r3d:keyword>
+                    <r3d:keyword>satellite</r3d:keyword>
+                    <r3d:keyword>satellite microwave remote sensing</r3d:keyword>
+                    <r3d:keyword>satellite microwave sensors</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/about/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Oceanic and Atmospheric Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02z5nhe81</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011426</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156904</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.noaa.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://beta.nsf.gov/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Remote Sensing Systems</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RSS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.remss.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01vp8h012</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1974</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.remss.com/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.remss.com/support/terms-of-use/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.remss.com/support/terms-of-use/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://www.remss.com/support/data-shortcut/</r3d:api>
+                    <r3d:api apiType="NetCDF">https://www.remss.com/support/quick-start/#RSS-data-formats</r3d:api>
+                    <r3d:api apiType="other">https://www.remss.com/support/quick-start/#RSS-data-formats</r3d:api>
+                        <r3d:citationGuidelineURL>https://www.remss.com/support/terms-of-use/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Our research is supported by NASA, NOAA, and the NSF, with many of our researchers participating in NASA science research teams and working groups, collaborating with other fore-front industry leaders and the scientific community.</r3d:remarks>
+        <r3d:entryDate>2016-02-24</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

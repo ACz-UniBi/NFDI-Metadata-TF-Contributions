@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014127</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BIH / Charité Virtual Research Environment</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BIH / VRE</r3d:additionalName>
+                    <r3d:additionalName language="eng">Berlin Institute of Health / Charité Virtual Research Environment</r3d:additionalName>
+                <r3d:repositoryURL>https://www.bihealth.org/en/translation/network/digital-medicine/bihcharite-virtual-research-environment</r3d:repositoryURL>
+                <r3d:description language="eng">The Virtual Research Environment (VRE) is an open-source data management platform that enables medical researchers to store, process and share data in compliance with the European Union (EU) General Data Protection Regulation (GDPR). The VRE addresses the present lack of digital research data infrastructures fulfilling the need for (a) data protection for sensitive data, (b) capability to process complex data such as radiologic imaging, (c) flexibility for creating own processing workflows, (d) access to high performance computing. The platform promotes FAIR data principles and reduces barriers to biomedical research and innovation. The VRE offers a web portal with graphical and command-line interfaces, segregated data zones and organizational measures for lawful data onboarding, isolated computing environments where large teams can collaboratively process sensitive data privately, analytics workbench tools for processing, analyzing, and visualizing large datasets, automated ingestion of hospital data sources, project-specific data warehouses for structured storage and retrieval, graph databases to capture and query ontology-based metadata, provenance tracking, version control, and support for automated data extraction and indexing. The VRE is based on a modular and extendable state-of-the art cloud computing framework, a RESTful API, open developer meetings, hackathons, and comprehensive documentation for users, developers, and administrators. The VRE with its concerted technical and organizational measures can be adopted by other research communities and thus facilitates the development of a co-evolving interoperable platform ecosystem with an active research community.</r3d:description>
+                    <r3d:repositoryContact>vre-support@charite.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2020-10-26</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.bihealth.org/en/translation/network/digital-medicine/bihcharite-virtual-research-environment/virtual-research-environment-architecture</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>HDP</r3d:keyword>
+                    <r3d:keyword>Health Data Platform</r3d:keyword>
+                    <r3d:keyword>Jupyter workbench</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Berlin Institute of Health at Charité</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Berliner Institut für Gesundheitsforschung in der Charité</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bihealth.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0493xsw21</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bihealth.org/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Berlin Institute of Health at Charité, Translation Hub Digital Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIH Translation Hub Digital Medicine</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">BIH, Translation Hub Digitale Medizin</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bihealth.org/en/translation/network/digital-medicine</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Berlin.de</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.berlin.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.berlin.de/wir-ueber-uns/kontakt/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Charité, Business Division IT</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.charite.de/en/charite/organisation/business_divisions/administrative_unit_it/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry of Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/en/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Indoc</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.indocresearch.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.indocresearch.org/contactus</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Stiftung Charité</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.stiftung-charite.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.stiftung-charite.de/en/translate-to-englisch-kontakt</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://gdpr-info.eu/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2023-01-30</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

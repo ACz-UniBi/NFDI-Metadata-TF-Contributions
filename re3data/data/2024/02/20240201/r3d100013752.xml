@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013752</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Materials Corrosion and Protection Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="zho">国家材料腐蚀与防护科学数据中心</r3d:additionalName>
+                <r3d:repositoryURL>https://www.corrdata.org.cn/index_en.php</r3d:repositoryURL>
+                <r3d:description language="eng">National Materials Corrosion and Protection Scientific Data Center, the competent department is the Ministry of Education, the supporting unit is the University of Science and Technology Beijing, is a long-standing base for material environmental corrosion data accumulation and experimental research, an authoritative institution for material corrosion testing, testing and analysis, as well as a platform for basic scientific research and personnel training in material corrosion. At present, the integration of the completion of the national materials corrosion and protection experimental research base composed of 32 national test stations and materials corrosion platform center, the construction of the national materials corrosion and environmental data science center, the center fully use of modern information technology, effective integration of scientific and technological resources, for scientific research, technology research and development, enterprise innovation and major engineering construction to provide information technology, network technology support services.</r3d:description>
+                    <r3d:repositoryContact>ecorr@ustb.edu.cn</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.corrdata.org.cn/pages/contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>xiaokui@ustb.edu.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">406 Materials Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.corrdata.org.cn/pages/aboutus.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>atmospheric environmental corrosion</r3d:keyword>
+                    <r3d:keyword>corrosion</r3d:keyword>
+                    <r3d:keyword>ecological corrosion</r3d:keyword>
+                    <r3d:keyword>field trial research</r3d:keyword>
+                    <r3d:keyword>materiat corrosion test</r3d:keyword>
+                    <r3d:keyword>soil corrosion test</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Materials Corrosion and Protection Data Center</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.corrdata.org.cn/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>laws and regulations</r3d:policyName>
+                <r3d:policyURL>https://www.corrdata.org.cn/pages/rules.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.corrdata.org.cn/pages/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-02-16</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

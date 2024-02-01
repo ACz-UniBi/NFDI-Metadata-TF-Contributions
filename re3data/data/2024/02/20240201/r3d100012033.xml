@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012033</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Digital Rocks Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DRP</r3d:additionalName>
+                <r3d:repositoryURL>https://www.digitalrocksportal.org/</r3d:repositoryURL>
+                <r3d:description language="eng">Digital Rocks is a data portal for fast storage and retrieval of images of varied porous micro-structures. It has the purpose of enhancing research resources for modeling/prediction of porous material properties in the fields of Petroleum, Civil and Environmental Engineering as well as Geology.
+This platform allows managing and preserving available images of porous materials and experiments performed on them, and any accompanying measurements (porosity, capillary pressure, permeability, electrical, NMR and elastic properties, etc.) required for both validation on modeling approaches and the upscaling and building of larger (hydro)geological models.
+Starting September 2021 we charge fees for publishing larger projects; projects &lt; 2GB remain free: see user agreement https://www.digitalrocksportal.org/user-agreement/</r3d:description>
+                    <r3d:repositoryContact>masha@utexas.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-12-21">148 projects</r3d:size>
+        <r3d:startDate>2015</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">405 Materials Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">406 Materials Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.digitalrocksportal.org/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>NMR</r3d:keyword>
+                    <r3d:keyword>geology</r3d:keyword>
+                    <r3d:keyword>geosciences</r3d:keyword>
+                    <r3d:keyword>material science</r3d:keyword>
+                    <r3d:keyword>microstructure</r3d:keyword>
+                    <r3d:keyword>petroleum engineering</r3d:keyword>
+                    <r3d:keyword>petroleum engineering</r3d:keyword>
+                    <r3d:keyword>porous material</r3d:keyword>
+                    <r3d:keyword>simulation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Texas  at Austin, Texas Advanced Computing Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TACC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tacc.utexas.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_012530</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SciEx_4326</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.tacc.utexas.edu/education/stem-programs/digital-rocks</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Texas at Austin, Center for Subsurface Energy and the Environment</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CPGE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: University of Texas at Austin, Center for Petroleum and Geosystems Engineering</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://csee.engr.utexas.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://csee.engr.utexas.edu/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>User Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.digitalrocksportal.org/user-agreement/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.digitalrocksportal.org/user-agreement/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/by/1-0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.digitalrocksportal.org/about/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FITS - Flexible Image Transport System</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fits-flexible-image-transport-system</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The DRP is currently funded via federal grant and Users are charged no fees to use it.  Beginning September 1, 2017, Users will be responsible for paying a storage fee of $258 per 1 TB of data per year, and portal maintenance fee according to the following schedule.</r3d:remarks>
+        <r3d:entryDate>2016-06-21</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012345</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SAMD</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Archive for Standardized Atmospheric Measurement Data</r3d:additionalName>
+                    <r3d:additionalName language="eng">Standardized Atmospheric Measurement Data</r3d:additionalName>
+                <r3d:repositoryURL>https://www.cen.uni-hamburg.de/en/icdc/research/samd.html</r3d:repositoryURL>
+                <r3d:description language="eng">SAMD is a repository for Standardized Atmospheric Measurement Data:
+Central Europe is a region with one of the most comprehensive networks for cloud and precipitation observations worldwide. To unify these observations, establish the infrastructure to store it and make it accessible to the research community is the goal of SAMD. SAMD is one result of the project &quot;High Definition of Clouds and Precipitation in advancing Climate Prediction&quot; (HD(CP)²).</r3d:description>
+                    <r3d:repositoryContact>https://www.cen.uni-hamburg.de/en/icdc/research/samd/about-samd/contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>icdc.cen@lists.uni-hamburg.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.cen.uni-hamburg.de/en/icdc/research/samd/about-samd.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Observational Data Archive</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>climate model</r3d:keyword>
+                    <r3d:keyword>long-term observation</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry of Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/en/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Federal Ministry of Education and Research, FONA</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung, Forschung für Nachhaltigkeit</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Education and Research, Research for Sustainable Development</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fona.de/en/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.fona.de/en/contact.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Cologne, Regional Computing Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">RRZK</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität zu Köln, Regionales Rechenzentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://rrzk.uni-koeln.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Universität Hamburg, Center for Earth System Research and Sustainability, Integrated Climate Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">CEN, ICDC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Hamburg, Centrum für Erdsystemforschung und Nachhaltigkeit, ICDC Datenzentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cen.uni-hamburg.de/en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access</r3d:policyName>
+                <r3d:policyURL>https://www.cen.uni-hamburg.de/en/icdc/service/data-center-structure/access.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data policy</r3d:policyName>
+                <r3d:policyURL>https://www.cen.uni-hamburg.de/en/icdc/research/samd/about-samd/samd-data-policy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SAMD-Datenrichtlinie</r3d:policyName>
+                <r3d:policyURL>https://www.cen.uni-hamburg.de/icdc/research/samd/about-samd/samd-data-policy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.cen.uni-hamburg.de/en/icdc/research/samd/about-samd/samd-data-policy.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://www.cen.uni-hamburg.de/en/icdc/research/docs-research/samd-product-standard-v2-0.pdf</r3d:api>
+                    <r3d:api apiType="OpenDAP">https://icdc.cen.uni-hamburg.de/thredds/catalog/ftpthredds/samd/catalog.html</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>SAMD is one result of the project &quot;High Definition of Clouds and Precipitation in advancing Climate Prediction&quot; (HD(CP)². The data, provided by the web portal are in NetCDF format, quality checked, and have standardized names, variables and meta data.
+SAMD is open to other projects on the precondition that the data format is following the SAMD data standard and the data policy.</r3d:remarks>
+        <r3d:entryDate>2017-04-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-08-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

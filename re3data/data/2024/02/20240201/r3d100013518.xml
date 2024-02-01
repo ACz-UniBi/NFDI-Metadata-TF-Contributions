@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013518</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Social Sciences and Digital Humanities Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SODHA</r3d:additionalName>
+                <r3d:repositoryURL>https://www.sodha.be/</r3d:repositoryURL>
+                <r3d:description language="eng">SODHA is the federal Belgian data archive for social sciences and the digital humanities. SODHA is a new service of the State Archives of Belgium and acts as the Belgian service provider for the Consortium of European Social Science Data Archives (CESSDA).</r3d:description>
+                    <r3d:repositoryContact>benjamin.peuch@arch.be</r3d:repositoryContact>
+                    <r3d:repositoryContact>johan.vandereycken@arch.be</r3d:repositoryContact>
+                    <r3d:repositoryContact>oliver.lenaerts@arch.be</r3d:repositoryContact>
+                    <r3d:repositoryContact>sodha@arch.be</r3d:repositoryContact>
+                    <r3d:repositoryContact>youssef.ouahalou@arch.be</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-09-23">3 dataverses; 84 datasets; 1.267 files</r3d:size>
+        <r3d:startDate>2021-03-05</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.sodha.be/guide/Texts_and_policies.html#MissionStatement</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Belgian Federal Science Policy Office</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BELSPO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.belspo.be/belspo/index_en.stm</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01fapfv42</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">State Archives of Belgium</r3d:institutionName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.arch.be/index.php?l=en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ISNI:0000 0000 9643 1219</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>LCCN:n79106149</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>ROR:04y1ast97</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>VIAF:17145244330574480225</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>WorldCat Identities:lccn-n79106149</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>SODHA Access and Reuse Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sodha.be/guide/pdf/SODHA_Access_and_Reuse_Policy_EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SODHA Dataset Publishing Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sodha.be/guide/pdf/SODHA_Dataset_Publishing_Policy_EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SODHA Dataset Version Management Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sodha.be/guide/pdf/SODHA_Dataset_Version_Management_Policy_EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SODHA Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sodha.be/guide/pdf/SODHA_Privacy_Policy_EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SODHA Terms  of  Service</r3d:policyName>
+                <r3d:policyURL>https://www.sodha.be/guide/pdf/SODHA_Terms_of_Service_EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.sodha.be/guide/pdf/License_Attribution_Scientific_Purpose_Only_EN.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>SODHA Deposit Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.sodha.be/guide/pdf/SODHA_Deposit_Agreement_EN.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.sodha.be/guide/pdf/SODHA_Terms_of_Service_EN.pdf</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>SODHA was built with the help of DEMO (UCLouvain) https://uclouvain.be/fr/instituts-recherche/iacchos/demo and Interface Demography (VUB) https://interfacedemography.be/</r3d:remarks>
+        <r3d:entryDate>2021-03-03</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

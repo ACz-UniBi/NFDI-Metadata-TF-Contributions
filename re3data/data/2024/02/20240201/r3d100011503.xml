@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011503</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Global Genome Biodiversity Network</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DNA Bank Network (formerly)</r3d:additionalName>
+                    <r3d:additionalName language="eng">GGBN</r3d:additionalName>
+                <r3d:repositoryURL>https://data.ggbn.org/ggbn_portal/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_19241</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The DNA Bank Network was established in spring 2007 and was funded until 2011 by the German Research Foundation (DFG). The network was initiated by GBIF Germany (Global Biodiversity Information Facility). It offers a worldwide unique concept. DNA bank databases of all partners are linked and are accessible via a central web portal, providing DNA samples of complementary collections (microorganisms, protists, plants, algae, fungi and animals).
+The DNA Bank Network was one of the founders of the Global Genome Biodiversity Network (GGBN) and is fully merged with GGBN today. GGBN agreed on using the data model proposed by the DNA Bank Network. The Botanic Garden and Botanical Museum Berlin-Dahlem (BGBM) hosts the technical secretariat of GGBN and its virtual infrastructure. 
+The main focus of the DNA Bank Network is to enhance taxonomic, systematic, genetic, conservation and evolutionary studies by providing:
+• high quality, long-term storage of DNA material on which molecular studies have been performed, so that results can be verified, extended, and complemented,
+• complete on-line documentation of each sample, including the provenance of the original material, the place of voucher deposit, information about DNA quality and extraction methodology, digital images of vouchers and links to published molecular data if available.</r3d:description>
+                    <r3d:repositoryContact>https://wiki.ggbn.org/ggbn/Contact_Us</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@ggbn.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2023-11-29">6.598.254 records</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://wiki.ggbn.org/ggbn/About_GGBN</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>biodiversity tissue</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>samples</r3d:keyword>
+                    <r3d:keyword>systematic studies</r3d:keyword>
+                    <r3d:keyword>taxonomic studies</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeineschaft, Wissenschaftliche Literaturversorgungs- und Informationssysteme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG, LIS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Research Foundation, Scientific Library Services and Information Systems</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/en/research_funding/programmes/infrastructure/lis/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dfg.de/en/service/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/en/index.jsp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dfg.de/en/service/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Genome Biodiversity Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GGBN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ggbn.org/ggbn_portal/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wiki.ggbn.org/ggbn/Contact_Us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">SYNTHESYS III</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Synthesis of Systematic Resources</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.synthesys.info/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2017</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>synthesys@nhm.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wiki.ggbn.org/ggbn/Imprint#Copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wiki.ggbn.org/ggbn/Imprint#Urheber-_und_Kennzeichenrecht</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wiki.ggbn.org/ggbn/GGBN_Wiki:Privacy_policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://data.ggbn.org/ggbn_portal/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ABCD - Access to Biological Collection Data</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="ATOM">https://wiki.ggbn.org/ggbnwiki/index.php?title=Imprint&amp;feed=atom&amp;action=history</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-04-28</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010163</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SIMBAD Astronomical Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Set of Identifications, Measurements, and Bibliography for Astronomical Data</r3d:additionalName>
+                <r3d:repositoryURL>https://simbad.u-strasbg.fr/simbad/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rd6gxr</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>ISSN 2417-8667</r3d:repositoryIdentifier>
+                <r3d:description language="eng">SIMBAD astronomical database is the world reference database for the identification of astronomical objects and provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system. Using VizieR, the catalogue service for the CDS reference collection of astronomical catalogues and tables published in academic journals and the Aladin interactive software sky atlas for access, visualization and analysis of astronomical images, surveys, catalogues, databases and related data. Simbad bibliographic survey began in 1950 for stars (at least bright stars) and in 1983 for all other objects (outside the solar system)</r3d:description>
+                    <r3d:repositoryContact>cds-question@unistra.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-18">17.084.798 objects;  62.127.810 identifiers; 430.302 bibliographic references; 38.957.651 citations of objects in papers; 15.401 acronyms described for Simbad</r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://simbad.cds.unistra.fr/guide/simbad.htx</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ICRS system</r3d:keyword>
+                    <r3d:keyword>cross identification</r3d:keyword>
+                    <r3d:keyword>galaxy</r3d:keyword>
+                    <r3d:keyword>magnitude</r3d:keyword>
+                    <r3d:keyword>oberservation</r3d:keyword>
+                    <r3d:keyword>radial velocities</r3d:keyword>
+                    <r3d:keyword>redshifts</r3d:keyword>
+                    <r3d:keyword>spectral type</r3d:keyword>
+                    <r3d:keyword>star</r3d:keyword>
+                    <r3d:keyword>wavelength</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Centre National de la recherche scientifique, Institut national des sciences de l&#039;univers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS INSU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insu.cnrs.fr/fr</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04kdfz702</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1972</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Centre de Données Astronomiques de Strasbourg, Observatoire astronomique de Strasbourg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CDS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Strasbourg Astronomical Data Center, Strasbourg Astronomical Observatory</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cds.u-strasbg.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04xsj2p07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1972</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>cds-question@unistra.fr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université de Strasbourg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University of Strasbourg</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Straßburg</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unistra.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00pg6eq24</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011704</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1972</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Organizational Ethics and Policies</r3d:policyName>
+                <r3d:policyURL>https://aas.org/policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>mentions légales</r3d:policyName>
+                <r3d:policyURL>https://astro.unistra.fr/fr/mentions-legales/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cds.unistra.fr//vizier-org/licences_vizier.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Annotations guidelines</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://cdsannotations.u-strasbg.fr/annotations/doc/guidelines.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="SOAP">http://cds.u-strasbg.fr/resources/doku.php?id=soap</r3d:api>
+                    <r3d:api apiType="other">https://simbad.u-strasbg.fr/guide/sim-url.htx</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://simbad.u-strasbg.fr/simbad/#acklab</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://cdsweb.u-strasbg.fr/news/rss.php?fn_category=3</r3d:syndication>
+                <r3d:remarks>SIMBAD is part of Strasbourg Astronomical Data Center (CDS). CDS is a major actor in the VO with leading roles in European VO projects, the French Virtual Observatory and the International Virtual Observatory Alliance (IVOA). CDS is a member of the World Data System of the International Council for Science ICSU.</r3d:remarks>
+        <r3d:entryDate>2012-12-11</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

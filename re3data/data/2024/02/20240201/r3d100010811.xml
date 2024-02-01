@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010811</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Cultural Policy and the Arts National Data Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CPANDA</r3d:additionalName>
+                <r3d:repositoryURL>http://www.cpanda.org/cpanda/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;
+CPANDA, the Cultural Policy &amp; the Arts National Data Archive, was the world&#039;s first interactive digital archive of policy-relevant data on the arts and cultural policy in the United States. It was founded in 2001. It was a collaborative effort of Princeton University&#039;s Firestone Library and the Princeton Center for Arts and Cultural Policy Studies. The Pew Charitable Trusts underwrote the original development of the archive. The National Endowment for the Arts completed transferring all data content in January 2016. Check at ICPSR https://www.icpsr.umich.edu/web/ICPSR/search/studies?q=cpanda, the National Archive of Data on Arts and Culture (NADAC) https://www.icpsr.umich.edu/web/NADAC/search/studies?q=cpanda.
+The old Cpanda URL http://www.cpanda.princeton.edu/ can be redirected to the zotero bibliography the data was moved to, https://www.zotero.org/bordelon/collections/3Q6Y9R6N. Confirm this is okay with Bobray Bordelon before implementing.</r3d:description>
+                    <r3d:repositoryContact>cpanda@princeton.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate>2016</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>http://www.cpanda.org/cpanda/about/mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>art forms</r3d:keyword>
+                    <r3d:keyword>arts education</r3d:keyword>
+                    <r3d:keyword>cultural policy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Archive of Data on Arts and Culture</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NADAC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.icpsr.umich.edu/icpsrweb/NADAC/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.icpsr.umich.edu/icpsrweb/content/NADAC/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Princeton University&#039;s Firestone Library</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://library.princeton.edu/firestone</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2001</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://library.princeton.edu/ask-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Princeton University, Princeton Center for Arts and Cultural Policy Studies</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.princeton.edu/culturalpolicy/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2001</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>artspol@princeton.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright Policy</r3d:policyName>
+                <r3d:policyURL>http://www.cpanda.org/cpanda/about/policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>End User Agreement</r3d:policyName>
+                <r3d:policyURL>http://www.cpanda.org/cpanda/about/agreement</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://www.cpanda.org/cpanda/about/policies</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.cpanda.org/cpanda/about/agreement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The Pew Charitable Trusts ( http://www.pewtrusts.org) underwrote the original development of the archive. The National Endowment for the Arts ( http://www.arts.gov) will be taking over the content sometime in 2014 and the data will be part of a new publicly accessible archive at ICPSR, the National Archive of Data on Arts and Culture (NADAC). The CPANDA site will remain active until then.</r3d:remarks>
+        <r3d:entryDate>2014-07-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

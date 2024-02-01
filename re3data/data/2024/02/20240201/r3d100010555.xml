@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010555</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Stanford Microarray Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SMD</r3d:additionalName>
+                <r3d:repositoryURL>http://smd.princeton.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.x93ckv</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:OMICS_00870</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004987</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_94141</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; SMD has been retired.
+After approximately fifteen years of microarray-centric research service, the Stanford Microarray Database has been retired. We apologize for any inconvenience; please read below for possible resolutions to your queries.
+If you are looking for any raw data that was directly linked to SMD from a manuscript, please search one of the public repositories.
+    NCBI Gene Expression Omnibus
+    EBI ArrayExpress
+All published data were previously communicated to one (or both) of the public repositories.
+Alternatively, data for publications between 1997 and 2004 were likely migrated to the Princeton University MicroArray Database, and are accessible there.
+If you are looking for a manuscript supplement (i.e. from a domain other than smd.stanford.edu), perhaps try searching the Internet Archive: Wayback Machine https://archive.org/web/ . &gt;&gt;&gt;!!!&lt;&lt;&lt;
+The Stanford Microarray Database (SMD) is a DNA microarray research database that provides a large amount of data for public use.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate>2016-01-18</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>collagen</r3d:keyword>
+                    <r3d:keyword>organism</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Human Genome Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NHGRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.genome.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.genome.gov/contact.cfm</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Stanford University, School of Medicine</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://med.stanford.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://med.stanford.edu/school/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Stanford University, School of Medicine, Departments of Biochemistry and Genetics</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://cmgm.stanford.edu/biochem/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>array@genome.stanford.edu</r3d:institutionContact>
+                                    <r3d:institutionContact>http://cmgm.stanford.edu/biochem/contactSBD.html</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>closed</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/mit-license.php</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://smd.princeton.edu/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>SMD is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2013-12-02</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

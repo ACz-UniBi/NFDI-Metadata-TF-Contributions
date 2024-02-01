@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012867</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EBiSC catalogue</r3d:repositoryName>
+                    <r3d:additionalName language="eng">European Bank for induced pluripotent Stem Cells catalogue</r3d:additionalName>
+                <r3d:repositoryURL>https://cells.ebisc.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The EBiSC Catalogue is a collection of human iPS cells being made available to academic and commercial researchers for use in disease modelling and other forms of preclinical research.
+The initial collection has been generated from a wide range of donors representing specific disease backgrounds and healthy controls. As the collection grows, more isogenic control lines will become available which will add further to the collection’s appeal.</r3d:description>
+                    <r3d:repositoryContact>http://www.ebisc.org/contact/contact-us.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://ebisc.org/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-03-24">949 cell lines</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.ebisc.org/the-ebisc-catalogue/about-the-ebisc-catalogue.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cell lines</r3d:keyword>
+                    <r3d:keyword>hiPSC lines</r3d:keyword>
+                    <r3d:keyword>human iPS cells</r3d:keyword>
+                    <r3d:keyword>human induced pluripotent stem cells</r3d:keyword>
+                    <r3d:keyword>iPSC lines</r3d:keyword>
+                    <r3d:keyword>induced pluripotent stem cells</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Bank for induced pluripotent Stem Cells project</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EBiSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ebisc.org/about/project</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_003856</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158178</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/guidance/archive_en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Innovative Medicines Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imi.europa.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019af4n30</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003754</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_157984</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.imi.europa.eu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebisc.org/legal-notes.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Cell Line Registration Quick-Start Guide</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://hpscreg.eu/docs/downloads/QuickStartGuideCellLineRegistration.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>EBiSC is a not-for-profit iPSC banking initiative to store and distribute iPSC lines.  If you chose to register your lines in EBiSC, they will also automatically be registered in human Pluripotent Stem Cell registry (hPSCreg) https://hpscreg.eu/
+A mirror bank holding a smaller quantity of each cell line is held at the Fraunhofer Institute for Biomedical Engineering (IBMT) in Sulzbach, Germany.</r3d:remarks>
+        <r3d:entryDate>2018-09-17</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010703</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UCLA Dataverse</r3d:repositoryName>
+                <r3d:repositoryURL>https://dataverse.ucla.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">UCLA Library is adopting Dataverse, the open source web application designed for sharing, preserving and using research data. UCLA Dataverse will allow data, text, software, scripts, data visualizations, etc., created from research projects at UCLA to be made publicly available, widely discoverable, linkable, and ultimately, reusable</r3d:description>
+                    <r3d:repositoryContact>https://www.library.ucla.edu/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-07-22">52 dataverses; 1.229 datasets; 13.925 files</r3d:size>
+        <r3d:startDate>1977</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.library.ucla.edu/ucla-dataverse</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>census data</r3d:keyword>
+                    <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>geography</r3d:keyword>
+                    <r3d:keyword>historical trends</r3d:keyword>
+                    <r3d:keyword>microdata</r3d:keyword>
+                    <r3d:keyword>politics</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Dataverse Project</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dataverse.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>support@dataverse.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard University, Institute for Quantitave Social Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IQSS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iq.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">ICPSR</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Inter-university Consortium for Political and Social Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.icpsr.umich.edu/web/pages/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02q7mkh03</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>jamison@library.ucla.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Roper Center for Public Opinion Research</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ropercenter.cornell.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ropercenter.cornell.edu/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California, Los Angeles Library</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCLA Library</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.library.ucla.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.library.ucla.edu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Collection and Archiving policies</r3d:policyName>
+                <r3d:policyURL>https://www.library.ucla.edu/social-science-data-archive/about-data-archive/archive-collection-archiving-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Harvard Dataverse General Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://support.dataverse.harvard.edu/harvard-dataverse-general-terms-use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Harvard Dataverse Repository Policies</r3d:policyName>
+                <r3d:policyURL>https://support.dataverse.harvard.edu/policies</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://policy.ucop.edu/doc/2100007/CopyrightFairUse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.library.ucla.edu/support/publishing-data-management/scholarly-communication-resources-education/ucla-library-copyright-policy/ucla-copyright-policies</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission of Data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.library.ucla.edu/sites/default/files/SSDA_collectionAndArchivingPolicy_1.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://guides.dataverse.org/en/latest/api/native-api.html</r3d:api>
+                    <r3d:api apiType="SWORD">https://guides.dataverse.org/en/latest/api/sword.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Data can be archived or by SSDA itself or by ICPSR or by UCLA Social Science Data Archive Dataverse (http://thedata.harvard.edu/dvn/dv/ssda_ucla) or by UCLA Library or by California Digital Library. Data are primarily acquired through UCLA’s membership in the Inter-university Consortium for Political and Social Research (ICPSR). The Social Science Data Archive (https://www.re3data.org/repository/r3d100011315) is an separate collection.  It was started back in the late 1960s - mainframe days - and continues to be an active, curated collection.  In the early 2000s the SSDA was incorporated into UCLA Library where it continues to specialize in preserving social science data.  Both are part of UCLA Library and managed by the Data Science Center but historically are somewhat independent.</r3d:remarks>
+        <r3d:entryDate>2013-08-15</r3d:entryDate>
+        <r3d:lastUpdate>2022-07-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

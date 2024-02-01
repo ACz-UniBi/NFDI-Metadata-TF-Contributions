@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012413</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UAL Research Online</r3d:repositoryName>
+                    <r3d:additionalName language="eng">University of the Arts London Data Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://ualresearchonline.arts.ac.uk/</r3d:repositoryURL>
+                <r3d:description language="eng">This Repository holds research data for all research projects where there is a need to store and share the supporting research.
+
+According to current Research Data Policy these records will include all data from projects funded by RCUK funders and in particular the AHRC.</r3d:description>
+                    <r3d:repositoryContact>ualresearchonline@arts.ac.uk</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2017-09-14">6 datasets</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://ualresearchonline.arts.ac.uk/information.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Creative Arts</r3d:keyword>
+                    <r3d:keyword>Design</r3d:keyword>
+                    <r3d:keyword>Fashion</r3d:keyword>
+                    <r3d:keyword>Mathematics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of the Arts London</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ual</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.arts.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>researchdata@arts.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Content Policy</r3d:policyName>
+                <r3d:policyURL>https://ualresearchonline.arts.ac.uk/contentpolicy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Metadata Policy</r3d:policyName>
+                <r3d:policyURL>https://ualresearchonline.arts.ac.uk/metapol.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Repository Policies</r3d:policyName>
+                <r3d:policyURL>https://ualresearchonline.arts.ac.uk/policies.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nd/3.0/de/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.arts.ac.uk/students/library-services/customer-services/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://ualresearchdata.myblog.arts.ac.uk/files/2014/07/UAL-Research-Data-Management-Policy-2014.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>UAL Research Data Management Planning Procedure</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.arts.ac.uk/__data/assets/pdf_file/0021/43329/UAL-RDM-Policy-2014-Annex-A.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>EPrints</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-07-20</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

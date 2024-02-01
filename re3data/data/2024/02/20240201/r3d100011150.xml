@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011150</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DARECLIMED</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Cyprus Institute Data Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">Data Repositories and Computational infrastructure for environmental and Climate studies in eastern MEDiterranean</r3d:additionalName>
+                <r3d:repositoryURL>https://www.cyi.ac.cy/index.php/dareclimed-data-repository.html</r3d:repositoryURL>
+                <r3d:description language="eng">DARECLIMED data repository consists of three kind of data: (a) climate, (b) water resources, and (c) energy related data. The first part, climate datasets, will include atmospheric and indirect atmospheric data, proxies and reconstructions, terrestrial and oceanic data. Land use, population, economy and development data will be added as well. Datasets can be handled and analyzed by connecting to the Live Access Server (LAS), which enables to visualize data with on-the-fly graphics, request custom subsets of variables in a choice of file formats, access background reference material about the data (metadata), and compare (difference) variables from distributed locations. Access to server is granted upon request by emailing the data repository manager.</r3d:description>
+                    <r3d:repositoryContact>https://www.cyi.ac.cy/index.php/dareclimed-contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@cyi.ac.cy</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011-01-02</r3d:startDate>
+        <r3d:endDate>2017-07-31</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31701 Physical Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.cyi.ac.cy/index.php/dareclimed-data-repository.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Mediterranean</r3d:keyword>
+                    <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>sustainability</r3d:keyword>
+                    <r3d:keyword>water resources</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service,  FP7</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU, CORDIS, FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/project/rcn/97194/reporting/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Cyprus Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CyI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CYP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cyi.ac.cy/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01q8k8p90</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cyi.ac.cy/index.php/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Sharing data and information in the Eastern Mediterranean and the Middle East Chania</r3d:policyName>
+                <r3d:policyURL>https://www.cyi.ac.cy/index.php/in-focus/the-final-conference-of-the-eu-dareclimed-project-sharing-data-and-information-in-the-eastern-mediterranean-and-the-middle-east-chania,-crete,-greece-july-23-to-25,-2013.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.cyi.ac.cy/images/InFocus/final_conf_eu_dareclimed_july2013_260713/The_Chania_Declaration_25_07_13.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://ferret.pmel.noaa.gov/FERRET_17sep07/LAS/FAQ/ingesting_data.htm</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Datasets can be handled and analyzed by connecting to the Live Access Server (LAS). If you want to access LAS, please contact Dr. Christina Oikonomou, c.oikonomou@cyi.ac.cy . The Live Access Server (LAS) is a highly configurable web server designed to provide flexible access to geo-referenced scientific data.  ---
+Participants: https://www.cyi.ac.cy/index.php/dareclimed-participants.html</r3d:remarks>
+        <r3d:entryDate>2014-10-14</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

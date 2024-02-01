@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012065</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Clinical data repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CDR</r3d:additionalName>
+                    <r3d:additionalName language="eng">CDW</r3d:additionalName>
+                    <r3d:additionalName language="eng">Clinical Data Warehouse</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ctsi.umn.edu/researcher-resources/clinical-data-repository</r3d:repositoryURL>
+                <r3d:description language="eng">The data in the U of M’s Clinical Data Repository comes from the electronic health records (EHRs) of more than 2 million patients seen at 8 hospitals and more than 40 clinics. For each patient, data is available regarding the patient&#039;s demographics (age, gender, language, etc.), medical history, problem list, allergies, immunizations, outpatient vitals, diagnoses, procedures, medications, lab tests, visit locations, providers, provider specialties, and more.</r3d:description>
+                    <r3d:repositoryContact>ctsi@umn.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-08-22">medical records of more than 2,5 million patients seen at 8 hospitals and more than 40 clinics</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20508 Pharmacy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ICD-9 codes</r3d:keyword>
+                    <r3d:keyword>demographics</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>hospital admission</r3d:keyword>
+                    <r3d:keyword>laboratory results</r3d:keyword>
+                    <r3d:keyword>pathology reports</r3d:keyword>
+                    <r3d:keyword>pharmacy information</r3d:keyword>
+                    <r3d:keyword>radiology</r3d:keyword>
+                    <r3d:keyword>sociology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Fairview Health Services</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fairview.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04hsn8391</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health,  National Center for Advancing Translational Sciences, Clinical and Translational Science Award  program</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CTSA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NCATS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ncats.nih.gov/ctsa</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Minnesota, Clinical and Translational Science Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CTSI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ctsi.umn.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>ctsi@umn.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policy statement</r3d:policyName>
+                <r3d:policyURL>https://policy.umn.edu/operations/phi</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Protection of individual health information</r3d:policyName>
+                <r3d:policyURL>https://regents.umn.edu/sites/regents.umn.edu/files/2020-10/policy_protection_of_individual_health_information.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://policy.umn.edu/it/dataclassification</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ctsi.umn.edu/consultations-and-services/data-access-and-informatics-consulting</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-07-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011213</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ITIS</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Integrated Taxonomic Information System</r3d:additionalName>
+                <r3d:repositoryURL>https://www.itis.gov/</r3d:repositoryURL>
+                <r3d:description language="eng">Here you will find authoritative taxonomic information on plants, animals, fungi, and microbes of North America and the world.</r3d:description>
+                    <r3d:repositoryContact>https://www.itis.gov/comments.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>itiswebmaster@itis.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-26">Scientific Names: 924.240; Common Names: 143.178</r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.itis.gov/info.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>biogeography</r3d:keyword>
+                    <r3d:keyword>ecological system</r3d:keyword>
+                    <r3d:keyword>environmental monitoring</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>mammalogy</r3d:keyword>
+                    <r3d:keyword>microbes</r3d:keyword>
+                    <r3d:keyword>systematics</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="spa">CONABIO</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">Comisión nacional para el conocimiento y uso de la biodiversidad</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>MEX</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gob.mx/conabio</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01g53pj53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gob.mx/conabio#3029</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Department of Agriculture, Agriculture Research Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USDA, ARS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ars.usda.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02d2m2044</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011752</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ars.usda.gov/contact-us/?modeCode=00-00-00-00</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Department of Agriculture, Natural Resources Conservation Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USDA, NRCS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nrcs.usda.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03j7rgg33</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nrcs.usda.gov/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Oceanic and Atmospheric Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02z5nhe81</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011426</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.noaa.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Park Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NPS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nps.gov/index.htm</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:044zqqy65</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nps.gov/aboutus/contactus.htm</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NatureServe</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.natureserve.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02rnyzs79</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.natureserve.org/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Smithsonian Institution, National Museum of Natural History</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NMNH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://naturalhistory.si.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cz47042</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://naturalhistory.si.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Environmental Protection Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EPA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.epa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03tns0030</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011207</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.epa.gov/aboutepa/forms/contact-epa</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Fish and Wildlife Service</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fws.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04k7dar27</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.fws.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Geological Survey</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usgs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:035a68863</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_010168</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://answers.usgs.gov/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>ITIS Copyright and Privacy Statement</r3d:policyName>
+                <r3d:policyURL>https://www.itis.gov/privacy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.itis.gov/privacy.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.itis.gov/privacy.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Contribute Data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.itis.gov/contribute.html#</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://www.itis.gov/ws_description.html</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.itis.gov/citation.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Partners: https://www.itis.gov/organ.html</r3d:remarks>
+        <r3d:entryDate>2014-10-31</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

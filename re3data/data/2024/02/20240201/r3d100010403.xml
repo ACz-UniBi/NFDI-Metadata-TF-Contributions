@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010403</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Barbara A. Mikulski Archive for Space Telescopes</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MAST</r3d:additionalName>
+                    <r3d:additionalName language="eng">Multimission Archive at STScI</r3d:additionalName>
+                <r3d:repositoryURL>http://archive.stsci.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The Mikulski Archive for Space Telescopes (MAST) is a NASA funded project to support and provide to the astronomical community a variety of astronomical data archives, with the primary focus on scientifically related data sets in the optical, ultraviolet, and near-infrared parts of the spectrum. MAST is located at the Space Telescope Science Institute (STScI).</r3d:description>
+                    <r3d:repositoryContact>archive@stsci.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://archive.stsci.edu/contacts.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-11-16">more than 200 terabytes of data</r3d:size>
+        <r3d:startDate>1997</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>http://archive.stsci.edu/aboutmast.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>BEFS</r3d:keyword>
+                    <r3d:keyword>Berkeley Extreme and Far-UV Spectrometer</r3d:keyword>
+                    <r3d:keyword>COPERNICUS</r3d:keyword>
+                    <r3d:keyword>DSS</r3d:keyword>
+                    <r3d:keyword>Digitized Sky Survey</r3d:keyword>
+                    <r3d:keyword>EPOCh</r3d:keyword>
+                    <r3d:keyword>EUVE</r3d:keyword>
+                    <r3d:keyword>Extrasolar Planet Observations and Characterization</r3d:keyword>
+                    <r3d:keyword>Extreme Ultraviolet Explorer</r3d:keyword>
+                    <r3d:keyword>FUSE</r3d:keyword>
+                    <r3d:keyword>Far Ultraviolet Spectroscopic Explorer</r3d:keyword>
+                    <r3d:keyword>GALEX</r3d:keyword>
+                    <r3d:keyword>GSC</r3d:keyword>
+                    <r3d:keyword>Galaxy Evolution Explorer</r3d:keyword>
+                    <r3d:keyword>Guide Star Catalog</r3d:keyword>
+                    <r3d:keyword>HLA</r3d:keyword>
+                    <r3d:keyword>HLSP</r3d:keyword>
+                    <r3d:keyword>HPOL</r3d:keyword>
+                    <r3d:keyword>HST</r3d:keyword>
+                    <r3d:keyword>HUT</r3d:keyword>
+                    <r3d:keyword>High Level Science Products</r3d:keyword>
+                    <r3d:keyword>Hopkins Ultraviolet Telescope</r3d:keyword>
+                    <r3d:keyword>Hubble Legacy Archive</r3d:keyword>
+                    <r3d:keyword>Hubble Space Telescope</r3d:keyword>
+                    <r3d:keyword>IMAPS</r3d:keyword>
+                    <r3d:keyword>IUE</r3d:keyword>
+                    <r3d:keyword>International Ultraviolet Explorer</r3d:keyword>
+                    <r3d:keyword>Interstellar Medium Absorption Profile Spectrograph</r3d:keyword>
+                    <r3d:keyword>Kepler</r3d:keyword>
+                    <r3d:keyword>Orbiting Astronomical Observatory 3</r3d:keyword>
+                    <r3d:keyword>TUES</r3d:keyword>
+                    <r3d:keyword>Tübingen Echelle Spectrograph</r3d:keyword>
+                    <r3d:keyword>UIT</r3d:keyword>
+                    <r3d:keyword>Ultraviolet Imaging Telescope</r3d:keyword>
+                    <r3d:keyword>VLA-FIRST</r3d:keyword>
+                    <r3d:keyword>Very Large Array - Faint Images of the Radio Sky at Twenty-cm</r3d:keyword>
+                    <r3d:keyword>WUPPE</r3d:keyword>
+                    <r3d:keyword>Wisconsin Ultraviolet Photo-Polarimeter Experiment</r3d:keyword>
+                    <r3d:keyword>X-ray Multi-Mirror Mission</r3d:keyword>
+                    <r3d:keyword>XMM-Newton</r3d:keyword>
+                    <r3d:keyword>aeronautics</r3d:keyword>
+                    <r3d:keyword>astronomical instruments</r3d:keyword>
+                    <r3d:keyword>space missions</r3d:keyword>
+                    <r3d:keyword>space telescopes</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/about/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Space Telescope Science Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">STScI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.stsci.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:036f5mx38</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>archive@stsci.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>MAST Data Use Policy</r3d:policyName>
+                <r3d:policyURL>http://archive.stsci.edu/footer/data-use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Mission acknowledgements</r3d:policyName>
+                <r3d:policyURL>http://archive.stsci.edu/footer/data-attributions/mission-acknowledgements</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://archive.stsci.edu/footer/data-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://archive.stsci.edu/footer/data-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Guidelines for Contributing High-Level Science Products to the Multimission Archive at STScI</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://archive.stsci.edu/hlsp/hlsp_guidelines.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">http://archive.stsci.edu/manuals/archive_handbook/chap1.html#1.9</r3d:api>
+                    <r3d:api apiType="SOAP">http://archive.stsci.edu/vo/mast_services.html#SOAP</r3d:api>
+                    <r3d:api apiType="other">https://mast.stsci.edu/api/v0/</r3d:api>
+                    <r3d:api apiType="other">https://astroquery.readthedocs.io/en/latest/mast/mast.html</r3d:api>
+                    <r3d:api apiType="other">https://archive.stsci.edu/vo/mast_services.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://archive.stsci.edu/footer/data-attributions</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">http://archive.stsci.edu/mast_news.php?</r3d:syndication>
+                <r3d:remarks>MAST is covered by Clarivate Data Citation Index. MAST supports a variety of astronomical data archives, with a primary focus on scientifically related data sets in the optical, ultraviolet, and near-infrared parts of the spectrum. See http://archive.stsci.edu/missions.html for a full list of the mission, survey, and catalog data distributed by MAST. MAST is a component of NASA&#039;s distributed Space Science Data Services (SSDS)</r3d:remarks>
+        <r3d:entryDate>2012-09-26</r3d:entryDate>
+        <r3d:lastUpdate>2020-02-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012961</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CancerModels.Org</r3d:repositoryName>
+                    <r3d:additionalName language="eng">formerly: PDX Finder</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly; Patients-derived tumor xenograft finder</r3d:additionalName>
+                <r3d:repositoryURL>https://www.cancermodels.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.738b9c</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Patients-derived tumor xenograft (PDX) mouse models are an important oncology research platform to study tumor evolution, drug response and personalised medicine approaches.
+We have expanded to organoids and cell lines and are now called CancerModels.Org</r3d:description>
+                    <r3d:repositoryContact>helpdesk@cancermodels.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.cancermodels.org/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@cancermodels.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-08">5.015 PDX models; 1.612 cell line models; 1.047 organoid models</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20508 Pharmacy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.cancermodels.org/overview</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>chemotherapeutics</r3d:keyword>
+                    <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>drug</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>histopathology</r3d:keyword>
+                    <r3d:keyword>medications</r3d:keyword>
+                    <r3d:keyword>patient care</r3d:keyword>
+                    <r3d:keyword>tumor histology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_72386</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Cancer Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://itcr.cancer.gov/node/228</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:040gcmg81</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011403</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005082</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>nciitcr@mail.nih.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011417</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005116</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nih.gov/about-nih/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Jackson Laboratory</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jax.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021sy4w91</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004633</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.jax.org/contact-jax</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.cancermodels.org/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/public-domain/cc0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.jax.org/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>submit data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.cancermodels.org/submit</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://documenter.getpostman.com/view/6493399/2s8ZDbX1e7</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.cancermodels.org/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Data providers: https://www.cancermodels.org/about/providers</r3d:remarks>
+        <r3d:entryDate>2019-02-28</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

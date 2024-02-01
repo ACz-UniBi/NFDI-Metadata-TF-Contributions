@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012179</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Ag-Analytics</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.analytics.ag/</r3d:repositoryURL>
+                <r3d:description language="eng">Ag-Analytics is an online open source database of various economic and environmental data. It automates the collection, formatting, and processing of several different commonly used datasets, such as the National Agricultural Statistics Service (NASS), the Agricultural Marketing Service (AMS), Risk Management agency (RMA),  the PRISM weather database, and the U.S. Commodity Futures Trading Commission (CFTC). All the data have been cleaned and well-documented to save users the inconvenience of scraping and cleaning the data themselves.</r3d:description>
+                    <r3d:repositoryContact>support@analytics.ag</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11205 Statistics and Econometrics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.analytics.ag/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>CO2 Calculator</r3d:keyword>
+                    <r3d:keyword>Crop Insurance</r3d:keyword>
+                    <r3d:keyword>Crop Yield</r3d:keyword>
+                    <r3d:keyword>Grape Cost</r3d:keyword>
+                    <r3d:keyword>Spot Price</r3d:keyword>
+                    <r3d:keyword>agricultural and development finance</r3d:keyword>
+                    <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>finance</r3d:keyword>
+                    <r3d:keyword>financial analytics</r3d:keyword>
+                    <r3d:keyword>insurance data</r3d:keyword>
+                    <r3d:keyword>market shocks</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Cornell University, Charles H. Dyson School of Applied Economics and Management</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Cornell University, Dyson School</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dyson.cornell.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms Of Use</r3d:policyName>
+                <r3d:policyURL>https://app.profit.ag/app/TermsAndConditions</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.analytics.ag/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://app.profit.ag/app/TermsAndConditions</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://ag-analytics.portal.azure-api.net/</r3d:api>
+                        <r3d:citationGuidelineURL>https://app.profit.ag/app/TermsAndConditions</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Ag-Analytics GitHub repository: https://github.com/woodardjoshua</r3d:remarks>
+        <r3d:entryDate>2016-10-07</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

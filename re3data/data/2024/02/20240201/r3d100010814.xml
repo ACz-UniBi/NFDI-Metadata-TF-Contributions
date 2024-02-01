@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010814</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Database of Genomic Variants Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DGVa</r3d:additionalName>
+                    <r3d:additionalName language="eng">DGVarchive</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/dgva/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.txkh36</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_05335</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004896</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_86626</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; Phasing out support for the Database of Genomic Variants archive (DGVa).
+The submission, archiving, and presentation of structural variation services offered by the DGVa is transitioning to the European Variation Archive (EVA) https://www.re3data.org/repository/r3d100011553. All of the data shown in the DGVa website is already searchable and browsable from the EVA Study Browser.
+Submission of structural variation data to EVA is done using the VCF format. The VCF specification allows representing multiple types of structural variants such as insertions, deletions, duplications and copy-number variants. Other features such as symbolic alleles, breakends, confidence intervals etc., support more complex events, such as translocations at an imprecise position.  &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>dgva-admin@ebi.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>dgva-helpdesk@ebi.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate>2019-12</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Biology</r3d:keyword>
+                    <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>Genomes</r3d:keyword>
+                    <r3d:keyword>Molecular biology</r3d:keyword>
+                    <r3d:keyword>biochemistry</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>biotechnology</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>gene mapping</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.embl.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Principles of Service Provision</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/services</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Public domain</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ebi.ac.uk/dgva/data-submission</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/dgva/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Description:
+&quot;The Database of Genomic Variants archive provides curated archiving and distribution of publicly available genomic structural variants. Direct submissions are accepted as well as published data. The DGVa is the primary supplier of data to the Database of Genomic Variants (DGV) (hosted by The Centre for Applied Genomics in Toronto, Canada).&quot;
+
+The DGVa works closely with the Database of Genomic Variants (DGV), hosted by The Centre for Applied Genomics in Toronto, Canada and dbVar hosted by the National Center for Biotechnology Information in Washington DC, USA. These collaborations aim to improve community resources for the storage, distribution and analysis of genomic structural variation.</r3d:remarks>
+        <r3d:entryDate>2014-05-28</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

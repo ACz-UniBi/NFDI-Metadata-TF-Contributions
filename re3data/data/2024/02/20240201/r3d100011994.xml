@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011994</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Atmospheric Chemistry Experiment</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ACE</r3d:additionalName>
+                    <r3d:additionalName language="eng">SCISAT</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ace.uwaterloo.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">SCISAT, also known as the Atmospheric Chemistry Experiment (ACE), is a Canadian Space Agency small satellite mission for remote sensing of the Earth&#039;s atmosphere using solar occultation. The satellite was launched on 12 August 2003 and continues to function perfectly. The primary mission goal is to improve our understanding of the chemical and dynamical processes that control the distribution of ozone in the stratosphere and upper troposphere, particularly in the Arctic. The high precision and accuracy of solar occultation makes SCISAT useful for monitoring changes in atmospheric composition and the validation of other satellite instruments. The satellite carries two instruments. A high resolution (0.02 cm-¹) infrared Fourier transform spectrometer (FTS) operating from 2 to 13 microns (750-4400 cm-¹) is measuring the vertical distribution of trace gases, particles and temperature. This provides vertical profiles of atmospheric constituents including essentially all of the major species associated with ozone chemistry. Aerosols and clouds are monitored using the extinction of solar radiation at 1.02 and 0.525 microns as measured by two filtered imagers. The vertical resolution of the FTS is about 3-4 km from the cloud tops up to about 150 km. Peter Bernath of the University of Waterloo is the principal investigator. A dual optical spectrograph called MAESTRO (Measurement of Aerosol Extinction in the Stratosphere and Troposphere Retrieved by Occultation) covers the 400-1030 nm spectral region and measures primarily ozone, nitrogen dioxide and aerosol/cloud extinction. It has a vertical resolution of about 1-2 km. Tom McElroy of Environment and Climate Change Canada is the principal investigator. ACE data are freely available from the University of Waterloo website. SCISAT was designated an ESA Third Party Mission in 2005. ACE data are freely available through an ESA portal.</r3d:description>
+                    <r3d:repositoryContact>bernath@uwaterloo.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.ace.uwaterloo.ca/contactus.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2003-08-12</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.ace.uwaterloo.ca/mission.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Arctic</r3d:keyword>
+                    <r3d:keyword>FTS Fourier Transform Spectrometer</r3d:keyword>
+                    <r3d:keyword>MAESTRO</r3d:keyword>
+                    <r3d:keyword>aerospace</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>chemical molecules</r3d:keyword>
+                    <r3d:keyword>earth&#039;s climate</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>space mission</r3d:keyword>
+                    <r3d:keyword>stratospheric chemistry</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ACE Participants</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ace.uwaterloo.ca/participants.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Space Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Agence spatiale canadienne</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.asc-csa.gc.ca/eng/Default.asp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03a1gte98</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.asc-csa.gc.ca/fra/contact.asp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Sciences and Engineering Research Council of Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CRSNG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Conseil de recherches en sciences naturelles et en génie du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NSERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nserc-crsng.gc.ca/index_eng.asp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01h531d29</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013327</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_39429</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nserc-crsng.gc.ca/ContactUs-ContactezNous/ContactDirectory-RepertoiredeContact_eng.asp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Waterloo, Science Society</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SOC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://uwaterloo.ca/science-society/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://uwaterloo.ca/science-society/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>ACE Mission Information for Public Data Release</r3d:policyName>
+                <r3d:policyURL>http://www.ace.uwaterloo.ca/ACE-FTS_v2.2/ACEFTSPublicReleaseDocumentation.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ace.uwaterloo.ca/copyright.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://www.ace.uwaterloo.ca/climatology.php</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://subjectguides.uwaterloo.ca/c.php?g=695435&amp;p=4931424</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Participants: https://www.ace.uwaterloo.ca/participants.php</r3d:remarks>
+        <r3d:entryDate>2016-05-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

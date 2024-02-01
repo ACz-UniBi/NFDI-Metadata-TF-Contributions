@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013739</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Savannah</r3d:repositoryName>
+                <r3d:repositoryURL>http://savannah.gnu.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.3f074b</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Savannah hosts the majority of GNU software and some non-GNU software. Savannah&#039;s focus is on hosting for free software projects. To ensure that only free software is hosted, Savannah implements very strict hosting policies, including a ban against the use of non-free formats (such as Macromedia Flash).</r3d:description>
+                    <r3d:repositoryContact>https://savannah.gnu.org/contact.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-02-17">3.836 projects, including 82 in private state</r3d:size>
+        <r3d:startDate>2000</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>heb</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>por</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40902 Software Technology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://savannah.gnu.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>open source</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Free Software Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fsf.org</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q48413</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Code Of Conduct</r3d:policyName>
+                <r3d:policyURL>https://savannah.gnu.org/maintenance/CodeOfConduct/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Hosting requirements</r3d:policyName>
+                <r3d:policyURL>http://savannah.gnu.org/register/requirements.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/gpl-3.0.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/lgpl-3.0.en.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://savannah.gnu.org/maintenance/FrontPage/</r3d:api>
+                    <r3d:api apiType="other">https://savannah.gnu.org/maintenance/SshAccess/</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-02-07</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

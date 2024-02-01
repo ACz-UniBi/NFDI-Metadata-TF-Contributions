@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012249</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Constituency-Level Elections Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CLEA</r3d:additionalName>
+                <r3d:repositoryURL>https://electiondataarchive.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The Constituency-Level Elections Archive (CLEA) is a repository of detailed election results at the constituency level for lower house legislative elections from around the world. Our motivation is to preserve and consolidate these valuable data in one comprehensive and reliable resource that is ready for analysis and publicly available at no cost. This public good is expected to be of use to a range of audiences for research, education, and policy-making.</r3d:description>
+                    <r3d:repositoryContact>clea-project@umich.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://electiondataarchive.org/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-05-31">CLEA Lower Chamber Elections Archive: 1.900 elections from 170 countries;
+CLEA Upper Chamber Elections Archive: 181 elections from 24 countries</r3d:size>
+        <r3d:startDate>2004-09-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://electiondataarchive.org/about-clea/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>election data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Taiwan Foundation for Democracy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TFD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>TWN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.tfd.org.tw/opencms/english/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Agency for International Development</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USAID</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usaid.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01n6e6j62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.usaid.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UMICH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://umich.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00jmfr291</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, Center for Southeast Asian Studies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CSEAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ii.umich.edu/cseas/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ii.umich.edu/cseas/about-us/contact-us.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, Institute for Social Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://isr.umich.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>isr-webhelp@umich.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, Institute for Social Research, Center for Political Studies</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cps.isr.umich.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>cps-center@umich.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, Office of Research and Sponsored Projects</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://orsp.umich.edu/about-orsp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://research.umich.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>What principles have you used to construct CLEA?</r3d:policyName>
+                <r3d:policyURL>https://electiondataarchive.org/about-clea/faq/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://electiondataarchive.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://electiondataarchive.org/about-clea/how-to-cite/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Constituency-Level Elections Archive is covered by Thomson Reuters Data Citation Index. Besides CLEA is grateful for support received from  the many contributors who provide election results and expertise, read more: https://electiondataarchive.org/about-clea/contributors/</r3d:remarks>
+        <r3d:entryDate>2016-11-24</r3d:entryDate>
+        <r3d:lastUpdate>2022-05-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

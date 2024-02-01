@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013969</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Canadian Longitudinal Study on Aging</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CLSA</r3d:additionalName>
+                    <r3d:additionalName language="fra">ELCV</r3d:additionalName>
+                    <r3d:additionalName language="fra">Étude longitudinale canadienne sur le vieillissement</r3d:additionalName>
+                <r3d:repositoryURL>https://www.clsa-elcv.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">The Canadian Longitudinal Study on Aging (CLSA) is a large, national, long-term study of more than 50,000 individuals who were between the ages of 45 and 85 when recruited. These participants will be followed until 2033 or death. The aim of the CLSA is to find ways to help us live long and live well, and understand why some people age in healthy fashion while others do not.</r3d:description>
+                    <r3d:repositoryContact>info@clsa-elcv.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.clsa-elcv.ca/about-us/about-clsa</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>behaviour</r3d:keyword>
+                    <r3d:keyword>cognition</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>labour force</r3d:keyword>
+                    <r3d:keyword>lifestyle</r3d:keyword>
+                    <r3d:keyword>medications</r3d:keyword>
+                    <r3d:keyword>socio-demographic characteristics</r3d:keyword>
+                    <r3d:keyword>survey</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLSA National Coordinating Centre</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clsa-elcv.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">McMaster University</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mcmaster.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02fa3aq29</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLSA Access Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.clsa-elcv.ca/doc/2841</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Access Resources</r3d:policyName>
+                <r3d:policyURL>https://www.clsa-elcv.ca/data-access/data-access-resources</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data and Biospecimen Access Policy and Guiding Principles</r3d:policyName>
+                <r3d:policyURL>https://www.clsa-elcv.ca/doc/1039</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.clsa-elcv.ca/doc/1035</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-09-12</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

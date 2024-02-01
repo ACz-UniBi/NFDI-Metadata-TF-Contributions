@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012939</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Prince Edward Island Government Open Data Portal</r3d:repositoryName>
+                <r3d:repositoryURL>https://data.princeedwardisland.ca/browse</r3d:repositoryURL>
+                <r3d:description language="eng">Making government data available, accessible, and re-usable.</r3d:description>
+                    <r3d:repositoryContact>opendata@gov.pe.ca</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2020-10-08">203 results</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.princeedwardisland.ca/en/information/finance/open-data-principles</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>community</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>environment</r3d:keyword>
+                    <r3d:keyword>food</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>transportation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Prince Edward Island Government</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Gouvernement de l&#039;Île-du-Prince-Édouard</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">PEI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.princeedwardisland.ca/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03px70152</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.princeedwardisland.ca/en/information/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Ten Principles For Opening Up Government Information</r3d:policyName>
+                <r3d:policyURL>https://sunlightfoundation.com/policy/documents/ten-open-data-principles/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://open.canada.ca/en/working-data#toc92</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2019-02-07</r3d:entryDate>
+        <r3d:lastUpdate>2020-10-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

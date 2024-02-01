@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011717</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EDGAR</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Emissions Database for Global Atmospheric Research</r3d:additionalName>
+                <r3d:repositoryURL>http://edgar.jrc.ec.europa.eu</r3d:repositoryURL>
+                <r3d:description language="eng">The Emissions Database for Global Atmospheric Research (EDGAR) provides independent estimates of the global anthropogenic emissions and emission trends, based on publicly available statistics, for the atmospheric modeling community as well as for policy makers. This scientific independent emission inventory is characterized by a coherent world historical trend from 1970 to year x-3, including emissions of all greenhouse gases, air pollutants and aerosols. Data are presented for all countries, with emissions provided per main source category, and spatially allocated on a 0.1x0.1 grid over the globe.</r3d:description>
+                    <r3d:repositoryContact>edgar-info@jrc.ec.europa.eu</r3d:repositoryContact>
+                    <r3d:repositoryContact>greet.maenhout@ec.europa.eu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30101 Inorganic Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30102 Organic Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://data.jrc.ec.europa.eu/collection/edgar</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CO2 emission</r3d:keyword>
+                    <r3d:keyword>Kyoto Protocol Greenhouse Gases</r3d:keyword>
+                    <r3d:keyword>ammonia</r3d:keyword>
+                    <r3d:keyword>cement</r3d:keyword>
+                    <r3d:keyword>fossil fuels</r3d:keyword>
+                    <r3d:keyword>lime</r3d:keyword>
+                    <r3d:keyword>steel</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission Joint Research Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/jrc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>European Commission, Joint Research Centre</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ec.europa.eu/jrc/en/contact/form</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Netherlands Environment Assessment Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">PBL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Planbureau voor de Leefomgeving</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.pbl.nl/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.pbl.nl/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://ec.europa.eu/info/legal-notice_en</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>EDGAR - Terms of use</r3d:policyName>
+                <r3d:policyURL>http://edgar.jrc.ec.europa.eu/terms_of_use.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://data.jrc.ec.europa.eu/licence/com_reuse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ec.europa.eu/jrc/en/about/jrc-in-brief/data-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://edgar.jrc.ec.europa.eu/terms_of_use.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Former EDGAR website at PBL: https://themasites.pbl.nl/tridion/en/themasites/edgar/</r3d:remarks>
+        <r3d:entryDate>2016-02-19</r3d:entryDate>
+        <r3d:lastUpdate>2020-07-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

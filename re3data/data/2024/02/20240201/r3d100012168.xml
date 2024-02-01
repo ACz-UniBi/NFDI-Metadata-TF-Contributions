@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012168</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PROFILES Registry</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.profilesregistry.nl/</r3d:repositoryURL>
+                <r3d:description language="eng">Patient Reported Outcomes Following Initial treatment and Long term Evaluation of Survivorship (PROFILES)’ is a registry for the study of the physical and psychosocial impact of cancer and its treatment from a dynamic, growing population-based cohort of both short and long-term cancer survivors. Researchers from the Netherlands Comprehensive Cancer Centre and Tilburg University in Tilburg, The Netherlands, work together with medical specialists from national hospitals in order to setup different PROFILES studies, collect the necessary data, and present the results in scientific journals and (inter)national conferences.</r3d:description>
+                    <r3d:repositoryContact>N.Horevoorts@iknl.nl</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@profilesregistry.nl</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.profilesregistry.nl/about-profiles-registry/goals/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Hodgkin Lymphoma</r3d:keyword>
+                    <r3d:keyword>PROFIEL studies</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>melanoma</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="nld">Integral Kankercentrum Nederland</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">IKNL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Netherlands Comprehensive Cancer Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iknl.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03g5hcd33</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@iknl.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Tilburg University</r3d:institutionName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tilburguniversity.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04b8v1s79</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.tilburguniversity.edu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>DSA Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/about/history/data-seal-of-approval-synopsis-2008-2018/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Adissemination</r3d:policyName>
+                <r3d:policyURL>https://www.profilesregistry.nl/about-profiles-registry/data-dissemination/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Dutch Copyright Act</r3d:policyName>
+                <r3d:policyURL>https://www.auteursrechten.nl/en/basic-knowledge/about-the-dutch-copyright-act</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Rules and conditions</r3d:policyName>
+                <r3d:policyURL>https://www.profilesregistry.nl/about-profiles-registry/rules-and-conditions/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wetten.overheid.nl/BWBR0001886/2021-06-07</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.profilesregistry.nl/about-profiles-registry/dissemination-policy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>How to submit proposals</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.profilesregistry.nl/proposals/how-to-submit-a-proposal/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>URN</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.profilesregistry.nl/about-profiles-registry/rules-and-conditions/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>DSA</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-09-26</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

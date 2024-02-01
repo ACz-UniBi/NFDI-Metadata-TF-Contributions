@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012017</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">LifeMap Discovery</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Embryonic development &amp; stem cell Compendium</r3d:additionalName>
+                <r3d:repositoryURL>https://discovery.lifemapsc.com/</r3d:repositoryURL>
+                <r3d:description language="eng">LifeMap Discovery® is a compendium of embryonic development for stem cell research and regenerative medicine, constructed by integrating extensive molecular, cellular, anatomical and medical data curated from scientific literature and high-throughput data sources.</r3d:description>
+                    <r3d:repositoryContact>https://discovery.lifemapsc.com/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012-11-25</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20521 Gynaecology and Obstetrics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.lifemapsc.com/products/lifemap-integrated-knowledgebase/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Next Generation Sequencing NGS</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>cell therapies</r3d:keyword>
+                    <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>embryo</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>healthcare</r3d:keyword>
+                    <r3d:keyword>stem cell differentiation</r3d:keyword>
+                    <r3d:keyword>tissue</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">BioTime</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.biotimeinc.com</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.biotimeinc.com/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">LifeMap Sciences, Inc</r3d:institutionName>
+                                <r3d:institutionCountry>ISR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.lifemapsc.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.lifemapsc.com/contact-us/</r3d:institutionContact>
+                                    <r3d:institutionContact>re@lifemapsc.com</r3d:institutionContact>
+                                    <r3d:institutionContact>support@lifemapsc.com</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright</r3d:policyName>
+                <r3d:policyURL>https://discovery.lifemapsc.com/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.lifemapsc.com/genecards-suite-terms-of-use/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.lifemapsc.com/genecards-suite-terms-of-use/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://discovery.lifemapsc.com/About</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>LifeMap Sciences is part of GeneCards Suite</r3d:remarks>
+        <r3d:entryDate>2016-06-13</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

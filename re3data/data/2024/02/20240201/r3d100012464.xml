@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012464</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GeneWeaver.org</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ODE</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Ontological Discovery Environment</r3d:additionalName>
+                <r3d:repositoryURL>https://www.geneweaver.org</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.1y79y9</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:OMICS_02232</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003009</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00517</r3d:repositoryIdentifier>
+                <r3d:description language="eng">GeneWeaver combines cross-species data and gene entity integration, scalable hierarchical analysis of user data with a community-built and curated data archive of gene sets and gene networks, and tools for data driven comparison of user-defined biological, behavioral and disease concepts. Gene Weaver allows users to integrate gene sets across species, tissue and experimental platform. It differs from conventional gene set over-representation analysis tools in that it allows users to evaluate intersections among all combinations of a collection of gene sets, including, but not limited to annotations to controlled vocabularies. There are numerous applications of this approach. Sets can be stored, shared and compared privately, among user defined groups of investigators, and across all users.</r3d:description>
+                    <r3d:repositoryContact>Elissa.Chesler@jax.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>Erich_Baker@baylor.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>geneweaver@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://beta.geneweaver.org/help/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>functional genomics experiments</r3d:keyword>
+                    <r3d:keyword>gene</r3d:keyword>
+                    <r3d:keyword>genomic data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Alcohol Abuse and Alcoholism, Integrative Neuroscience Initiative on Alcoholism</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">INIA Stress</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NIAAA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ohsu.edu/iniastress-consortium</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jzrsm59</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Jackson Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JAX</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jax.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021sy4w91</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Datasharing</r3d:policyName>
+                <r3d:policyURL>https://beta.geneweaver.org/datasharing</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NIH Data Sharing Policy</r3d:policyName>
+                <r3d:policyURL>https://sharing.nih.gov/data-management-and-sharing-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>https://beta.geneweaver.org/help/#policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Usage</r3d:policyName>
+                <r3d:policyURL>https://beta.geneweaver.org/usage</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.5/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submitting Genomic Data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://www.geneweaver.org/help/#api</r3d:api>
+                        <r3d:citationGuidelineURL>https://beta.geneweaver.org/about</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-09-07</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

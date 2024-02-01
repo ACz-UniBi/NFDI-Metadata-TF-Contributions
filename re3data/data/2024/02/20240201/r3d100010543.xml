@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010543</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Protein Lysine Modification Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PLMD</r3d:additionalName>
+                <r3d:repositoryURL>http://plmd.biocuckoo.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.se7ewy</r3d:repositoryIdentifier>
+                <r3d:description language="eng">PLMD (Protein Lysine Modifications Database) is an online data resource specifically designed for protein lysine modifications (PLMs). The PLMD 3.0 database was extended and adapted from CPLA 1.0 (Compendium of Protein Lysine Acetylation) database  and CPLM 2.0 (Compendium of Protein Lysine Modifications) database</r3d:description>
+                    <r3d:repositoryContact>haodong_xu@hust.edu.cn</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://plmd.biocuckoo.org/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>xueyu@hust.edu.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-08-16">284.780 modification events in 53.501 proteins for 20 types</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://plmd.biocuckoo.org/userguide.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>protein lysine modifications</r3d:keyword>
+                    <r3d:keyword>zebrafish</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Cuckoo Workgroup</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.biocuckoo.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>lzx.bioinfo@gmail.com</r3d:institutionContact>
+                                    <r3d:institutionContact>xueyu@hust.edu.cn</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Huazhong University of Science and Technology, Department of Biomedical Engineering, College of Life Science and Technology</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://english.life.hust.edu.cn/index.htm</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>lzx.bioinfo@gmail.com</r3d:institutionContact>
+                                    <r3d:institutionContact>xueyu@hust.edu.cn</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Science &amp; Technology of China, WANG Group, School of Life Sciences, Hefei National Laboratory for Physical Sciences at the Microscale</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://wanglab.ustc.edu.cn/main.htm</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://wanglab.ustc.edu.cn/17968/list.htm</r3d:institutionContact>
+                                    <r3d:institutionContact>renjian.sysu@gmail.com</r3d:institutionContact>
+                                    <r3d:institutionContact>xueyu@mail.hust.edu.cn</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://plmd.biocuckoo.org/download.php</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://nar.oxfordjournals.org/content/39/suppl_1/D1029.full#sec-1</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://plmd.biocuckoo.org/index.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>CPLA is covered by Thomson Reuters Data Citation Index. 
+A description of the CPLA 1.0 database is available at https://doi.org/10.1093/nar/gkq939
+Link to CPLM: http://cplm.biocuckoo.org/index_1.php</r3d:remarks>
+        <r3d:entryDate>2013-11-11</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

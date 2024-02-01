@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012136</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Chromosome 7 Annotation Project</r3d:repositoryName>
+                <r3d:repositoryURL>http://www.chr7.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rkq0vj</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007134</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03550</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The objective of this project is to generate the most comprehensive description of human chromosome 7 to facilitate biological discovery, disease gene research and medical genetic applications. In our vision, the DNA sequence of chromosome 7 should be made available in a user-friendly manner having every biological and medically relevant feature annotated along its length. We have established this website and database as one step towards this goal. In addition to being a primary data source we foresee this site serving as a &quot;weighing station&quot; for testing community ideas and information to produce highly curated data to be submitted to other databases such as NCBI, Ensembl, and UCSC. Therefore, any useful data submitted to us will be curated and shown in this database.</r3d:description>
+                    <r3d:repositoryContact>jmacdonald@sickkids.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.chr7.org/project.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA sequenzes</r3d:keyword>
+                    <r3d:keyword>chromosomal abnormalities</r3d:keyword>
+                    <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>human genetics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Institutes of Health Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIHR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">IRSC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Instituts de recherche en santé du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cihr-irsc.gc.ca/e/193.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01gavpb45</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cihr-irsc.gc.ca/e/9833.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">MaRS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Medical and Related Sciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.marsdd.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.marsdd.com/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ontario Genomics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OGI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Ontario Genomics Institute</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ontariogenomics.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00c68jz96</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@ontariogenomics.ca</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Hospital for Sick Children, The Centre for Applied Genomics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SickKids, TCAG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://tcag.ca/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_001840</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-12519</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://tcag.ca/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>TCAG Facilities Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>http://www.tcag.ca/facilities/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.tcag.ca/facilities/terms.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>TCAG Facilities Terms and Conditions</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.tcag.ca/facilities/terms.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.chr7.org/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-08-22</r3d:entryDate>
+        <r3d:lastUpdate>2022-05-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

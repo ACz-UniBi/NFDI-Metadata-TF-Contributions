@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010859</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Register of Marine Species</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ERMS</r3d:additionalName>
+                    <r3d:additionalName language="eng">European Register of Marine Species</r3d:additionalName>
+                    <r3d:additionalName language="eng">WoRMS</r3d:additionalName>
+                <r3d:repositoryURL>https://www.marinespecies.org/index.php</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_013312</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_156921</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>fairsharing_doi:10.25504/fairsharing.7g1bzj</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The World Register of Marine Species (WoRMS) integrates approximately 100 marine datbases to provide an authoritative and comprehensive list of marine organisms. WoRMS has an editorial system where taxonomic groups are managed by experts responsible for the quality of the information.  WorMS register of marine species emerged from the European Register of Marine Species (ERMS) and the Flanders Marine Institute (VLIZ). WoRMS is a contribution to Lifewatch, Catalogue of Life, Encyclopedia of Life,
+Global Biodiversity Information Facility and the Census of Marine Life.</r3d:description>
+                    <r3d:repositoryContact>info@marinespecies.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2024-01-26">Accepted marine species 244.837 (98% checked); Marine species names, including synonyms 504.702; Species with image 44.104 (63% checked)</r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20301 Systematics and Morphology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.marinespecies.org/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>marine biodiversity</r3d:keyword>
+                    <r3d:keyword>marine biology</r3d:keyword>
+                    <r3d:keyword>marine ecology</r3d:keyword>
+                    <r3d:keyword>marine species diversity</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                    <r3d:keyword>taxonomists</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alfred P. Sloan Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sloan.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:052csg198</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005099</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://sloan.org/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Biodiversity Information Facility</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GBIF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gbif.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05fjyn938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005904</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_149475</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gbif.org/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Marine Biodiversity and Ecosystem Functioning</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU Network of Excellence</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">MarBEF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.marbef.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.marbef.org/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ocean Biodiversity Information System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OBIS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Ocean Biogeographics Information System</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://obis.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_006933</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_154698</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Richard Lounsbery Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://rlounsbery.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05r9vkr23</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Society for the Management of Electronic Biodiversity Data</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SMEBD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.smebd.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="nld">Vlaams Instituut voor de Zee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Flanders Marine Institute</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">VLIZ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.vliz.be/nl</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0496vr396</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.vliz.be/nl/contact#14|51.2322|2.9313</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>WoRMS instructions to editors</r3d:policyName>
+                <r3d:policyURL>https://www.marinespecies.org/aphia.php?p=manual</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.vliz.be/en/data-information</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.marinespecies.org/rest/</r3d:api>
+                    <r3d:api apiType="SOAP">https://www.marinespecies.org/aphia.php?p=soap&amp;wsdl=1</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.marinespecies.org/index.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.marinespecies.org/aphia.php?p=rss&amp;what=images</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.marinespecies.org/aphia.php?p=rss&amp;what=notes</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.marinespecies.org/aphia.php?p=rss&amp;what=vernaculars</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.marinespecies.org/aphia.php?p=rss</r3d:syndication>
+                <r3d:remarks>WoRMS has implemented the persistent identifier &#039;Life Science Identifier - LSID&#039; and uses metadata Standards Darwin Core and Dublin Core</r3d:remarks>
+        <r3d:entryDate>2014-07-21</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

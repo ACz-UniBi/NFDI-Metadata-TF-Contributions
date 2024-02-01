@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011040</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MultiDark Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Multimessenger Approach for Dark Matter Detection</r3d:additionalName>
+                <r3d:repositoryURL>http://www.multidark.org//</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  This MultiDark application is now integrated into CosmoSim (https://www.cosmosim.org/ , all data and much more is available there. The old MultiDark server is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;
+The MultiDark database provides results from cosmological simulations performed within the MultiDark project. This database can be queried by entering SQL statements directly into the Query Form. The access to that form and thus access to the public &amp; private databases is password protected.</r3d:description>
+                    <r3d:repositoryContact>https://www.cosmosim.org/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate>2021</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://projects.ift.uam-csic.es/multidark/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Halos</r3d:keyword>
+                    <r3d:keyword>astronomy</r3d:keyword>
+                    <r3d:keyword>cosmology</r3d:keyword>
+                    <r3d:keyword>dark matter</r3d:keyword>
+                    <r3d:keyword>optics</r3d:keyword>
+                    <r3d:keyword>simulation</r3d:keyword>
+                    <r3d:keyword>virtual observatory</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">AstroGrid-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">D-Grid</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">GACG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Astronomy Community Grid</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.gac-grid.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.gac-grid.de/project-overview/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Astrophysical Virtual Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GAVO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.g-vo.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.g-vo.org/pmwiki/About/Impressum</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Astrophysik Potsdam</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Astrophysical Institute Potsdam</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aip.de/en?set_language=en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.aip.de/en/institute/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Multimessenger Approach for Dark Matter Detection</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MultiDark</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.multidark.es/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009-12-17</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2017-06-16</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.multidark.es/index.php?option=com_content&amp;view=article&amp;id=21&amp;Itemid=35&amp;lang=en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">PRACE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Partnership for advanced Computing in Europa</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.prace-ri.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.prace-ri.eu/contact-prace</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data access</r3d:policyName>
+                <r3d:policyURL>https://www.cosmosim.org/cms/documentation/data-access/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Imprint &amp; Data Protection Statement</r3d:policyName>
+                <r3d:policyURL>https://www.cosmosim.org/cms/imprint/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.aip.de/en/impressum</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.aip.de/de/institut/facilities/it-service/richtlinien/usage-of-the-data-access-service</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://www.cosmosim.org/cms/documentation/data-access/access-via-uws/</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.cosmosim.org/cms/documentation/projects/multidark-bolshoi-project/#credits</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>&quot;The MultiDark Database used in this paper and the web application providing online access to it were constructed as part of the activities of the German Astrophysical Virtual Observatory as result of a collaboration between the Leibniz-Institute for Astrophysics Potsdam (AIP) and the Spanish MultiDark Consolider Project CSD2009-00064. The Bolshoi and MultiDark simulations were run on the NASA&#039;s Pleiades supercomputer at the NASA Ames Research Center. The MultiDark-Planck (MDPL) and the BigMD simulation suite have been performed in the Supermuc supercomputer at LRZ using time granted by PRACE.&quot;</r3d:remarks>
+        <r3d:entryDate>2014-03-26</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

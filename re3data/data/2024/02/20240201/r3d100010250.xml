@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010250</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">HISTAT</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Historical Time Series</r3d:additionalName>
+                    <r3d:additionalName language="deu">Zeitreihen zur Historischen Statistik</r3d:additionalName>
+                <r3d:repositoryURL>https://histat.safe-frankfurt.de/index.php/en/index</r3d:repositoryURL>
+                <r3d:description language="eng">HISTAT (Historical Statistics)provides data from studies of population, economic and social history as well as the historical Statistics under a single user interface to be made available online. HISTAT offers a variety of time series, Historical Statistics primarily from Germany, partly down to the 16 . century; the database is structured theme-and study-oriented. Studies are listed by subject area and can be individually selected. using an alphabetical list of authors of individual studies can also be selected. Moreover, a study on cross Keyword is offered. HISTAT provides information and research opportunities to both study level as well as at time series level. It offered a thesaurus-based meta-search for words, authors and studies in the study descriptions, the data (time series definitions) and the sources.</r3d:description>
+                    <r3d:repositoryContact>histat@safe-frankfurt.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-01-20">536 studies; 436.077 time series</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11205 Statistics and Econometrics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://histat.gesis.org/histat/en/pages/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>business</r3d:keyword>
+                    <r3d:keyword>commerce</r3d:keyword>
+                    <r3d:keyword>economic history</r3d:keyword>
+                    <r3d:keyword>economy</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>industry</r3d:keyword>
+                    <r3d:keyword>money</r3d:keyword>
+                    <r3d:keyword>national finances</r3d:keyword>
+                    <r3d:keyword>population</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                    <r3d:keyword>time series</r3d:keyword>
+                    <r3d:keyword>traffic</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">GESIS - Leibniz-Institut für Sozialwissenschaften</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GESIS - Leibniz Institute for the Social Sciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gesis.org/home</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018afyw53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2021</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute for Financial Research SAFE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut für Finanzmarktforschung SAFE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">SAFE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://safe-frankfurt.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR: 05wxywg93</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Statistisches Bundesamt</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DSTATIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.destatis.de/DE/Home/_inhalt.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01kratx56</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2021</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Legal notes</r3d:policyName>
+                <r3d:policyURL>https://www.gesis.org/en/institute/imprint</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Online-Database HISTAT – Registration and Use</r3d:policyName>
+                <r3d:policyURL>https://histat.safe-frankfurt.de/assets/Online-DB_histat_Registration_and_Use.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://safe-frankfurt.de/about-safe/about-this-site.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gesis.org/en/institute/imprint</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gesis.org/fileadmin/upload/dienstleistung/daten/umfragedaten/_bgordnung_bestellen/Usage_regulations.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://histat.safe-frankfurt.de/index.php/en/index</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Histat was developed ibyGESIS  and released in 2004. On October 15, 2021, histat moved to SAFE. New studies are frequently imported into histat. The registration, the use of histat as well as the download of data from histat are free of charge</r3d:remarks>
+        <r3d:entryDate>2013-04-19</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

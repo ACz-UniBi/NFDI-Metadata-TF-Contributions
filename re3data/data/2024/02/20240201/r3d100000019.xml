@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100000019</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ESS-DIVE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Environmental System Science Data Infrastructure for a Virtual Ecosystem</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: CDIAC</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Carbon Dioxide Information Analysis Center archive (1982 - Sept. 2017)</r3d:additionalName>
+                <r3d:repositoryURL>https://ess-dive.lbl.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.d6pe1f</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The U.S. Department of Energy’s (DOE) Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE) data archive serves Earth and environmental science data. ESS-DIVE is funded by the Data Management program within the Climate and Environmental Science Division under the DOE’s Office of Biological and Environmental Research program (BER), and is maintained by the Lawrence Berkeley National Laboratory.
+
+ESS-DIVE will archive and publicly share data obtained from observational, experimental, and modeling research that is funded by the DOE’s Office of Science under its Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) programs within the Environmental Systems Science (ESS) activity.
+
+ESS-DIVE was launched in July 2017, and is designed to provide long-term stewardship and use of data from observational, experimental and modeling activities in the DOE in the Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) Programs in the Environmental System Science (ESS) activity.</r3d:description>
+                    <r3d:repositoryContact>ess-dive-support@lbl.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://ess-dive.lbl.gov/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-08">&gt;506 datasets</r3d:size>
+        <r3d:startDate>2017-07</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://ess-dive.lbl.gov/about/#</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Carbon Cycle</r3d:keyword>
+                    <r3d:keyword>Carbon Dioxide</r3d:keyword>
+                    <r3d:keyword>Climate change</r3d:keyword>
+                    <r3d:keyword>Emissions</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>Greenhouse effect</r3d:keyword>
+                    <r3d:keyword>Sea level rise</r3d:keyword>
+                    <r3d:keyword>co2</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">DataOne</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Data Oberservation Network for Earth</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dataone.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00hr5y405</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003999</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lawrence Berkeley National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Berkeley Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lbl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jbv0t02</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011336</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Ecological Analysis and Synthesis</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCEAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nceas.ucsb.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0146z4r19</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Energy Research Scientific Computing Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NERSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nersc.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05v3mvq14</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nersc.gov/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy, Biological and Environmental Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/science/ber/biological-and-environmental-research</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1982</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S.Department of Energy, Office of Science, Biological and Environmental Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BER</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://science.energy.gov/ber/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>DOE Policy for Digital Research Data Management</r3d:policyName>
+                <r3d:policyURL>https://www.energy.gov/datamanagement/doe-policy-digital-research-data-management</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://ess-dive.lbl.gov/about/terms/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ess-dive.lbl.gov/data-use-and-citation/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://docs.google.com/document/d/1deGmb0Q786gUsLAKtNkOnqSn8S2fddlxXrHt97kyxoE/edit</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ess-dive.lbl.gov/data-use-and-citation/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>CDIAC website http://cdiac.ess-dive.lbl.gov/home.html provides access to the CDIAC archive data temporarily. It will be gradually transitioned into data packages in the new ESS-DIVE archive. This site will continue to operate in parallel during and after the transition, and will be retired at a future date. 
+is covered by Elsevier. ESS-DIVE is covered by Clarivate Data Citation Index. 
+The Carbon Dioxide Information Analysis Center (CDIAC) was the primary climate-change data and information analysis center of the U.S. Department of Energy (DOE). CDIAC was located at DOE&#039;s Oak Ridge National Laboratory (ORNL) and included the World Data Center for Atmospheric Trace Gases.CDIAC&#039;s data holdings include records of the atmospheric concentrations of carbon dioxide and other radiatively active gases; the role of the terrestrial biosphere and the oceans in the biogeochemical cycles of greenhouse gases; emissions of carbon dioxide from fossil-fuel consumption and land-use changes; long-term climate trends; the effects of elevated carbon dioxide on vegetation; and the vulnerability of coastal areas to rising sea level. CDIAC&#039;s data holdings include records of the atmospheric concentrations of carbon dioxide and other radiatively active gases; the role of the terrestrial biosphere and the oceans in the biogeochemical cycles of greenhouse gases; emissions of carbon dioxide from fossil-fuel consumption and land-use changes; long-term climate trends; the effects of elevated carbon dioxide on vegetation; and the vulnerability of coastal areas to rising sea level.  //</r3d:remarks>
+        <r3d:entryDate>2012-08-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

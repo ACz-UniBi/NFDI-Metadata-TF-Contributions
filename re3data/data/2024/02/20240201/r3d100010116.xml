@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010116</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The University of Oxford Text Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">OTA</r3d:additionalName>
+                <r3d:repositoryURL>https://ota.bodleian.ox.ac.uk/repository/xmlui/</r3d:repositoryURL>
+                <r3d:description language="eng">The University of Oxford Text Archive develops, collects, catalogues and preserves electronic literary and linguistic resources for use in Higher Education, in research, teaching and learning. We also give advice on the creation and use of these resources, and are involved in the development of standards and infrastructure for electronic language resources.</r3d:description>
+                    <r3d:repositoryContact>http://ota.ox.ac.uk/about/contact.xml</r3d:repositoryContact>
+                    <r3d:repositoryContact>ota@bodleian.ox.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2023-09-22">63.854 results</r3d:size>
+        <r3d:startDate>1976</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">105 Literary Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://ota.bodleian.ox.ac.uk/repository/xmlui/page/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>culture</r3d:keyword>
+                    <r3d:keyword>electronic texts</r3d:keyword>
+                    <r3d:keyword>language</r3d:keyword>
+                    <r3d:keyword>linguistic corpora</r3d:keyword>
+                    <r3d:keyword>literature</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wp25384</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.clarin.eu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-UK</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The Common Language Resources and Tools Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>clarin-uk@jiscmail.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Joint Information Systems Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JISC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jisc.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01rv9gx86</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011331</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2008</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.jisc.ac.uk/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Oxford University IT Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Oxford University Computing Services</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.it.ox.ac.uk/home</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://help.it.ox.ac.uk/service-desk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UKRI, Arts and Humanities Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AHRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/ahrc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0505m1554</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2008</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>enquiries@ahrc.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>University of Oxford Text Archive Licence Agreement and Contracts</r3d:policyName>
+                <r3d:policyURL>https://ota.bodleian.ox.ac.uk/repository/xmlui/page/about#about-contracts</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>University of Oxford Text Archive Terms of Service</r3d:policyName>
+                <r3d:policyURL>https://ota.bodleian.ox.ac.uk/repository/xmlui/page/about#terms-of-service</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Depositing with the University of Oxford Text Archive</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://ota.bodleian.ox.ac.uk/repository/xmlui/page/faq#what-is-deposit-procedure</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ota.bodleian.ox.ac.uk/repository/xmlui/page/cite</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The OTA  is one of the key centres of CLARIN-ERIC -  the Common Language Resources and Technology Infrastructure. OTA collections can be found via the Virtual Language Observatory https://vlo.clarin.eu/?2-1.ILinkListener-searchContainer-selections-facets-container-facets-1-facet-facetValues-valuesContainer-valuesList-3-facetValues-0-facetSelect .</r3d:remarks>
+        <r3d:entryDate>2012-10-12</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

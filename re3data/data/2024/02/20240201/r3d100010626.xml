@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010626</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GeneDB</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.genedb.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.j7esqq</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100139</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002774</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-02880</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; GeneDB will be taken offline 1st of August 2021, as none of the genomes are curated at Sanger anymore. All genomes on GeneDB can now be found on PlasmoDB, FungiDB, TriTrypDB and Wormbase Parasite.   &gt;&gt;&gt;!!!&lt;&lt;&lt;</r3d:description>
+                    <r3d:repositoryContact>genedb-help@sanger.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-11-13">more than 40 genomes</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate>2021-08-01</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Schistosoma mansoni</r3d:keyword>
+                    <r3d:keyword>apicomplexan protozoa</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>chromosomes</r3d:keyword>
+                    <r3d:keyword>kinetoplastid protozoa</r3d:keyword>
+                    <r3d:keyword>parasite</r3d:keyword>
+                    <r3d:keyword>parasitic helminths</r3d:keyword>
+                    <r3d:keyword>pathogens</r3d:keyword>
+                    <r3d:keyword>transcripts</r3d:keyword>
+                    <r3d:keyword>viruses</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust Sanger Institute</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sanger.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011784</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_91258</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>genedb-help@sanger.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Release Policy</r3d:policyName>
+                <r3d:policyURL>https://www.genedb.org/data-release.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WTSI Human Data Security Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sanger.ac.uk/legal/assets/wtsi-hgdsp-201510hpfinal.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Wellcome Trust Sanger Institute Data Sharing Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sanger.ac.uk/sites/default/files/Jul2018/Data_Sharing_Policy_and_Guidelines_July_2018.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Wellcome Trust Sanger Institute IT Acceptable Use Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sanger.ac.uk/legal/assets/wtsi_aup_v1-9.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Wellcome Trust Sanger Institute Software Policy</r3d:policyName>
+                <r3d:policyURL>https://github.com/wtsi-ic/wtsi-software-policy/releases/download/v7-20141218/wtsi-software-policy-v7-20141218.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gnu.org/licenses/gpl-3.0.de.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/2.5/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.sanger.ac.uk/legal/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.sanger.ac.uk/pub/pathogens/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.genedb.org/data-release.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>description: The primary goal of GeneDB is to provide access to genome annotation for species that are undergoing manual curation and refinement. The site is updated monthly to reflect close to real-time changes in annotation, before they have been propagated across EuPathDB and other sites with whom we collaborate. Annotations reflect changes made in-house by scientists, as part of their research projects, and by dedicated curators based in-house and in collaborating organisations.</r3d:remarks>
+        <r3d:entryDate>2014-02-27</r3d:entryDate>
+        <r3d:lastUpdate>2021-12-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

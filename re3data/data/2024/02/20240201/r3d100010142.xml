@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010142</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">FAIRsharing</r3d:repositoryName>
+                    <r3d:additionalName language="eng">formerly: biosharing</r3d:additionalName>
+                <r3d:repositoryURL>https://fairsharing.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.2abjs5</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100463</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_17902</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004177</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_143602</r3d:repositoryIdentifier>
+                <r3d:description language="eng">FAIRsharing is a web-based, searchable portal of three interlinked registries, containing both in-house and crowdsourced manually curated descriptions of standards, databases and data policies, combined with an integrated view across all three types of resource. By registering your resource on FAIRsharing, you not only gain credit for your work, but you increase its visibility outside of your direct domain, so reducing the potential for unnecessary reinvention and proliferation of standards and databases.</r3d:description>
+                    <r3d:repositoryContact>contact@fairsharing.org</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2021-04-28">1.761 databases; 1.535 standards; 140 policies</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://fairsharing.org/educational/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>data management policies</r3d:keyword>
+                    <r3d:keyword>data preservation policies</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>multidisciplinary</r3d:keyword>
+                    <r3d:keyword>ontology</r3d:keyword>
+                    <r3d:keyword>sharing policies</r3d:keyword>
+                    <r3d:keyword>standards</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ELIXIR-UK</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ELIXIR UK  Node</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://elixiruknode.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">FAIRsharing Adopters and Collaborators</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://fairsharing.org/communities</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>susanna-assunta.sansone@oerc.ox.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The FAIRsharing Team</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://fairsharing.org/communities#team</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>susanna-assunta.sansone@oerc.ox.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Oxford e-Research Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Oxford e-Research Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.oerc.ox.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>susanna-assunta.sansone@oerc.ox.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Access to and citation of our code and content</r3d:policyName>
+                <r3d:policyURL>https://fairsharing.org/educational/#faq10-1</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://fairsharing.org/api</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://fairsharing.org/educational/#faq10-2</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>is covered by Elsevier. From our first incarnation, BioSharing.org, which focussed on the life sciences, we are growing into FAIRsharing.org, to serve users across all disciplines.
+All FAIRsharing records have a unique, persistent identifier, which can be used for citation purpose. These are as follows: Databases: biobdcore-123456,  Standards: bsg-s123456, Policies: bsg-p123456, Collections and Recommendations: bsg-c123456</r3d:remarks>
+        <r3d:entryDate>2013-08-29</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

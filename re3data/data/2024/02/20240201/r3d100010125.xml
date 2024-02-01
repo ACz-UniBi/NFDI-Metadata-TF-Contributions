@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010125</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NIST XCOM</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NIST Standard Reference Database 8 (XGAM)</r3d:additionalName>
+                    <r3d:additionalName language="eng">Photon Cross Section Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">XCOM</r3d:additionalName>
+                <r3d:repositoryURL>https://www.nist.gov/pml/xcom-photon-cross-sections-database</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>doi.org/10.18434/T48G6X</r3d:repositoryIdentifier>
+                <r3d:description language="eng">A web database is provided which can be used to calculate photon cross sections for scattering, photoelectric absorption and pair production, as well as total attenuation coefficients, for any element, compound or mixture (Z ≤ 100), at energies from 1 keV to 100 GeV.</r3d:description>
+                    <r3d:repositoryContact>https://www.nist.gov/srd/standard-reference-data-contact-form?id=8</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2020-08-24">1 mm</r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">307 Condensed Matter Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://physics.nist.gov/PhysRefData/Xcom/Text/intro.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>coefficient</r3d:keyword>
+                    <r3d:keyword>photoelectric absortion</r3d:keyword>
+                    <r3d:keyword>photon cross section</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Standards and Technology, Physical Measurement Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIST, PML</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nist.gov/pml</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:016s8vs02</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1990</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>steve.seltzer@nist.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S.Department of Commerce</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.commerce.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04chq2495</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1990</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S.Department of Energy, Office of Health and Environmental Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OHER</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">energy.gov</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1990</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nist.gov/privacy-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Quality Standards</r3d:policyName>
+                <r3d:policyURL>https://www.nist.gov/nist-information-quality-standards</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://physics.nist.gov/PhysRefData/Xcom/Text/download.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nist.gov/disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nist.gov/foia</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://physics.nist.gov/PhysRefData/Xcom/Text/version.shtml</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>XCOM is a computer program and data base which can be used to calculate, with a personal computer, photon cross sections for scattering, photoelectric absorption and pair production, as well as total  attenuation coefficients, in any element, compound or mixture, at energies from 1 keV to 100 GeV.
+XCOM  On line: https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html</r3d:remarks>
+        <r3d:entryDate>2012-12-05</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010960</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UC Irvine Machine Learning Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UCI Machine Learning Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://archive.ics.uci.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms. It is used by students, educators, and researchers all over the world as a primary source of machine learning data sets. As an indication of the impact of the archive, it has been cited over 1000 times.</r3d:description>
+                    <r3d:repositoryContact>https://archive.ics.uci.edu/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>ml-repository@ics.uci.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2023-09-13">647 datasets</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11103 Communication Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">312 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31201 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">33 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://archive.ics.uci.edu/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>algorithms - data processing</r3d:keyword>
+                    <r3d:keyword>computer science</r3d:keyword>
+                    <r3d:keyword>machine learning</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California, Irvine, Bren School of Information and Computer Science, Center for Machine Learning and Intelligent Systems</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCI CML</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cml.ics.uci.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Massachusetts, College of Information and Computer Science, Information Extraction and Synthesis Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IESL rexa</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">UMassAmherst</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iesl.cs.umass.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy and Legal Notice</r3d:policyName>
+                <r3d:policyURL>https://uci.edu/privacy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://uci.edu/copyright/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Donation Policy</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://archive.ics.uci.edu/contribute/donation</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ics.uci.edu./</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://archive.ics.uci.edu/citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>UCI Machine Learning Repository is covered by Thomson Reuters Data Citation Index. Citation impact by rexa.info</r3d:remarks>
+        <r3d:entryDate>2014-08-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

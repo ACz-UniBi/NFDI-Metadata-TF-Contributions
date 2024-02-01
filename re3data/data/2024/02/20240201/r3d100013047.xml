@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013047</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">South African Centre for Digital Language Resources</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SADiLaR</r3d:additionalName>
+                <r3d:repositoryURL>https://www.sadilar.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Technology (DST). SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences.</r3d:description>
+                    <r3d:repositoryContact>info@sadilar.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.sadilar.org/index.php/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Afrikaans</r3d:keyword>
+                    <r3d:keyword>English</r3d:keyword>
+                    <r3d:keyword>Sesotho</r3d:keyword>
+                    <r3d:keyword>Sesotho sa Leboa</r3d:keyword>
+                    <r3d:keyword>Setswana</r3d:keyword>
+                    <r3d:keyword>Siswati</r3d:keyword>
+                    <r3d:keyword>South African Languages</r3d:keyword>
+                    <r3d:keyword>Tshivenda</r3d:keyword>
+                    <r3d:keyword>Xitsonga</r3d:keyword>
+                    <r3d:keyword>isiNdebele</r3d:keyword>
+                    <r3d:keyword>isiXhosa</r3d:keyword>
+                    <r3d:keyword>isiZulu</r3d:keyword>
+                    <r3d:keyword>speech corpora</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">North-West University,  Faculty of Humanities, South African Centre for Digital Language Resources</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SADiLaR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ZAF</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sadilar.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Republic of South Africa, Department: Science &amp; Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DST</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ZAF</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dst.gov.za/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access Policy</r3d:policyName>
+                <r3d:policyURL>https://www.sadilar.org/index.php/guidelines-standards/data-access-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Digitisation guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.sadilar.org/index.php/guidelines-standards/digitization-procedures</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.sadilar.org/index.php/guidelines-standards/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://repo.sadilar.org/oai/request?verb=Identify</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.sadilar.org/index.php/guidelines-standards/data-citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>SADiLaR is a C certified CLARIN Centre. SADiLaR can be searched by the CLARIN VLO - Virtual Language Observatory https://vlo.clarin.eu/?0-1.ILinkListener-searchContainer-selections-facets-container-facets-2-facet-facetValues-valuesContainer-valuesList-6-facetValues-0-facetSelect .</r3d:remarks>
+        <r3d:entryDate>2019-04-25</r3d:entryDate>
+        <r3d:lastUpdate>2020-07-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

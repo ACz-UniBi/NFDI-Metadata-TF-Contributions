@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011266</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CfA Library Datasets Dataverse</r3d:repositoryName>
+                <r3d:repositoryURL>https://dataverse.harvard.edu/dataverse/cfalibrary</r3d:repositoryURL>
+                <r3d:description language="eng">The aim of CfA Library Datasets Dataverse is creating a better information system to respond to the changing needs of astronomers not only at the CfA, but worldwide as well. As part of this growing partnership with the ADS, the CfA Library is expanding its metadata and data curation services, and in the process, creating datasets that the astronomy community may find useful. The CfA Library Datasets Dataverse has been created to share these datasets with the greater community with the hope that some members may find it useful. Please remember to acknowledge the CfA Library and the ADS and cite the work using the &quot;Data Citation&quot; presented under each study&#039;s &quot;Cataloging Information&quot; section.</r3d:description>
+                    <r3d:repositoryContact>https://www.cfa.harvard.edu/about/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>library@cfa.harvard.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-01-10">2 studies</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>UAT</r3d:keyword>
+                    <r3d:keyword>astronomy thesaurus</r3d:keyword>
+                    <r3d:keyword>grants</r3d:keyword>
+                    <r3d:keyword>physical sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Harvard Dataverse</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dataverse.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard-Smithsonian Center for Astrophysics, John G. Wolbach Library and Information Resource Center</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://library.cfa.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NASA Astrophysics Data Systems</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ADS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://ads.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Community-norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Dataverse Guides</r3d:policyName>
+                <r3d:policyURL>https://guides.dataverse.org/en/latest/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Harvard Dataverse General Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://support.dataverse.harvard.edu/harvard-dataverse-general-terms-use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Harvard Dataverse Policies</r3d:policyName>
+                <r3d:policyURL>https://support.dataverse.harvard.edu/policies</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>CfA Library Datasets Dataverse is covered by Thomson Reuters Data Citation Index. CfA Library Datasets Dataverse is using Data Documentation Inititative DDI metadata standards.</r3d:remarks>
+        <r3d:entryDate>2014-11-14</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

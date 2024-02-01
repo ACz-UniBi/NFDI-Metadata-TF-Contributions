@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011958</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HALO database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">HALO-DB</r3d:additionalName>
+                    <r3d:additionalName language="eng">High Altitude and LOng Range database</r3d:additionalName>
+                <r3d:repositoryURL>https://halo-db.pa.op.dlr.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.e0b9db</r3d:repositoryIdentifier>
+                <r3d:description language="eng">HALO-DB is the web platform of a data retrieval and long-term archive system.
+The system was established to hold and to manage a wide range of data based on observations of the HALO research aircraft and data which are related to HALO observations. 
+HALO (High-Altitude and LOng-range aircraft) is the new German research aircraft (German Science Community (DFG)). The aircraft, a Gulfstream GV-550 Business-Jet, is strongly modified for the application as a research platform.
+HALO offers several advantages for scientific campaigns, such as its high range of more than 10000 km, a high maximum altitude of more than 15 km, as well as a relatively high payload.</r3d:description>
+                    <r3d:repositoryContact>halo-db [at] dlr.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://halo-db.pa.op.dlr.de/imprint</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>cloud research</r3d:keyword>
+                    <r3d:keyword>earth observation</r3d:keyword>
+                    <r3d:keyword>geodesy</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>global pollution</r3d:keyword>
+                    <r3d:keyword>missions</r3d:keyword>
+                    <r3d:keyword>polar research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Zentrum fuer Luft- und Raumfahrt e. V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Aerospace Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact-dlr [at] dlr.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Research Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">HALO consortium</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://halo-db.pa.op.dlr.de/about</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kit.edu/english/index.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001552</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_48421</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>andreas.zahn@kit.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology, Institute of Meteorology and Climate Research - Atmospheric Trace Gases and Remote Sensing</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IMK-ASF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie, Institut für Meteorologie und Klimaforschung - Atmosphärische Spurengase und Fernerkundung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imk-asf.kit.edu/english/207.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>andreas.zahn@kit.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conventions</r3d:policyName>
+                <r3d:policyURL>https://halo-db.pa.op.dlr.de/conventions</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://halo-db.pa.op.dlr.de/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://halo-db.pa.op.dlr.de/license/3</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://halo-db.pa.op.dlr.de/terms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://halo-db.pa.op.dlr.de/format/20</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-03-30</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

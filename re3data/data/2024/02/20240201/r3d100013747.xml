@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013747</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Microbiology Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NMDC</r3d:additionalName>
+                    <r3d:additionalName language="zho">国家微生物科学数据中心</r3d:additionalName>
+                <r3d:repositoryURL>https://nmdc.cn/en</r3d:repositoryURL>
+                <r3d:description language="eng">The National Microbial Data Center (NMDC) is jointly constructed by the Institute of Microbiology of the Chinese Academy of Sciences (IMS), the Institute of Oceanography of the Chinese Academy of Sciences, the Institute of Infectious Diseases of the Chinese Center for Disease Control and Prevention, the Institute of Plant Physiology and Ecology of the Chinese Academy of Sciences, and the Computer Network Information Centre of the Chinese Academy of Sciences. The General Office of the Chinese Academy of Sciences is the parent department. The data resources covering the whole life cycle of microbiological research, including microbiological resources, microbiological and cross-technological methods, research processes and engineering, microbiomics, microbiological technologies, as well as microbiological literature, patents, experts and results. The Centre focuses on promoting the convergence and integration of scientific and technological resources in the field of microbiology to the national platform, strengthening the development, application and analysis of microbiological resources, enhancing the effective use of microbiological resources and the ability to support scientific and technological innovation, and providing high-quality scientific and technological resource sharing services for scientific research, technological progress and social development.</r3d:description>
+                    <r3d:repositoryContact>https://nmdc.cn/en/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>nmdc@im.ac.cn</r3d:repositoryContact>
+                    <r3d:repositoryContact>wulh@im.ac.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-05-31">6PB with more than 5 billion data records; 794 databases</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://nmdc.cn/introduction</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biological barcodes</r3d:keyword>
+                    <r3d:keyword>genome</r3d:keyword>
+                    <r3d:keyword>metagenome</r3d:keyword>
+                    <r3d:keyword>microbial resources data</r3d:keyword>
+                    <r3d:keyword>microbial safety</r3d:keyword>
+                    <r3d:keyword>microbiomics data</r3d:keyword>
+                    <r3d:keyword>nucleotide</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Microbiology Data Center</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nmdc.cn/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>nmdc@im.ac.cn</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>National Microbiological Science Data Venter Repository Access Agreement</r3d:policyName>
+                <r3d:policyURL>https://nmdc.cn/submit/visit</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policy documents</r3d:policyName>
+                <r3d:policyURL>http://www.beian.gov.cn/portal/recordInfo?query_type=1&amp;token=a53922ec-9245-4171-b785-bfa464a39c92</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nmdc.cn/submit/policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submit</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://nmdc.cn/submit/dashboard</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-02-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

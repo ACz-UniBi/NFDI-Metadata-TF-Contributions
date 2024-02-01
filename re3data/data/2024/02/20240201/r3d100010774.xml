@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010774</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UniGene</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.ncbi.nlm.nih.gov/unigene</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_004405</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_41571</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available&gt;&gt;&gt;!!!&gt;&gt;&gt;.  Although the web pages are no longer available, you will still be able to download the final UniGene builds as static content from the FTP site https://ftp.ncbi.nlm.nih.gov/repository/UniGene/.  You will also be able to match UniGene cluster numbers to Gene records by searching Gene with UniGene cluster numbers. For best results, restrict to the “UniGene Cluster Number” field rather than all fields in Gene.  For example, a search with Mm.2108[UniGene Cluster Number] finds the mouse  transthyretin Gene record (Ttr).  You can use the advanced search page https://www.ncbi.nlm.nih.gov/gene/advanced to help construct these searches. Keep in mind that the Gene record contains selected Reference Sequences and GenBank mRNA sequences rather than the larger set of expressed sequences in the UniGene cluster.</r3d:description>
+                    <r3d:repositoryContact>info@ncbi.nlm.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2019</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.ncbi.nlm.nih.gov/home/about/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>RNA</r3d:keyword>
+                    <r3d:keyword>chemicals</r3d:keyword>
+                    <r3d:keyword>genes</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>homology (biology)</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Department of Health and Human Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HHS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hhs.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, United States National Library of Medicine, National Center for Biotechnology Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCBI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ncbi.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ncbi.nlm.nih.gov/home/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nlm.nih.gov/privacy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ncbi.nih.gov/repository/UniGene/</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=genbanksubmissiontoo</r3d:syndication>
+                <r3d:remarks>The UniGene web pages are now retired: https://ncbiinsights.ncbi.nlm.nih.gov/2019/07/30/the-unigene-web-pages-are-now-retired/. Description: UniGene collects entries of transcript sequences from transcription loci from genes or expressed pseudogenes. Entries also contain information on the protein similarities, gene expressions, cDNA clone reagents, and genomic locations.</r3d:remarks>
+        <r3d:entryDate>2014-05-23</r3d:entryDate>
+        <r3d:lastUpdate>2022-08-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

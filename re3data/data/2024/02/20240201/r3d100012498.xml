@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012498</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CESM Experiments</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Comnunity Earth System Model Experiments</r3d:additionalName>
+                <r3d:repositoryURL>https://www.cesm.ucar.edu/experiments/</r3d:repositoryURL>
+                <r3d:description language="eng">CESM is a fully-coupled, community, global climate model that provides state-of-the-art computer simulations of the Earth&#039;s past, present, and future climate states.</r3d:description>
+                    <r3d:repositoryContact>fair@ucar.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>help@ucar.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.cesm.ucar.edu/about/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.cesm.ucar.edu/about/mission-vision</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Community Climate Model - CCM</r3d:keyword>
+                    <r3d:keyword>atmospheric</r3d:keyword>
+                    <r3d:keyword>climate model</r3d:keyword>
+                    <r3d:keyword>earth</r3d:keyword>
+                    <r3d:keyword>forecasting</r3d:keyword>
+                    <r3d:keyword>geoengeneering</r3d:keyword>
+                    <r3d:keyword>ice</r3d:keyword>
+                    <r3d:keyword>land surface</r3d:keyword>
+                    <r3d:keyword>ocean</r3d:keyword>
+                    <r3d:keyword>simulation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.energy.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University Corporation for Atmospheric Research - National Center for Atmospheric Research, Climate and Global Dynamics Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCAR - NCAR, CGD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cgd.ucar.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03qrb1j36</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cgd.ucar.edu/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright &amp; Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.cesm.ucar.edu/models/cesm2/copyright</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Support Policy</r3d:policyName>
+                <r3d:policyURL>https://www.cesm.ucar.edu/about/support</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.cesm.ucar.edu/models/cesm2/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www2.cesm.ucar.edu/management/docs/data.mgt.plan.2011.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://www.cesm.ucar.edu/projects/cvdp/data-repository</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-10-06</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010951</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Purdue University Research Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PURR</r3d:additionalName>
+                <r3d:repositoryURL>https://purr.purdue.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.785d2f</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Purdue University Research Repository (PURR) provides a virtual research environment and data publication and archiving platform for its campuses. Also supports the publication and online execution of software tools with DataCite DOIs.</r3d:description>
+                    <r3d:repositoryContact>https://purr.purdue.edu/contact-us</r3d:repositoryContact>
+                    <r3d:repositoryContact>purr@purdue.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://purr.purdue.edu/legal/collection-policy</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>data libraries</r3d:keyword>
+                    <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Purdue University</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.purdue.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05p8z3f47</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_017208</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Collection Policy</r3d:policyName>
+                <r3d:policyURL>https://purr.purdue.edu/legal/collection-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>PURR Digital Preservation Policy</r3d:policyName>
+                <r3d:policyURL>https://purr.purdue.edu/legal/digitalpreservation</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Preservation Strategies</r3d:policyName>
+                <r3d:policyURL>https://purr.purdue.edu/legal/preservation-strategies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Preservation Support Policy</r3d:policyName>
+                <r3d:policyURL>https://purr.purdue.edu/legal/preservation-support-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Purdue University Research Repository (PURR) Terms of Deposit</r3d:policyName>
+                <r3d:policyURL>https://purr.purdue.edu/legal/termsofdeposit</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://purr.purdue.edu/legal/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Terms of Deposit</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://purr.purdue.edu/legal/termsofdeposit</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://purr.purdue.edu/oaipmh</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://purr.purdue.edu/publications/1702</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Purdue University Research Repository is covered by Thomson Reuters Data Citation Index. PURR provides usage metrics.</r3d:remarks>
+        <r3d:entryDate>2014-09-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

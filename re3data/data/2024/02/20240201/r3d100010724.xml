@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010724</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Atomic and Molecular Data Research Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AMDRC</r3d:additionalName>
+                <r3d:repositoryURL>https://amdata.nifs.ac.jp/amdrc/</r3d:repositoryURL>
+                <r3d:description language="eng">&gt;&gt;&gt; ---  !!!!   Attention: Obviously the institute  does not exist any more. The links do not work anymore.    !!!! --- &lt;&lt;&lt;  Our center is devoted to: Collection, compilation, evaluation, and dissemination of scientific information required for fusion research, and Investigation of problems arising in the course of development of fusion research. There are atomic and molecular (A &amp; M) numerical databases and bibliographic databases on plasma physics and atomic physics.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate>2016</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">307 Condensed Matter Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>astronomy</r3d:keyword>
+                    <r3d:keyword>atomic physics</r3d:keyword>
+                    <r3d:keyword>atomic processes</r3d:keyword>
+                    <r3d:keyword>fusion</r3d:keyword>
+                    <r3d:keyword>fusion energy system</r3d:keyword>
+                    <r3d:keyword>plasma physics</r3d:keyword>
+                    <r3d:keyword>plasma process</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institute for Fusion Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIFS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nifs.ac.jp/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.nifs.ac.jp/en/about.html</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://dbshino.nifs.ac.jp/info.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://dbshino.nifs.ac.jp/info.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://dbshino.nifs.ac.jp/cgi-bin/login_free.cgi</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>There are atomic and molecular numerical databases: 
+AMDIS - Cross sections and rate coefficients for ionization, excitation, and recombination by electron impact (since 1961). Please use AMOL for molecule targets.
+CHART - Cross sections for charge transfer and ionization by heavy particle collision. Please use CMOL for molecule targets.
+Tables for number of data records in CHART.
+AMOL (AMDIS-molecule) - ross sections and rate coefficients for electron - molecule collision processes.
+CMOL (CHART-molecule) - Cross sections and rate coefficients for heavy particle - molecule collision processes.
+SPUTY - Sputtering yields for solids (since 1931).
+BACKS - Energy and particle back scattering coefficients of light ions injected into surface.
+CURVE - Draw empirical curves for ionization cross section by Lotz formula, charge transfer cross section, sputtering yield, and backscattering coefficient.
+Bibliographic databases ORNL -   Bibliography on atomic collision collected at ORNL (since 1959).</r3d:remarks>
+        <r3d:entryDate>2013-10-08</r3d:entryDate>
+        <r3d:lastUpdate>2018-12-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

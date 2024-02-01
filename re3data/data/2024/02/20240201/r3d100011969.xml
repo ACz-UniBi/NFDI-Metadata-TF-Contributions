@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011969</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EPIC study</r3d:repositoryName>
+                    <r3d:additionalName language="eng">European Prospective Investigation into Cancer and Nutrition Study</r3d:additionalName>
+                <r3d:repositoryURL>https://epic.iarc.fr/index.php</r3d:repositoryURL>
+                <r3d:description language="eng">The European Prospective Investigation into Cancer and Nutrition (EPIC) study is one of the largest cohort studies in the world, with more than half a million (521 000) participants recruited across 10 European countries and followed for almost 15 years.
+
+EPIC was designed to investigate the relationships between diet, nutritional status, lifestyle and environmental factors, and the incidence of cancer and other chronic diseases. EPIC investigators are active in all fields of epidemiology, and important contributions have been made in nutritional epidemiology using biomarker analysis and questionnaire information, as well as genetic and lifestyle investigations.</r3d:description>
+                    <r3d:repositoryContact>epic@iarc.fr</r3d:repositoryContact>
+                    <r3d:repositoryContact>epicadmin@imperial.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://epic.iarc.fr/contactus/contactus.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-01-05">521.000 participants</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://epic.iarc.fr/access/missionstatement.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>EPIC-Elderly</r3d:keyword>
+                    <r3d:keyword>EPIC-Heart</r3d:keyword>
+                    <r3d:keyword>acrylamide</r3d:keyword>
+                    <r3d:keyword>biomarkers</r3d:keyword>
+                    <r3d:keyword>biostatistics</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>cardiovascular diseases</r3d:keyword>
+                    <r3d:keyword>diabetes - InterAct</r3d:keyword>
+                    <r3d:keyword>healthy ageing</r3d:keyword>
+                    <r3d:keyword>mortality</r3d:keyword>
+                    <r3d:keyword>neurodegeneration</r3d:keyword>
+                    <r3d:keyword>nutrition</r3d:keyword>
+                    <r3d:keyword>obesity - PANACEA</r3d:keyword>
+                    <r3d:keyword>osteoporosis and fractures</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Imperial College London, School of Public Health</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www1.imperial.ac.uk/publichealth/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>e.riboli@imperial.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Health Organization, International Agency for Research on Cancer</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IARC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">WHO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iarc.who.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00v452281</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>brennanp@iarc.fr</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>DATA TRANSFER AGREEMENT - DTA</r3d:policyName>
+                <r3d:policyURL>https://epic.iarc.fr/docs/CIRC71_DTA-out-EPIC.dot</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>EPIC Access Policy</r3d:policyName>
+                <r3d:policyURL>https://epic.iarc.fr/docs/EPIC_Access_Policy_and_Guidelines.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>IARC ethics questionnaire</r3d:policyName>
+                <r3d:policyURL>https://ethics.iarc.fr/project-submission/faqs-iec-2021.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Publication guidelines for EPIC related studies</r3d:policyName>
+                <r3d:policyURL>https://epic.iarc.fr/docs/EPIC_Publication%20Guidelines.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Reference documents</r3d:policyName>
+                <r3d:policyURL>https://epic.iarc.fr/access/ref_documents.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://epic.iarc.fr/docs/CIRC71_DTA-out-EPIC.dot</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-04-25</r3d:entryDate>
+        <r3d:lastUpdate>2022-01-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

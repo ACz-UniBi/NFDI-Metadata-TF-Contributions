@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013031</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">AIDA Data Hub</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AIDA Dataset Register</r3d:additionalName>
+                    <r3d:additionalName language="eng">Analytic Imaging Diagnostics Arena Data Hub</r3d:additionalName>
+                <r3d:repositoryURL>https://datahub.aida.scilifelab.se/</r3d:repositoryURL>
+                <r3d:description language="eng">The AIDA data hub is a place where researchers can collaboratively gather, annotate, share and enrich large volumes of research data for machine learning in medical imaging diagnostics.</r3d:description>
+                    <r3d:repositoryContact>claes.lundstrom@liu.se</r3d:repositoryContact>
+                    <r3d:repositoryContact>joel.hedlund@liu.se</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-02-27">6.14 TB and growing</r3d:size>
+        <r3d:startDate>2019-01-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20506 Pathology and Forensic Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20530 Radiology and Nuclear Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.scilifelab.se/units/aida-data-hub/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>artificial intelligence</r3d:keyword>
+                    <r3d:keyword>pathology</r3d:keyword>
+                    <r3d:keyword>radiology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Analytic Imaging Diagnostics Arena</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIDA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://medtech4health.se/aida/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2018-10-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>claes.lundstrom@liu.se</r3d:institutionContact>
+                                    <r3d:institutionContact>joel.hedlund@liu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Linköping University, Centre for Medical Image science and Visualization</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CMIV</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://liu.se/en/research/center-for-medical-image-science-and-visualization-cmiv</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2018-10-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>anders.s.persson@liu.se</r3d:institutionContact>
+                                    <r3d:institutionContact>joel.hedlund@liu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Region Östergötland</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.regionostergotland.se/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2018-10-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Dennis.Carlsson@regionostergotland.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">SciLifeLab</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.scilifelab.se/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04ev03g22</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_014078</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">SciLifeLab, National Bioinformatics Infrastructure Sweden</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NBIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nbis.se/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00enajs79</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sectra AB</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sectra.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:025nk1308</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2018-10-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>claes.lundstrom@sectra.com</r3d:institutionContact>
+                                    <r3d:institutionContact>daniel.forsberg@sectra.com</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>AIDA data sharing policy</r3d:policyName>
+                <r3d:policyURL>https://aida-dataset-register.github.io/sharing/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://aida-dataset-register.github.io/sharing/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://datahub.aida.scilifelab.se/api/1.0/metadata.json</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>API url to human readable page with links to versioned APIs: https://datahub.aida.scilifelab.se/api/#v10
+ind datasets of interest on the AIDA data hub: https://aida-dataset-register.github.io/search/
+Further information: https://medtech4health.se/en/aida-arena/organization/</r3d:remarks>
+        <r3d:entryDate>2019-04-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

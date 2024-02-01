@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012482</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Genomic Resources Repository</r3d:repositoryName>
+                <r3d:repositoryURL>http://www.nbpgr.ernet.in:8080/repository/home.htm</r3d:repositoryURL>
+                <r3d:description language="eng">National Genomic Resources Repository is established as an institutional framework for methodical and centralized efforts to collect, generate, conserve and distribute genomic resources for agricultural research.</r3d:description>
+                    <r3d:repositoryContact>http://www.nbpgr.ernet.in:8080/repository/contactus.htm</r3d:repositoryContact>
+                    <r3d:repositoryContact>repository@nbpgr.ernet.in</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.nbpgr.ernet.in:8080/repository/introduction.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agricultural research</r3d:keyword>
+                    <r3d:keyword>plant genomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of India, Ministry of Agriculture, Indian Council of Agricultural Research, National Bureau of Plant Genetics Resources</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICAR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NBPGR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nbpgr.ernet.in/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00scbd467</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.nbpgr.ernet.in/Contact.aspx</r3d:institutionContact>
+                                    <r3d:institutionContact>support.it@icar.gov.in</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>MTA - Non-Commercial Material Transfer Agreement for DNA Samples</r3d:policyName>
+                <r3d:policyURL>http://www.nbpgr.ernet.in:8080/repository/form_D2.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.nbpgr.ernet.in:8080/repository/deposit.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.nbpgr.ernet.in:8080/repository/form_D2.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-09-29</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

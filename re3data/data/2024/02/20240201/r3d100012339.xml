@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012339</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">APID</r3d:repositoryName>
+                    <r3d:additionalName language="eng">APID Interactomes</r3d:additionalName>
+                    <r3d:additionalName language="eng">Agile Protein Interactomes DataServer</r3d:additionalName>
+                <r3d:repositoryURL>http://cicblade.dep.usal.es:8080/APID/init.action</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRSharing_doi:10.25504/fairsharing.8ye60e</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RID:nlx_149321</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_008871</r3d:repositoryIdentifier>
+                <r3d:description language="eng">APID Interactomes is a database that provides a comprehensive collection of protein interactomes for more than 400 organisms based in the integration of known experimentally validated protein-protein physical interactions (PPIs). Construction of the interactomes is done with a methodological approach to report quality levels and coverage over the proteomes for each organism included. In this way, APID provides interactomes from specific organisms that in 25 cases have more than 500 proteins. As a whole APID includes a comprehensive compendium of 90,379 distinct proteins and 678,441 singular interactions. The analytical and integrative effort done in APID unifies PPIs from primary databases of molecular interactions (BIND, BioGRID, DIP, HPRD, IntAct, MINT) and also from experimentally resolved 3D structures (PDB) where more than two distinct proteins have been identified. In this way, 8,388 structures have been analyzed to find specific protein-protein interactions reported with details of their molecular interfaces. APID also includes a new data visualization web-tool that allows the construction of sub-interactomes using query lists of proteins of interest and the visual exploration of the corresponding networks, including an interactive selection of the properties of the interactions (i.e. the reliability of the &quot;edges&quot; in the network) and an interactive mapping of the functional environment of the proteins (i.e. the functional annotations of the &quot;nodes&quot; in the network).</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2017-03-30">400 organisms</r3d:size>
+        <r3d:startDate>2016</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://cicblade.dep.usal.es:8080/APID/init.action#tabr4</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Interactome</r3d:keyword>
+                    <r3d:keyword>cell biology</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>proteins interactions</r3d:keyword>
+                    <r3d:keyword>proteome</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Centro de Investigacion del Cancer, Instituto Biologia Molecular y Celular del Cancer</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Cancer Research Center, Bioinformatics and Functional Genomics Research Group</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">CiC-IBMCC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usal.es/instituto-universitario-de-biologia-molecular-y-celular-del-cancer-ibmcc</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="spa">Consejo Superior de Investigaciones Cientificas</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">CSIC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.csic.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02gfc7t72</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011534</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156803</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="spa">Instituto de Salud Carlos III</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">ISC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.isciii.es/Paginas/Inicio.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00ca2c886</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011312</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="spa">Universidad de Salamanca</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USAL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usal.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02f40zc51</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_007833</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_149149</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>About APID</r3d:policyName>
+                <r3d:policyURL>http://cicblade.dep.usal.es:8080/APID/init.action#tabr4</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://cicblade.dep.usal.es:8080/APID/init.action#subtab3</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>APID server was built with a protein and proteome-centered strategy, using UniProt database (https://www.uniprot.org/) as the main guide to identify and handle all the proteins and to map them into the reference proteomes of each species (based on the new proteomes resource that UniProt has recently developed: https://www.uniprot.org/proteomes/).</r3d:remarks>
+        <r3d:entryDate>2017-03-30</r3d:entryDate>
+        <r3d:lastUpdate>2022-06-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

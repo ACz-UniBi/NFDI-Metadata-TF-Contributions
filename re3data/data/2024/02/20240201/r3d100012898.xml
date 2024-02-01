@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012898</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">eHOMD</r3d:repositoryName>
+                    <r3d:additionalName language="eng">expanded Human Oral Microbiome Database</r3d:additionalName>
+                <r3d:repositoryURL>http://www.homd.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.v3jf2q</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_29834</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_012770</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_22198</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The goal of creating the Human Oral Microbiome Database (HOMD) is to provide the scientific community with comprehensive information o­n the approximately 700 prokaryote species that are present in the human oral cavity. Approximately 49% are officially named, 17% unnamed (but cultivated) and 34% are known o­nly as uncultivated phylotypes. The HOMD presents a provisional naming scheme for the currently unnamed species so that strain, clone, and probe data from any laboratory can be directly linked to a stably named reference scheme. The HOMD links sequence data with phenotypic, phylogenetic, clinical, and bibliographic information. Genome sequences for oral bacteria determined as part of this project, the Human Microbiome Project, and other sequencing projects are being added to the HOMD as they become available. Genomes for 315 oral taxa (46% of taxa o­n HOMD) are currently available o­n HOMD. The HOMD site offers easy to use tools for viewing all publically available oral bacterial genomes.</r3d:description>
+                    <r3d:repositoryContact>fdewhirst@forsyth.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www.homd.org/modules.php?name=Article&amp;toc=1&amp;sid=27</r3d:repositoryContact>
+                    <r3d:repositoryContact>tchen@forsyth.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.homd.org/index.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ADT</r3d:keyword>
+                    <r3d:keyword>genomic data</r3d:keyword>
+                    <r3d:keyword>human aerpdogestove tract</r3d:keyword>
+                    <r3d:keyword>microbiota</r3d:keyword>
+                    <r3d:keyword>oral microbiome</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Forsyth Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.forsyth.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute for Dental and Craniofacial Research</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nidcr.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_012904</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005105</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>HOMD User Documentation</r3d:policyName>
+                <r3d:policyURL>http://www.homd.org/index.php?name=Article</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Hands on Guide to HOMD</r3d:policyName>
+                <r3d:policyURL>http://www.homd.org/download/guide/Hands_on_Guide_to_HOMD_20090330.ppt</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Research Focus</r3d:policyName>
+                <r3d:policyURL>https://forsyth.org/research-focus</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.homd.org/index.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">http://www.homd.org/ftp/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.homd.org/index.php?name=Article&amp;toc=1&amp;sid=89</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>eHOMD is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2018-11-13</r3d:entryDate>
+        <r3d:lastUpdate>2021-10-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

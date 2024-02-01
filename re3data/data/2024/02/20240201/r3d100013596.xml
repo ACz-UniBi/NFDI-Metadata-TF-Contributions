@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013596</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">German Central Health Study Hub</r3d:repositoryName>
+                <r3d:repositoryURL>https://csh.nfdi4health.de/</r3d:repositoryURL>
+                <r3d:description language="eng">The German Central Health Study Hub is a platform that serves two different kinds of users. First, it allows scientists and data holding organizations (data producers) to publish their project characteristics, documents and data related to their research endeavour in a FAIR manner. Obviously, patient-level data cannot be shared publicly, however, metadata describing the patient-level data along with information about data access can be shared via the platform (preservation description information). The other kind of user is a scientist or researcher (data consumer) that likes to find information about past and ongoing studies and is interested in reusing existing patient-level data for their project. To summarize, the platforms connect data providers with data consumers in the domain of clinical, public health and epidemiologic health research to foster reuse. 
+The platform aggregates and harmonizes information already entered in various public repositories such as DRKS, clinicaltrials.gov, WHO ICTRP to provide a holistic view of the German research landscape in the aforementioned research areas. In addition, data stewards actively collect available information from (public) resources such as websites that cannot be automatically integrated.
+The service started during the COVID-19 pandemic.</r3d:description>
+                    <r3d:repositoryContact>contact@nfdi4health.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>fb.studyhub@nfdi4health.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-25">1557 studies and 252 associated documents (questionnaires/case report forms)</r3d:size>
+        <r3d:startDate>2020-10-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20513 Pneumology, Clinical Infectiology Intensive Care Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>SARS-CoV-2</r3d:keyword>
+                    <r3d:keyword>clinical studies</r3d:keyword>
+                    <r3d:keyword>epidemiology</r3d:keyword>
+                    <r3d:keyword>health data</r3d:keyword>
+                    <r3d:keyword>nfdi</r3d:keyword>
+                    <r3d:keyword>nfdi4health</r3d:keyword>
+                    <r3d:keyword>public health</r3d:keyword>
+                    <r3d:keyword>study registry</r3d:keyword>
+                    <r3d:keyword>survey instruments</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Berlin Institute of Health at Charité</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bihealth.org/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0493xsw21</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bihealth.org/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dfg.de/en/service/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Fraunhofer Institute for Digital Medicine MEVIS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Fraunhofer-Institut für Digitale Medizin MEVIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mevis.fraunhofer.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04farme71</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mevis.fraunhofer.de/en/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Heidelberg Institute for Theoretical Studies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HITS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">HITS gGmbH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Heidelberger Institut für Theoretische Studien</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.h-its.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01f7bcy98</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.h-its.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">KKS-Netzwerk e.V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KKS Network</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">KKSN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kks-netzwerk.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.kks-netzwerk.de/en/page-information/contact-form/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute for Prevention Research and Epidemiology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIPS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut für Präventionsforschung und Epidemiologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bips-institut.de/en/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02c22vc57</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bips-institut.de/en/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Robert Koch Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">RKI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Robert Koch Institut</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rki.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01k5qnb77</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.rki.de/EN/Service/Contact/Contact_node.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University Medical Center Göttingen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">UMG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universitätsmedizin Göttingen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.umg.eu/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021ft0n22</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University Medicine of Greifswald</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Universitätsmedizin Greifswald</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.medizin.uni-greifswald.de/de/home/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Leipzig,Medical Faculty;  Institute for Medical Informatics, Statistics and Epidemiology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IMISE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität leipzig, Medizinische Fakultät,  Institut für Medizinische Informatik, Statistik und Epidemiologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imise.uni-leipzig.de/en/homepage</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2023-06-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.imise.uni-leipzig.de/en/Institute/Contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">ZB MED — Information Centre for Life Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">ZB MED - Informationszentrum Lebenswissenschaften</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.zbmed.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0259fwx54</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Health Data Use Act</r3d:policyName>
+                <r3d:policyURL>https://www.nfdi4health.de/en/news-eng/latest-news/item/240-health-data-use-act-gdng.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2021-06-30</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

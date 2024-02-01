@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011556</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MetaboLights</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/metabolights/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.kkdpxe</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000380</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_02535</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_014663</r3d:repositoryIdentifier>
+                <r3d:description language="eng">MetaboLights is a database for Metabolomics experiments and derived information. The database is cross-species, cross-technique and covers metabolite structures and their reference spectra as well as their biological roles, locations and concentrations, and experimental data from metabolic experiments.</r3d:description>
+                    <r3d:repositoryContact>https://www.ebi.ac.uk/metabolights/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-04-20">598 studies; 3.032 different organisms; 25.859 feference compounds;</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20515 Gastroenterology, Metabolism</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ebi.ac.uk/metabolights/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cosmos</r3d:keyword>
+                    <r3d:keyword>metabolic</r3d:keyword>
+                    <r3d:keyword>metabolic pathway</r3d:keyword>
+                    <r3d:keyword>metabolism</r3d:keyword>
+                    <r3d:keyword>metabolite</r3d:keyword>
+                    <r3d:keyword>metabolite database</r3d:keyword>
+                    <r3d:keyword>metabolites</r3d:keyword>
+                    <r3d:keyword>metabolomics</r3d:keyword>
+                    <r3d:keyword>metabolomics experiment</r3d:keyword>
+                    <r3d:keyword>metabolomics study</r3d:keyword>
+                    <r3d:keyword>metabonomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Biotechnology and Biological Sciences Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BBSRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://bbsrc.ukri.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://bbsrc.ukri.org/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/support/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute, Steinbeck group</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/research/steinbeck</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/people/christoph-steinbeck</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Cambridge, Griffin Group</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.metabolomics.bioc.cam.ac.uk/welcome</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>jlg40@cam.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>EMBL-EBI Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>MetaboLights Submission Guide</r3d:policyName>
+                <r3d:policyURL>https://docs.google.com/document/d/1kvBdnleInVr1UMyV-sm91w2uK_IfkU11Rx-uxvILOFU/view?pli=1#heading=h.30j0zll</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Apache License 2.0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>EBI Terms of Use</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/metabolights/studies/public/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ebi.ac.uk/metabolights/about</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>MetaboLights is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2015-02-18</r3d:entryDate>
+        <r3d:lastUpdate>2020-01-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

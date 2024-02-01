@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012647</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GnpIS</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Genetic and Genomic Information System</r3d:additionalName>
+                <r3d:repositoryURL>https://urgi.versailles.inrae.fr/gnpis</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.dw22y3</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100831</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_11988</r3d:repositoryIdentifier>
+                <r3d:description language="eng">GnpIS is a multispecies integrative information system dedicated to plant and fungi pests. It bridges genetic and genomic data, allowing researchers access to both genetic information (e.g. genetic maps, quantitative trait loci, association genetics, markers, polymorphisms, germplasms, phenotypes and genotypes) and genomic data (e.g. genomic sequences, physical maps, genome annotation and expression data) for species of agronomical interest. GnpIS is used by both large international projects and plant science departments at the French National Research Institute for Agriculture, Food and Environment. It is regularly improved and released several times per year. GnpIS is accessible through a web portal and allows to browse different types of data either independently through dedicated interfaces or simultaneously using a quick search (&#039;google like search&#039;) or advanced search (Biomart, Galaxy, Intermine) tools.</r3d:description>
+                    <r3d:repositoryContact>https://urgi.versailles.inrae.fr/Contact-us</r3d:repositoryContact>
+                    <r3d:repositoryContact>urgi-contact@inrae.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20201 Plant Systematics and Evolution</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20702 Plant Cultivation</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20705 Plant Breeding</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20709 Inventory Control and Use of Forest Resources</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20710 Basic Forest Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40903 Operating, Communication and Information Systems</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://urgi.versailles.inrae.fr/About-us</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>crop improvement.</r3d:keyword>
+                    <r3d:keyword>distributed information system</r3d:keyword>
+                    <r3d:keyword>federation</r3d:keyword>
+                    <r3d:keyword>forest</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>genetic</r3d:keyword>
+                    <r3d:keyword>genomic</r3d:keyword>
+                    <r3d:keyword>grape</r3d:keyword>
+                    <r3d:keyword>information system</r3d:keyword>
+                    <r3d:keyword>ontology</r3d:keyword>
+                    <r3d:keyword>pea</r3d:keyword>
+                    <r3d:keyword>phenomics</r3d:keyword>
+                    <r3d:keyword>phenotype</r3d:keyword>
+                    <r3d:keyword>phenotypics</r3d:keyword>
+                    <r3d:keyword>plant</r3d:keyword>
+                    <r3d:keyword>wheat</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, Unité de Recherche Génomique Info</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">INRAE, URGI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://urgi.versailles.inrae.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>VIAF:6521159248111304870006</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>urgi-contact@inrae.fr</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://urgi.versailles.inrae.fr/Platform/General-Terms-of-Use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://urgi.versailles.inrae.fr/Tools/Web-services</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://urgi.versailles.inrae.fr/Platform/General-Terms-of-Use</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>GnpIS use MIAPPE, an open, community driven project to harmonize data from plant phenotyping experiments, https://www.miappe.org/
+Publications:  GnpIS: an information system to integrate genetic and genomic data from plants and fungi,  https://doi.org/10.1093/database/bat058
+Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data, https://doi.org/10.1186/s13059-018-1491-4</r3d:remarks>
+        <r3d:entryDate>2018-04-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-06-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

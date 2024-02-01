@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013407</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CosmoHub</r3d:repositoryName>
+                <r3d:repositoryURL>https://cosmohub.pic.es</r3d:repositoryURL>
+                <r3d:description language="eng">CosmoHub is a web application based on Hadoop to perform interactive exploration and distribution of massive cosmological datasets</r3d:description>
+                    <r3d:repositoryContact>carretero@pic.es</r3d:repositoryContact>
+                    <r3d:repositoryContact>merino@pic.es</r3d:repositoryContact>
+                    <r3d:repositoryContact>tallada@pic.es</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-09-10">Total data volume: ~40 TiB; Number of public catalogs: 20; Number of private catalogs: 53</r3d:size>
+        <r3d:startDate>2016-10-18</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://cosmohub.pic.es/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ASDF</r3d:keyword>
+                    <r3d:keyword>Apache Hadoop</r3d:keyword>
+                    <r3d:keyword>Apache Hive</r3d:keyword>
+                    <r3d:keyword>FITS</r3d:keyword>
+                    <r3d:keyword>astrophysics</r3d:keyword>
+                    <r3d:keyword>cosmology</r3d:keyword>
+                    <r3d:keyword>data distribution</r3d:keyword>
+                    <r3d:keyword>data exploration</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIEMAT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ciemat.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05xx77y52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>merino@pic.es</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="spa">Institut de Física d&#039;Altes Energies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IFAE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ifae.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01sdrjx85</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>rmiquel@pic.es</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Institute of Space Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IEEC-CSIC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ice.csic.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01vbgty78</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>serrano@ice.csic.es</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="spa">Port d’Informació Científica</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">PIC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.pic.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03pwdyd87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>merino@pic.es</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Legal Information</r3d:policyName>
+                <r3d:policyURL>https://cosmohub.pic.es/legal</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://cosmohub.pic.es/legal</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://en.wikipedia.org/wiki/Public-domain-equivalent_license</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://choosealicense.com/licenses/agpl-3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cosmohub.pic.es</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>PURL</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-09-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010059</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ShareGeo Open</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Edinburgh DataShare</r3d:additionalName>
+                <r3d:repositoryURL>https://datashare.ed.ac.uk/handle/10283/2345</r3d:repositoryURL>
+                <r3d:description language="eng">ShareGeo Open was a repository of geospatial data, previously hosted by EDINA. ShareGeo Open has been discontinued, so its datasets have been migrated to this Edinburgh DataShare Collection, for preservation, in accordance with the agreement signed by all ShareGeo depositors.</r3d:description>
+                    <r3d:repositoryContact>edina@ed.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate>2019-12-31</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>boundaries</r3d:keyword>
+                    <r3d:keyword>city planning</r3d:keyword>
+                    <r3d:keyword>economic history</r3d:keyword>
+                    <r3d:keyword>environment</r3d:keyword>
+                    <r3d:keyword>geospatial data</r3d:keyword>
+                    <r3d:keyword>historical geography</r3d:keyword>
+                    <r3d:keyword>satellite image maps</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Joint Information Systems Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JISC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jisc.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01rv9gx86</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2010</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>help@jisc.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Edinburgh</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ed.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01nrxwf90</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ed.ac.uk/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Research Data Management Policy</r3d:policyName>
+                <r3d:policyURL>https://www.ed.ac.uk/information-services/about/policies-and-regulations/research-data-policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>DataShare depositor agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ed.ac.uk/information-services/research-support/research-data-service/after/data-repository/depositor-agreement</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>ShareGeo open is covered by Thomson Reuters Data Citation Index. ShareGeo parts in 2 sections: ShareGeo Open and ShareGeo digimap; Digimap is a service offering free access to maps and geospatial data from a number of national data providers only for users from subscribing UK universities and colleges.</r3d:remarks>
+        <r3d:entryDate>2012-09-28</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012850</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Pfam Protein Families</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Pfam</r3d:additionalName>
+                <r3d:repositoryURL>http://pfam.xfam.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.y3scf6</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01696</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004726</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Pfam database is a large collection of protein families, each represented by multiple sequence alignments and hidden Markov models (HMMs).
+!!! Powering down the Pfam website
+On October 5th,  redirecting the traffic from Pfam (pfam.xfam.org) to InterPro (www.ebi.ac.uk/interpro) will start. The Pfam website will be available at legacy.pfam.xfam.org until January 2023, when it will be decommissioned. You can read more about the sunset period in the blog post (https://xfam.wordpress.com/2022/08/04/pfam-website-decommission/).  !!!</r3d:description>
+                    <r3d:repositoryContact>pfam-help@ebi.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-12-08">18.259 entries</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2023-01</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>clans</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                    <r3d:keyword>protein families</r3d:keyword>
+                    <r3d:keyword>protein sequence</r3d:keyword>
+                    <r3d:keyword>proteomes</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory - European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">European Molecular Biology Laboratory</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_72386</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Wellcome Trust Sanger Institute</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wellcome.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029chgv08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy statement</r3d:policyName>
+                <r3d:policyURL>http://pfam.xfam.org/help#tabview=tab14</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/Pfam</r3d:api>
+                    <r3d:api apiType="REST">http://pfam.xfam.org/help#helpRestBlock</r3d:api>
+                        <r3d:citationGuidelineURL>http://pfam.xfam.org/help?tab=helpReferencesBlock#tabview=tab7</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://xfam.wordpress.com/tag/pfam/feed/</r3d:syndication>
+                <r3d:remarks>Pfam family annotations are now pulled from Wikipedia, so users can contribute to Pfam by creating and editing Wikipedia entries (http://pfam.xfam.org/help#tabview=tab8).
+Pfam is part of the ELIXIR infrastructure</r3d:remarks>
+        <r3d:entryDate>2018-08-28</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

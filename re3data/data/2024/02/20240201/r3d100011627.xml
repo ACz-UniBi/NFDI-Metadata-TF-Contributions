@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011627</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Polar Rock Repository Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PRR</r3d:additionalName>
+                <r3d:repositoryURL>https://prr.osu.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_002212</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_154740</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>doi:10.7289/V5RF5S18</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Polar Rock Repository (PRR) at the Byrd Polar and Climate Research Center (BPCRC) at Ohio State University is an NSF-OPP funded facility that provides access to rock, terrestrial drill core, glacial deposits and marine dredge samples from Antarctica and the Southern Ocean. The polar rock collection and database includes field notes, photos, maps, cores, powder and mineral residues, thin sections, and residues. Rock samples may be borrowed for research by university scientists. Samples may also be borrowed for educational or museum use in the United States.</r3d:description>
+                    <r3d:repositoryContact>curator@bpcrc.osu.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://prr.osu.edu/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>antarctica</r3d:keyword>
+                    <r3d:keyword>dredge</r3d:keyword>
+                    <r3d:keyword>geology</r3d:keyword>
+                    <r3d:keyword>glacial</r3d:keyword>
+                    <r3d:keyword>minerals</r3d:keyword>
+                    <r3d:keyword>rock sample</r3d:keyword>
+                    <r3d:keyword>sediment</r3d:keyword>
+                    <r3d:keyword>volcano</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation, Office of Polar Programs</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF, OPP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/div/index.jsp?div=OPP</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05nwjp114</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2012-04-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>OPPwebmaster@nsf.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ohio State University, Byrd Polar and Climate Research Center</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bpcrc.osu.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>byrd-contact@osu.edu</r3d:institutionContact>
+                                    <r3d:institutionContact>https://byrd.osu.edu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ohio State University, Office of Sponsored Programs</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OSU-OSP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://osp.osu.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2012-04-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://research.osu.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Guidelines for Donations and Loans</r3d:policyName>
+                <r3d:policyURL>https://prr.osu.edu/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://library.osu.edu/copyright/basics</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://prr.osu.edu/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>This material is based upon work supported by the National Science Foundation, Office of Polar Programs, under Cooperative Agreement NSF-OPP 2137467.
+The USPRR uses commercial software called EMu (by KE Software) as the in-house and online database for the repository.</r3d:remarks>
+        <r3d:entryDate>2015-06-29</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

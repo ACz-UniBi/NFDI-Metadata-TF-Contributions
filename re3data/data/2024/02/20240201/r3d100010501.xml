@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010501</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Crustal Dynamics Data Information System</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CDDIS</r3d:additionalName>
+                    <r3d:additionalName language="eng">NASA&#039;s archive of space geodesy data</r3d:additionalName>
+                <r3d:repositoryURL>https://cddis.nasa.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001568</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Crustal Dynamics Data Information System (CDDIS) was initially developed to provide a central data bank for NASA&#039;s Crustal Dynamics Project (CDP). The Crustal Dynamics Data Information System (CDDIS) supports data archiving and distribution activities for the space geodesy and geodynamics community. The main objectives of the system are to store space geodesy and geodynamics related data products in a central data bank, to maintain information about the archival of these data, and to disseminate these data and information in a timely manner to NASA investigators and cooperating institutions.</r3d:description>
+                    <r3d:repositoryContact>support-cddis@earthdata.nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1982</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://cddis.nasa.gov/About/Background.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Doppler Orbitography</r3d:keyword>
+                    <r3d:keyword>Global Navigation Satellite Systems GNSS</r3d:keyword>
+                    <r3d:keyword>Radio-positioning Integrated by Satellite DORIS</r3d:keyword>
+                    <r3d:keyword>Very Long Baseline Interferometry VLBI</r3d:keyword>
+                    <r3d:keyword>geodesy</r3d:keyword>
+                    <r3d:keyword>geodynamics</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>ionospheric data</r3d:keyword>
+                    <r3d:keyword>laser</r3d:keyword>
+                    <r3d:keyword>laser ranging</r3d:keyword>
+                    <r3d:keyword>orbit</r3d:keyword>
+                    <r3d:keyword>satellites</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">NASA Goddard Space Flight Center</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/goddard</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0171mag52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Edwin.J.Grayzeck@nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/about/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Certification of WDS Members</r3d:policyName>
+                <r3d:policyURL>https://www.worlddatasystem.org/services/certification</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ICSU World Data System Constitution</r3d:policyName>
+                <r3d:policyURL>https://www.worlddatasystem.org/organization/constitution_and_bylaws/constitution</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CDDIS File Upload Procedures</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://cddis.nasa.gov/About/CDDIS_File_Upload_Documentation.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://gdc.cddis.eosdis.nasa.gov/</r3d:api>
+                    <r3d:api apiType="FTP">http://slacksite.com/other/ftp.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                                <r3d:remarks>ftp for uploading files will no longer be supported.Files are then submitted to CDDIS using an HTTP POST request (2017-17-05). - CDDIS is part of the ICSU World Data System (WDS). CDDIS is one of two data centers, which makes access possible of ILRS data, products, and predictions (and EDC). CDDIS contains the following data sets: GNSS Data, SLR Data, VLBI Data and DORIS Data.
+The Crustal Dynamics Data Information System (CDDIS) has served as a global data center for the International GPS Service (IGS).</r3d:remarks>
+        <r3d:entryDate>2013-09-23</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

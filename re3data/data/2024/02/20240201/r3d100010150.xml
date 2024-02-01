@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010150</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">LISS Panel</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Longitudinal Internet Studies for the Social sciences</r3d:additionalName>
+                <r3d:repositoryURL>https://www.lissdata.nl/</r3d:repositoryURL>
+                <r3d:description language="eng">The LISS panel (Longitudinal Internet Studies for the Social sciences) is the principal component of the MESS project. It consists of 5000 households, comprising approximately 7500 individuals. The panel is based on a true probability sample of households drawn from the population register by Statistics Netherlands. Households that could not otherwise participate are provided with a computer and Internet connection. In addition to the LISS panel an Immigrant panel was available from October 2010 up until December 2014. This Immigrant panel consisted of around 1,600 households (2,400 individuals) of which 1,100 households (1,700 individuals) were of non-Dutch origin. The data from this panel are still available through the LISS data archive (https://www.dataarchive.lissdata.nl/study_units/view/162). 
+Panel members complete online questionnaires every month of about 15 to 30 minutes in total. They are paid for each completed questionnaire. One member in the household provides the household data and updates this information at regular time intervals.</r3d:description>
+                    <r3d:repositoryContact>https://www.lissdata.nl/node/27</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2007-10</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.lissdata.nl/about-panel</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>LISS Core Study</r3d:keyword>
+                    <r3d:keyword>MESS</r3d:keyword>
+                    <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>immigrants</r3d:keyword>
+                    <r3d:keyword>longitudinal study</r3d:keyword>
+                    <r3d:keyword>microdata</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Netherlands Organisation for Scientific Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Dutch Research Council</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">NWO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Nederlandse Organisatie voor Wetenschappelijk Onderzoek</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nwo.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04jsz6e67</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>r.slobben@nwo.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="nld">Tilburg University, Instituut voor dataverzameling en onderzoek, CentERdata</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">TIU, CentERdata</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Tilburg University , Institute for data collection and research, CentERdata</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.centerdata.nl/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>centerdata@uvt.nl</r3d:institutionContact>
+                                    <r3d:institutionContact>g.demirel@uvt.nl</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Core Trust Seal</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2021/11/20211123-4tu-centre-for-research-data_final.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Seal of Approval</r3d:policyName>
+                <r3d:policyURL>https://www.lissdata.nl/access-data/data-seal-approval-dsa</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Preservation and Dissemination Policy of the LISS Data Archive
+date</r3d:policyName>
+                <r3d:policyURL>https://www.lissdata.nl/sites/default/files/afbeeldingen/PreservationandDisseminationPolicyoftheLISSDataArchive_1.3.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Rules and conditions</r3d:policyName>
+                <r3d:policyURL>https://www.lissdata.nl/access-data</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wetten.overheid.nl/BWBR0001886/2012-01-01</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.lissdata.nl/access-data</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>URN</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.lissdata.nl/sites/default/files/bestanden/Reference_LISS_4.0.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                    <r3d:certificate>DSA</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>LISS panel is covered by Thomson Reuters Data Citation Index. The LISS panel is the core element of the MESS project (Measurement and Experimentation in the Social Sciences). This project is devoted to enabling researchers to benefit from existing data, to carry out their own survey or to design a special experiment. Every researcher at a university or research institute in the Netherlands or elsewhere can submit a proposal for a panel throughout the year. We strive to integrate different academic disciplines: besides proposals from economics and the social sciences, we welcome proposals from the medical and biomedical sciences and the behavioral sciences.
+DSA seal from 23/03/2016 expired</r3d:remarks>
+        <r3d:entryDate>2013-09-05</r3d:entryDate>
+        <r3d:lastUpdate>2022-01-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

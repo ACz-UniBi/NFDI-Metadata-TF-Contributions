@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011029</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Barrow Area Information Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BAID</r3d:additionalName>
+                <r3d:repositoryURL>http://barrowmapped.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The Barrow area on the North Slope of Alaska is one of the most intensely sampled locations in the Arctic with research sites dating back to the 1940s. The Barrow Area Information Database (BAID) is a resource for learning about the types of data collection activities in the region. The BAID team collaborates with scientists and the local community to compile and share this information via online web mapping applications.</r3d:description>
+                    <r3d:repositoryContact>http://barrowmapped.org/#section-contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-11-29">12.000 research plots</r3d:size>
+        <r3d:startDate>2000-06</r3d:startDate>
+        <r3d:endDate>2010-01-31</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://data.eol.ucar.edu/dataset/106.ARCSS400</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Barrow (Alaska)</r3d:keyword>
+                    <r3d:keyword>North Slope (Alaska)</r3d:keyword>
+                    <r3d:keyword>geospatial data</r3d:keyword>
+                    <r3d:keyword>satellity imagery</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Barrow Arctic Science Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BASC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://arcticscience.wordpress.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0447b5h55</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>basc@nuvuk.net</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2009</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The University of Texas at El Paso, Department of Biological Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UTEP, Department of Biology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.utep.edu/science/biology/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>aaguirre3@miners.utep.edu</r3d:institutionContact>
+                                    <r3d:institutionContact>ctweedie@utep.edu</r3d:institutionContact>
+                                    <r3d:institutionContact>nunatech@usa.net</r3d:institutionContact>
+                                    <r3d:institutionContact>rpcody@utep.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UNAVCO</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University NAVSTAR Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unavco.org/projects/project-support/polar/polar.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02n9tn974</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.unavco.org/contact/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.ucar.edu/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ucar.edu/notification-copyright-infringement-digital-millenium-copyright-act</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ucar.edu/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://data.eol.ucar.edu/dataset/106.ARCSS400</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Data sets unique to BAID are available via Barrow Area Information Database (BAID) Geospatial Data Sets at the Earth Observing Lab at:  https://data.eol.ucar.edu/dataset/106.ARCSS400.
+Metadata that meets the standards of the Federal Geographic Data Committee (FGDC) is available (or under development) for many data layers in BAID-IMS. Data that is considered unrestricted can be downloaded at the Arctic System Science (ARCSS) Data Coordination Center (ADCC) at the National Snow and Ice Data Center (NSIDC) located at University of Colorado in Boulder, USA.
+In 2003, BASC&#039;s Digital Subcommittee saw an opportunity to visual the BAID database with Internet Map Server (IMS) technology and commonly requested base maps.  The BAID-IMS prototype was soon released. 
+Allison Graves Gaylord. 2016. Barrow Area Information Database (BAID) Geospatial Data Sets, Barrow, AK, USA. Arctic Data Center: https://arcticdata.io/catalog/#view/doi:10.5065/D6VT1Q75
+Archived pages see: http://archive.is/search/?q=*www.baidims.org
+The development of these applications has been discontinued: BAID IMS, BAID in Google Earth
+BAID Research Sites (formats available include OGC WMS, WFS and Geoservices RES): http://arcticgeoservices.org/arcgis/rest/services/public/BAID_Research_Sites/MapServer</r3d:remarks>
+        <r3d:entryDate>2014-07-09</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

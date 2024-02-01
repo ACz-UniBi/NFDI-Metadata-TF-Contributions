@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010505</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Physical Oceanography Distributed Active Archive Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PO.DAAC</r3d:additionalName>
+                <r3d:repositoryURL>https://podaac.jpl.nasa.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001567</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Physical Oceanography Distributed Active Archive Center (PO.DAAC) is an element of the Earth Observing System Data and Information System (EOSDIS). The EOSDIS provides science data to a wide community of users for NASA&#039;s Science Mission Directorate. 
+Since the launch of NASA&#039;s first ocean-observing satellite, Seasat, in 1978, PO.DAAC has become the premier data center for measurements focused on ocean surface topography (OST), sea surface temperature (SST), ocean winds, sea surface salinity (SSS), gravity, ocean circulation and sea ice.In addition to providing access to its data holdings, PO.DAAC acts as a gateway to data stored at other ocean and climate archives. This and other tools and services enable PO.DAAC to support a wide user community working in areas such as ocean and climate research, applied science and industry, natural resource management, policy making, and general public consumption.</r3d:description>
+                    <r3d:repositoryContact>podaac@podaac.jpl.nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1978</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://podaac.jpl.nasa.gov/AboutPodaac</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>aerosols</r3d:keyword>
+                    <r3d:keyword>coastal</r3d:keyword>
+                    <r3d:keyword>dust</r3d:keyword>
+                    <r3d:keyword>fire</r3d:keyword>
+                    <r3d:keyword>geodetic gravity</r3d:keyword>
+                    <r3d:keyword>hurricanes and storms</r3d:keyword>
+                    <r3d:keyword>ocean circulation</r3d:keyword>
+                    <r3d:keyword>ocean seasurface topography OST</r3d:keyword>
+                    <r3d:keyword>ocean temperature</r3d:keyword>
+                    <r3d:keyword>ocean winds</r3d:keyword>
+                    <r3d:keyword>salinity density</r3d:keyword>
+                    <r3d:keyword>sea surface salinity SSS</r3d:keyword>
+                    <r3d:keyword>sediments</r3d:keyword>
+                    <r3d:keyword>see surface temperature SST</r3d:keyword>
+                    <r3d:keyword>snow and ice</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">EarthCube Council of Data Facilities</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CDF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.earthcube.org/group/council-data-facilities</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.earthcube.org/contact/General-Inquiries</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NASA&#039;s Jet Propulsion Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JPL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jpl.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.jpl.nasa.gov/contact_JPL.php</r3d:institutionContact>
+                                    <r3d:institutionContact>podaac@podaac.jpl.nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.nasa.gov/about/contact/index.html#.UkQ4eKyMfPU</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Caltech/JPL Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.jpl.nasa.gov/copyrights.cfm</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ESDS Data and Information Policy</r3d:policyName>
+                <r3d:policyURL>https://earthdata.nasa.gov/collaborate/open-data-services-and-software/data-information-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>JPL Image Use Policy</r3d:policyName>
+                <r3d:policyURL>https://www.jpl.nasa.gov/imagepolicy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.jpl.nasa.gov/privacy/web/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://earthdata.nasa.gov/collaborate/open-data-services-and-software/data-information-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OpenDAP">https://opendap.jpl.nasa.gov/opendap/</r3d:api>
+                    <r3d:api apiType="other">https://podaac.jpl.nasa.gov/ws</r3d:api>
+                    <r3d:api apiType="other">http://podaac.jpl.nasa.gov/podaac_thredds</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://podaac.jpl.nasa.gov/CitingPODAAC</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.jpl.nasa.gov/rss/index.php</r3d:syndication>
+                <r3d:remarks>Physical Oceanography Distributed Active Archive Center is a regular member of ICSU World Data System - WDS</r3d:remarks>
+        <r3d:entryDate>2013-09-26</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

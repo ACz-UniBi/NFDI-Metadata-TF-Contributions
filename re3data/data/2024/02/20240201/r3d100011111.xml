@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011111</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GRACE ISDC</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Gravity Recovery and Climate Experiment</r3d:additionalName>
+                <r3d:repositoryURL>http://isdc.gfz-potsdam.de/grace-isdc/</r3d:repositoryURL>
+                <r3d:description language="eng">The twin GRACE satellites were launched on March 17, 2002. Since that time, the GRACE Science Data System (SDS) has produced and distributed estimates of the Earth gravity field on an ongoing basis. These estimates, in conjunction with other data and models, have provided observations of terrestrial water storage changes, ice-mass variations, ocean bottom pressure changes and sea-level variations. This portal, together with PODAAC, is responsible for the distribution of the data and documentation for the GRACE project.</r3d:description>
+                    <r3d:repositoryContact>christoph.dahle@gfz-potsdam.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate>2017</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www2.csr.utexas.edu/grace/overview.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>GPS</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>earth gravity field</r3d:keyword>
+                    <r3d:keyword>earth rotation</r3d:keyword>
+                    <r3d:keyword>geodetic hazard monitoring</r3d:keyword>
+                    <r3d:keyword>satellite</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">GFZ, Information Systems and Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://isdc.gfz-potsdam.de/grace-isdc/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">GRACE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Gravity Recovery and Climate Experiment</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www2.csr.utexas.edu/grace/overview.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q704319</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2002</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2017</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Aerospace Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsches Zentrum für Luft- und Raumfahrt e.V.</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/EN/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam  Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/grace/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Oceanography Distributed Active Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PODAAC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://earthdata.nasa.gov/eosdis/daacs/podaac</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Grundsätze zum Umgang mit Forschungsdaten</r3d:policyName>
+                <r3d:policyURL>http://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_de.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://isdc.gfz-potsdam.de/imprint/#c76</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_de.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://rz-vm152.gfz-potsdam.de/grace/</r3d:api>
+                    <r3d:api apiType="FTP">ftp://podaac.jpl.nasa.gov/allData/grace/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fuer Luft und Raumfahrt (DLR) in Germany. Prof. Byron Tapley of the University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr.-Ing. Frank Flechtner of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).</r3d:remarks>
+        <r3d:entryDate>2014-08-18</r3d:entryDate>
+        <r3d:lastUpdate>2020-09-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

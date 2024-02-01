@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012101</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">University Information System RUSSIA</r3d:repositoryName>
+                    <r3d:additionalName language="rus">Databases and analytical publications</r3d:additionalName>
+                    <r3d:additionalName language="eng">UIS RUSSIA</r3d:additionalName>
+                <r3d:repositoryURL>https://uisrussia.msu.ru/</r3d:repositoryURL>
+                <r3d:description language="eng">The University Information System RUSSIA (UIS RUSSIA) is a mutual project of Research Computing Center and Economic Faculty at Lomonosov Moscow State University. It was introduced in 2000 and has been designed as a digital library for research and educational purposes, primarily in the fields of economic and social sciences. Since then it was maintained to meet the growing interest and challenges of the Russian universities and educational community.
+Starting from 2003 our development team concentrated on statistical databases to build an infrastructure for educational courses, to assist broad Russian social and economic studies from regional to local and down to household level. Today profound knowledge of statistical data and ability to implement advanced modern methods of applied analysis are expected from successful university graduates and are in high demand among new specialists, particularly in economics, public administration and related areas.</r3d:description>
+                    <r3d:repositoryContact>uiswebmaster@srcc.msu.ru</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>http://www-old.srcc.msu.ru/nivc/english/serv/uisrus1.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>children</r3d:keyword>
+                    <r3d:keyword>economic studies</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>public administration</r3d:keyword>
+                    <r3d:keyword>social studies</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Lomonosov Moscow State University, Research Computing Center and Economic Faculty</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Научно-Исследовательский
+Вычислительный Центр
+Московского Государственного
+Университета имени М. В. Ломоносова</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.srcc.msu.ru/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>yudina@srcc.msu.ru</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conditions and terms of use</r3d:policyName>
+                <r3d:policyURL>https://uisrussia.msu.ru/db2007/ru/status_en.html#terms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>UIS RUSSIA data processing</r3d:policyName>
+                <r3d:policyURL>https://uisrussia.msu.ru/db2007/ru/eng.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://uisrussia.msu.ru/db2007/ru/status_en.html#terms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://uisrussia.msu.ru/db2007/ru/status_en.html#terms</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>DSA</r3d:certificate>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-07-28</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

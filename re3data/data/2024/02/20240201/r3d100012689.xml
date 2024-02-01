@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012689</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Japanese Genotype-phenotype Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">JGA</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ddbj.nig.ac.jp/jga/index-e.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.pwgf4p</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003118</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_156741</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Japanese Genotype-phenotype Archive (JGA) is a service for permanent archiving and sharing of all types of individual-level genetic and de-identified phenotypic data resulting from biomedical research projects. The JGA contains exclusive data collected from individuals whose consent agreements authorize data release only for specific research use or to bona fide researchers. Strict protocols govern how information is managed, stored and distributed by the JGA. Once processed, all data are encrypted. Users can contact the JGA team from here.
+JGA services are provided in collaboration with National Bioscience Database Center (NBDC) of Japan Science and Technology Agency.</r3d:description>
+                    <r3d:repositoryContact>https://www.ddbj.nig.ac.jp/contact-ddbj-e.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ddbj.nig.ac.jp/jga/index-e.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biomedical</r3d:keyword>
+                    <r3d:keyword>genetic</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">DNA Data Bank of Japan</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DDBJ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ddbj.nig.ac.jp/index-e.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>OMICS_01644</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_002359</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-02740</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Database Center for Life Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DBCLS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dbcls.rois.ac.jp/index-en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Japan alliance for Bioscience Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JBIportal</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://jbioinfo.jp/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Bioscience Database Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NBDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://biosciencedbc.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_000814</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_151485</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Genetics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nig.ac.jp/nig/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02xg1m795</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_010836</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_92390</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Protein Data Bank Japan</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PDBj</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://pdbj.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_008912</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_151484</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Research Organization of Information and Systems</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ROIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rois.ac.jp/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04p4e8t29</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Usage Policies and Disclaimers for Website, Data and Services</r3d:policyName>
+                <r3d:policyURL>https://www.ddbj.nig.ac.jp/policies-e.html#disclaimer</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>closed</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.en</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ddbj.nig.ac.jp/policies-e.html#disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ddbj.nig.ac.jp/jga/index-e.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission Guide</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ddbj.nig.ac.jp/jga/submission-e.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ddbj.nig.ac.jp/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ddbj.nig.ac.jp/ddbj/submission-e.html#right</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.ddbj.nig.ac.jp/announcements-e.html</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-05-28</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

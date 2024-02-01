@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010223</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Expression Atlas</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Gene Expression Atlas</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/gxa/home</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi;10.25504/FAIRsharing.f5zx00</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_03311</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007989</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-06686</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Expression Atlas provides information on gene expression patterns under different biological conditions such as a gene knock out, a plant treated with a compound, or in a particular organism part or cell. It includes both microarray and RNA-seq data. The data is re-analysed in-house to detect interesting expression patterns under the conditions of the original experiment. There are two components to the Expression Atlas, the Baseline Atlas and the Differential Atlas.
+The Baseline Atlas displays information about which gene products are present (and at what abundance) in &quot;normal&quot; conditions (e.g. tissue, cell type). It aims to answer questions such as &quot;which genes are specifically expressed in human kidney?&quot;.  This component of the Expression Atlas consists of highly-curated and quality-checked RNA-seq experiments from ArrayExpress. It has data for many different animal and plant species. New experiments are added as they become available.
+The Differential Atlas allows users to identify genes that are up- or down-regulated in a wide variety of different experimental conditions such as yeast mutants, cadmium treated plants, cystic fibrosis or the effect on gene expression of mind-body practice. Both microarray and RNA-seq experiments are included in the Differential Atlas. Experiments are selected from ArrayExpress and groups of samples are manually identified for comparison e.g. those with wild type genotype compared to those with a gene knock out. Each experiment is processed through our in-house differential expression statistical analysis pipeline to identify genes with a high probability of differential expression.</r3d:description>
+                    <r3d:repositoryContact>arrayexpress-atlas@ebi.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-10">66 species; 4.424 studies; 158.401 assays</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ebi.ac.uk/gxa/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>RNA-seq</r3d:keyword>
+                    <r3d:keyword>biological research</r3d:keyword>
+                    <r3d:keyword>biomedical research</r3d:keyword>
+                    <r3d:keyword>cell type</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>microarray</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k4n6c32</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011211</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/contact/support/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-03-07</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

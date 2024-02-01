@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014252</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="pol">SIPAM</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Spatial Information System of the Maritime Administration</r3d:additionalName>
+                    <r3d:additionalName language="pol">System Informacji Przestrzennej Administracji Morskiej</r3d:additionalName>
+                <r3d:repositoryURL>https://sipam.gov.pl/</r3d:repositoryURL>
+                <r3d:description language="pol">The main objective of the project is to digitize the data collected by the Maritime Administration and make it available for reuse by digitizing analog resources, integrating and harmonizing data and building a digital repository, and disseminating information about the resources collected in the system. 
+The aim of the project is to make maritime administration data sets available on the Internet.</r3d:description>
+                    <r3d:repositoryContact>https://sipam.gov.pl/kontakt/</r3d:repositoryContact>
+                    <r3d:repositoryContact>sipam@sipam.gov.pl</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://sipam.gov.pl/english/sipam-en/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>boundaries</r3d:keyword>
+                    <r3d:keyword>maps</r3d:keyword>
+                    <r3d:keyword>shipping</r3d:keyword>
+                    <r3d:keyword>traffic routes</r3d:keyword>
+                    <r3d:keyword>vector data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Union</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://european-union.europa.eu/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019w4f821</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011219</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_67420</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://european-union.europa.eu/contact-eu_en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Maritime Office in Gdynia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="pol">Urząd Morski w Gdyni</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.umgdy.gov.pl/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Maritime Office in Szczecin</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="pol">Urząd Morski w Szczecinie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://en.ums.gov.pl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Maritime Economy and Inland Navigation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="pol">MGMiŻŚ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="pol">Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gov.pl/web/gospodarkamorska</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2015</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2020</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Legal Information</r3d:policyName>
+                <r3d:policyURL>https://sipam.gov.pl/informacje-prawne/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://sipam.gov.pl/informacje-prawne/zasady-udostepniania-danych/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://sipam.gov.pl/mapy/geoportal-sipam/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="SPARQL">https://sipam.gov.pl/zasoby-gis/interfejsy-api/</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Monitoring shared by &quot;umgdy&quot;: https://www.mediafire.com/folder/u95l9197wjsiv/Monitoring#u95l9197wjsiv</r3d:remarks>
+        <r3d:entryDate>2023-10-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

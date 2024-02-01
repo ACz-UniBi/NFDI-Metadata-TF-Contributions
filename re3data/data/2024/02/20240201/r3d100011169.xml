@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011169</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="fra">Bibliothèques Virtuelles Humanistes</r3d:repositoryName>
+                    <r3d:additionalName language="fra">BVH</r3d:additionalName>
+                    <r3d:additionalName language="eng">Humanistic Virtual Libraries</r3d:additionalName>
+                <r3d:repositoryURL>https://www.bvh.univ-tours.fr/</r3d:repositoryURL>
+                <r3d:description language="eng">The program &quot;Humanist Virtual Libraries&quot; distributes heritage documents and pursues research associating skills in human sciences and computer science. It aggregates several types of digital documents:
+A selection of facsimiles of Renaissance works digitized in the Central Region and in partner institutions, the Epistemon Textual Database, which offers digital editions in XML-TEI, and Transcripts or analyzes of notarial minutes and manuscripts</r3d:description>
+                    <r3d:repositoryContact>bvh@univ-tours.fr</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.bvh.univ-tours.fr/contact.asp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">105 Literary Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.bvh.univ-tours.fr/presentation.asp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Bibliothèque André-Desguine</r3d:keyword>
+                    <r3d:keyword>Epistemon</r3d:keyword>
+                    <r3d:keyword>Gallica</r3d:keyword>
+                    <r3d:keyword>Medic@</r3d:keyword>
+                    <r3d:keyword>iconography</r3d:keyword>
+                    <r3d:keyword>project BaTyr</r3d:keyword>
+                    <r3d:keyword>project CRII</r3d:keyword>
+                    <r3d:keyword>project FORSE</r3d:keyword>
+                    <r3d:keyword>project MONLOE</r3d:keyword>
+                    <r3d:keyword>renaissance</r3d:keyword>
+                    <r3d:keyword>transcription</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Centre d’Études Supérieures de la Renaissance</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CESR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Center for Advanced Renaissance Studies</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cesr.univ-tours.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03cv31q28</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cesr.univ-tours.fr/centre-detudes-superieures-de-la-renaissance/contacts-2</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Institut de recherche et d’histoire des textes</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">IRHT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.irht.cnrs.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05evznf71</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.irht.cnrs.fr/fr/contactez-nous</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Mentions légales</r3d:policyName>
+                <r3d:policyURL>https://www.bvh.univ-tours.fr/mentions.asp</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.bvh.univ-tours.fr/mentions.asp</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">http://www.bvh.univ-tours.fr/oai2/oai2.php</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.bvh.univ-tours.fr/bvh.xml</r3d:syndication>
+                <r3d:remarks>Partners: https://www.bvh.univ-tours.fr/partenaires.asp
+Since December 2006, the electronic resources of the Humanistic Virtual Libraries program have been integrated into Gallica, a digital library of the Bibliothèque nationale de France (https://gallica.bnf.fr/accueil/?mode=desktop). Conversely, the Humanist Virtual Libraries program will retrieve the records of the documents published in Gallica, Medic @ ... to build a renaissance resource portal online.</r3d:remarks>
+        <r3d:entryDate>2014-10-14</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

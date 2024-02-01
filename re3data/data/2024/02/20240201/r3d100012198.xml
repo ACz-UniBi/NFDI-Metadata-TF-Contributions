@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012198</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ScienceData</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Data store by DTU - the Technical University of Denmark</r3d:additionalName>
+                    <r3d:additionalName language="eng">DeiC data (formerly)</r3d:additionalName>
+                <r3d:repositoryURL>https://sciencedata.dk</r3d:repositoryURL>
+                <r3d:description language="eng">sciencedata.dk is a research data store provided by DTU, the Danish Technical University, specifically aimed at researchers and scientists at Danish academic institutions.
+The service is intended for working with and sharing active research data as well as for safekeeping of large datasets. The data can be accessed and manipulated via a web interface, synchronization clients, file transfer clients or the command line. The service is built on and with open-source software from the ground up: FreeBSD, ZFS, Apache, PHP, ownCloud/Nextcloud. DTU is actively engaged in community efforts on developing research-specific functionality for data stores. Our servers are attached directly to the 10-Gigabit backbone of &quot;Forskningsnettet&quot; (the National Research and Education Network of Denmark) - implying that up and download speed from Danish academic institutions is in principle comparable to those of an external USB hard drive. Data store for research data allowing private sharing and sharing via links / persistent URLs.</r3d:description>
+                    <r3d:repositoryContact>frederik.orellana@deic.dk</r3d:repositoryContact>
+                    <r3d:repositoryContact>martin.bech@deic.dk</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012-04-19</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>dan</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10104 Classical Archaeology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10902 Research on Teaching, Learning and Training</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://sciencedata.dk/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>data management</r3d:keyword>
+                    <r3d:keyword>data sharing</r3d:keyword>
+                    <r3d:keyword>e-Infrastructure</r3d:keyword>
+                    <r3d:keyword>e-science</r3d:keyword>
+                    <r3d:keyword>metadata</r3d:keyword>
+                    <r3d:keyword>storage</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">DTU</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Danish Technical University</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dtu.dk/english</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04qtj9h94</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>cloud@deic.dk</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.dtu.dk/english/about/contact/contact-form</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Danish Ministry of Higher Education and Science</r3d:institutionName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ufm.dk/en/the-ministry/organisation/the-ministry</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03ge1nb22</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2022</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DeIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Danish e-Infrastructure Cooperation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.deic.dk/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03f0nev63</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2022</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.deic.dk/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://sciencedata.dk/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opensource.org/licenses/MIT</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.apache.org/licenses/LICENSE-2.0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/gpl-3.0.en.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="REST">https://sciencedata.dk/sites/developer/</r3d:api>
+                    <r3d:api apiType="other">https://github.com/sdam-au/sddk</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-10-25</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

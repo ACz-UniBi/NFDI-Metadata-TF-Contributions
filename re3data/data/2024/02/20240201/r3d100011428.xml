@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011428</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">European mirror of Kurucz CD-ROM 23 database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Atomic spectral line database from CD-ROM 23 of Robert L. Kurucz</r3d:additionalName>
+                <r3d:repositoryURL>http://www.pmp.uni-hannover.de/cgi-bin/ssi/test/kurucz/sekur.html</r3d:repositoryURL>
+                <r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; 2019-12-03: The repository is no longer available &gt;&gt;&gt;!!!&lt;&lt;&lt; 
+Please use https://www.cfa.harvard.edu/amp/ampdata/kurucz23/sekur.html
+The atomic line data used in this database are taken from Bob Kurucz&#039; CD-ROM 23 of spectroscopic line calculations. The database contains all lines of the file &quot;gfall.dat&quot; with the following items for each line: Wavelength; loggf; element code; lower level: energy, J, configuration; upper level: energy, J, configuration; gamma r; gamma s; gamma w; reference code.
+CD-ROM 23 has all the atomic line data with good wavelengths in one large file and in one file for each species. The big file is also divided into 10 nm and 100 nm sections for convenience. Also given are hyperfine line lists for neutral Sc, V, Mn, and Co that were produced by splitting all the energy levels for which laboratory data are available (only a small fraction).</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30901 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>atoms</r3d:keyword>
+                    <r3d:keyword>linelists</r3d:keyword>
+                    <r3d:keyword>molecules</r3d:keyword>
+                    <r3d:keyword>opacities</r3d:keyword>
+                    <r3d:keyword>wavelength</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alexander von Humboldt Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Alexander von Humboldt-Stiftung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.humboldt-foundation.de/web/home.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.humboldt-foundation.de/web/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard-Smithsonian Center for Astrophysics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CfA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cfa.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cfa.harvard.edu/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Hannover, Institute for Atomic- and Molecularphysics, Division of Plasmaphysics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Hnnover, Institut für Atom- und Molekülphysik, Abteilung Plasmaphysik</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.pmp.uni-hannover.de/cgi-bin/ssi/test/index.shtml</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Open Access-Resolution Leibniz Universität Hannover</r3d:policyName>
+                <r3d:policyURL>https://www.uni-hannover.de/en/universitaet/ziele/open-access/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.uni-hannover.de/en/copyright/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://kurucz.harvard.edu/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The concept behind this search interface and also the ideas behind the type of compression used to store the data are influenced to a large part by the earlier work of Andreas Bard, currently at NIST, Gaithersburg, MD, and Dietmar Engelke, now at PTB, Braunschweig, Germany.
+Original Readme File to Kurucz&#039; CD-ROM23: https://www.cfa.harvard.edu/amp/ampdata/kurucz23/gfreadme.dat ; 
+Link to CfA-server: https://www.cfa.harvard.edu/amp/ampdata/kurucz23/sekur.html</r3d:remarks>
+        <r3d:entryDate>2015-04-01</r3d:entryDate>
+        <r3d:lastUpdate>2021-03-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

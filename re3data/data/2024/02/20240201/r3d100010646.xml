@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010646</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Virgo Millenium Database</r3d:repositoryName>
+                <r3d:repositoryURL>https://wwwmpa.mpa-garching.mpg.de/millennium/</r3d:repositoryURL>
+                <r3d:description language="eng">When published in 2005, the Millennium Run was the largest ever simulation of the formation of structure within the ΛCDM cosmology. It uses 10(10) particles to follow the dark matter distribution in a cubic region 500h(−1)Mpc on a side, and has a spatial resolution of 5h−1kpc. Application of simplified modelling techniques to the stored output of this calculation allows the formation and evolution of the ~10(7) galaxies more luminous than the Small Magellanic Cloud to be simulated for a variety of assumptions about the detailed physics involved. As part of the activities of the German Astrophysical Virtual Observatory we have created relational databases to store the detailed assembly histories both of all the haloes and subhaloes resolved by the simulation, and of all the galaxies that form within these structures for two independent models of the galaxy formation physics. We have implemented a Structured Query Language (SQL) server on these databases. This allows easy access to many properties of the galaxies and halos, as well as to the spatial and temporal relations between them. Information is output in table format compatible with standard Virtual Observatory tools. With this announcement (from 1/8/2006) we are making these structures fully accessible to all users. Interested scientists can learn SQL and test queries on a small, openly accessible version of the Millennium Run (with volume 1/512 that of the full simulation). They can then request accounts to run similar queries on the databases for the full simulations. In 2008 and 2012 the simulations were repeated.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://wwwmpa.mpa-garching.mpg.de/millennium/DBrel-GL1.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cosmology</r3d:keyword>
+                    <r3d:keyword>galaxies</r3d:keyword>
+                    <r3d:keyword>halo</r3d:keyword>
+                    <r3d:keyword>lightcones</r3d:keyword>
+                    <r3d:keyword>subhalo</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/de/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Astrophysical Virtual Observatory at MPA Garching</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GAVO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.g-vo.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Institute for Astrophysics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MPA Garching</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Institut für Astrophysik</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpa-garching.mpg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:017qcv467</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>lemson_at_mpa-garching.mpg.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">VIRGO consortium</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://virgo.dur.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wwwmpa.mpa-garching.mpg.de/millennium/#DATABASE_ACCESS</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">http://gavo.mpa-garching.mpg.de/Millennium/Help?page=demo/overview</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://galaxy-catalogue.dur.ac.uk:8443/Millennium/Help?page=credits</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>There are two databases, one openly accessible with volume 1/512 of the full simulation (&#039;milli-Millennium&#039;), and one for the full simulation. The latter requires an account. There is also a mirror site with a nearly equivalent data base server at the Institute for Computational Cosmology, Durham University https://galaxy-catalogue.dur.ac.uk:8443/Millennium/</r3d:remarks>
+        <r3d:entryDate>2014-03-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

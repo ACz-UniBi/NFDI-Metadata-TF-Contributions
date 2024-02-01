@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012789</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Wiki-Pi</r3d:repositoryName>
+                <r3d:repositoryURL>http://severus.dbmi.pitt.edu/wiki-pi/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_02991</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Wiki-Pi is a wiki resource centered on human protein-protein interactions. Wiki-Pi&#039;s intuitive search functionality allows you to retrieve and discover interactions effectively.</r3d:description>
+                    <r3d:repositoryContact>http://severus.dbmi.pitt.edu/wiki-pi/index.php/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>madhavi@pitt.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-08-08">5.306 interactions</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://severus.dbmi.pitt.edu/wiki-pi/index.php/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>drug</r3d:keyword>
+                    <r3d:keyword>gene</r3d:keyword>
+                    <r3d:keyword>protein-protein interaction - PPI</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Pittsburgh, Department of Biomedical Informatics</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dbmi.pitt.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>General Terms &amp; Conditions and Instructions</r3d:policyName>
+                <r3d:policyURL>https://cfo.pitt.edu/pexpress/documents/terms.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0049029</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://hagrid.dbmi.pitt.edu/wiki-pi/index.php/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The official released URL to the Wiki-Pi website is http://severus.dbmi.pitt.edu/wiki-pi/ . We recently moved our website to the new server hence it redirects to https://hagrid.dbmi.pitt.edu/wiki-pi</r3d:remarks>
+        <r3d:entryDate>2018-08-03</r3d:entryDate>
+        <r3d:lastUpdate>2020-01-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

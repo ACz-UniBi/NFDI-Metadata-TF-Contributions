@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013043</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UN Data Catalog</r3d:repositoryName>
+                    <r3d:additionalName language="eng">United Nations System Data Catalog</r3d:additionalName>
+                <r3d:repositoryURL>https://undatacatalog.org/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;This repository is no longer available, data from UN see: https://www.re3data.org/repository/r3d100010762&gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>https://undatacatalog.org/#contact</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2020-07-10">2.980 datasets; 51 themes</r3d:size>
+        <r3d:startDate>2016-03-31</r3d:startDate>
+        <r3d:endDate>2021</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://undatacatalog.org/#about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Office of Information and Communications Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OICT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://unite.un.org/about</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UN System Chief Executives Board</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CEB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">United Nations System Chief Executives Board for Coordination</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unsystem.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United Nations</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.un.org/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:006kxhp52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://undatacatalog.org/terms-and-conditions-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://undatacatalog.org/copyright-notice</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/copyleft/fdl.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://undatacatalog.org/copyright-notice</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">SDMX - Statistical Data and Metadata Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/sdmx-statistical-data-and-metadata-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>This website is the result a working group made up of focal points from UN system organizations and aims to establish a commonly accessible UN System Data Catalog.
+The purpose of the the Data Catalog is to promote the sharing and publishing of open data, so as to improve the availability and accessibility of information across the organizations and entities that comprise the UN system. As our organizations face growing demands with increasingly reducing resources, we absolutely must become more revolutionary in our approaches to meeting our mandates. This includes utilizing information and communications technology (ICT) to the fullest extent possible, by implementing initiatives that improve and enhance analytical capacity and decision support capabilities.
+The Data Catalog is uniquely placed to provide a single interface for finding, analyzing and working with UN data. While there are several other data platforms, many of which host United Nations data, the catalogue exclusively brings together all open UN data collections in one place, even though they may be published elsewhere. Anyone searching for UN data today has to look in many places and make separate searches on several different platforms..Datasets from the following organizations are referenced on the UN Data Catalog: https://undatacatalog.org/publishers</r3d:remarks>
+        <r3d:entryDate>2019-04-23</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

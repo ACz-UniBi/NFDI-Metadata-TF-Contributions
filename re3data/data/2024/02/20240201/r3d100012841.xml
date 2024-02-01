@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012841</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">New Mexico Bureau of Geology &amp; Mineral Resources Data Repository</r3d:repositoryName>
+                <r3d:repositoryURL>https://geoinfo.nmt.edu/repository/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.e4ac97</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>biodbcore-001596</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Archiving data and housing geological collections is an important role the Bureau of Geology plays in improving our understanding of the geology of New Mexico. Aside from our numerous publications, several datasets are available to the public. Data in this repository supplements published papers in our publications. Please refer to both the published material and the repository documentation before using this data. Please cite repository data as shown in each repository listing.</r3d:description>
+                    <r3d:repositoryContact>NMBG-webmaster@nmt.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-04">22 items</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://geoinfo.nmt.edu/repository/help.cfml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>State of New Mexico</r3d:keyword>
+                    <r3d:keyword>geological survey</r3d:keyword>
+                    <r3d:keyword>hydrogeology</r3d:keyword>
+                    <r3d:keyword>minerals</r3d:keyword>
+                    <r3d:keyword>mining</r3d:keyword>
+                    <r3d:keyword>topography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">New Mexico Institute of Mining and Technology, New Mexico Bureau of Geology &amp; Mineral Resources</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">New Mexico Tech, New Mexico Bureau of Geology &amp; Mineral Resources</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: New Mexico Tech, New Mexico Bureau of Mines &amp; Mineral Resources</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://geoinfo.nmt.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">New Mexico Tech</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NM Tech</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NMT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">New Mexico Tech</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: New Mexico Institute of Mining and Technology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nmt.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://nmt.edu/contact.php</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Notice of Right to Inspect Public Records</r3d:policyName>
+                <r3d:policyURL>https://geoinfo.nmt.edu/about/publicrecords.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://geoinfo.nmt.edu/about/termsofuse.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://geoinfo.nmt.edu/publications/about/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://geoinfo.nmt.edu/repository/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>see also Archives &amp; Collections: https://geoinfo.nmt.edu/libraries/home.html</r3d:remarks>
+        <r3d:entryDate>2018-08-27</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

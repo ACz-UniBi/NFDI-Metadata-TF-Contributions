@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011124</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">mentha</r3d:repositoryName>
+                    <r3d:additionalName language="eng">the interactome browser</r3d:additionalName>
+                <r3d:repositoryURL>https://mentha.uniroma2.it/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.j1eyq2</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_05022</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_016148</r3d:repositoryIdentifier>
+                <r3d:description language="eng">mentha archives evidence collected from different sources and presents these data in a complete and comprehensive way. Its data comes from manually curated protein-protein interaction databases that have adhered to the IMEx consortium. The aggregated data forms an interactome which includes many organisms. mentha is a resource that offers a series of tools to analyse selected proteins in the context of a network of interactions. Protein interaction databases archive protein-protein interaction (PPI) information from published articles. However, no database alone has sufficient literature coverage to offer a complete resource to investigate &quot;the interactome&quot;.
+mentha&#039;s approach generates every week a consistent interactome (graph). Most importantly, the procedure assigns to each interaction a reliability score that takes into account all the supporting evidence. mentha offers eight interactomes (Homo sapiens, Arabidopsis thaliana, Caenorhabditis elegans, Drosophila melanogaster, Escherichia coli K12, Mus musculus, Rattus norvegicus, Saccharomyces cerevisiae) plus a global network that comprises every organism, including those not mentioned. The website and the graphical application are designed to make the data stored in mentha accessible and analysable to all users. Source databases are:  MINT, IntAct, DIP, MatrixDB and BioGRID.</r3d:description>
+                    <r3d:repositoryContact>https://mentha.uniroma2.it/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>sinnefa@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-11-09">90.905 proteins; 741.337 interactions; 49.477 publications</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://mentha.uniroma2.it/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>animals</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>microbes</r3d:keyword>
+                    <r3d:keyword>plants</r3d:keyword>
+                    <r3d:keyword>protein-protein interactoin PPI</r3d:keyword>
+                    <r3d:keyword>transcripts</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Affinomics</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/project/id/795018</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>mike.taussig@babraham.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="ita">Fondo per gli Investimenti della Ricerca di Base</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">FIRB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ita">Fund for investment in basic research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://researchitaly.mur.gov.it/en/fund-for-investment-in-basic-research/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">HUPO Proteomics Standards Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PSI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://hupo.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Molecular Exchange Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMEx</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imexconsortium.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Rome Tor Vergata, Department of Biology, Molecular Genetics Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">Universita degli Studi di Roma &#039;Tor Vergata&#039;, Dipartimento di Biologia, Genetica Molecolare</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.moleculargenetics.it/bcb/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IMEx Curation Rules</r3d:policyName>
+                <r3d:policyURL>https://www.imexconsortium.org/curation/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://mentha.uniroma2.it/about.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://mentha.uniroma2.it/developers.php</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://mentha.uniroma2.it/about.php#citeus</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>mentha supports PSICQUIC standardised access to molecular interaction databases. mentha is searchable by UniProt IDs.</r3d:remarks>
+        <r3d:entryDate>2014-09-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

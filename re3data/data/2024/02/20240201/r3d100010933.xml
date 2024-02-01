@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010933</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">AIMS Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">formerly: AIMS Data Catalogue</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: AIMS Data Centre</r3d:additionalName>
+                <r3d:repositoryURL>https://www.aims.gov.au/data</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_010475</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_157748</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Australian Institute of Marine Science (AIMS) is a tropical marine research centre. The AIMS Data Repository preserves experimental and survey data, sensor data, research analyses and other types of data collected by projects conducted by the Australian Institute of Marine Science (AIMS). Contributors to the repository are primarily AIMS researchers from various science disciplines including ecology, biology, environmental sciences, microbiology, geosciences and oceanography, geochemistry, biodiversity conservation, evolutionary environmental studies, climate and oceanic change, fisheries, biochemistry and molecular biology, limnology and functions of inland waters, genetics and hereditary, observing network</r3d:description>
+                    <r3d:repositoryContact>adc@aims.gov.au</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.aims.gov.au/docs/about/contacts.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.aims.gov.au/data/about-aims-data-repository</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>marine sciences</r3d:keyword>
+                    <r3d:keyword>reefs</r3d:keyword>
+                    <r3d:keyword>vessel tracking</r3d:keyword>
+                    <r3d:keyword>weather stations</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian Government, Australian Institute of Marine Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aims.gov.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03x57gn41</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.aims.gov.au/docs/about/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright Notice</r3d:policyName>
+                <r3d:policyURL>https://www.aims.gov.au/cc-copyright</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Repository Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.aims.gov.au/data/data-policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/au/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.aims.gov.au/cc-copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://open-aims.github.io/data-platform/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.aims.gov.au/cc-attribution</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>AIMS uses Australian Marine Community Profile of ISO 19115:2005/19139. AIMS Data Catalogue is covered by Clarivate Data Citation Index</r3d:remarks>
+        <r3d:entryDate>2014-08-22</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

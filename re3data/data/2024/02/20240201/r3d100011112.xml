@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011112</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GNSS  - ISDC</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Global Navigation Satellite Systems - Information System and Data Center</r3d:additionalName>
+                <r3d:repositoryURL>https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/infrastructure/gnss-station-network/</r3d:repositoryURL>
+                <r3d:description language="eng">The term GNSS (Global Navigation Satellite Systems) comprises the different navigation satellite systems like GPS, GLONAS and the future Galileo as well as rawdata from GNSS microwave receivers and processed or derived higher level products and required auxiliary data. The results of the GZF GNSS technology based projects are used as contribution for maintaining and studying the Earth rotational behavior and the global terrestial reference frame, for studying neotectonic processes along plate boundaries and the interior of plates and as input to short term weather forecasting and atmosphere/climate research. Currently only selected products like observation data, navigation data (ephemeriden), meteorological data as well as quality data with a limited spatial coverage are provided by the GNSS ISDC.</r3d:description>
+                    <r3d:repositoryContact>Markus.Ramatschi@gfz-potsdam.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://isdc-old.gfz-potsdam.de/index.php?module=pagesetter&amp;func=viewpub&amp;tid=1&amp;pid=41</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>VLBI</r3d:keyword>
+                    <r3d:keyword>atmosphere sounding</r3d:keyword>
+                    <r3d:keyword>geodynamics</r3d:keyword>
+                    <r3d:keyword>gps</r3d:keyword>
+                    <r3d:keyword>satellite navigation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/home/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Grundsätze zum Umgang mit Forschungsdaten</r3d:policyName>
+                <r3d:policyURL>http://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_de.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gfz-potsdam.de/en/imprint/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.gfz-potsdam.de/GNSS/products/mgex/</r3d:api>
+                    <r3d:api apiType="FTP">ftp://ftp.gfz-potsdam.de/GNSS/products/final/</r3d:api>
+                    <r3d:api apiType="other">https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/infrastructure/gnss-station-network/gnss-software/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-08-19</r3d:entryDate>
+        <r3d:lastUpdate>2020-10-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

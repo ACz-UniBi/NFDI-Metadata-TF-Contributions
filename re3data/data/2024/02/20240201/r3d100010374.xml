@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010374</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Canadian Space Science Data Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CSSDP</r3d:additionalName>
+                <r3d:repositoryURL>https://cssdp.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">The CSSDP project provides space scientists with access to a wide range of space data, observations, and investigative tools. It provides a seamless, single- point of access to these resources through a custom web portal. To date, more than 350 scientists are registered users of the CSSDP portal.
+The project integrates data from sources such as the Canadian Geospace Monitoring Program and anticipates serving data from the NASA THEMIS satellite probes, the Canadian High-Artic Ionospheric Network (CHAIN), and the Alberta- based Enhanced Polar Outflow Probe (ePOP) satellite mission. This collection and presentation of space data is used to study the influence of the sun on near- Earth space environment, including phenomena such as geomagnetic storms, which cause the northern and southern lights. Geomagnetic storms are also known for often causing power outages, disturbances in polar communications, and the failure of satellites. The effects of space weather can also cause transpolar flight paths to be diverted, adding significant fuel costs to airlines and disruptions for travellers.</r3d:description>
+                    <r3d:repositoryContact>info@cybera.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2017-04-19">5.407.047 files</r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://cssdp.ca/about-us/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>astrophysics</r3d:keyword>
+                    <r3d:keyword>space data</r3d:keyword>
+                    <r3d:keyword>space science</r3d:keyword>
+                    <r3d:keyword>space weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CANARIE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Canada’s Advanced Research and Innovation Network</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canarie.ca/?referral=home</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01nztpc84</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Space Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Agence spatiale canadienne</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.asc-csa.gc.ca/eng/default.asp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03a1gte98</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Cybera</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cybera.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@cybera.ca</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cssdp.ca/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://cssdp.ca/ssdp/app/static/about_cssdp/technology.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-02-27</r3d:entryDate>
+        <r3d:lastUpdate>2022-06-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

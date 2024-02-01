@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010455</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ICET</r3d:repositoryName>
+                    <r3d:additionalName language="eng">International Center for Earth Tides</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: World Data Center C For Earth Tides</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: World Data Centre for Earth Tides</r3d:additionalName>
+                <r3d:repositoryURL>http://www.upf.pf/ICET/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2428-4556</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;The IGETS data base at GFZ Potsdam http://www.re3data.org/repository/r3d100010300 continues the activities of the International Center for Earth Tides (ICET), in particular, in collecting, archiving and distributing Earth tide records from long series of gravimeters, tiltmeters, strainmeters and other geodynamic sensors.  &gt;&gt;&gt;!!!&lt;&lt;&lt; The ICET Data Bank contains results from 360 tidal gravity stations: hourly values, main tidal waves obtained by least squares analyses, residual vectors, oceanic attraction and loading vectors. The Data Bank contains also data from tiltmeters and extensometers. ICET is responsible for the Information System and Data Center of the Global Geodynamic Project (GGP). The tasks ascribed to ICET are : to collect all available measurements of Earth tides (which is its task as World Data Centre C), to evaluate these data by convenient methods of analysis in order to reduce the very large amount of measurements to a limited number of parameters which should contain all the desired and needed geophysical information, to compare the data from different instruments and different stations distributed all over the world, evaluate their precision and accuracy from the point of view of internal errors as well as external errors, to help to solve the basic problem of calibrations and to organize reference stations or build reference calibration devices, to fill gaps in information or data as far as feasible, to build a data bank allowing immediate and easy comparison of Earth tide parameters with different Earth models and other geodetical and geophysical parameters like geographical position, Bouguer anomaly, crustal thickness and age, heat flow, ... to ensure a broad diffusion of the results and information to all interested laboratories and individual scientists.</r3d:description>
+                    <r3d:repositoryContact>barriot@upf.pf</r3d:repositoryContact>
+                    <r3d:repositoryContact>bernard.ducarme@oma.be</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate>2017</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.upf.pf/ICET/history.html#Futur</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>barometric stations</r3d:keyword>
+                    <r3d:keyword>calibration</r3d:keyword>
+                    <r3d:keyword>gravity</r3d:keyword>
+                    <r3d:keyword>ocean tides</r3d:keyword>
+                    <r3d:keyword>strain stations</r3d:keyword>
+                    <r3d:keyword>tilt stations</r3d:keyword>
+                    <r3d:keyword>wells</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam  -  GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://isdc.gfz-potsdam.de/igets-data-base/?L=0</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>isdc-support@gfz-potsdam.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Council for Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICSU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.icsu.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:005vhrs19</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2008</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of French Polynesia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">UPF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Université de la Polynésie Francaise, Laboratoire des Sciences de la Terre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>PYF</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.upf.pf/fr</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03ay59x86</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2008-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>barriot@upf.pf</r3d:institutionContact>
+                                    <r3d:institutionContact>bernard.ducarme@oma.be</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Reference</r3d:policyName>
+                <r3d:policyURL>https://webdevel.upf.pf/ICET/terms/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://webdevel.upf.pf/ICET/terms/terms.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>ICSU World Data System superseded the World Data Centres (WDCs) and Federation of Astronomical and Geophysical data analysis Services (FAGS) created by ICSU to manage data generated by the International Geophysical Year[5][6][7] (1957–1958).  Since January 1st, 2008 ICET is hosted at the University of French Polynesia with Chairman J. P. Barriot.(barriot@upf.pf). 
+The IGETS data base at GFZ Potsdam continues the activities of the International Center for Earth Tides (ICET), in particular, in collecting, archiving and distributing Earth tide records from long series of gravimeters, tiltmeters, strainmeters and other geodynamic sensors.</r3d:remarks>
+        <r3d:entryDate>2013-09-09</r3d:entryDate>
+        <r3d:lastUpdate>2021-03-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

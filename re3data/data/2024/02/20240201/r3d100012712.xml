@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012712</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Epidat</r3d:repositoryName>
+                    <r3d:additionalName language="deu">Datenbank zur jüdischen Grabsteinepigraphik</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Database of Jewish epigraphy</r3d:additionalName>
+                <r3d:repositoryURL>http://www.steinheim-institut.de/cgi-bin/epidat?lang=de</r3d:repositoryURL>
+                <r3d:description language="eng">Epidat  provides the inventory, documentation, editions and presentation of epigraphical collections.</r3d:description>
+                    <r3d:repositoryContact>steinheim@steinheim-institut.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-12-12">259 digital editions with 47.074 epitaphs (85.484 image files)</r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10605 Religious Studies and Jewish Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://forschungslizenzen.de/steinheim-institut-epidat-datenbank/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Germany</r3d:keyword>
+                    <r3d:keyword>art studies</r3d:keyword>
+                    <r3d:keyword>cultural heritage</r3d:keyword>
+                    <r3d:keyword>epigraphic</r3d:keyword>
+                    <r3d:keyword>genealogy</r3d:keyword>
+                    <r3d:keyword>history</r3d:keyword>
+                    <r3d:keyword>inscriptions</r3d:keyword>
+                    <r3d:keyword>jewish</r3d:keyword>
+                    <r3d:keyword>jewish cemeteries</r3d:keyword>
+                    <r3d:keyword>jews</r3d:keyword>
+                    <r3d:keyword>monument perservation</r3d:keyword>
+                    <r3d:keyword>tombs</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/de/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Salomon Ludwig Steinheim-Institut</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.steinheim-institut.de/wiki/index.php/Hauptseite</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01btqj997</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>kol@steinheim-institut.org</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>other</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Epidat uses DARIAH-DE services. - In close cooperation with Judaica Europeana and Athena Plus work has been done to transfer the epidat collection to europeana.</r3d:remarks>
+        <r3d:entryDate>2018-06-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

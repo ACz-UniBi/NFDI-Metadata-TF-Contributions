@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013984</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Discuss Data</r3d:repositoryName>
+                <r3d:repositoryURL>https://discuss-data.net</r3d:repositoryURL>
+                <r3d:description language="eng">Discuss Data is an open repository for storing, sharing and discussing research data on Eastern Europe, the South Caucasus and Central Asia. The platform, launched in September 2020, is funded by the German Research Foundation (DFG) and operated by the Research Centre for East European Studies at the University of Bremen (FSO) and the Göttingen State and University Library (SUB). Discuss Data goes beyond ordinary repositories and offers an interactive online platform for the discussion and quality assessment of research data. Our aim is to create a space for academic communication and for the community-specific publication, curation, annotation and discussion of research data.</r3d:description>
+                    <r3d:repositoryContact>eklein@uni-bremen.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>felix.herrmann@uni-bremen.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>kurzawe@sub.uni-goettingen.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-06-21">104 datasets</r3d:size>
+        <r3d:startDate>2017-01-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10203 Modern and Current History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11202 Economic and Social Policy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11206 Economic and Social History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://discuss-data.net/documentation/faqs/what-discuss-data/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>area studies</r3d:keyword>
+                    <r3d:keyword>eastern europe</r3d:keyword>
+                    <r3d:keyword>eurasia</r3d:keyword>
+                    <r3d:keyword>humanities</r3d:keyword>
+                    <r3d:keyword>post-Soviet region</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Forschungsstelle Osteuropa an der Universität Bremen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Research Centre for East European Studies at the University of Bremen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.forschungsstelle.uni-bremen.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2017-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Niedersächsische Staats- und Universitätsbibliothek Göttingen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Göttingen State and University Library</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sub.uni-goettingen.de/en/news/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05745n787</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2017-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Multiple policies</r3d:policyName>
+                <r3d:policyURL>https://discuss-data.net/documentation/rules/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms &amp; Conditions</r3d:policyName>
+                <r3d:policyURL>https://discuss-data.net/documentation/rules/terms-and-conditions/#terms-and-conditions</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://discuss-data.net/documentation/rules/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/by/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://discuss-data.net/documentation/rules/citations/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>For data storage and long-term digital preservation, Discuss Data is connected to the DARIAH-DE repository, where all open data will be archived, and prospectively the Humanities Data Centre services.</r3d:remarks>
+        <r3d:entryDate>2022-10-05</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011365</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">TextGrid Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Virtual research environment for the Humanities</r3d:additionalName>
+                    <r3d:additionalName language="deu">Virtuelle Forschungsumgebung für die Geisteswissenschaften</r3d:additionalName>
+                <r3d:repositoryURL>https://www.textgridrep.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The TextGrid Repository is a digital preservation archive for human sciences research data. It offers an extensive searchable and adaptable corpus of XML/TEI encoded texts, pictures and databases. Amongst the continuously growing corpus is the Digital Library of TextGrid, which consists of works of more than 600 authors of fiction (prose verse and drama) as well as nonfiction from the beginning of the printing press to the early 20th century written in or translated into German. The files are saved in different output formats (XML, ePub, PDF), published and made searchable. Different tools e.g. viewing or quantitative text-analysis tools can be used for visualization or to further research the text.
+The TextGrid Repository is part of the virtual research environment TextGrid, which besides offering digital preservation also offers open-source software for collaborative creations and publications of e.g. digital editions that are based on XML/TEI.</r3d:description>
+                    <r3d:repositoryContact>https://textgrid.de/kontakt</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">105 Literary Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.textgridrep.org/docs/mission-statement</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>art</r3d:keyword>
+                    <r3d:keyword>corpora</r3d:keyword>
+                    <r3d:keyword>cultural history</r3d:keyword>
+                    <r3d:keyword>fairytales</r3d:keyword>
+                    <r3d:keyword>humanities</r3d:keyword>
+                    <r3d:keyword>literature</r3d:keyword>
+                    <r3d:keyword>philosophy</r3d:keyword>
+                    <r3d:keyword>sociology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>bmbf@bmbf.bund.de</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.bmbf.de/de/kontakt.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DARIAH-DE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Digital Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://de.dariah.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@de.dariah.eu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DARIAH-EU</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Digital Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dariah.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dariah.eu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Georg-August-Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Georg-August-Universität Göttingen, Göttingen State and University Library</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sub.uni-goettingen.de/en/news/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05745n787</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sub.uni-goettingen.de/en/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GWDG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gwdg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cd95c65</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Humanities Data Centre</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://humanities-data-centre.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://humanities-data-centre.de/?page_id=20</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/05/TextGrid-Repository.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>TextGrid Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://textgrid.de/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.de</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.textgridlab.org/doc/services/</r3d:api>
+                    <r3d:api apiType="SOAP">https://www.textgridlab.org/doc/services/</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>TextGrid is an open source-project and part of the DARIAH-DE infrastructure.</r3d:remarks>
+        <r3d:entryDate>2015-01-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

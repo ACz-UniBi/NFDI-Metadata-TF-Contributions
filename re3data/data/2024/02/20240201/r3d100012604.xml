@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012604</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="ita">AMS Acta</r3d:repositoryName>
+                    <r3d:additionalName language="ita">AMSActa</r3d:additionalName>
+                    <r3d:additionalName language="eng">Alma Mater Studorium Acta</r3d:additionalName>
+                    <r3d:additionalName language="eng">Insitutional Research Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://amsacta.unibo.it/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2038-7954</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OpenDOAR:3</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>ROAR:5509</r3d:repositoryIdentifier>
+                <r3d:description language="eng">AMS Acta is the institutional open access repository which enables the researchers of the Alma Mater Studiorum - University of Bologna to share, preserve and showcase their scientific results making them easily accessible, citable and reusable. The repository collects and disseminates scientific publications, research data and preprints.
+AMS Acta is the archiving infrastructure for the University of Bologna’s researchers participating in the European programme H2020 that requires open access and the mandatory deposit of all funded peer-reviewed publications in a repository. AMS Acta collects both publications and research data so it is also a suitable archiving solution for the funded projects participating in the H2020 Open Research Data Pilot.</r3d:description>
+                    <r3d:repositoryContact>almadl@unibo.it</r3d:repositoryContact>
+                    <r3d:repositoryContact>eprints@cib.unibo.it</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2023-12-12">221 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>ita</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://sba.unibo.it/it/allegati/allegati-almadl/ams-acta-mission-statement-and-repository-policies</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alma Mater Studiorum - University of Bologna</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">Biblioteca Digitale dell&#039;Università di Bologna</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unibo.it/it</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01111rn36</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011610</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Alma Mater Studiorum, Sistema Bibliotecario de Ateneo</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ALMADL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sba.unibo.it/en/almadl/almadl-services</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>AMS ACTA Mission Statement and Repository Policies</r3d:policyName>
+                <r3d:policyURL>https://sba.unibo.it/it/allegati/allegati-almadl/ams-acta-mission-statement-and-repository-policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>AMS Acta General Terms and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://sba.unibo.it/it/allegati/allegati-almadl/acta-general-service-agreement</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Condizioni di utilizzo del Sito AlmaDL</r3d:policyName>
+                <r3d:policyURL>https://sba.unibo.it/it/allegati/allegati-almadl/condizioni-sito-almadl</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Help and Documentation</r3d:policyName>
+                <r3d:policyURL>https://amsacta.unibo.it/help.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                    <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Repository mission and policies</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://sba.unibo.it/it/allegati/allegati-almadl/ams-acta-mission-statement-and-repository-policies</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>EPrints</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://amsacta.unibo.it/cgi/oai2</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-02-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

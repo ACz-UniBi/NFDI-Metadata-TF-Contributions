@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011323</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SILVA</r3d:repositoryName>
+                    <r3d:additionalName language="eng">A comprehensive on-line resource for quality checked and aligned ribosomal RNA sequence data.</r3d:additionalName>
+                <r3d:repositoryURL>https://www.arb-silva.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.5vtYGG</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01514</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>ROR:027z9pz32</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006423</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03464</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:rid_000103</r3d:repositoryIdentifier>
+                <r3d:description language="eng">SILVA is a comprehensive, quality-controlled web resource for up-to-date aligned ribosomal RNA (rRNA) gene sequences from the Bacteria, Archaea and Eukaryota domains alongside supplementary online services. In addition to data products, SILVA provides various online tools such as alignment and classification, phylogenetic tree calculation and viewer, probe/primer matching, and an amplicon analysis pipeline. With every full release a curated guide tree is provided that contains the latest taxonomy and nomenclature based on multiple references. SILVA is an ELIXIR Core Data Resource.</r3d:description>
+                    <r3d:repositoryContact>contact@arb-silva.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-12-11">Version 138 over  9.400.000 SSU  Aligned rRNA sequences</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.arb-silva.de/documentation/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>archaea</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>eukarya</r3d:keyword>
+                    <r3d:keyword>hylogenetic inference</r3d:keyword>
+                    <r3d:keyword>microbial DNA sequence data</r3d:keyword>
+                    <r3d:keyword>molecular biodiversity</r3d:keyword>
+                    <r3d:keyword>rDNA</r3d:keyword>
+                    <r3d:keyword>rRNA</r3d:keyword>
+                    <r3d:keyword>taxonomy of the eukaryotics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DSMZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut DSMZ - Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dsmz.de</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02tyer376</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>01.01.2023</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max-Planck-Institute for Marine Microbiology, Microbial Genomics and Bioinformatics Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">MPI-Bremen, Mikrobielle Genomik und Bioinformatik</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Institut für Marine Mikrobiologie, Mikrobielle Genomik und Bioinformatik</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpi-bremen.de/en/Microbial-Genomics-Group.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>31.12.2022</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mpi-bremen.de/en/Address_and_Contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ribocon GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Ribocon</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ribocon.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>31.12.2022</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ribocon.com/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>SILVA Terms of Use/License Information</r3d:policyName>
+                <r3d:policyURL>https://www.arb-silva.de/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://www.arb-silva.de/download/arb-files/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.arb-silva.de/contact/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.arb-silva.de/news/rss.xml</r3d:syndication>
+                <r3d:remarks>SILVA is one of the ELIXIR Core Data Resources.
+As of release 138 the SILVA databases, its taxonomy, and all files provided for download are licensed unter Opens external link in new windowCreate Commons Attribution 4.0 (CC-BY 4.0). All data is freely available for academic and commercial use as long as SILVA is credited as original author and a link to the full license is provided.
+Releases before SILVA 138 are not affected by the new license. Please refer to the license file provided in each download directory for the license associated with the provided files.</r3d:remarks>
+        <r3d:entryDate>2014-09-24</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

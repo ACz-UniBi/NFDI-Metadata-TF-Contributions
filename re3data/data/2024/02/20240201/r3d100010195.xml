@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010195</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CAIDA Data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The Cooperative Association for Internet Data Analysis</r3d:additionalName>
+                <r3d:repositoryURL>https://catalog.caida.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The Cooperative Association for Internet Data Analysis (CAIDA) is a collaborative undertaking among organizations in the commercial, government, and research sectors aimed at promoting greater cooperation in the engineering and maintenance of a robust, scalable global Internet infrastructure.It is an independent analysis and research group with particular focus on: Collection, curation, analysis, visualization, dissemination of sets of the best available Internet data, providing macroscopic insight into the behavior of Internet infrastructure worldwide,    improving the integrity of the field of Internet science, improving the integrity of operational Internet measurement and management, informing science, technology, and communications public policies.</r3d:description>
+                    <r3d:repositoryContact>data-info@caida.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.caida.org/about/contactinfo/</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@caida.org</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.caida.org/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Ark - Archipelago</r3d:keyword>
+                    <r3d:keyword>DNS Domain name system</r3d:keyword>
+                    <r3d:keyword>UCSD network telescope</r3d:keyword>
+                    <r3d:keyword>analyzing</r3d:keyword>
+                    <r3d:keyword>cyber security</r3d:keyword>
+                    <r3d:keyword>internet</r3d:keyword>
+                    <r3d:keyword>internet economics</r3d:keyword>
+                    <r3d:keyword>internet infrastructure</r3d:keyword>
+                    <r3d:keyword>internet mapping project</r3d:keyword>
+                    <r3d:keyword>internet security</r3d:keyword>
+                    <r3d:keyword>internet topology structure</r3d:keyword>
+                    <r3d:keyword>security</r3d:keyword>
+                    <r3d:keyword>topology</r3d:keyword>
+                    <r3d:keyword>traffic analysis</r3d:keyword>
+                    <r3d:keyword>visualizing</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ARIN</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">American Registry of Internet Numbers</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.arin.net/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.arin.net/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CISCO</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.cisco.com</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03yt1ez60</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Cooperative Association for Internet Data Analysis</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CAIDA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.caida.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Defense Advanced Research Project Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DARPA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.darpa.mil/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02caytj08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Homeland Security</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Department of Homeland Security</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dhs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00jyr0d86</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California at San Diego, Supercomputer Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UC, SDSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sdsc.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04mg3nk07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CAIDA Legal: Data Stewardship Agreements</r3d:policyName>
+                <r3d:policyURL>https://www.caida.org/about/legal/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CAIDA Master Acceptable Use Agreement (AUA)</r3d:policyName>
+                <r3d:policyURL>https://www.caida.org/about/legal/aua/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.caida.org/about/legal/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.caida.org/about/legal/aua/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.caida.org/about/legal/aua/public_aua/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.caida.org/about/legal/aua/public_aua/#license</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>CAIDA has developed a privacy sensitive data sharing framework that employs technical and policy means to balance individual privacy, security, and legal concerns against the needs of governments researchers, and scientists for access to data in an attempt to address the the inevitable conflict between data privacy and science. CAIDA collects and curates data to provide an empirical foundation for Internet research, maintaining a list of both publications by CAIDA researchers and collaborators, as well as publications by external researchers who report back use of CAIDA data as part of our Acceptable Use Policy (AUP). The CAIDA Tools site contains a variety of internet measurement and visualization software as well as a taxonomy of available research and visualization tools.</r3d:remarks>
+        <r3d:entryDate>2012-01-10</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

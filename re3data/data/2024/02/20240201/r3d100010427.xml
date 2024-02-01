@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010427</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Forschungsdatenzentrum am IQB</r3d:repositoryName>
+                    <r3d:additionalName language="deu">FDZ am IQB</r3d:additionalName>
+                    <r3d:additionalName language="eng">FDZ at IQB</r3d:additionalName>
+                    <r3d:additionalName language="deu">Forschungsdatenzentrum am Institut zur Qualitätsentwicklung</r3d:additionalName>
+                    <r3d:additionalName language="eng">Research Data Centre at the Institute for Educational Quality Improvement</r3d:additionalName>
+                <r3d:repositoryURL>https://www.iqb.hu-berlin.de/fdz</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>https://fairsharing.org/5058</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Research Data Centre (Forschungsdatenzentrum, FDZ) at the Institute for Educational Quality Improvement (Institut zur Qualitätsentwicklung im Bildungswesen, IQB) archives and documents data sets resulting from national and international assessment studies (such as DESI, PIRLS, PISA, IQB-Bildungstrends). Moreover, the FDZ makes these data sets available for re- and secondary analysis. Members of the scientific community can apply for access to the data sets archived at the FDZ.</r3d:description>
+                    <r3d:repositoryContact>fdz@iqb.hu-berlin.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10902 Research on Teaching, Learning and Training</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">110 Psychology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.iqb.hu-berlin.de/fdz</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ASCOT</r3d:keyword>
+                    <r3d:keyword>ASCOT+</r3d:keyword>
+                    <r3d:keyword>Attention is doing school</r3d:keyword>
+                    <r3d:keyword>BELLA</r3d:keyword>
+                    <r3d:keyword>BIKS</r3d:keyword>
+                    <r3d:keyword>BRISE</r3d:keyword>
+                    <r3d:keyword>BiFoKi</r3d:keyword>
+                    <r3d:keyword>BiKS plus 8-18</r3d:keyword>
+                    <r3d:keyword>BiLieF</r3d:keyword>
+                    <r3d:keyword>BiSS-EILe</r3d:keyword>
+                    <r3d:keyword>BiSpra</r3d:keyword>
+                    <r3d:keyword>BilWiss</r3d:keyword>
+                    <r3d:keyword>CoBALIT</r3d:keyword>
+                    <r3d:keyword>Competence Development</r3d:keyword>
+                    <r3d:keyword>CosMed</r3d:keyword>
+                    <r3d:keyword>Cross-Sectional Studies</r3d:keyword>
+                    <r3d:keyword>DESI</r3d:keyword>
+                    <r3d:keyword>Data Workshops</r3d:keyword>
+                    <r3d:keyword>DigiFeed</r3d:keyword>
+                    <r3d:keyword>DomPL-IK</r3d:keyword>
+                    <r3d:keyword>EKGe</r3d:keyword>
+                    <r3d:keyword>ELEMENT</r3d:keyword>
+                    <r3d:keyword>Educational Assessment</r3d:keyword>
+                    <r3d:keyword>Educational Science Knowledge</r3d:keyword>
+                    <r3d:keyword>Educational System</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>FUnDuS</r3d:keyword>
+                    <r3d:keyword>Germany</r3d:keyword>
+                    <r3d:keyword>ICILS</r3d:keyword>
+                    <r3d:keyword>IGLU</r3d:keyword>
+                    <r3d:keyword>IQB-Bildungstrend</r3d:keyword>
+                    <r3d:keyword>IQB-Laendervergleich</r3d:keyword>
+                    <r3d:keyword>International Comparison</r3d:keyword>
+                    <r3d:keyword>International Student Assessment</r3d:keyword>
+                    <r3d:keyword>KAT-HS</r3d:keyword>
+                    <r3d:keyword>KESS</r3d:keyword>
+                    <r3d:keyword>Ko-NaMa</r3d:keyword>
+                    <r3d:keyword>KuL</r3d:keyword>
+                    <r3d:keyword>LABEL</r3d:keyword>
+                    <r3d:keyword>LAU</r3d:keyword>
+                    <r3d:keyword>LINK</r3d:keyword>
+                    <r3d:keyword>LISA</r3d:keyword>
+                    <r3d:keyword>LISA 6</r3d:keyword>
+                    <r3d:keyword>Large-Scale Assessment Studies</r3d:keyword>
+                    <r3d:keyword>Longitudinal Studies</r3d:keyword>
+                    <r3d:keyword>MARKUS</r3d:keyword>
+                    <r3d:keyword>MEZ</r3d:keyword>
+                    <r3d:keyword>MenZa</r3d:keyword>
+                    <r3d:keyword>MoMa</r3d:keyword>
+                    <r3d:keyword>National Assessment Study</r3d:keyword>
+                    <r3d:keyword>National Student Assessment</r3d:keyword>
+                    <r3d:keyword>PHONO</r3d:keyword>
+                    <r3d:keyword>PIRLS</r3d:keyword>
+                    <r3d:keyword>PISA</r3d:keyword>
+                    <r3d:keyword>ProFeL</r3d:keyword>
+                    <r3d:keyword>ProLeLe</r3d:keyword>
+                    <r3d:keyword>ProSach</r3d:keyword>
+                    <r3d:keyword>ProwiN</r3d:keyword>
+                    <r3d:keyword>QuaSUM</r3d:keyword>
+                    <r3d:keyword>SEIKA</r3d:keyword>
+                    <r3d:keyword>SEIKA-NRW</r3d:keyword>
+                    <r3d:keyword>ScaRf</r3d:keyword>
+                    <r3d:keyword>School Achievement</r3d:keyword>
+                    <r3d:keyword>StEG</r3d:keyword>
+                    <r3d:keyword>Stereotype Threat</r3d:keyword>
+                    <r3d:keyword>Student Achievement</r3d:keyword>
+                    <r3d:keyword>Systemdenken</r3d:keyword>
+                    <r3d:keyword>TALIS</r3d:keyword>
+                    <r3d:keyword>TEMA</r3d:keyword>
+                    <r3d:keyword>TIMSS</r3d:keyword>
+                    <r3d:keyword>TVD</r3d:keyword>
+                    <r3d:keyword>TeKoP</r3d:keyword>
+                    <r3d:keyword>Trends in Student Achievement</r3d:keyword>
+                    <r3d:keyword>proPHI</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/en/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143994</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Humboldt-Universität zu Berlin</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hu-berlin.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01hcx6992</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005626</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_41554</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Humboldt-Universität zu Berlin, Institut zur Qualitätsentwicklung im Bildungswesen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IQB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Institute for Educational Quality Improvement</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iqb.hu-berlin.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:038t2yw28</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>fdz@iqb.hu-berlin.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Zentrum für internationale Bildungsvergleichsstudien</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Centre for International Student Assessment</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">ZIB Education</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.zib.education/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Application process and guidelines: Campus Files (CFs)</r3d:policyName>
+                <r3d:policyURL>https://www.iqb.hu-berlin.de/fdz/Datenzugang/CF-Antrag</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Application process and guidelines: Scientific Use Files (SUFs)</r3d:policyName>
+                <r3d:policyURL>https://www.iqb.hu-berlin.de/fdz/Datenzugang/SUF-Antrag</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Collection Policy</r3d:policyName>
+                <r3d:policyURL>https://www.iqb.hu-berlin.de/fdz/CollectionPolicy.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.iqb.hu-berlin.de/fdz/CTS_FDZatIQB_fin.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Kriterien des RatSWD</r3d:policyName>
+                <r3d:policyURL>https://www.konsortswd.de/wp-content/uploads/RatSWD_FDZKriterien.PDF</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.iqb.hu-berlin.de/fdz/FDZNutzungsordnu.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.iqb.hu-berlin.de/fdz/Muster_FDZDatenn.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Rules of procedure</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.iqb.hu-berlin.de/fdz/20190131_FDZ_Ver.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                    <r3d:certificate>RatSWD</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Research Data Centre at IQB is covered by Clarivate Data Citation Index. Work at the Research Data Centre at IQB is carried out in line with the criteria for research data centres established by the German Council for Social and Economic Data (RatSWD). The project is part of the Centre for International Student Assessment (ZIB) funded by the Federal Ministry of Education and Research (BMBF) and The Standing Conference of the Ministers of Education and Cultural Affairs of the Länder in the Federal Republic of Germany.</r3d:remarks>
+        <r3d:entryDate>2013-07-04</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

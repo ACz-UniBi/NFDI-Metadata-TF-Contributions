@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011870</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IndExs – Index of Exsiccatae</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Index of Exsiccatae</r3d:additionalName>
+                <r3d:repositoryURL>http://indexs.botanischestaatssammlung.de</r3d:repositoryURL>
+                <r3d:description language="eng">&quot;IndExs&quot; is a database comprising information on exsiccatae (=exsiccatal series) with titles, abbreviations, bibliography and provides a unique and persistent Exsiccata ID for each series. Exsiccatae are defined as &quot;published, uniform, numbered sets of preserved specimens distributed with printed labels&quot; (Pfister 1985). Please note that there are two similar latin terms: &quot;exsiccata, ae&quot; is feminine and used for a set of dried specimens as defined above, whereas the term &quot;exsiccatum, i&quot; is neutral and used for dried specimens in general.  If available, images of one or more examplary labels are added to give layout information.</r3d:description>
+                    <r3d:repositoryContact>office.bsm@snsb.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>triebel@snsb.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-01-22">more than 2.150 exsiccata series, more than 1500 images</r3d:size>
+        <r3d:startDate>2001-01-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/About.jsp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Diversity Workbench</r3d:keyword>
+                    <r3d:keyword>algae</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>bryophytes</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>lichens</r3d:keyword>
+                    <r3d:keyword>pteridophytes</r3d:keyword>
+                    <r3d:keyword>spermatophytes</r3d:keyword>
+                    <r3d:keyword>zoocecidia</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Botanische Staatssammlung München</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bsm.snsb.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05mgwem27</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2001</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>office.bsm@snsb.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Staatliche naturwissenschaftliche Sammlungen Bayerns, IT Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Bavarian Natural History Collections, IT Center</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">SNSB IT Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.snsb.info/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.snsb.info/Contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://www.snsb.info/Disclaimer.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://indexs.botanischestaatssammlung.de/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/de/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="REST">http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/webservice.jsp</r3d:api>
+                    <r3d:api apiType="SOAP">http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/webservice.jsp</r3d:api>
+                            <r3d:pidSystem>URN</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/About.jsp</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>export options: csv, xls, xml</r3d:remarks>
+        <r3d:entryDate>2015-10-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

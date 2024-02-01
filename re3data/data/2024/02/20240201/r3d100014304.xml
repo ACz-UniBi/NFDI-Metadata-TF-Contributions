@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014304</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DANS Data Station Life Sciences</r3d:repositoryName>
+                <r3d:repositoryURL>https://lifesciences.datastations.nl/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OpenDOAR:10851</r3d:repositoryIdentifier>
+                <r3d:description language="eng">A domain-specific repository for the Life Sciences, covering the health, medical as well as the green life sciences. The repository services are primarily aimed at the Netherlands, but not exclusively.</r3d:description>
+                    <r3d:repositoryContact>https://dans.knaw.nl/en/contact/</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@dans.knaw.nl</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-24">about 1.000 datasets; over 20.000 files</r3d:size>
+        <r3d:startDate>2023-12-05</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://dans.knaw.nl/en/data-stations/life-sciences/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biomes</r3d:keyword>
+                    <r3d:keyword>biosphere</r3d:keyword>
+                    <r3d:keyword>cellular</r3d:keyword>
+                    <r3d:keyword>communities</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>ecosystems</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>medical</r3d:keyword>
+                    <r3d:keyword>molecular</r3d:keyword>
+                    <r3d:keyword>organs</r3d:keyword>
+                    <r3d:keyword>populations</r3d:keyword>
+                    <r3d:keyword>species</r3d:keyword>
+                    <r3d:keyword>tissues</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Data Archiving and Networked Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DANS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dans.knaw.nl/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:008pnp284</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000904</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://dans.knaw.nl/en/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Dutch Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">NWO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Nederlandse Organisatie voor Wetenschappelijk Onderzoek</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nwo.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04jsz6e67</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nwo.nl/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Royal Netherlands Academy of Arts and Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">KNAW</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Koninklijke Nederlandse Akademie van Wetenschappen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.knaw.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:043c0p156</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_009853</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.knaw.nl/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>DANS Licence</r3d:policyName>
+                <r3d:policyURL>https://dans.knaw.nl/wp-content/uploads/2022/01/DANS_Licence_EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Stations Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://dans.knaw.nl/en/legal/terms-and-conditions-data-stations/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dans.knaw.nl/en/licences/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dans.knaw.nl/en/licences/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Depositing data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://dans.knaw.nl/en/depositing-data-manual/during-depositing_ds/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dans.knaw.nl/wp-content/uploads/2022/01/DANS_Licence_EN.pdf</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2024-01-23</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

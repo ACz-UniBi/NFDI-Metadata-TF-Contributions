@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014030</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NWT Centre for Geomatics</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Centre de géomatique des TNO</r3d:additionalName>
+                    <r3d:additionalName language="eng">NortwestTerritories Centre for Geomatics</r3d:additionalName>
+                <r3d:repositoryURL>https://www.geomatics.gov.nt.ca/en/resources/field_resource_category/data-3</r3d:repositoryURL>
+                <r3d:description language="eng">The NWT Centre for Geomatics is a GNWT-wide corporate service that provides custom maps, geospatial data creation, analysis and maintenance, data centralization, geospatial web applications, earth observation and software management.</r3d:description>
+                    <r3d:repositoryContact>geonwt@gov.nt.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.geomatics.gov.nt.ca/en/contact-us</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.geomatics.gov.nt.ca/en/about-us</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>geomatic services</r3d:keyword>
+                    <r3d:keyword>geospatial infrastructure</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of Northwest Territories</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Gouvernement des Territoires du Nord-Ouest</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gov.nt.ca/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05hqvvq43</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.gov.nt.ca/en/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gov.nt.ca/en/terms#2-copyright-and-trademarks</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://www.apps.geomatics.gov.nt.ca/arcgis/rest/services/GNWT/Health_LCC/MapServer</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Services: https://www.geomatics.gov.nt.ca/en/services
+Available or downloadable data: https://www.geomatics.gov.nt.ca/en/data-faq#what-digital-data-is-available-or-downloadable-</r3d:remarks>
+        <r3d:entryDate>2022-11-11</r3d:entryDate>
+        <r3d:lastUpdate>2022-11-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

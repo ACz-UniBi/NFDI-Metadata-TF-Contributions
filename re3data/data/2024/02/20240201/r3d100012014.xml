@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012014</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HyperLeda</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Database for physics of galaxies</r3d:additionalName>
+                    <r3d:additionalName language="eng">Leda</r3d:additionalName>
+                    <r3d:additionalName language="eng">Lyon-Meudon Extragalactic Database</r3d:additionalName>
+                <r3d:repositoryURL>https://leda.univ-lyon1.fr/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2497-5486</r3d:repositoryIdentifier>
+                <r3d:description language="eng">HyperLeda is an information system for astronomy: It consists in a database and tools to process that data according to the user&#039;s requirements. The scientific goal which motivates the development of HyperLeda is the study of the physics and evolution of galaxies. LEDA was created more than 20 years ago, in 1983, and became HyperLeda after the merging with Hypercat in 2000</r3d:description>
+                    <r3d:repositoryContact>leda@univ-lyon1.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-11-03">5.377.545  objects</r3d:size>
+        <r3d:startDate>2000</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://leda.univ-lyon1.fr/intro.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>astronomy</r3d:keyword>
+                    <r3d:keyword>astrophysics</r3d:keyword>
+                    <r3d:keyword>galaxy</r3d:keyword>
+                    <r3d:keyword>kinematics</r3d:keyword>
+                    <r3d:keyword>photometry</r3d:keyword>
+                    <r3d:keyword>spectrophotometry</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Virtual Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EURO-VO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.euro-vo.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.euro-vo.org/partnerscontact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lyon Astrophysics Research Center, Lyon Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CRAL, Lyon Observatory</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Centre de Recherche Astrophysique de Lyon, L’Observatoire de Lyon</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://observatoire.univ-lyon1.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03j307b25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>leda@univ-lyon1.fr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université Claude Bernard Lyon 1</r3d:institutionName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.univ-lyon1.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029brtt94</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011158</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.univ-lyon1.fr/universite/nos-engagements/developpement-durable/contact-developpement-durable</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Advanced User Guide</r3d:policyName>
+                <r3d:policyURL>https://leda.univ-lyon1.fr/advanced.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://leda.univ-lyon1.fr/intro.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://leda.univ-lyon1.fr/acknowledge.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FITS - Flexible Image Transport System</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fits-flexible-image-transport-system</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Team and Mirrors: http://leda.univ-lyon1.fr/intro.html</r3d:remarks>
+        <r3d:entryDate>2016-06-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010590</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Fish Database of Taiwan</r3d:repositoryName>
+                <r3d:repositoryURL>https://fishdb.sinica.edu.tw/</r3d:repositoryURL>
+                <r3d:description language="eng">The Fish Database of Taiwan is a complex of research data for about 25 years to the Lab of Fish Ecology and Evolution, which is situated in Biodiversity Research Center of Academia Sinica.</r3d:description>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2020-10-15">300 families; 3.276 species</r3d:size>
+        <r3d:startDate>1999</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>coral reefs</r3d:keyword>
+                    <r3d:keyword>fish</r3d:keyword>
+                    <r3d:keyword>mangrove</r3d:keyword>
+                    <r3d:keyword>marine ecosystem</r3d:keyword>
+                    <r3d:keyword>sandy barrier lagoon</r3d:keyword>
+                    <r3d:keyword>seafloor</r3d:keyword>
+                    <r3d:keyword>x-rayed fishes</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Academia Sinica, Biodiversity Research Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BRCAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>TWN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.biodiv.tw/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:040bb7493</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Council of Agriculture, Executive Yuan R.O.C</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">COA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>TWN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://eng.coa.gov.tw/index.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0358yps07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>coa@mail.coa.gov.tw</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Science and Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MOST</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>TWN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.most.gov.tw/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02kv4zf79</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>most@most.gov.tw</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Certification of WDS Members</r3d:policyName>
+                <r3d:policyURL>https://www.worlddatasystem.org/services/certification</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ICSU World Data System Constitution</r3d:policyName>
+                <r3d:policyURL>https://www.worlddatasystem.org/organization/constitution_and_bylaws</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/about/cclicenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://fishdb.sinica.edu.tw/eng/home.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-01-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

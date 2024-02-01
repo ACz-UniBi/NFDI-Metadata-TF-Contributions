@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012755</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BACTIBASE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">a database dedicated to bacteriocins</r3d:additionalName>
+                <r3d:repositoryURL>http://bactibase.hammamilab.org/main.php</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.5f5mfm</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_05726</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006694</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_54530</r3d:repositoryIdentifier>
+                <r3d:description language="eng">BACTIBASE contains calculated or predicted physicochemical properties of bacteriocins produced by both Gram-positive and Gram-negative bacteria. The information in this database is very easy to extract and allows rapid prediction of relationships structure/function and target organisms of these peptides and therefore better exploitation of their biological activity in both the medical and food sectors.</r3d:description>
+                    <r3d:repositoryContact>http://bactibase.hammamilab.org/contacts.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>ismail.fliss@fsaa.ulaval.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-18-13">230 bacteriocins</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20403 Medical Microbiology, Molecular Infection Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20505 Nutritional Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://bactibase.hammamilab.org/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bacterial antimicrobial peptides</r3d:keyword>
+                    <r3d:keyword>eubacteria</r3d:keyword>
+                    <r3d:keyword>microbiology</r3d:keyword>
+                    <r3d:keyword>peptide sequence</r3d:keyword>
+                    <r3d:keyword>physicochemistry</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Natural Sciences and Engineering Research Council of Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CRSNG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Conseil de recherches en sciences naturelles et en génie du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NSERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nserc-crsng.gc.ca/index_eng.asp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nserc-crsng.gc.ca/ContactUs-ContactezNous/ContactDirectory-RepertoiredeContact_eng.asp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Ottawa, Faculty of Health Sciences, School of Nutrition Sciences, Dr. Riadh Hammami Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Hammami Lab</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Université d&#039;Ottawa, Faculté des sciences de la santé, École des Sciences de la Nutrition,
+Laboratoire du Dr Riadh Hammami</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.hammamilab.org/research</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.hammamilab.org/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>riadh.hammami@uottawa.ca</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>http://bactibase.hammamilab.org/terms.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://bactibase.hammamilab.org/terms.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/pddl/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submit a new bacteriome</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://bactibase.hammamilab.org/submit_sequence.php</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://bactibase.hammamilab.org/news.php</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-07-05</r3d:entryDate>
+        <r3d:lastUpdate>2019-11-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

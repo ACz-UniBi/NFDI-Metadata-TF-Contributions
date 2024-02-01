@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013512</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Open Energy Platform</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Open Energy Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">Open Energy Family</r3d:additionalName>
+                <r3d:repositoryURL>https://openenergy-platform.org/dataedit/schemas</r3d:repositoryURL>
+                <r3d:description language="eng">The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data. It is a collaborative community effort, everything is openly developed and therefore constantly evolving.
+The main module is the Open Energy Platform (OEP), a web interface to access most of the modules, especially the community database. It provides a way to publish data with proper documentation (metadata), and link it to source code and underlying assumptions.
+Open Energy Database is an open community database for energy, climate and modelling data.</r3d:description>
+                    <r3d:repositoryContact>https://openenergy-platform.org/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2015</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://openenergy-platform.org/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>community database</r3d:keyword>
+                    <r3d:keyword>energy system analysis</r3d:keyword>
+                    <r3d:keyword>open energy data</r3d:keyword>
+                    <r3d:keyword>power system modelling</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Otto-von-Guericke-Universität Magdeburg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">OvGU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iks.cs.ovgu.de/IKS.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00ggpsq73</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Reiner Lemoine Institut</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://reiner-lemoine-institut.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03xvdbr49</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://openenergy-platform.org/legal/tou/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gnu.org/licenses/agpl-3.0.en.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/odbl/1-0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.govdata.de/dl-de/by-2-0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>open data licenses</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://openenergy-platform.org/tutorials/jupyter/tutorial_open-data-licenses/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://oep-data-interface.readthedocs.io/en/latest/api.html</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Partners: https://openenergy-platform.org/about/</r3d:remarks>
+        <r3d:entryDate>2021-02-25</r3d:entryDate>
+        <r3d:lastUpdate>2021-03-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

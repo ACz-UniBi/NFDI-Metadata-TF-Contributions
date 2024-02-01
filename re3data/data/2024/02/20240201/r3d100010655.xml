@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010655</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">OpenTopography</r3d:repositoryName>
+                    <r3d:additionalName language="eng">A Portal to High-Resolution Topography Data and Tools</r3d:additionalName>
+                <r3d:repositoryURL>https://opentopography.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.88wme4</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002204</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_154717</r3d:repositoryIdentifier>
+                <r3d:description language="eng">OpenTopography facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources.
+The OpenTopography Facility is based at the San Diego Supercomputer Center at the University of California, San Diego and is operated in collaboration with colleagues in the School of Earth and Space Exploration at Arizona State University and Earthscope Consortium.  Core operational support for OpenTopography comes from the National Science Foundation Earth Sciences.</r3d:description>
+                    <r3d:repositoryContact>https://opentopography.org/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@opentopography.org</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31701 Physical Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://opentopography.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Digital Elevation Models</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>lidar data</r3d:keyword>
+                    <r3d:keyword>satellite data</r3d:keyword>
+                    <r3d:keyword>topography data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Arizona State University, School of Earth and Space Exploration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ASU, SESE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sese.asu.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://sese.asu.edu/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Earthscope Consortium</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.earthscope.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04danrt76</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.earthscope.org/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://search.nsf.gov/search?query=contact&amp;affiliate=nsf&amp;search=</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California San Diego, San Diego Supercomputer Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UC San Diego, SDSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sdsc.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04mg3nk07</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001856</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sdsc.edu/search-results?q=contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Acknowledgement and Citation Policy</r3d:policyName>
+                <r3d:policyURL>https://opentopography.org/citations</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Hosting Policy</r3d:policyName>
+                <r3d:policyURL>https://opentopography.org/about/data_hosting</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://opentopography.org/usageterms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opentopography.org/usageterms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opentopography.org/usageterms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Submission Process</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://opentopography.org/about/data_submission</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://opentopography.org/developers#SRTM</r3d:api>
+                    <r3d:api apiType="SPARQL">https://portal.opentopography.org/apidocs/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://opentopography.org/citations</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://opentopography.org/blog.xml</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://opentopography.org/news.xml</r3d:syndication>
+                <r3d:remarks>The OpenTopography Facility is based at the San Diego Supercomputer Center at the University of California, San Diego and is operated in collaboration with colleagues in the School of Earth and Space Exploration at Arizona State University and Earthscope Consortium.
+Core operational support for OpenTopography comes from the National Science Foundation Earth Sciences: Geoinformatics. 
+As an NSF-EAR-funded data facility, OpenTopography’s primary emphasis is on Earth science-related, research-grade, topography and bathymetry data. The scope of data that falls within this domain is not specifically defined, and data priorities are dictated by feedback from the OpenTopography user community, as well as our Advisory Committee. OpenTopography&#039;s data catalog is federated by Data.gov, Thompson Reuters and is FAIR complaint.</r3d:remarks>
+        <r3d:entryDate>2014-03-12</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

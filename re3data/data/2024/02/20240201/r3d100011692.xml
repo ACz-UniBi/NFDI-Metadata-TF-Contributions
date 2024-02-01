@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011692</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">USGODAE Argo GDAC Data Browser</r3d:repositoryName>
+                    <r3d:additionalName language="eng">US Global Ocean Data Assimilation Experiment Argo Global Data Assembly Center Data Browser</r3d:additionalName>
+                <r3d:repositoryURL></r3d:repositoryURL>
+                <r3d:description language="eng">!!! &lt;&lt;&lt; the repository is offline, please use: https://www.re3data.org/repository/r3d100011650  &gt;&gt;&gt; !!! The USGODAE Project consists of United States academic, government and military researchers working to improve assimilative ocean modeling as part of the International GODAE Project. GODAE hopes to develop a global system of observations, communications, modeling and assimilation, that will deliver regular, comprehensive information on the state of the oceans, in a way that will promote and engender wide utility and availability of this resource for maximum benefit to the community.
+The USGODAE Argo GDAC is currently operational, serving daily data from the following national DACs: Australia (CSIRO), Canada (MEDS), China (2: CSIO and NMDIS), France (Coriolis), India (INCOIS), Japan (JMA), Korea (2: KMA and Kordi), UK (BODC), and US (AOML).</r3d:description>
+                    <r3d:repositoryContact>godae-help@nrlmry.navy.mil</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@argo.net</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate>2022</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.usgodae.org/argo/argo.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ocean</r3d:keyword>
+                    <r3d:keyword>pressure</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Fleet Numerical Meteorology and Oceanography Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FNMOC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.usno.navy.mil/FNMOC/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.usno.navy.mil/help</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">GODAE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Global Ocean Data Assimilation Experiment</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.godae.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.godae.org/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Argo Project</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.argo.net/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>support@argo.net</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">USGODAE Argo GDAC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">US Global Ocean Data Assimilation Experiment Argo Global Data Assembly Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.usgodae.org/argo/argo.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.usgodae.org/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Naval Meteorology and Oceanography Command</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NMOC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.navy.mil/local/cnmoc/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Naval Research Laboratory, Marine Meteorology Division</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nrlmry.navy.mil/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.nrlmry.navy.mil/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>A beginner&#039;s guide to accessing Argo data</r3d:policyName>
+                <r3d:policyURL>http://www.argo.ucsd.edu/Argo_date_guide.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Argo Data Reference Documentation</r3d:policyName>
+                <r3d:policyURL>http://www.argodatamgt.org/Documentation</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>The purpose of GODAE</r3d:policyName>
+                <r3d:policyURL>https://www.godae.org/What-is-GODAE.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.usgodae.org/disclaimer.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://data-argo.ifremer.fr</r3d:api>
+                    <r3d:api apiType="FTP">ftp://ftp.ifremer.fr/ifremer/argo</r3d:api>
+                    <r3d:api apiType="NetCDF">http://www.argodatamgt.org/Access-to-data/Argo-GDAC-ftp-and-https-servers</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The USGODAE server is one of two Argo Global Data Assembly Centers (GDAC).</r3d:remarks>
+        <r3d:entryDate>2016-02-10</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

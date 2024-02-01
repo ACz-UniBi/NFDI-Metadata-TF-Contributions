@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011604</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Astronomical Data Archives Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ADAC</r3d:additionalName>
+                    <r3d:additionalName language="eng">ADC</r3d:additionalName>
+                    <r3d:additionalName language="eng">Astronomy Data Center</r3d:additionalName>
+                <r3d:repositoryURL>http://dbc.nao.ac.jp/</r3d:repositoryURL>
+                <r3d:description language="eng">The Astronomical Data Archives Center (ADAC) provides access to astronomical data from all over the world with links to online data catalogs, journal archives, imaging services and data archives. Users can access the VizieR catalogue service as well as the Hubble Ultra Deep Field Data by requesting password access. ADAC also provides access to the SMOKA public science data obtained through the Subaru Telescope in Hawaii as well as Schmidt Telescope at the University of Tokyo &amp; MITSuME and KANATA Telescope at Higashi-Hiroshima Observatory. Users may need to contact the ADAC for password access or create user accounts for the various data services accessible through the ADAC site.</r3d:description>
+                    <r3d:repositoryContact>data_center @ dbc.nao.ac.jp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>astrometry</r3d:keyword>
+                    <r3d:keyword>high-energy</r3d:keyword>
+                    <r3d:keyword>photometry</r3d:keyword>
+                    <r3d:keyword>radio</r3d:keyword>
+                    <r3d:keyword>sky survey</r3d:keyword>
+                    <r3d:keyword>spectroscopy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Astronomical Observatory of Japan, Astronomy Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ADC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NAOJ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nao.ac.jp/en/research/project/adc.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>consult @ ana.nao.ac.jp</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://dbc.nao.ac.jp/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">http://dbc.nao.ac.jp/lcat/cftp.html</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Astronomical Data Analysis Center was reorganized to Astronomy Data Center (ADC) and Center for Computational Astrophysics (CfCA) on 2006 April 1st. Astronomical Data Center has been renamed Astronomical Data Archives Center (ADAC) (2006.5.11).</r3d:remarks>
+        <r3d:entryDate>2015-07-21</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

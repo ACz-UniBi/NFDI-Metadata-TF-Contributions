@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012066</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Shuttle Radar Topography Mission</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SRTM</r3d:additionalName>
+                <r3d:repositoryURL>https://www2.jpl.nasa.gov/srtm/index.html</r3d:repositoryURL>
+                <r3d:description language="eng">The Shuttle Radar Topography Mission, which flew aboard NASA&#039;s Space Shuttle Endeavour during an 11-day mission in 2000, made the first near-global topographical map of Earth, collecting data on nearly 80 percent of Earth&#039;s land surfaces. 
+
+ The instrument&#039;s design was essentially a modified version of the earlier Shuttle Imaging Radar instruments with a second antenna added to allow for topographic mapping using a technique similar to stereo photography.</r3d:description>
+                    <r3d:repositoryContact>michael.kobrick@jpl.nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2016-07-19">9 terabytes of raw data</r3d:size>
+        <r3d:startDate>2000</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www2.jpl.nasa.gov/srtm/mission.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>GIS geographic information systems</r3d:keyword>
+                    <r3d:keyword>digital elevation models</r3d:keyword>
+                    <r3d:keyword>images</r3d:keyword>
+                    <r3d:keyword>interferometric synthetic aperture radar</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>topography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Deutsches Zentrum für Luft- und Raumfahrt</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Aerospace Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/DE/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5515/9214_read-17716/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Jet Propulsion Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JPL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jpl.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027k65916</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>alan.buis@jpl.nasa.gov</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.jpl.nasa.gov/news/news.php?release=2014-321</r3d:institutionContact>
+                                    <r3d:institutionContact>stephen.e.cole@nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-99.html</r3d:institutionContact>
+                                    <r3d:institutionContact>stephen.e.cole@nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. National Geospatial-Intelligence Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NGA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nga.mil/Pages/Default.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02k4pxv54</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nga.mil/About/Pages/Contact.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">US Geological Survey, Earth Resources Observation and Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USGS, EROS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://eros.usgs.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>custserv@usgs.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Geological Survey</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">U.S. Geological Survey</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">USGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usgs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:035a68863</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.usgs.gov/policies-notices</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://technology.nasa.gov/publicdomain</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.jpl.nasa.gov/imagepolicy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://dds.cr.usgs.gov/srtm/version2_1/SRTM30/</r3d:api>
+                    <r3d:api apiType="FTP">https://www.usgs.gov/core-science-systems/ngp/tnm-delivery/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.usgs.gov/centers/eros</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The SRTM radar contained two types of antenna panels, C-band and X-band. The near-global topographic maps of Earth called Digital Elevation Models (DEMs) are made from the C-band radar data.  These data were processed at the Jet Propulsion Laboratory and are being distributed through the United States Geological Survey&#039;s EROS Data Center (http://eros.usgs.gov/). Data from the X-band radar are used to create slightly higher resolution DEMs but without the global coverage of the C-band radar. The SRTM X-band radar data are being processed and distributed by the German Aerospace Center, DLR (http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5515/9214_read-17716/).
+Several new web sites have posted SRTM data in different formats than available at the USGS site or the Seamless Server. Users may want to check the Global Land Cover Facility (http://glcf.umiacs.umd.edu/data/srtm/index.shtml) or the CGIAR Consortium for Spatial Information (http://srtm.csi.cgiar.org/) for SRTM data.</r3d:remarks>
+        <r3d:entryDate>2016-07-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

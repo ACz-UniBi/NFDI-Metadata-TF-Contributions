@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012836</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EyeGENE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The National Ophthalmic Genotyping and Phenotyping Network</r3d:additionalName>
+                <r3d:repositoryURL>https://eyegene.nih.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi.:10.25504/FAIRsharing.5nnxqn</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_05773</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004523</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00229</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The eyeGENE® Research Resource  is open for approved research studies. Application details here Researchers and clinicians are actively developing gene-based therapies to treat ophthalmic genetic diseases that were once considered untreatable.</r3d:description>
+                    <r3d:repositoryContact>eyegeneinfo@nei.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate>2015</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20611 Clinical Neurosciences III - Ophthalmology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://eyegene.nih.gov/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA samples</r3d:keyword>
+                    <r3d:keyword>cataracts</r3d:keyword>
+                    <r3d:keyword>clinical trial</r3d:keyword>
+                    <r3d:keyword>corneal dystrophies</r3d:keyword>
+                    <r3d:keyword>data informatics</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genotypes</r3d:keyword>
+                    <r3d:keyword>glaucoma</r3d:keyword>
+                    <r3d:keyword>health care</r3d:keyword>
+                    <r3d:keyword>medicine</r3d:keyword>
+                    <r3d:keyword>ocular disease</r3d:keyword>
+                    <r3d:keyword>pathways to treatments</r3d:keyword>
+                    <r3d:keyword>phenotypes</r3d:keyword>
+                    <r3d:keyword>retinal degenerations</r3d:keyword>
+                    <r3d:keyword>strabismus</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Eye Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NEI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nei.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wkg3b53</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011411</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005096</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nei.nih.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Material Transfer Agreement For Access to Biomaterials and /or  Data</r3d:policyName>
+                <r3d:policyURL>https://eyegene.nih.gov/sites/eyegene.cit.nih.gov.nei/files/inline-files/Master-eyeGENE-Stage-2-Master-MTA-v2-clean.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://eyegene.nih.gov/sites/eyegene.cit.nih.gov.nei/files/inline-files/Master-eyeGENE-Stage-2-Master-MTA-v2-clean.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>BRICS - Biomedical Research Informatics Computing System is a dynamic, expanding, and easily reproducible informatics ecosystem developed to create secure, centralized biomedical databases to support research efforts to accelerate scientific discovery, by aggregating and sharing data using Web-based clinical report form generators and a data dictionary of Clinical Data Elements. BRICS has been used so far to support multiple neurobiological studies, including  the National Ophthalmic Disease Genotyping and Phenotyping Network (eyeGENE).
+EyeGENE is part of National Eye Institute Data Commons https://www.re3data.org/repository/r3d100014148</r3d:remarks>
+        <r3d:entryDate>2018-08-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

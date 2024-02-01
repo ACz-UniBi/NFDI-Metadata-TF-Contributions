@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011095</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ODIN</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ODIN Portal</r3d:additionalName>
+                    <r3d:additionalName language="eng">Online Data &amp; Information Network for Energy</r3d:additionalName>
+                <r3d:repositoryURL>https://odin.jrc.ec.europa.eu/odin/index.jsp</r3d:repositoryURL>
+                <r3d:description language="eng">The ODIN Portal hosts scientific databases in the domains of structural materials and hydrogen research and is operated on behalf of the European energy research community by the Joint Research Centre, the European Commission&#039;s in-house science service providing independent scientific advice and support to policies of the European Union. 
+ODIN contains engineering databases (Mat-Database, Hiad-Database, Nesshy-Database, HTR-Fuel-Database, HTR-Graphit-Database) and document management sites and other information related to European research in the area of nuclear and conventional energy.</r3d:description>
+                    <r3d:repositoryContact>https://ec.europa.eu/jrc/en/contact/form</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>http://iet.jrc.ec.europa.eu/our-mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>alloy</r3d:keyword>
+                    <r3d:keyword>bioenergy</r3d:keyword>
+                    <r3d:keyword>clean fossil fuel</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>enery research</r3d:keyword>
+                    <r3d:keyword>high temperature reactor fuel element data</r3d:keyword>
+                    <r3d:keyword>high temperature reactor graphite element data</r3d:keyword>
+                    <r3d:keyword>hydrogen accident</r3d:keyword>
+                    <r3d:keyword>hydrogen incident</r3d:keyword>
+                    <r3d:keyword>hydrogen sorption</r3d:keyword>
+                    <r3d:keyword>material properties</r3d:keyword>
+                    <r3d:keyword>material testing</r3d:keyword>
+                    <r3d:keyword>nuclear safety</r3d:keyword>
+                    <r3d:keyword>nuclear security</r3d:keyword>
+                    <r3d:keyword>renewable energy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Joint Research Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EC, JRC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">EU Science Hub</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/jrc/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02qezmz13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>COMMISSION DECISION of 12 December 2011 on the reuse of Commission documents</r3d:policyName>
+                <r3d:policyURL>https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:330:0039:0042:EN:PDF</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ec.europa.eu/info/legal-notice_en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:330:0039:0042:EN:PDF</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>ODIN is the Online Data &amp; Information Network of the European Commission Joint Research Centre (JRC) and provides data management services to the European energy research community. It contains engineering databases MATDB and HIAD and plus the document database DOMA and other information related to European research in the area of nuclear and conventional energy.</r3d:remarks>
+        <r3d:entryDate>2014-07-15</r3d:entryDate>
+        <r3d:lastUpdate>2021-10-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

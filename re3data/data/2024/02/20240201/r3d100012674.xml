@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012674</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NODC Italian Oceanographic Data Centre</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NODC-OGS</r3d:additionalName>
+                    <r3d:additionalName language="eng">National Oceanographic Data Centre at OGS</r3d:additionalName>
+                <r3d:repositoryURL>https://nodc.ogs.it/</r3d:repositoryURL>
+                <r3d:description language="eng">OGS is recognised as the Italian National Oceanographic Data Centre (OGS-NODC) within the International Oceanographic Data Exchange System of the UNESCO Intergovernmental Oceanographic Commission (IOC) since 27/6/2002.
+OGS is also listed in EurOcean (Marine Research Infrastructures Database) and in EDMO (European Directory of Marine Organisations).
+OGS as part of the IOC&#039;s network of National Oceanographic Data Centres has designated responsibility for the coordination of data and information management at national level. The oceanographic database covers the fields of marine physics, chemical, biological, underway geophysics and general information on Italian oceanographic cruises and data sets.
+The main objectives are (revision IODE-XXII, March 2013):
+-Facilitate and promote the discovery, exchange of, and access to, marine data and information including metadata, products and information in real-time, near real time and delayed mode, through the use of international standards, and in compliance with the IOC Oceanographic Data Exchange Policy for the ocean research and observation community and other stakeholders;
+- Encourage the long term archival, preservation, documentation, management and services of all marine data, data products, and information;
+- Develop or use existing best practices for the discovery, management, exchange of, and access to marine data and information, including international standards, quality control and appropriate information technology;
+- Assist Member States to acquire the necessary capacity to manage marine research and observation data and information and become partners in the IODE network;
+- Support international scientific and operational marine programmes, including the Framework for Ocean Observing for the benefit of a wide range.</r3d:description>
+                    <r3d:repositoryContact>nodc@ogs.it</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://nodc.ogs.it/about/datacentre</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>bathymetry</r3d:keyword>
+                    <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>european seas</r3d:keyword>
+                    <r3d:keyword>interpolated maps</r3d:keyword>
+                    <r3d:keyword>marine data</r3d:keyword>
+                    <r3d:keyword>plankton</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="ita">Istituto Nazionale di Oceanografia e di Geofisica Sperimentale</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">National Institute of Oceanography and Applied Geophysics</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ita">OGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ogs.it/it</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04y4t7k95</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="ita">Istituto Nazionale di Oceanografia e di Geofisica Sperimentale, Centro Nazionale di Dati Oceanografici</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NODC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Institute of Oceanography and Applied Geophysics, National Oceanographic Data Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ogs.it/en/national-oceanographic-data-centre-nodc</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>OGS copyright and data policy</r3d:policyName>
+                <r3d:policyURL>https://nodc.ogs.it/data/datapolicy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nodc.ogs.it/data/datapolicy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://nodc.ogs.it/erddap/tabledap/documentation.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-05-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

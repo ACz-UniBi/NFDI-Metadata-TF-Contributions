@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010760</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Paleobiology Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PBDB</r3d:additionalName>
+                    <r3d:additionalName language="eng">PaleoBioDB</r3d:additionalName>
+                    <r3d:additionalName language="eng">PaleoDB</r3d:additionalName>
+                <r3d:repositoryURL>https://paleobiodb.org/#/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.r1k8kz</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003798</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Paleobiology Database (PaleoBioDB) is a non-governmental, non-profit public resource for paleontological data. It has been organized and operated by a multi-disciplinary, multi-institutional, international group of paleobiological researchers. Its purpose is to provide global, collection-based occurrence and taxonomic data for organisms of all geological ages, as well data services to allow easy access to data for independent development of analytical tools, visualization software, and applications of all types. The Database’s broader goal is to encourage and enable data-driven collaborative efforts that address large-scale paleobiological questions.</r3d:description>
+                    <r3d:repositoryContact>https://paleobiodb.org/#/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@paleobiodb.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-06-10">81.752 references; 458.198 taxa; 878.840 opinions; 225.777 collections; 1.558.926 occurrences</r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://paleobiodb.org/#/faq</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>fossils</r3d:keyword>
+                    <r3d:keyword>geography</r3d:keyword>
+                    <r3d:keyword>geology</r3d:keyword>
+                    <r3d:keyword>marine and terrestrial animals</r3d:keyword>
+                    <r3d:keyword>microorganisms</r3d:keyword>
+                    <r3d:keyword>paleontology</r3d:keyword>
+                    <r3d:keyword>plants</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.arc.gov.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05mmh0f86</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Wisconsin-Madison, Department of Geoscience</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://geoscience.wisc.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>mmcclenn@geology.wisc.edu</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://paleobiodb.org/#/faq</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://paleobiodb.org/data1.1/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://paleobiodb.org/#/faq/how-should-the-paleobiology-database-data-be-cited-</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The Paleobiology Database (PBDB) was founded in 1998 by John Alroy and Charles Marshall. Fossilworks provides query, download, and analysis tools that utilize the Paleobiology Database&#039;s large relational database assembled by hundreds of paleontologists from around the world. Fossilworks is managed by John Alroy at Maquarie University.
+As a publicly funded project, all code related to the Paleobiology Database is open source and can be found on Github.
+The Paleobiology Database is managed by the Executive Committee, which sets overall database policy, oversees matters related to the PaleoDBâ€™s membership and access to data. The Committee consists of 12 members, including a Chair and a Secretary. The Chair is currently Mark D. Uhen and its Secretary is Jocelyn Sessa. Primary software development is actually being carried out at the University of Wisconsin-Madison under the direction of Shanan Peters and Michael McClennen.</r3d:remarks>
+        <r3d:entryDate>2014-03-13</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

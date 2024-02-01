@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011742</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">AERONET</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AErosol RObotic NETwork</r3d:additionalName>
+                <r3d:repositoryURL>https://aeronet.gsfc.nasa.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>https://fairsharing.org/3170</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS  (PHOtométrie pour le Traitement Opérationnel de Normalisation Satellitaire; Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by networks (e.g., RIMA, AeroSpan, AEROCAN, and CARSNET) and collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution.</r3d:description>
+                    <r3d:repositoryContact>Elena.Lind@nasa.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>Pawan.Gupta@nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://aeronet.gsfc.nasa.gov/new_web/system_descriptions.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>African Monsoon Multidisciplinary Analysis (AMMA)</r3d:keyword>
+                    <r3d:keyword>Angström exponent</r3d:keyword>
+                    <r3d:keyword>Atmospheric Brown Cloud (ABC)</r3d:keyword>
+                    <r3d:keyword>Base Asia - Thailand</r3d:keyword>
+                    <r3d:keyword>CALIPSO</r3d:keyword>
+                    <r3d:keyword>CATZ</r3d:keyword>
+                    <r3d:keyword>Cimel Sun Photometer</r3d:keyword>
+                    <r3d:keyword>Distributed Regional Aerosol Gridded Observation Networks (DRAGON)</r3d:keyword>
+                    <r3d:keyword>Megacity Aerosol Experiment in Mexico City (MAX-MEX)</r3d:keyword>
+                    <r3d:keyword>Sky radiance</r3d:keyword>
+                    <r3d:keyword>TIGERZ</r3d:keyword>
+                    <r3d:keyword>TROPOS</r3d:keyword>
+                    <r3d:keyword>aerosol</r3d:keyword>
+                    <r3d:keyword>aerosol optical depth (AOD)</r3d:keyword>
+                    <r3d:keyword>calibration</r3d:keyword>
+                    <r3d:keyword>sky-photometer</r3d:keyword>
+                    <r3d:keyword>sun-photometer</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/about/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration, Goddard Space Flight Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA, Goddard Space Flight Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/goddard</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0171mag52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/content/contact-goddard</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Photons/Aeronet Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">PHOTONS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">PHOtométrie pour le Traitement Opérationnel de Normalisation Satellitaire</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://loaphotons.univ-lille1.fr/photons/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>didier.tanre@univ-lille1.fr</r3d:institutionContact>
+                                    <r3d:institutionContact>photons@univ-lille1.fr</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>DATA - Access and Disemination Tools</r3d:policyName>
+                <r3d:policyURL>https://aeronet.gsfc.nasa.gov/new_web/data.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>DATA - Usage and Guidelines</r3d:policyName>
+                <r3d:policyURL>https://aeronet.gsfc.nasa.gov/new_web/data_usage.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://aeronet.gsfc.nasa.gov/new_web/data_usage.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://aeronet.gsfc.nasa.gov/new_web/data_usage.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>collaborators: https://aeronet.gsfc.nasa.gov/new_web/collaborators.html
+Explanation &quot;How to download data from the AERONET database&quot;:  https://instesre.org/Aerosols/aeronet_files/aeronet.htm</r3d:remarks>
+        <r3d:entryDate>2016-04-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

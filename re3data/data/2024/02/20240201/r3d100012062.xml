@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012062</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Secondary Analysis to Generate Evidence (SAGE) Dataverse</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SAGE</r3d:additionalName>
+                    <r3d:additionalName language="eng">Secondary Analysis to Generate Evidence</r3d:additionalName>
+                <r3d:repositoryURL>https://borealisdata.ca/dataverse/SAGE</r3d:repositoryURL>
+                <r3d:description language="eng">SAGE is a data and research platform that enables the secondary use of data related to child and youth development, health and well-being. It currently contains research data, and at a later stage we aim to also house administrative and community service delivery data. Technical infrastructure and governance processes are in place to ensure ethical use and the privacy of participants. 
+This dataverse provides metadata for the various data holdings available in SAGE (Secondary Analysis to Generate Evidence), a research data repository based in Edmonton Alberta and an intiative of PolicyWise for Children &amp; Families. In general, SAGE contains data holdings too sensitive for open access. Each study lists a security level which indicates the procedure required to access the data.</r3d:description>
+                    <r3d:repositoryContact>data@policywise.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@policywise.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-06-14">13 datasets; 19 files</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>adults</r3d:keyword>
+                    <r3d:keyword>cohort study</r3d:keyword>
+                    <r3d:keyword>human ecology</r3d:keyword>
+                    <r3d:keyword>mental health</r3d:keyword>
+                    <r3d:keyword>nutrition</r3d:keyword>
+                    <r3d:keyword>survey</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Policywise for Children &amp; Families</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: ACCFCR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Alberta Centre for Child, Family and Community Research</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: The Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://policywise.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00pydep37</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@policywise.com</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Alberta Libraries</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UOFA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.library.ualberta.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.library.ualberta.ca/research-support/data-management</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Community-norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Dataverse Guides</r3d:policyName>
+                <r3d:policyURL>https://guides.dataverse.org/en/latest/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Secondary Analysis to Generate Evidence (SAGE) Data Holdings Dataverse is part of the University of Alberta Libraries UAL Dataverse Network. 
+The data are made available in the SAGE virtual research environment (VRE) to the data accessor.</r3d:remarks>
+        <r3d:entryDate>2016-07-11</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

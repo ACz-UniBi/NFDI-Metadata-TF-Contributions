@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011132</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Social Scientific Research Documentation Centre Repository</r3d:repositoryName>
+                    <r3d:additionalName language="hun">KDK</r3d:additionalName>
+                    <r3d:additionalName language="hun">Kutatási Dokumentációs Központ</r3d:additionalName>
+                    <r3d:additionalName language="eng">RDC Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://openarchive.tk.mta.hu/</r3d:repositoryURL>
+                <r3d:description language="eng">The Research Documentation Centre of the Centre for Social Sciences at the Hungarian Academy of Sciences provides information on and access to research conducted at the Centre. The metadata and many of the documents of the Research Documentation Centre (RDC) are available to all visitors. External researchers may ask for access to restricted collections</r3d:description>
+                    <r3d:repositoryContact>https://kdk.tk.hu/en/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>kdk@tk.hu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>hun</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11101 Sociological Theory</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://openarchive.tk.mta.hu/information.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>business</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>health data</r3d:keyword>
+                    <r3d:keyword>law</r3d:keyword>
+                    <r3d:keyword>politics</r3d:keyword>
+                    <r3d:keyword>social history</r3d:keyword>
+                    <r3d:keyword>social policy</r3d:keyword>
+                    <r3d:keyword>social security</r3d:keyword>
+                    <r3d:keyword>socialism</r3d:keyword>
+                    <r3d:keyword>sociology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Hungarian Academy of Sciences Centre of Excellence, Centre for Social Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="hun">mtatk</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://tk.hu/en/introduction</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0492k9x16</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://tk.hu/en/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>titkarsag@tk.hu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Repository Policies</r3d:policyName>
+                <r3d:policyURL>https://openarchive.tk.mta.hu/policies.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://openarchive.tk.mta.hu/policies.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>EPrints</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://openarchive.tk.mta.hu/cgi/oai2</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://kdk.tk.hu/en/rss</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-10-06</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

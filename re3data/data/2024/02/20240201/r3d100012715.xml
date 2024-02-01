@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012715</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">enviPath</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The enironmental contaminant biotransormation pathway resource</r3d:additionalName>
+                    <r3d:additionalName language="eng">including: Biocatalysis/Biodegradation Database EAWAG PPS Rules</r3d:additionalName>
+                <r3d:repositoryURL>https://envipath.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.g0c5qn</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_11129</r3d:repositoryIdentifier>
+                <r3d:description language="eng">enviPath is a database and prediction system for the microbial biotransformation of organic environmental contaminants. The database provides the possibility to store and view experimentally observed biotransformation pathways. The pathway prediction system provides different relative reasoning models to predict likely biotransformation pathways and products.</r3d:description>
+                    <r3d:repositoryContact>admin@envipath.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.datamining.informatik.uni-mainz.de/dfg-snf-envipath/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Switzerland</r3d:keyword>
+                    <r3d:keyword>biotransformation pathways</r3d:keyword>
+                    <r3d:keyword>microbial biotransformation</r3d:keyword>
+                    <r3d:keyword>organic environmental contaminants</r3d:keyword>
+                    <r3d:keyword>pathways</r3d:keyword>
+                    <r3d:keyword>swiss</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DFG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dfg.de/en/service/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Johannes Gutenberg University Mainz, Institute of Computer Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Johannes Gutenberg Universität Mainz, Institut für Informatik</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cs.uni-mainz.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cs.uni-mainz.de/people/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SNSF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Swiss National Science Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00yjd3n13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">eawag aquatic research</r3d:institutionName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.eawag.ch/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00pc48d59</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://envipath.org/licence</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/#GPL</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://wiki.envipath.com/doku.php?id=start#rest_api</r3d:api>
+                        <r3d:citationGuidelineURL>https://wiki.envipath.com/doku.php?id=start#cite</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Contributers: https://envipath.org/contributors</r3d:remarks>
+        <r3d:entryDate>2018-06-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

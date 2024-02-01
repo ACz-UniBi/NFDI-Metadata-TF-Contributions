@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011371</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TOXNET</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Toxicology Data Network</r3d:additionalName>
+                <r3d:repositoryURL>https://www.nlm.nih.gov/toxnet/index.html</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;The repository is no longer available &lt;&lt;&lt;!!!&lt;&lt;&lt; TOXNET has moved. Most content will continue to be collected and reviewed; selected information is accessible through PubChem, PubMed, and Bookshelf.
+ If you have questions, please contact NLM Customer Support at https://support.nlm.nih.gov/ &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2019-12-16</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.nlm.nih.gov/pubs/factsheets/toxnetfs.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>chemicals</r3d:keyword>
+                    <r3d:keyword>diseases</r3d:keyword>
+                    <r3d:keyword>drugs</r3d:keyword>
+                    <r3d:keyword>environmental health</r3d:keyword>
+                    <r3d:keyword>occupational safety and health</r3d:keyword>
+                    <r3d:keyword>toxicology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Library of Medicine, Division of Specialized Information Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NLM, SIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sis.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nlm.nih.gov/privacy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nlm.nih.gov/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nlm.nih.gov/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://toxnet.nlm.nih.gov/newtoxnet/faq.html</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://toxnet.nlm.nih.gov/newtoxnet/faq.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>TOXNET provides links to PubMed, NLM&#039;s free web interface to the world&#039;s biomedical literature, and to additional sources of toxicological information.
+Description: TOXNET (TOXicology Data NETwork) is a group of databases covering chemicals and drugs, diseases and the environment, environmental health, occupational safety and health, poisoning, risk assessment and regulations, and toxicology.
+Information in the TOXNET databases covers: 
+Toxicology data: CCRIS (Chemical Carcinogenesis Research Information System), CPDB (Carcinogenic Potency Database), CTD (Comparative Toxicogenomics Database), GENE-TOX (Genetic Toxicology), HSDB® (Hazardous Substances Data Bank), Haz-Map®, Household Products Database, IRIS (Integrated Risk Information System), ITER (International Toxicity Estimates for Risk), LactMed® (Drugs and Lactation), TRI (Toxics Release Inventory), TOXMAP®, ;
+Chemical nomenclature: ChemIDplus;
+Toxicology literature: TOXLINE®, DART® (Developmental and Reproductive Toxicology Database).</r3d:remarks>
+        <r3d:entryDate>2014-10-15</r3d:entryDate>
+        <r3d:lastUpdate>2022-08-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

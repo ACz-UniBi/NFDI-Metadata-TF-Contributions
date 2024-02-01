@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011975</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Research Institute for Sustainable Humanosphere databases</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Database for the humanosphere</r3d:additionalName>
+                    <r3d:additionalName language="eng">RISH databases</r3d:additionalName>
+                <r3d:repositoryURL>http://www.rish.kyoto-u.ac.jp/organization_e/databases/</r3d:repositoryURL>
+                <r3d:description language="eng">Various information, such as xylarium data with wood specimens collected since 1944, atmospheric observation data using the MU radar and other instruments, space-plasma data observed with GEOTAIL satellite, are now combined as Database of Humanosphere and served for public use. Proposals for scientific and technological use are always welcome.</r3d:description>
+                    <r3d:repositoryContact>dbstaff@rish.kyoto-u.ac.jp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.rish.kyoto-u.ac.jp/mission_e/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Acacia Mangium</r3d:keyword>
+                    <r3d:keyword>Aurora Borealis</r3d:keyword>
+                    <r3d:keyword>Basidiomycetes</r3d:keyword>
+                    <r3d:keyword>EAR</r3d:keyword>
+                    <r3d:keyword>EST</r3d:keyword>
+                    <r3d:keyword>Indonesia</r3d:keyword>
+                    <r3d:keyword>PWI - Plasma Wave Instrument</r3d:keyword>
+                    <r3d:keyword>atmospheric radar</r3d:keyword>
+                    <r3d:keyword>equatorial atmosphere</r3d:keyword>
+                    <r3d:keyword>geotail</r3d:keyword>
+                    <r3d:keyword>global atmosphere</r3d:keyword>
+                    <r3d:keyword>satellite</r3d:keyword>
+                    <r3d:keyword>southpole</r3d:keyword>
+                    <r3d:keyword>space electromagnetic environment</r3d:keyword>
+                    <r3d:keyword>wood diversity</r3d:keyword>
+                    <r3d:keyword>xylarium</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Japan Society for the Promotion of Science</r3d:institutionName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.jsps.go.jp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00hhkn466</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Kyoto University, Research Institute for Sustainable Humanosphere</r3d:institutionName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rish.kyoto-u.ac.jp/?lang=en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://database.rish.kyoto-u.ac.jp/index-e.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>http://database.rish.kyoto-u.ac.jp/index-e.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                                <r3d:remarks>RISH is a regular member of ICSU  World Data System</r3d:remarks>
+        <r3d:entryDate>2016-04-27</r3d:entryDate>
+        <r3d:lastUpdate>2022-01-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

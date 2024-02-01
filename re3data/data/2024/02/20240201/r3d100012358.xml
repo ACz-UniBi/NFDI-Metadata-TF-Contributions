@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012358</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Marine Mammal Data Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NMMDB</r3d:additionalName>
+                <r3d:repositoryURL>https://data.marinemammals.gov.au/</r3d:repositoryURL>
+                <r3d:description language="eng">The Australian Marine Mammal Centre has developed database applications to support marine mammal conservation and policy initiatives.</r3d:description>
+                    <r3d:repositoryContact>ammccoordinator@aad.gov.au</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.marinemammals.gov.au/about/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-12-07">2.083.032 total records; 2.311.320 total individuals</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20304 Sensory and Behavioural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://data.marinemammals.gov.au/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Australasian Right Whale Photo-Identification Catalogue (ARWPIC)</r3d:keyword>
+                    <r3d:keyword>cetacean</r3d:keyword>
+                    <r3d:keyword>entanglement</r3d:keyword>
+                    <r3d:keyword>incident</r3d:keyword>
+                    <r3d:keyword>injury</r3d:keyword>
+                    <r3d:keyword>ship strike</r3d:keyword>
+                    <r3d:keyword>sighting</r3d:keyword>
+                    <r3d:keyword>stranding</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian Antarctic Data Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AADC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Data management and spatial data services</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://data.aad.gov.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://data.aad.gov.au/aadc/about/contact_aadc.cfm</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Australian Government, Department of the Environment and Energy, Australian Antarctic Division</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AAD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.antarctica.gov.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05e89k615</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.antarctica.gov.au/about-us/contact/#src-hm-hd</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Australian Marine Mammal Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AMMC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.marinemammals.gov.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.marinemammals.gov.au/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Whaling Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IWC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iwc.int/home</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://iwc.int/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Southern Ocean Research Partnership</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IWC-SORP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iwc.int/sorp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>sorp@aad.gov.au</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Availability</r3d:policyName>
+                <r3d:policyURL>https://iwc.int/data-availability</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://data.marinemammals.gov.au/arwpic/index.php?route=information/information&amp;information_id=14</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://data.marinemammals.gov.au/arwpic/index.php?route=information/information&amp;information_id=14</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.marinemammals.gov.au/copyright/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-05-03</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

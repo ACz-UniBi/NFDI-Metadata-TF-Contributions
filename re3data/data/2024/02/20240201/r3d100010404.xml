@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010404</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Southeast Asian Climate Assessment &amp; Dataset</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SACA&amp;D</r3d:additionalName>
+                <r3d:repositoryURL>http://sacad.database.bmkg.go.id/</r3d:repositoryURL>
+                <r3d:description language="eng">SACA&amp;D is developed as part of the Digitisasi Data Historis (Didah) project. This project is focusing on the digitization and use of high-resolution historical climate data from Indonesia and other Southeast Asian countries</r3d:description>
+                    <r3d:repositoryContact>eca@knmi.nl</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2023-04-21">11.523 series of observations for 9 elements at 9.713 meteorological stations throughout Southeast Asia</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>ind</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://sacad.database.bmkg.go.id/FAQ/index.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Asia</r3d:keyword>
+                    <r3d:keyword>Indonesia</r3d:keyword>
+                    <r3d:keyword>change</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="ind">Badan Meterologi, Klimatologi, Dan Geofisika</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ind">BMKG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IDN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmkg.go.id/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:043xhrz72</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>eca@knmi.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Royal Netherlands Meteorological Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">KNMI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Koningklijk Nederlands Meteorologisch Instituut</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.knmi.nl/over-het-knmi/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05dfgh554</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2014</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>eca@knmi.nl</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.knmi.nl/over-het-knmi/how-to-contact-knmi</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data policy</r3d:policyName>
+                <r3d:policyURL>http://202.90.199.118/documents/SACAD_DataPolicy.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://202.90.199.118/documents/SACAD_DataPolicy.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://202.90.199.118/documents/SACAD_DataPolicy.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>SACA&amp;D is developed as part of the Digitisasi Data Historis (Didah); Didah is a joint project between the National Meteorological Services of Indonesia (BMKG) and the Netherlands (KNMI). SACA&amp;D contributes to the Asian Pacific Network for climate extremes (APN).  SACA&amp;D has been designated as Regional Climate Centre for Climate Data (RCC-CD) in WMO Region V (Southwest Pacific).</r3d:remarks>
+        <r3d:entryDate>2012-11-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

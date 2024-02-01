@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011460</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SPECTR-W3</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Atomic Database Spectr-W3 for Plasma Spectroscopy and other Applications</r3d:additionalName>
+                    <r3d:additionalName language="eng">SPECTR-W3 Database on spectroscopic properties of atoms and ions</r3d:additionalName>
+                <r3d:repositoryURL>http://spectr-w3.snz.ru/index.phtml</r3d:repositoryURL>
+                <r3d:description language="eng">The information accumulated in the SPECTR-W3 ADB contains over 450,000 records and includes factual experimental and theoretical data on ionization potentials, energy levels, wavelengths, radiation transition probabilities, oscillator strengths, and (optionally) the parameters of analytical approximations of electron-collisional cross-sections and rates for atoms and ions. Those data were extracted from publications in physical journals, proceedings of the related conferences, special-purpose publications on atomic data, and provided directly by authors. The information is supplied with references to the original sources and comments, elucidating the details of experimental measurements or calculations, where necessary and available. To date, the SPECTR-W3 ADB is the largest factual database in the world containing the information on spectral properties of multicharged ions.</r3d:description>
+                    <r3d:repositoryContact>P.A.Loboda@vniitf.ru</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>http://spectr-w3.snz.ru/about.phtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>nuclear physics</r3d:keyword>
+                    <r3d:keyword>technology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Aix-Marseille University, Physics of Ionic and Molecular Interactions</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Aix-Marseille Université, Laboratoire de Physique des Interactions Ioniques et Moleculaires</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://piim.univ-amu.fr/?lang=fr</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://piim.univ-amu.fr/Contacts-and-access?lang=en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CTU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ces">České vysoké učení technické v Praze, Fakulta jaderná a fyzikálně inženýrská</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CZE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cvut.cz/en/faculty-of-nuclear-sciences-and-physical-engineering</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">GSI Helmholtzzentrum für Schwerionenforschung</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gsi.de/start/aktuelles.htm</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02k8cbn47</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gsi.de/topmenu/kontakt.htm</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Institute for High Energy Densities of the Joint Institute for High Temperatures of the Russian Academy of Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IHED JIHT of RAS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Объединённого института высоких температур Российской Академии Наук</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ihed.ras.ru/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@ihed.ras.ru</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Sicence and Technology Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISTC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.istc.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03fn1w943</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.istc.int/en/contact-info</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.istc.int/en/project/735FF7A5D98946F4C32576CD0026AB02</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Joint Institute for High Temperatures of the Russian Academy of Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JIHT RAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.jiht.ru/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04gns8903</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.jiht.ru/about/contacts/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lawrence Livermore National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LLNL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.llnl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:041nk4h53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.llnl.gov/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian Federal Nuclear Center - VNIITF</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RFNC - VNIITF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Zababakhin All-Russian Scientific Research Institute of Technical Physics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.vniitf.ru/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02se2k984</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>P.A.Loboda@vniitf.ru</r3d:institutionContact>
+                                    <r3d:institutionContact>http://vniitf.ru/en/article/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian Foundation for Basic Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="rus">Российский фонд фундаментальных исследований</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.rfbr.ru/rffi/eng</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02mh1ke95</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Technische Universität Darmstadt</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tu-darmstadt.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05n911h24</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Milano-Bicocca</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">Universita degli Studi di Milano-Bicocca</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.unimib.it/go/102/Home/English</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01ynf4891</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>bicocca.international@unimib.it</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université de Liège, Institut de Physique Nucleaire, Atomique et de Spectroscopie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IPNAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.istc.int/en/institute/17657</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>hpgarnir@ulg.ac.be</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.istc.int/en/contact-info</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Virtual Atomic and Molecular Data Centre Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">VAMDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.vamdc.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>VADMCStandards</r3d:policyName>
+                <r3d:policyURL>http://standards.vamdc.org/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://standards.vamdc.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://spectr-w3.snz.ru/index.phtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.vamdc.org/structure/policy-citation/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-05-13</r3d:entryDate>
+        <r3d:lastUpdate>2020-09-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

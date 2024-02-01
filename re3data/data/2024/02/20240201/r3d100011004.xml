@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011004</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NCBI Influenza Virus Resource</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Influenza Virus Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">NCBI Flu</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.13cdzp</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002984</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03023</r3d:repositoryIdentifier>
+                <r3d:description language="eng">This resource allows users to search for and compare influenza virus genomes and gene sequences taken from GenBank. It also provides a virus sequence annotation tool and links to other influenza resources: NIAID project, JCVI Flu, Influenza research database, CDC Flu, Vaccine Selection and WHO Flu.</r3d:description>
+                    <r3d:repositoryContact>info@ncbi.nlm.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2019-11-20">&gt; 700.000 sequences</r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Influenza viruses</r3d:keyword>
+                    <r3d:keyword>genomes</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>influenza</r3d:keyword>
+                    <r3d:keyword>phylogenetic tree</r3d:keyword>
+                    <r3d:keyword>virusesvariation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Biotechnology Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ncbi.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HHS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hhs.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States National Library of Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NIH Public Access Policy</r3d:policyName>
+                <r3d:policyURL>https://publicaccess.nih.gov/policy.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submitting Influenza Virus Sequences to GenBank</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ncbi.nlm.nih.gov/genome/viruses/variation/help/flu-help-center/submit-flu-sequences/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ncbi.nih.gov/genomes/INFLUENZA/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ncbi.nlm.nih.gov/genome/viruses/variation/publications/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>NCBI influenza virus resource is also part of NCBI virus variation r3d100011005</r3d:remarks>
+        <r3d:entryDate>2014-05-13</r3d:entryDate>
+        <r3d:lastUpdate>2019-11-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

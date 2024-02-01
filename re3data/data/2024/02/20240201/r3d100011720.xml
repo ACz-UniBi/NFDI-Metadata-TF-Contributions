@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011720</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EMEP</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The European Monitoring and Evaluation Programme</r3d:additionalName>
+                <r3d:repositoryURL>https://www.emep.int/</r3d:repositoryURL>
+                <r3d:description language="eng">The European Monitoring and Evaluation Programme (EMEP) is a scientifically based and policy driven programme under the Convention on Long-range Transboundary Air Pollution (CLRTAP) for international co-operation to solve transboundary air pollution problems.</r3d:description>
+                    <r3d:repositoryContact>amann @ iiasa.ac.at</r3d:repositoryContact>
+                    <r3d:repositoryContact>emep.mscw@met.no</r3d:repositoryContact>
+                    <r3d:repositoryContact>hilde.fagerli @ met.no</r3d:repositoryContact>
+                    <r3d:repositoryContact>kjetil.torseth @ nilu.no</r3d:repositoryContact>
+                    <r3d:repositoryContact>sabine.schindlbacher @ umweltbundesamt.at</r3d:repositoryContact>
+                    <r3d:repositoryContact>sergey.dutchak @ msceast.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://unece.org/emep-strategies</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>air pollution</r3d:keyword>
+                    <r3d:keyword>depositions</r3d:keyword>
+                    <r3d:keyword>emission</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>heavy metals</r3d:keyword>
+                    <r3d:keyword>hemisphere</r3d:keyword>
+                    <r3d:keyword>measurement</r3d:keyword>
+                    <r3d:keyword>modelling of atmospheric transport</r3d:keyword>
+                    <r3d:keyword>nitrogen</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>precipitation quality</r3d:keyword>
+                    <r3d:keyword>sulphur</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">EMEP Centre on Emission Inventories and Projections</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CEIP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ceip.at/umweltsituation/industrie/branche/metalle/metall/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">HELCOM</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Baltic Marine Environment Protection Commission - Helsinki Commission</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Helsinki Convention</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FIN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://helcom.fi/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:002pjp005</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://helcom.fi/about-us/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Institute for Applied Systems Analysis,  Centre for Integrated Assessment Modelling</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IIASA, CIAM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://webarchive.iiasa.ac.at/rains/ciam.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://webarchive.iiasa.ac.at/rains/contact.html?sb=31</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Meteorological Synthesizing Centre - East</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMEP, MSC-E</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">MSC-E</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">МСЦ-В</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Метеорологический синтезирующий центр «Восток»</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.msceast.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>msce@msceast.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Norwegian Institute for Air Research, Chemical Coordinating Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMEP CCC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nor">NILU, EMEP Chemical Coordinating Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nilu.no/projects/ccc/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>kjetil.torseth@nilu.no</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Norwegian Institute for Air Research, Meteorological Synthesizing Centre - West</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NILU, MSC-W</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nor">Norsk institutt for luftforskning</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.emep.int/mscw/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>emep.mscw@met.no</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.emep.int/mscw/index.html#contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">OSPAR Commission</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ospar.org/organisation</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>secretariat@ospar.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UNECE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">United Nations Economic Commission for Europe</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://unece.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:038dn8481</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://unece.org/unece-information-service</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Umweltbundesamt</r3d:institutionName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.umweltbundesamt.at/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:013vyke20</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>office@umweltbundesamt.at</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Meteorological Organization</r3d:institutionName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://old.wmo.int/extranet/pages/index_en.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:011pjwf87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>EMEP Strategies</r3d:policyName>
+                <r3d:policyURL>https://unece.org/emep-strategies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Environmental Policy</r3d:policyName>
+                <r3d:policyURL>https://unece.org/environmental-policy-1</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nilu.com/open-data/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://data.norge.no/nlod/en/2.0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ceip.at/disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Terms of Use</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://ebas-submit.nilu.no/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://www.emep.int/mscw/mscw_ydata.html</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ceip.at/webdab-emission-database</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Five EMEP Centers (CEIP, CCC, MSC-W, MSC-E, CIAM) and four Task Forces (TFEIP, TFMM, TFIAM, TFHTAP) undertake efforts in support of the EMEP work plan. --- 
+EMEP is collaborating with: WMO:GAW (Global Atmosphere Watch (GAW) programme of WMO),  EU-AQFD (Air Quality Framework Directive),  AMAP (Arctic Monitoring and Assessment Programme),  UNEP (United Nations Environment Programme). ---
+EMEP hosts data from GAW World Data Centre for Reactive Gases (WDCRG).</r3d:remarks>
+        <r3d:entryDate>2016-02-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

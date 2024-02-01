@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014116</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HI HOPES</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.hihopes.co.za/</r3d:repositoryURL>
+                <r3d:description language="eng">HI HOPES aims is to provide free home based support and information without bias to every family with an infant or toddler with hearing loss. Through an early intervention framework of care, support, information and partnership in a culturally sensitive, community based manner to allow we aim to empower the family in their home environment and help the baby with a hearing loss to reach her/his full potential.</r3d:description>
+                    <r3d:repositoryContact>info@hihopes.co.za</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-01-16">1 longitudinal dataset</r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10401 General and Applied Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.wits.ac.za/hi-hopes/about-us/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>deaf children</r3d:keyword>
+                    <r3d:keyword>early intervention program</r3d:keyword>
+                    <r3d:keyword>hearing loss</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Anglo American (South Africa)</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Anglo American Chairmans Fund</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ZAF</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://southafrica.angloamerican.com/media/video/chairmans-fund</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03nvc8x46</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of the Witwatersrand, Center For Deaf Studies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Wits University,  Center For Deaf Studies</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ZAF</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wits.ac.za/centre-for-deaf-studies/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://www.wits.ac.za/site-assets/small-footer/terms-and-conditions-of-use/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>The Protection of Personal Information Act (POPIA)https://www.wits.ac.za/site-assets/small-footer/popia-and-paia/</r3d:policyName>
+                <r3d:policyURL>https://www.wits.ac.za/site-assets/small-footer/popia-and-paia/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.hihopes.co.za/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Supporters: https://www.wits.ac.za/hi-hopes/our-supporters/</r3d:remarks>
+        <r3d:entryDate>2023-01-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

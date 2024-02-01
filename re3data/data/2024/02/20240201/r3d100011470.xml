@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011470</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Marine Data Portal</r3d:repositoryName>
+                <r3d:repositoryURL>https://marine-data.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.dac16a</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Marine Data Portal is a product of the “Underway”- Data initiative of the German Marine Research Alliance (Deutsche Allianz Meeresforschung - DAM) and is supported by the marine science centers AWI, GEOMAR and Hereon of the Helmholtz Association. This initiative aims to improve and standardize the systematic data collection and data evaluation for expeditions with German research vessels and marine observation. It supports scientists in their data management duties and fosters (data) science through FAIR and open access to marine research data. AWI, GEOMAR and Hereon develop this marine data hub (Marehub) to build a decentralized data infrastructure for processing, long-term archiving and dissemination of marine observation and model data and data products. 
+The Marine Data Portal provides user-friendly, centralized access to marine research data, reports and publications from a wide range of data repositories and libraries in the context of German marine research and its international collaboration. 
+The Marine Data Portal is developed by scientists for scientists in order to facilitate Findability and Access of marine research data for Reuse. It supports machine-readable and data driven science. Please note that the quality of the data may vary depending on the purpose for which it was originally collected.</r3d:description>
+                    <r3d:repositoryContact>https://marine-data.de/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-24">517.493 datasets</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://marine-data.de/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>bathymetry</r3d:keyword>
+                    <r3d:keyword>earth system research</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>marine research data</r3d:keyword>
+                    <r3d:keyword>observatories</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                    <r3d:keyword>physics</r3d:keyword>
+                    <r3d:keyword>sample</r3d:keyword>
+                    <r3d:keyword>seafloor</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                    <r3d:keyword>vessels</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">AWI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Marine Data Portal</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.awi.de</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:032e6b942</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@marine-data.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://marine-data.de/?site=termsofuse</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://marine-data.de/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://marine-data.de/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.awi.de/en/about-us/service/media-centre.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://marine-data.de/?site=termsofuse</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                <r3d:remarks>Members; The following university and non-university marine research institutions are currently involved:  https://marine-data.de/?site=about</r3d:remarks>
+        <r3d:entryDate>2015-05-20</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

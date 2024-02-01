@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012769</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="fra">Banque de données du CDSP</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Banque de données du Centre de données socio-politiques</r3d:additionalName>
+                <r3d:repositoryURL>https://data.sciencespo.fr/dataverse/cdsp</r3d:repositoryURL>
+                <r3d:description language="eng">The French Center for Socio-Political Data over 390 surveys and studies through its data bank (Banque de données), based on the Dataverse open solution. Accessing the data  requires creating an account, accepting of General Terms of Use,  and  manual  approval of the request by data managers. Election results and metadata, which are openly available, do not fall under these prerequisites.</r3d:description>
+                    <r3d:repositoryContact>https://cdsp.sciences-po.fr/fr/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2024-01-04">24 Dataverses;  397 datasets; 2.878 files</r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://cdsp.sciences-po.fr/fr/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>election results</r3d:keyword>
+                    <r3d:keyword>political science</r3d:keyword>
+                    <r3d:keyword>qualitative research</r3d:keyword>
+                    <r3d:keyword>quantitative research</r3d:keyword>
+                    <r3d:keyword>sociology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Centre national de la recherche scientifique</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">FCNR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">French Center for National Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnrs.fr/fr</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02feahw73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Sciences Po</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">FNSP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Fondation Nationale des Sciences Politiques</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sciencespo.fr/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05fe7ax82</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cdsp.sciences-po.fr/fr/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Dataverse Community Norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Legal Notice</r3d:policyName>
+                <r3d:policyURL>https://data.sciencespo.fr/misc/cond_jur/ToU.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Legal Terms</r3d:policyName>
+                <r3d:policyURL>https://www.sciencespo.fr/en/legal-terms/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/deed.fr</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/deed.fr</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Contact persons for Banque de données du CDSP are Alina Danciu, Geneviève Michaud, Nicolas Sauger.
+Banque de données du CDSP is part of data.sciencespo https://www.re3data.org/repository/r3d100013271</r3d:remarks>
+        <r3d:entryDate>2018-07-27</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010401</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">KASCADE Cosmic Ray Data Centre</r3d:repositoryName>
+                    <r3d:additionalName language="eng">KCDC</r3d:additionalName>
+                    <r3d:additionalName language="eng">Karlsruhe Shower Core and Array Detector</r3d:additionalName>
+                <r3d:repositoryURL>https://kcdc.iap.kit.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment. KASCADE was a very successful large detector array which recorded data during more than 20 years on site of the KIT-Campus North, Karlsruhe, Germany (formerly Forschungszentrum, Karlsruhe) at 49,1°N, 8,4°O; 110m a.s.l. KASCADE collected within its lifetime more than 1.7 billion events of which some 433.000.000 survived all quality cuts. Initially about 160 million events are available here for public usage.</r3d:description>
+                    <r3d:repositoryContact>iap-kcdc@lists.kit.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://kcdc.iap.kit.edu/static/pdf/kcdc_mainpage/kcdc-Manual.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>KASCADE GRANDE</r3d:keyword>
+                    <r3d:keyword>air shower</r3d:keyword>
+                    <r3d:keyword>astroparticle physics</r3d:keyword>
+                    <r3d:keyword>cosmic rays</r3d:keyword>
+                    <r3d:keyword>hadronic interactions</r3d:keyword>
+                    <r3d:keyword>high-energy physics</r3d:keyword>
+                    <r3d:keyword>large detector array</r3d:keyword>
+                    <r3d:keyword>teaching materials</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.kit.edu/english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Karlsruher Institut für Technologie, Institut für Astroteilchenphysik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IAP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Karlsruhe Institute of Technology, Institute for Astroparticle Physics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iap.kit.edu/english/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>sekretariat@iap.kit.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>KCDC EULA</r3d:policyName>
+                <r3d:policyURL>https://kcdc.iap.kit.edu/lawnorder/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://kcdc.iap.kit.edu/lawnorder/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://kcdc.iap.kit.edu/lawnorder/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://kcdc.iap.kit.edu/lawnorder/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The cosmic ray experiment KASCADE has taken data from October, 25th, 1996 until December 2012. The original KASCADE experiment was extended to KASCADE-Grande with an additional detector array on December, 19th, 2003. The combined data taken after this extension will be released in a later stage of KCDC, as well as additional available measured parameters of the individual cosmic ray events already released. KCDC provides initial educational tools for interested students and teachers for a better understanding of the phenomena of cosmic rays. This task will also be gradually extended in coming releases.</r3d:remarks>
+        <r3d:entryDate>2013-11-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

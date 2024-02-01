@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010221</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EMBL-EBI</r3d:repositoryName>
+                    <r3d:additionalName language="eng">EBI</r3d:additionalName>
+                    <r3d:additionalName language="eng">European Molecular Biology Laboratory - European Bioinformatics Institute</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_004727</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_72386</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The European Bioinformatics Institute (EBI) has a long-standing mission to collect, organise and make available databases for biomolecular science. It makes available a collection of databases along with tools to search, download and analyse their content. These databases include DNA and protein sequences and structures, genome annotation, gene expression information, molecular interactions and pathways. Connected to these are linking and descriptive data resources such as protein motifs, ontologies and many others. In many of these efforts, the EBI is a European node in global data-sharing agreements involving, for example, the USA and Japan.</r3d:description>
+                    <r3d:repositoryContact>https://www.ebi.ac.uk/about/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1994</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.ebi.ac.uk/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>RNA</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>chemical biology</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genome-sequencing</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>microarrays</r3d:keyword>
+                    <r3d:keyword>ontologies</r3d:keyword>
+                    <r3d:keyword>patents</r3d:keyword>
+                    <r3d:keyword>proteomics</r3d:keyword>
+                    <r3d:keyword>structural genomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k4n6c32</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011211</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UK Research and Innovation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RCUK (formerly)</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Research Councils UK (formerly)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:001aqnf71</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust Sanger Institute</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sanger.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05cy4wa09</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011784</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sanger.ac.uk/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>EBI Terms of Use of the EBI Services</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/</r3d:api>
+                    <r3d:api apiType="REST">https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/EMBL-EBI+Web+Services+APIs+-+Data+Retrieval</r3d:api>
+                    <r3d:api apiType="SOAP">https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/EMBL-EBI+Web+Services+APIs+-+Data+Retrieval</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>As part of the European Molecular Biology Laboratory EMBL, the largest part of our funding comes from the governments of EMBL&#039;s 20 member states. Other major funders include the European Commission, Wellcome Trust, US National Institutes of Health, UK Research Councils, our industry partners. In addition, the Wellcome Trust generously provides the facilities for the EMBL-EBI on its Genome Campus at Hinxton, and the UK Research Councils have also provided funds for our facilities in Hinxton.</r3d:remarks>
+        <r3d:entryDate>2013-03-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

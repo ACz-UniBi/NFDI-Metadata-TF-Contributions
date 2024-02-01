@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010222</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Array Express</r3d:repositoryName>
+                    <r3d:additionalName language="eng">functional genomics data</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/biostudies/arrayexpress</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.6k0kwd</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000036</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01023</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002964</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-30123</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ArrayExpress is one of the major international repositories for high-throughput functional genomics data from both microarray and high-throughput sequencing studies, many of which are supported by peer-reviewed publications. Data sets are submitted directly to ArrayExpress and curated by a team of specialist biological curators. In the past (until 2018) datasets from the NCBI Gene Expression Omnibus database were imported on a weekly basis. Data is collected to MIAME and MINSEQE standards.</r3d:description>
+                    <r3d:repositoryContact>annotare@ebi.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>arrayexpress@ebi.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.ebi.ac.uk/fg/annotare/about#contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-11-24">77.585 experiments; 2.429.810 assays; 56.68 TB of archived data</r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ebi.ac.uk/biostudies/arrayexpress</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA &amp; RNA</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>functional genomics data</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>ontologies</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>sequencing application</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">EMBL Heidelberg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">European Molecular Biology Laboratory Heidelberg</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.embl.org/sites/heidelberg/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mstc592</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.embl.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/commission/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k4n6c32</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011211</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://commission.europa.eu/about-european-commission/contact_en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI, Functional Genomics Group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004727</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/people/alvis-brazma</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/about/people/irene-papatheodorou</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011417</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nih.gov/about-nih/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://new.nsf.gov/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data access policy</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/arrayexpress/help/data_availability.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data availability  policy</r3d:policyName>
+                <r3d:policyURL>https://ena-docs.readthedocs.io/en/latest/faq/release/data-availability-policy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/arrayexpress/help/FAQ.html#data_restrictions</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/arrayexpress/help/data_availability.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission overview guidelines</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ebi.ac.uk/arrayexpress/help/submissions_overview.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/arrayexpress/data/</r3d:api>
+                    <r3d:api apiType="REST">https://www.ebi.ac.uk/biostudies/arrayexpress/help#programmatic</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ebi.ac.uk/biostudies/arrayexpress/help#cite</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.ebi.ac.uk/arrayexpress/rss/v2/experiments</r3d:syndication>
+                <r3d:remarks>ArrayExpress is covered by Clarivate Data Citation Index. is covered by Elsevier. ArrayExpress includes genomics data of the Beta Cell Biology Consortium (BCBC). This was a team science initiative that was established by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK).</r3d:remarks>
+        <r3d:entryDate>2013-03-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

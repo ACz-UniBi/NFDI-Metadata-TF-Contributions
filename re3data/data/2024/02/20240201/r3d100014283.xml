@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014283</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Medical Imaging and Data Research Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MIDRC</r3d:additionalName>
+                <r3d:repositoryURL>https://data.midrc.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.33dccb</r3d:repositoryIdentifier>
+                <r3d:description language="eng">MIDRC aims to develop a high-quality repository for medical images related to COVID-19 and associated clinical data, and develop and foster medical image-based artificial intelligence (AI) for use in the detection, diagnosis, prognosis, and monitoring of COVID-19.</r3d:description>
+                    <r3d:repositoryContact>https://www.midrc.org/midrc-contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>midrc-support-request@lists.uchicago.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>midrc-support@datacommons.io</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-12-06">165.641 imaging studies; 423.366 data files</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20530 Radiology and Nuclear Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.midrc.org/more-about-midrc</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>CT</r3d:keyword>
+                    <r3d:keyword>Clinical medical imaging</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>MRI</r3d:keyword>
+                    <r3d:keyword>X-Ray</r3d:keyword>
+                    <r3d:keyword>biomedical data</r3d:keyword>
+                    <r3d:keyword>health research</r3d:keyword>
+                    <r3d:keyword>image-based artificial intelligence</r3d:keyword>
+                    <r3d:keyword>imaging data</r3d:keyword>
+                    <r3d:keyword>long COVID-19</r3d:keyword>
+                    <r3d:keyword>radiology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">American Association of Physicists in Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AAPM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aapm.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:015jknj09</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.aapm.org/org/contactinfo.asp?b0rr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">American College of Radiology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ACR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.acr.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01rzx2627</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.acr.org/About-ACR/Contact-Us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Radiological Society of North America</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RSNA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rsna.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00rj4x019</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.rsna.org/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIBIB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nibib.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00372qc85</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nibib.nih.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Chicago</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UChicago</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uchicago.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:024mw5h28</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_002832</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uchicago.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Management and Sharing Policy</r3d:policyName>
+                <r3d:policyURL>https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies/data-management-and-sharing-policy-overview#after</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Downloading Image Data from the MIDRC Gen3 Commons</r3d:policyName>
+                <r3d:policyURL>https://static1.squarespace.com/static/5f57ca706b876437bb5b2620/t/612e479c457959391e810a5c/1630422942117/Gen3+MIDRC+QRG20210831.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Scientific Data Sharing</r3d:policyName>
+                <r3d:policyURL>https://sharing.nih.gov/accessing-data</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>User Registration and Login Procedure</r3d:policyName>
+                <r3d:policyURL>https://www.midrc.org/user-registration</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.midrc.org/midrc-data-use-agreement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://data.midrc.org/dashboard/Public/documentation/DUA.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Contribution</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.midrc.org/data-contribution-101</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.midrc.org/midrc-acknowledgements</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>MIDRC GitHub: https://github.com/MIDRC</r3d:remarks>
+        <r3d:entryDate>2023-12-05</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

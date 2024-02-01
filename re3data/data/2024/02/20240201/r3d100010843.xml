@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010843</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Scripps Institute of Oceanography Explorer</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SIOExplorer</r3d:additionalName>
+                    <r3d:additionalName language="eng">Scripps Explorer</r3d:additionalName>
+                <r3d:repositoryURL>https://siox.sdsc.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.de9d18</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Scripps Institute of Oceanography (SIO) Explorer includes five federated collections: SIO Cruises, SIO Historic Photographs, the Seamounts, Marine Geological Samples, and the Educator’s Collection, all part of the US National Science Digital Library (NSDL). Each collection represents a unique resource of irreplaceable scientific research.  The effort is collaboration among researchers at Scripps, computer scientists from the San Diego Supercomputer Center (SDSC), and archivists and librarians from the UCSD Libraries. In 2005 SIOExplorer was extended to the Woods Hole Oceanographic Institution with the Multi-Institution Scalable Digital Archiving project, funded through the joint NSF/Library of Congress digital archiving and preservation program, creating a harvesting methodology and a prototype collection of cruises, Alvin submersible dives and Jason ROV lowerings.</r3d:description>
+                    <r3d:repositoryContact>gdc@ucsd.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>spmiller@ucsd.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://siox.sdsc.edu/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>marine biology</r3d:keyword>
+                    <r3d:keyword>seamounts</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">UC San Diego, Scripps Institution of Oceanography</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University of California San DIego, Scripps Institution of Oceanography</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://scripps.ucsd.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04v7hvq31</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2001</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California San DIego, Scripps Institution of Oceanography, Geological Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCD, SIO, GDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://gdc.ucsd.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Usage Policy</r3d:policyName>
+                <r3d:policyURL>https://siox.sdsc.edu/usage.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://siox.sdsc.edu/usage.php</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://siox.sdsc.edu/usage.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://siox.sdsc.edu/access.php</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://siox.sdsc.edu/usage.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>SIO explorer is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2014-08-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

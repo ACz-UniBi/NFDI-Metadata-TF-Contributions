@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012290</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Media Repository Humboldt-Universität zu Berlin</r3d:repositoryName>
+                    <r3d:additionalName language="deu">Medien-Repositorium Humboldt-Universität zu Berlin</r3d:additionalName>
+                <r3d:repositoryURL>https://media.hu-berlin.de/</r3d:repositoryURL>
+                <r3d:description language="eng">The Media Repository is a web-based digital asset management system to store, organize and share digital media files. Not only images and documents are directly supported – audio and video content is supported as well. The data can be re-used in other systems. The system manages a variety of file formats and metadata schemes. It stores and organizes media data and helps to manage workflows with them.
+Public web presentations are possible as well as collaborative work in restricted groups. The Media Repository helps both small teams and larger research projects in the management of media assets and their long-term storage.</r3d:description>
+                    <r3d:repositoryContact>https://www.cms.hu-berlin.de/en/dl-en/multimedia-en/bereiche-en/medienrepositorium-en/standardseite-en#contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>mr-support@cms.hu-berlin.de</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-12-13">266 projects</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.cms.hu-berlin.de/en/dl-en/multimedia-en/bereiche-en/medienrepositorium-en/standardseite-en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>audio</r3d:keyword>
+                    <r3d:keyword>digital asset management</r3d:keyword>
+                    <r3d:keyword>image</r3d:keyword>
+                    <r3d:keyword>multidisciplinary</r3d:keyword>
+                    <r3d:keyword>video</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Humboldt-Universität zu Berlin, Computer- und Medienservice</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CMS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Humboldt-Universität zu Berlin, Computer and Media Service</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cms.hu-berlin.de/de</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cms.hu-berlin.de/en/contact/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>FAQ - Rechte und Lizenzen</r3d:policyName>
+                <r3d:policyURL>https://www.cms.hu-berlin.de/de/dl/multimedia/bereiche/medienrepositorium/faq/rechte-lizenzen</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Service Description</r3d:policyName>
+                <r3d:policyURL>https://www.cms.hu-berlin.de/en/dl-en/multimedia-en/bereiche-en/medienrepositorium-en/standardseite-en#service</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                <r3d:remarks>Based on the open source software ResourceSpace.</r3d:remarks>
+        <r3d:entryDate>2016-12-21</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

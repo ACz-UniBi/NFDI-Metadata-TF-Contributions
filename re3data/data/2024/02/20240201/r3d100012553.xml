@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012553</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ioChem-BD</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.iochem-bd.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.lwW6a1</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>doi:10.19061/iochem-bd-find</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ioChem-BD is a Digital Repository to manage Computational Chemistry and Material Science digital assets. The platform follows the philosophy of Crystallographic databases, the principles and needs of open access, and solves reproducibility and traceability issues.</r3d:description>
+                    <r3d:repositoryContact>contact@iochem-bd.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>malvarez@iciq.es</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2023-02-13">501 collections, 313.250 items</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30101 Inorganic Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30102 Organic Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30201 Solid State and Surface Chemistry, Material Synthesis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30202 Physical Chemistry of Solids and Surfaces, Material Characterisation</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30302 General Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30401 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">306 Polymer Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://docs.iochem-bd.org/en/latest/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>atomistic simulation</r3d:keyword>
+                    <r3d:keyword>catalyst design</r3d:keyword>
+                    <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>computational chemistry</r3d:keyword>
+                    <r3d:keyword>computational methods</r3d:keyword>
+                    <r3d:keyword>density functional theory</r3d:keyword>
+                    <r3d:keyword>general theoretical chemistry</r3d:keyword>
+                    <r3d:keyword>in-silico</r3d:keyword>
+                    <r3d:keyword>material science</r3d:keyword>
+                    <r3d:keyword>molecular modelling</r3d:keyword>
+                    <r3d:keyword>quantum mechanical modeling</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Barcelona Supercomputing Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bsc.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05sd8tv96</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Institute of Chemical Research of Catalonia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICIQ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="spa">Institut Català d&#039;Investigació Química</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iciq.cat/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:013j2zh96</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>iciq@iciq.es</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Rovira i Virgili</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.urv.cat/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00g5sqv46</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Service</r3d:policyName>
+                <r3d:policyURL>https://www.iochem-bd.org/tos.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ioChem-BD documentation</r3d:policyName>
+                <r3d:policyURL>https://docs.iochem-bd.org/en/latest/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://find.iochem-bd.org/oai</r3d:api>
+                    <r3d:api apiType="REST">https://find.iochem-bd.org/rest</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="ATOM">https://iochem-bd.iciq.es/browse/feed/atom_1.0/site</r3d:syndication>
+                <r3d:remarks>ioChem-BD set a common data standard among all quantum chemistry legacy formats (XML - CML)</r3d:remarks>
+        <r3d:entryDate>2017-11-17</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012652</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Health Atlas</r3d:repositoryName>
+                    <r3d:additionalName language="eng">LHA</r3d:additionalName>
+                    <r3d:additionalName language="eng">Leipzig Health Atlas</r3d:additionalName>
+                <r3d:repositoryURL>https://www.health-atlas.de/</r3d:repositoryURL>
+                <r3d:description language="eng">The Health Atlas is an alliance of medical ontologists, medical systems biologists and clinical trials groups to design and implement a multi-functional and quality-assured atlas. It provides models, data and metadata on specific use cases from medical research projects from the partner institutions.</r3d:description>
+                    <r3d:repositoryContact>markus.loeffler@imise.uni-leipzig.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2016-03-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.health-atlas.de/home/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>clinical trials</r3d:keyword>
+                    <r3d:keyword>epidemiological cohorts</r3d:keyword>
+                    <r3d:keyword>systems biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Leipzig, Clinical Trial Coordination Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Leipzig, Zentrum für Klinische Studien Leipzig</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">ZKS Leipzig</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">ZKSL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.zks.uni-leipzig.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016-03-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019-02-28</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>markus.loeffler@imise.uni-leipzig.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Leipzig, Institute for Medical Informatics, Statistics and Epidemiology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IMISE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Leipzig, Institut für Medizinische Informatik, Statistik und Epidemiologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imise.uni-leipzig.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016-03-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019-02-28</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>markus.loeffler@imise.uni-leipzig.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Leipzig, Interdisciplinary Centre for Bioinformatics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IZBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.izbi.uni-leipzig.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016-03-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019-02-28</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>binder@izbi.uni-leipzig.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Leipzig, Leipzig Research Center for Civilization Diseases</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">LIFE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Leipzig, Leipziger Forschungszentrum für Zivilisationserkrankungen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://life.uni-leipzig.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016-03-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019-02-28</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>tkirsten@izbi.uni-leipzig.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.health-atlas.de/home/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.health-atlas.de/home/about</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-04-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010254</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Global Heat Flow Database of the International Heat Flow Commission</r3d:repositoryName>
+                    <r3d:additionalName language="eng">International Heat-flow Database</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ihfc-iugg.org/products/global-heat-flow-database</r3d:repositoryURL>
+                <r3d:description language="eng">The global data compilation consisting of ca. 60,000 data points may be downloaded in csv/xml format. This compilation does not contain the descriptive codes relating to metadata that were included in the previous compilations. Users are advised to consult the references and make their own interpretations as to the quality of the data.</r3d:description>
+                    <r3d:repositoryContact>heatflow@ihfc-iugg.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-05-04">about 60.000 data points</r3d:size>
+        <r3d:startDate>1995</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.ihfc-iugg.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>earth&#039;s interior</r3d:keyword>
+                    <r3d:keyword>evolution of the earth</r3d:keyword>
+                    <r3d:keyword>geothermal data</r3d:keyword>
+                    <r3d:keyword>geothermy</r3d:keyword>
+                    <r3d:keyword>heat flow</r3d:keyword>
+                    <r3d:keyword>heat generation and transport</r3d:keyword>
+                    <r3d:keyword>hydrothermal systems</r3d:keyword>
+                    <r3d:keyword>midocean ridge processes</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Seismology and Physics of the Earth&#039;s Interior</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IASPEI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.iaspei.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Volcanology and Chemistry of the Earth&#039;s Interior</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IAVCEI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iavceivolcano.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of the Physical Sciences of the Ocean</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IASPO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://iapso.iugg.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Heat Flow Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IHFC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ihfc-iugg.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>administrator@ihfc-iugg.org/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IHFC Statutes</r3d:policyName>
+                <r3d:policyURL>https://www.ihfc-iugg.org/about/statutes#objectives</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ihfc-iugg.org/documents/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ihfc-iugg.org/documents/copyright</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Short form of the Link: http://heatflow.ihfc-iugg.org. 
+
+The International Heat Flow Commission (IHFC) is a commission of, and operates generally under guidelines set by, the International Association of Seismology and Physics of the Earth&#039;s Interior (IASPEI). The International Association of Volcanology and Chemistry of the Earth&#039;s Interior (IAVCEI) and the International Association of the Physical Sciences of the Ocean (IASPO) are co-sponsors of and participate in the activities of the Committee.</r3d:remarks>
+        <r3d:entryDate>2013-04-23</r3d:entryDate>
+        <r3d:lastUpdate>2021-02-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

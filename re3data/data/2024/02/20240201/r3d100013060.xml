@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013060</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BacDive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Bacterial Diversity Metadatabase</r3d:additionalName>
+                <r3d:repositoryURL>https://bacdive.dsmz.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.aSszvY</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000676</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_10161</r3d:repositoryIdentifier>
+                <r3d:description language="eng">BacDive is a bacterial metadatabase that provides strain-linked information about bacterial and archaeal biodiversity. The database is a resource for different kind of phenotypic data like taxonomy, morphology, physiology, environment and molecular-biology. The majority of data is manually annotated and curated. With the release in April 2019 BacDive offers information for 80,584 strains. The database is hosted by the Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures GmbH and is part of de.NBI the German Network for Bioinformatics Infrastructure.</r3d:description>
+                    <r3d:repositoryContact>contact@bacdive.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://bacdive.dsmz.de/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-18">97.334 Total strains; 20.060 Type strains:</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20402 Microbial Ecology and Applied Microbiology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20403 Medical Microbiology, Molecular Infection Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://idw-online.de/de/news714667</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>analytical profile index (API)</r3d:keyword>
+                    <r3d:keyword>antibiotic susceptibility</r3d:keyword>
+                    <r3d:keyword>bacterial diversity</r3d:keyword>
+                    <r3d:keyword>cultivation conditions</r3d:keyword>
+                    <r3d:keyword>fatty acid profile</r3d:keyword>
+                    <r3d:keyword>isolation source</r3d:keyword>
+                    <r3d:keyword>metabolism</r3d:keyword>
+                    <r3d:keyword>morphology</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dsmz.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02tyer376</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001711</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-10209</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact@dsmz.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use and Copyright</r3d:policyName>
+                <r3d:policyURL>https://bacdive.dsmz.de/about</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://bacdive.dsmz.de/about</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://bacdive.dsmz.de/help/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://bacdive.dsmz.de/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>BacDive uses Culture collection numbers and INSDC sequence accession. BacDive is covered by Clarivate Data Citation Index</r3d:remarks>
+        <r3d:entryDate>2019-05-08</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

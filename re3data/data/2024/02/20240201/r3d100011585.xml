@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011585</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Combined QTL Map of Dairy Cattle Traits</r3d:repositoryName>
+                <r3d:repositoryURL>http://firefly.vetsci.usyd.edu.au/CMS/reprogen/QTL_Map/index.php?Page=QTL+Map</r3d:repositoryURL>
+                <r3d:description language="eng">&gt;&gt;&gt;!!! &lt;&lt;&lt; 2021-09-01: repository is offline &gt;&gt;&gt;!!!&lt;&lt;&lt;  Background: Many studies have been conducted to detect quantitative trait loci (QTL) in dairy cattle. However, these studies are diverse in terms of their differing resource populations, marker maps, phenotypes, etc, and one of the challenges is to be able to synthesise this diverse information. This web page has been constructed to provide an accessible database of studies, providing a summary of each study, facilitating an easier comparison across studies. However, it also highlights the need for uniform reporting of results of studies, to facilitate more direct comparisons being made.
+Description: Studies recorded in this database include complete and partial genome scans, single chromosome scans, as well as fine mapping studies, and contain all known reports that were published in peer-reviewed journals and readily available conference proceedings, initially up to April 2005. However, this data base is being added to, as indicated by the last web update. Note that some duplication of results will occur, in that there may be a number of reports on the same resource population, but utilising different marker densities or different statistical methodologies. The traits recorded in this map are milk yield, milk composition (protein yield, protein %, fat yield, fat %), and somatic cell score (SCS).</r3d:description>
+                    <r3d:repositoryContact>http://firefly.vetsci.usyd.edu.au/CMS/reprogen/QTL_Map/index.php?Page=Contact+Us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2021</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://firefly.vetsci.usyd.edu.au/CMS/reprogen/QTL_Map/index.php?Page=Project+Description</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>genes</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>heredity</r3d:keyword>
+                    <r3d:keyword>quantitative trait loci - QTL</r3d:keyword>
+                    <r3d:keyword>sequencing</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Sydney, Faculty of Venterinary Science</r3d:institutionName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sydney.edu.au/science/schools/sydney-school-of-veterinary-science.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://sydney.edu.au/vetscience/about/locations.shtml</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Accessibility</r3d:policyName>
+                <r3d:policyURL>http://sydney.edu.au/accessibility.shtml</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://sydney.edu.au/disclaimer.shtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>M. S. Khatkar, P. C. Thomson, I. Tammen, F. Costa and H. W. Raadsma</r3d:remarks>
+        <r3d:entryDate>2015-04-28</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012010</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Australian SuperSite Network Data Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SupeSites Data Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://www.supersites.net.au/knb/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. It is part now of TERN Data Discovery Portal https://www.re3data.org/repository/r3d100012013 &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>info@supersites.net.au</r3d:repositoryContact>
+                    <r3d:repositoryContact>mirko.karan@jcu.edu.au</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate>2021</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://supersites.tern.org.au/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>above ground biomass</r3d:keyword>
+                    <r3d:keyword>acoustics monitoring</r3d:keyword>
+                    <r3d:keyword>ants</r3d:keyword>
+                    <r3d:keyword>birds</r3d:keyword>
+                    <r3d:keyword>climate data</r3d:keyword>
+                    <r3d:keyword>coarse woody debris</r3d:keyword>
+                    <r3d:keyword>ecological data</r3d:keyword>
+                    <r3d:keyword>ecosystem observatory</r3d:keyword>
+                    <r3d:keyword>forest management</r3d:keyword>
+                    <r3d:keyword>leaf area index</r3d:keyword>
+                    <r3d:keyword>peri-urban ecosystems</r3d:keyword>
+                    <r3d:keyword>phenocamera</r3d:keyword>
+                    <r3d:keyword>phenology</r3d:keyword>
+                    <r3d:keyword>photopoint</r3d:keyword>
+                    <r3d:keyword>plant physiology</r3d:keyword>
+                    <r3d:keyword>recruitment</r3d:keyword>
+                    <r3d:keyword>soil chemistry</r3d:keyword>
+                    <r3d:keyword>soil microbes</r3d:keyword>
+                    <r3d:keyword>soundscape</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian Terrestrial Ecosystem Research Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TERN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://supersites.tern.org.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://supersites.tern.org.au/about-us/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">James Cook University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JCU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jcu.edu.au</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Collaborative Research Infrastructure Strategy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCRIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>TERN Data Licensing</r3d:policyName>
+                <r3d:policyURL>https://www.tern.org.au/datalicence</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.tern.org.au/TERN-s-Data-Licences-pg22188.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://tern.org.au/TERN-s-Data-Licences-pg22188.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://www.supersites.net.au/knb/dataProvider</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://portal.tern.org.au/bird-survey-data-karawatha-2015/17124</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Description: 
+The Australian SuperSite Network Data Portal presents data on vegetation, fauna, soil, water, daily meteorology and daily recorded soundscapes from 10 SuperSites across a diverse range of biomes, including tropical rainforest, grassland and savanna; wet and dry sclerophyll forest and woodland; and semi-arid grassland, woodland and savanna.</r3d:remarks>
+        <r3d:entryDate>2016-05-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

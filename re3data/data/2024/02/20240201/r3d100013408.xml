@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013408</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ProteomicsDB</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PrDB</r3d:additionalName>
+                <r3d:repositoryURL>https://www.proteomicsdb.org/#overview</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.6y9h91</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ProteomicsDB (https://www.ProteomicsDB.org) started as a protein-centric in-memory database for the exploration of large collections of quantitative mass spectrometry-based proteomics data. The data types and contents grew over time to include RNA-Seq expression data, drug-target interactions and cell line viability data.</r3d:description>
+                    <r3d:repositoryContact>proteomicsdb@wzw.tum.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-09-17">81 projects; 718 experiments</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.proteomicsdb.org/proteomicsdb/#aboutUs</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Arabidopsis Thaliana E</r3d:keyword>
+                    <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>mass spectrometry spectra</r3d:keyword>
+                    <r3d:keyword>molecular interaction</r3d:keyword>
+                    <r3d:keyword>proteomics</r3d:keyword>
+                    <r3d:keyword>transcriptomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Technische Universität München</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">TUM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Technical University of Munich</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tum.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02kkvpp62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.proteomicsdb.org/#overview</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/licenses/by/2.5/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Creative Commons</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://creativecommons.org/licenses/by/2.5/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://www.proteomicsdb.org/proteomicsdb/#api</r3d:api>
+                        <r3d:citationGuidelineURL>https://www.proteomicsdb.org/#aboutUs</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-09-10</r3d:entryDate>
+        <r3d:lastUpdate>2020-09-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

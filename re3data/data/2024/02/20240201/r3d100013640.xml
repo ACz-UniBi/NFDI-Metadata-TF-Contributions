@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013640</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Panel Data Research Center at Keio University Data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PDRC Data</r3d:additionalName>
+                <r3d:repositoryURL>https://www.pdrc.keio.ac.jp/en/paneldata/datasets/</r3d:repositoryURL>
+                <r3d:description language="eng">The objective of the PDRC is to construct and collect a well-designed and large-scale panel data set and provide rigorous empirical studies based on these data sets. The data will enable us (i) to provide international comparisons and fact-findings on the household income changes, social mobility, changes in employment status and the investment activities; (ii) to verify the hypotheses related to the dynamics of economic behavior derived from economic theory; and (iii) to evaluate important policy changes in the tax system and social security program, which might have lagged effects.</r3d:description>
+                    <r3d:repositoryContact>https://www.pdrc.keio.ac.jp/en/inquiry/</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11205 Statistics and Econometrics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.pdrc.keio.ac.jp/en/about/overview/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>CNEF</r3d:keyword>
+                    <r3d:keyword>Cross-National Equivalent File</r3d:keyword>
+                    <r3d:keyword>GEES</r3d:keyword>
+                    <r3d:keyword>Great East Japan Earthquake Special Survey</r3d:keyword>
+                    <r3d:keyword>JCPS</r3d:keyword>
+                    <r3d:keyword>JHPS</r3d:keyword>
+                    <r3d:keyword>JPSC</r3d:keyword>
+                    <r3d:keyword>Japan Child Panel Survey</r3d:keyword>
+                    <r3d:keyword>Japan Household Panel Survey</r3d:keyword>
+                    <r3d:keyword>Japanese Panel Survey of Consumers</r3d:keyword>
+                    <r3d:keyword>KHPS</r3d:keyword>
+                    <r3d:keyword>microdata</r3d:keyword>
+                    <r3d:keyword>survey</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Keio University</r3d:institutionName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.keio.ac.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02kn6nx58</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Keio University, Panel Data Research Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PDRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.pdrc.keio.ac.jp/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Acquiring the Data</r3d:policyName>
+                <r3d:policyURL>https://www.pdrc.keio.ac.jp/en/paneldata/howto/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.pdrc.keio.ac.jp/en/paneldata/howto/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.pdrc.keio.ac.jp/en/paneldata/howto/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Partners: https://www.pdrc.keio.ac.jp/en/about/partners/
+Panel Data Research Center at Keio University Data is covered by Clarivate Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2021-08-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

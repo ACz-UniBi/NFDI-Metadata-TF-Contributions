@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010747</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Merritt</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UC3Merritt</r3d:additionalName>
+                <r3d:repositoryURL>https://merritt.cdlib.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.pkm8j3</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_000642</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_152126</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Merritt is a curation repository for the preservation of and access to the digital research data of the ten campus University of California system and external project collaborators.
+Merritt is supported by the University of California Curation Center (UC3) at the California Digital Library (CDL).
+While Merritt itself is content agnostic, accepting digital content regardless of domain, format, or structure, it is being used for management of research data, and it forms the basis for a number of domain-specific repositories, such as the ONEShare repository for earth and environmental science and the DataShare repository for life sciences.
+Merritt provides persistent identifiers, storage replication, fixity audit, complete version history, REST API, a comprehensive metadata catalog for discovery, ATOM-based syndication, and curatorially-defined collections, access control rules, and data use agreements (DUAs).
+Merritt content upload and download may each be curatorially-designated as public or restricted.
+Merritt DOIs are provided by UC3&#039;s EZID service, which is integrated with DataCite.
+All DOIs and associated metadata are automatically registered with DataCite and are harvested by Ex Libris PRIMO and Thomson Reuters Data Citation Index (DCI) for high-level discovery.
+Merritt is also a member node in the DataONE network; curatorially-designated data submitted to Merritt are automatically registered with DataONE for additional replication and federated discovery through the ONEMercury search/browse interface.</r3d:description>
+                    <r3d:repositoryContact>https://cdlib.org/services/uc3/contactuc3/</r3d:repositoryContact>
+                    <r3d:repositoryContact>uc3@ucop.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-08-09">2.7 million resources; 41.8 million files; 93.2 TB</r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://cdlib.org/about/mission-vision-and-values/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">California Digital Library</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CDL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cdlib.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03yrm5c26</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006481</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156041</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>cdl@www.cdlib.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California Curation Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UC3</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cdlib.org/services/uc3/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cdlib.org/services/uc3/contactuc3/</r3d:institutionContact>
+                                    <r3d:institutionContact>https://merritt.cdlib.org/docs/merritt_handout.pdf</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CDL Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://cdlib.org/about/policies-and-guidelines/terms-conditions/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment information</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/08/UC3-Merritt.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies and Guidelines</r3d:policyName>
+                <r3d:policyURL>https://cdlib.org/about/policies-and-guidelines/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://merritt.cdlib.org/docs/merritt_user_guide.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>ARK</r3d:pidSystem>
+                    <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.coretrustseal.org/wp-content/uploads/2018/08/UC3-Merritt.pdf</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Merritt is covered by Thomson Reuters Data Citation Index. Merritt is available to the UC community. Preservation of digital objects for UC institutions.
+Image Credits: The images on the Merritt home page are drawn from deposits in the California Digital Library&#039;s preservation repository, and are publicly accessible from Calisphere.
+Merritt is a member node in the DataONE network.</r3d:remarks>
+        <r3d:entryDate>2013-11-22</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

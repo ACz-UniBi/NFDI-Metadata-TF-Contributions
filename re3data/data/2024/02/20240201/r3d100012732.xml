@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012732</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">iReceptor</r3d:repositoryName>
+                <r3d:repositoryURL>http://ireceptor.irmacs.sfu.ca/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ekdqe5</r3d:repositoryIdentifier>
+                <r3d:description language="eng">A data repository for the storage and sharing of Adaptive Immune Receptor Repertoire data. Primary public repository for the iReceptor Platform and Scientific Gateway. Further URL for the repository: http://www.ireceptor.org</r3d:description>
+                    <r3d:repositoryContact>support@ireceptor.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-06-22">5.1 billion sequences, 7.056 repertoires</r3d:size>
+        <r3d:startDate>2016</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20405 Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://ireceptor.irmacs.sfu.ca/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>B cell receptor complex</r3d:keyword>
+                    <r3d:keyword>BCR</r3d:keyword>
+                    <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>MIARR</r3d:keyword>
+                    <r3d:keyword>T cell receptor</r3d:keyword>
+                    <r3d:keyword>TCR</r3d:keyword>
+                    <r3d:keyword>adaptive immune receptor repertoire</r3d:keyword>
+                    <r3d:keyword>antibody</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>immunotherapy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Adaptive Immune Receptor Repertoire Community</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIRR Community</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://docs.airr-community.org/en/stable/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">B.C. Knowledge Development Fund</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BCKDF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">British Columbia Knowledge Development Fund</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www2.gov.bc.ca/gov/content/governments/technology-innovation/bckdf?keyword=Kknowledge&amp;keyword=Development&amp;keyword=Fund</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CANARIE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CFI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canarie.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01nztpc84</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">INNOVATION.CA</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CFI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Canada Foundation for Innovation</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Fondation Canadienne pour l&#039;innovation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.innovation.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:000az4664</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005054</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011134</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144042</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144043</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Simon Fraser University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SFU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sfu.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0213rcc28</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011529</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_81338</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Simon Fraser University, IRMACS Centre, iReceptor</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://ireceptor.irmacs.sfu.ca/node/28</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies, Licensing, and Software Provenance</r3d:policyName>
+                <r3d:policyURL>http://ireceptor.irmacs.sfu.ca/node/113</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>iReceptor Documentation</r3d:policyName>
+                <r3d:policyURL>http://ireceptor.irmacs.sfu.ca/platform/doc</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://ireceptor.irmacs.sfu.ca/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://ipa4.ireceptor.org/v2/samples</r3d:api>
+                    <r3d:api apiType="REST">https://ipa2.ireceptor.org/v2/samples</r3d:api>
+                    <r3d:api apiType="REST">https://ipa3.ireceptor.org/v2/samples</r3d:api>
+                    <r3d:api apiType="REST">https://ipa1.ireceptor.org/v2/samples</r3d:api>
+                        <r3d:citationGuidelineURL>http://ireceptor.irmacs.sfu.ca/node/148</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Both the iReceptor Public Archive (IPA) (Simon Fraser University/Compute Canada) and VDJServer (University of Texas Southwestern Medical School) repositories are available.
+Researchers can use the iReceptor Scientific Gateway by applying for an account and logging in to the web interface at https://gateway.ireceptor.org/login.</r3d:remarks>
+        <r3d:entryDate>2018-07-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

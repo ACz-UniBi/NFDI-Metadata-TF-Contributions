@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014050</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Alcohol and Gaming Commission of Ontario Data Inventory</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AGCO Data Inventory</r3d:additionalName>
+                <r3d:repositoryURL>https://www.agco.ca/data-inventory</r3d:repositoryURL>
+                <r3d:description language="eng">The Alcohol and Gaming Commission of Ontario’s Data Inventory lists all of the agency’s data sets and identifies whether a data set is currently open, in the process of being opened or exempt from being released as open data due to legal, security, privacy, confidentiality or commercially-sensitive reasons.</r3d:description>
+                    <r3d:repositoryContact>customer.service@agco.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.agco.ca/contact-agco</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.agco.ca/mission-vision-and-mandate</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>alcohol</r3d:keyword>
+                    <r3d:keyword>cannabis</r3d:keyword>
+                    <r3d:keyword>gaming</r3d:keyword>
+                    <r3d:keyword>horse racing</r3d:keyword>
+                    <r3d:keyword>lottery</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alcohol and Gaming Commission of Ontario</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AGCO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">CAJO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Commission des alcools et des jeux de l’Ontario</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.agco.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Digital and Data Directive</r3d:policyName>
+                <r3d:policyURL>https://www.ofina.on.ca/open/index.htm</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Ontario’s Digital and Data Directive, 2021</r3d:policyName>
+                <r3d:policyURL>https://www.ontario.ca/page/ontarios-digital-and-data-directive-2021</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms, Privacy and Copyright</r3d:policyName>
+                <r3d:policyURL>https://www.agco.ca/terms-privacy-and-copyright</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.agco.ca/terms-privacy-and-copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ontario.ca/page/open-government-licence-ontario</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.agco.ca/terms-privacy-and-copyright</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-11-17</r3d:entryDate>
+        <r3d:lastUpdate>2022-11-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

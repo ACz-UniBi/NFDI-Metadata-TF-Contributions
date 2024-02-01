@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011116</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ICGEM</r3d:repositoryName>
+                    <r3d:additionalName language="eng">International Centre for Global Earth Models</r3d:additionalName>
+                <r3d:repositoryURL>http://icgem.gfz-potsdam.de/home</r3d:repositoryURL>
+                <r3d:description language="eng">The International Center for Global Earth Models collects and distributes historical and actual global gravity
+field models of the Earth and offers calculation service for derived quantities. In particular the tasks include:  collecting and archiving of all existing global gravity field models, web interface for getting access to global gravity field models, web based visualization of the gravity field models their differences and their time variation, web based service for calculating different functionals of the gravity field models, web site for tutorials on spherical harmonics and the theory of the calculation service. As new service since 2016, ICGEM is providing a Digital Object Identifier (DOI) for the data set of the model (the coefficients).</r3d:description>
+                    <r3d:repositoryContact>icgem@gfz-potsdam.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://dataservices.gfz-potsdam.de/mesi/overview.php?id=8</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>3D Visualisation</r3d:keyword>
+                    <r3d:keyword>gravity field</r3d:keyword>
+                    <r3d:keyword>satellite orbit</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">GFZ German Research Centre for Geosciences</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gfz-potsdam.de/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Geodesy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IAG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iag-aig.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04a9s7v87</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>Wikidata:Q1639820</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Assocication of Geodesy, International Gravitiy Field Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IAG, IGFS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">IAG, International Gravity Field Service</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://igfs.topo.auth.gr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Guidelines on Research Data at the GFZ German Research Centre for Geosciences</r3d:policyName>
+                <r3d:policyURL>https://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_en.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_en.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://icgem.gfz-potsdam.de/home</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>ICGEM is one of six centres of the International Gravity Field Service (IGFS) of the  International Association of Geodesy (IAG). 
+The other five Centres are 
+Bureau Gravimetrique International (BGI) at CNES / CRGS, Toulouse, France 
+Digital Elevation Model Centre (DEM) at Montfort University, UK 
+International Centre for Earth Tides (ICET) at University of French Polynesia 
+International Geoid Service (IGeS) at Politecnico di Milano, Milan, Italy 
+Technical Support Centre of IGFS at NGA, Saint Louis, USA</r3d:remarks>
+        <r3d:entryDate>2014-08-19</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

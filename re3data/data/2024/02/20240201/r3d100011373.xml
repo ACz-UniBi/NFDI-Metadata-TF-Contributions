@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011373</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Virtual Fly Brain</r3d:repositoryName>
+                    <r3d:additionalName language="eng">VFB</r3d:additionalName>
+                    <r3d:additionalName language="eng">VFB Drosophila melanogaster fly brain atlas</r3d:additionalName>
+                <r3d:repositoryURL>https://virtualflybrain.org</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.nzaz6z</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004229</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_143644</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Virtual Fly Brain (VFB) - an interactive tool for neurobiologists to explore the detailed neuroanatomy, neuron connectivity and gene expression of the Drosophila melanogaster CNS.</r3d:description>
+                    <r3d:repositoryContact>douglas.armstrong@ed.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@virtualflybrain.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-01-18">Over 200k registered images with 126k+ single neurons plus 68k+ expression pattern images</r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://doi.org/10.1093/bioinformatics/btr677</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Drosophila</r3d:keyword>
+                    <r3d:keyword>brain</r3d:keyword>
+                    <r3d:keyword>connectome</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>innervation patterns</r3d:keyword>
+                    <r3d:keyword>neuroanatomy</r3d:keyword>
+                    <r3d:keyword>neurobiology</r3d:keyword>
+                    <r3d:keyword>neurons</r3d:keyword>
+                    <r3d:keyword>phenotypes</r3d:keyword>
+                    <r3d:keyword>transgene expression</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">FlyBase</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://flybase.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_006549</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-00558</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://flybase.org/contact/email</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Medical Reserarch Council,  Laboratory of Molecular Biology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MRC, LMB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www2.mrc-lmb.cam.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00tw3jy02</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003527</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-38323</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Cambridge, Department of Genetics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Department of Genetics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gen.cam.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Edinburgh, Institute for Adaptive and Neural Computation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ANC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.anc.ed.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://homepages.inf.ed.ac.uk/jda/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Edinburgh, MRC Institute of Genetics &amp; Molecular Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MRC Human Genetics Unit</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ed.ac.uk/mrc-human-genetics-unit</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ed.ac.uk/mrc-human-genetics-unit/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wellcome.ac.uk</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029chgv08</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011782</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact@wellcome.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gnu.org/licenses/gpl-2.0</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://github.com/VirtualFlyBrain/VFB</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL>http://www.virtualflybrain.org/site/vfb_site/about_us.htm</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-10-29</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

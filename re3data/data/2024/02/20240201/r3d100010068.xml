@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010068</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Data Centre for Greenhouse Gases</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WDCGG</r3d:additionalName>
+                    <r3d:additionalName language="eng">WMO World Data Centre for Greenhouse Gases</r3d:additionalName>
+                <r3d:repositoryURL>https://gaw.kishou.go.jp/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.71fae0</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The WDCGG archives measurement data for greenhouse and related gases in the atmosphere and the ocean (58 gaseous species as of 24 May 2021). The data are classified into five categories according to the observation platforms or methods used.
+Air observation at stationary platform (surface)
+Vertical profile observation of air (tower)
+Air observation by aircraft (aircraft)
+Hydrographic sampling or observation of surface seawater and overlying air by ships (ship)
+Satellite observations (satellite)</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://gaw.kishou.go.jp/about_wdcgg/wdcgg</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>atmospheric chemistry observations</r3d:keyword>
+                    <r3d:keyword>global atmosphere watch</r3d:keyword>
+                    <r3d:keyword>greenhouse gases</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Japan Meteorological Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JMA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jma.go.jp/jma/indexe.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02772kk97</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1990</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>wdcgg@met.kishou.go.jp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Meteorological Organization, Global Atmosphere Watch</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GAW</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">WMO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://community.wmo.int/activity-areas/gaw</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1990</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>GAW Data Policy</r3d:policyName>
+                <r3d:policyURL>https://gaw.kishou.go.jp/policy/gaw</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WDCGG Contributor Manual</r3d:policyName>
+                <r3d:policyURL>https://gaw.kishou.go.jp/static/documents/wdcgg_data_submission_manual.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://gaw.kishou.go.jp/policy/gaw</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>WDCGG Contributor Manual</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://gaw.kishou.go.jp/static/documents/wdcgg_data_submission_manual.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://gaw.kishou.go.jp/static/documents/wdcgg_data_format_table.pdf</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://gaw.kishou.go.jp/search/gas_species/co2/latest#tab_3</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The World Data Centre for Greenhouse Gases (WDCGG) is one of the WDCs under the Global Atmosphere Watch (GAW) programme of World Meteorological Organization . It serves to gather, archive and provide data on greenhouse gases (CO2, CH4, CFCs, N2O, etc.) and related gases such as CO and H2 in the atmosphere and ocean, as observed under GAW and other programmes.</r3d:remarks>
+        <r3d:entryDate>2012-08-24</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

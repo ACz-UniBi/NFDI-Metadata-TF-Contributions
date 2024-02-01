@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013711</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">RIKEN Bioresource Research Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">RIKEN BRC</r3d:additionalName>
+                    <r3d:additionalName language="eng">RIKEN Bioresource Center</r3d:additionalName>
+                    <r3d:additionalName language="jpn">理化学研究所　バイオリソース研究センター</r3d:additionalName>
+                <r3d:repositoryURL>https://web.brc.riken.jp/en/</r3d:repositoryURL>
+                <r3d:description language="eng">Bioresources, often referred to as biological resources, are essential experimental research materials for life science and bioindustry. Under the three principles of “Trust”, “Sustainability” and “Leadership”, RIKEN BRC is committed to receiving deposition/donation of bioresources from the research community, confirming the authenticity of bioresources by rigorous quality examination, preserving, and distributing them back to the research community. f you wish to search quickly or to search multiple bioresources (mouse, cell, plant, microorganism, gene) simultaneously, we recommend to search from the Top Page. At the Top page, bioresource search and Google-based site search are available.</r3d:description>
+                    <r3d:repositoryContact>https://web.brc.riken.jp/en/inquirylist</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://web.brc.riken.jp/en/about/action</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>BioResource Meta Database</r3d:keyword>
+                    <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>animal</r3d:keyword>
+                    <r3d:keyword>cell</r3d:keyword>
+                    <r3d:keyword>cell engineering</r3d:keyword>
+                    <r3d:keyword>gene engineering</r3d:keyword>
+                    <r3d:keyword>microbe</r3d:keyword>
+                    <r3d:keyword>mouse</r3d:keyword>
+                    <r3d:keyword>plant</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">RIKEN Bioresource Research Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RBRC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">RIKEN BRC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">RIKEN Bioresource Research Center</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">理化学研究所　バイオリソース研究センター</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://web.brc.riken.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00s05em53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>RIKEN Site Policy</r3d:policyName>
+                <r3d:policyURL>https://knowledge.brc.riken.jp/bioresource/front/sitepolicy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>copyright in BRC Web site</r3d:policyName>
+                <r3d:policyURL>https://web.brc.riken.jp/en/copyright</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.riken.jp/en/accessibility/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://knowledge.brc.riken.jp/bioresource/front/sitepolicy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>deposit or donate your valuable bioresources to RIKEN BRC</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://web.brc.riken.jp/en/requests/deposit</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://web.brc.riken.jp/en/requests/result</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>RIKEN BRC has acquired and maintained ISO9001: https://web.brc.riken.jp/en/wp-content/uploads/images/iso_certificate.jpg
+International Collaboration and Asian Collaboration: https://web.brc.riken.jp/en/collaboration/itn</r3d:remarks>
+        <r3d:entryDate>2022-01-12</r3d:entryDate>
+        <r3d:lastUpdate>2022-01-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

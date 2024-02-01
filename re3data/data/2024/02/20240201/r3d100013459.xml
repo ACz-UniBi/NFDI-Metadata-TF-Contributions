@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013459</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IMK/IAA generated MIPAS/Envisat data</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.imk-asf.kit.edu/english/308.php</r3d:repositoryURL>
+                <r3d:description language="eng">The Michelson Interferometer for Passive Atmospheric Sounding (MIPAS) onboard the ENVISAT satellite provided atmospheric infrared limb emission spectra. From these, profiles of temperature and atmospheric trace gases were retrieved using the research data processor developed at the Institut für Meteorologie und Klimaforschung (IMK), which is complemented by the component of non-local thermodynamic equilibrium (non-LTE) treatment from the Instituto de Astrofísica de Andalucía (IAA). The MIPAS data products on this server are commonly known as IMK/IAA MIPAS Level2 data products. The MIPAS instrument measured during two time frames: from 2002 to 2004 in full spectral resolution (high resolution = HR aka full resolution = FR), and from 2005 to 2012 in reduced spectral, but improved spatial resolution (reduced resolution = RR aka optimized resolution = OR). For this reason, there are different version numbers covering the full MIPAS mission period: xx for the HR/FR period, and 2xx for the RR/OR period (example: 61 for HR/FR, 261 for RR/OR). Beyond this, measurements were conducted in different modes covering different altitude ranges during the RR period: Nominal (6 – 70 km), MA (18 – 102 km), NLC (39 – 102 km), UA (42 – 172 km), UTLS-1 (5.5 – 19 km), UTLS-2 (12 – 42 km), AE (7 – 38 km). The non-nominal modes are identified by the following version numbers: MA = 5xx, NLC = 7xx, UA = 6xx, UTLS-1/2 = 1xx (no retrievals for AE mode).</r3d:description>
+                    <r3d:repositoryContact>https://www.imk-asf.kit.edu/english/1500.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>michael.kiefer@kit.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ENVISAT</r3d:keyword>
+                    <r3d:keyword>IMK-IAA processor</r3d:keyword>
+                    <r3d:keyword>Michelson Interferometer for Passive Atmospheric Sounding (MIPAS)</r3d:keyword>
+                    <r3d:keyword>Satellite-borne remote sensing of trace gases</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="spa">Instituto de Astrofísica de Andalucía</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IAA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Institute of Astrophysics of Andalusia</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iaa.csic.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04ka0vh05</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kit.edu/english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001552</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology, Institute of Climatology and Climate Research, Atmospheric Trace Gases and Remote Sensing</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IMK-ASF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie, Institut für Meteorologie und Klimaforschung - Atmosphärische Spurengase und Fernerkundung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imk-asf.kit.edu/english/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Access and Usage conditions for IMK- and IAA-generated MIPAS-Envisat data</r3d:policyName>
+                <r3d:policyURL>https://www.imk-asf.kit.edu/english/1500.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.imk-asf.kit.edu/english/1500.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-12-02</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

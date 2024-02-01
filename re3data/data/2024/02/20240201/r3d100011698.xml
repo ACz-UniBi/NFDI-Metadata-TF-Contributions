@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011698</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Birdata</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BirdLife Australia</r3d:additionalName>
+                    <r3d:additionalName language="eng">Royal Australasian Ornithologists Union RAOU</r3d:additionalName>
+                <r3d:repositoryURL>https://birdata.birdlife.org.au/</r3d:repositoryURL>
+                <r3d:description language="eng">Birdata is your gateway to BirdLife Australia data including the Atlas of Australian Birds and Nest record scheme. You can use Birdata to draw bird distribution maps and generate bird lists for any part of the country. You can also join in the Atlas and submit survey information to this important environmental database. Birdata is a partnership between Birds Australia and the Tony and Lisette Lewis Foundation&#039;s WildlifeLink program to collect and make Birds Australia data available online.</r3d:description>
+                    <r3d:repositoryContact>atlas@birdlife.org.au</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@birdlife.org.au</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://birdlife.org.au/who-we-are</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Australia</r3d:keyword>
+                    <r3d:keyword>atlassers</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>bird</r3d:keyword>
+                    <r3d:keyword>bird conservation</r3d:keyword>
+                    <r3d:keyword>distribution</r3d:keyword>
+                    <r3d:keyword>nature conservancy</r3d:keyword>
+                    <r3d:keyword>survey</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">BirdLife Australia</r3d:institutionName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.birdlife.org.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03fhpab87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@birdlife.org.au</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">WildlifeLink</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The Tony &amp; Lisette Lewis Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wildlifelink.wixsite.com/wildlifelink</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wildlifelink.wixsite.com/wildlifelink/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies, Terms of Use and Guidelines</r3d:policyName>
+                <r3d:policyURL>https://data.sbgrid.org/policies/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/licenses/by-nc/2.5/au/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>How to record, submit and manage your data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://birdata.birdlife.org.au/get-started</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://docs.ala.org.au/#services</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Data collection, data management, data extraction and the inevitable questions about how to manipulate and interpret the data cost a great deal of time and money. Most of our datasets are unfunded, and we simply must charge to cover our costs. To extract data, curate it and provide assistance to you requires a staff member and fees we collect from the sale of data assist in meeting this cost. 
+
+ Unfortunately, we have learned from bitter experience that we have to limit the use of our data by agreement. This is because:
+
+    In the past, we have found ourselves competing against grants and tenders from other organisations which rely on unauthorised copies of our own data!
+    We think it is fair to recognise BirdLife Australia, and the organisations that helped support our data collection efforts. We also think that it is fair to recognise the volunteer contributions to a dataset.
+    We need to protect our interests by ensuring that data are not on-sold or distributed, and that we are not liable for any misuse of the data.
+    Some aspects of the data contain sensitive information on rare or threatened birds. Agreements help us determine that our data is being used for the good of birds.
+
+As a non-government organisation we are not a commercial seller of data, we do it to cover the costs of ongoing data management and to assist in the usability of the data.
+
+Partners: http://www.birdlife.org.au/who-we-are/our-organisation/partners</r3d:remarks>
+        <r3d:entryDate>2015-12-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

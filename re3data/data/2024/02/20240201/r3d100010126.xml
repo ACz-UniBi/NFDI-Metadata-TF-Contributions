@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010126</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GISAID</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GISAID EpiFlu database</r3d:additionalName>
+                    <r3d:additionalName language="eng">Global initiative on sharing all influenza data</r3d:additionalName>
+                <r3d:repositoryURL>https://www.gisaid.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.2f7f9f</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_018279</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The GISAID Initiative promotes the international sharing of all influenza virus sequences, related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how the viruses evolve, spread and potentially become pandemics. 
+*** GISAID does so by overcoming disincentives/hurdles or restrictions, which discourage or prevented sharing of influenza data prior to formal publication.
+*** The Initiative ensures that open access to data in GISAID is provided free-of-charge and to everyone, provided individuals identify themselves and agree to uphold the GISAID sharing mechanism governed through its Database Access Agreement. GISAID calls on all users to agree to the basic premise of upholding scientific etiquette, by acknowledging the originating laboratories providing the specimen and the submitting laboratories who generate the sequence data, ensuring fair exploitation of results derived from the data, and that all users agree that no restrictions shall be attached to data submitted to GISAID, to promote collaboration among researchers on the basis of open sharing of data and respect for all rights and interests.</r3d:description>
+                    <r3d:repositoryContact>contact@gisaid.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://gisaid.org/help/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20508 Pharmacy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.gisaid.org/about-us/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>epidemiology</r3d:keyword>
+                    <r3d:keyword>gene sequences</r3d:keyword>
+                    <r3d:keyword>influenza</r3d:keyword>
+                    <r3d:keyword>virology</r3d:keyword>
+                    <r3d:keyword>virus</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Ernährung und Landwirtschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMEL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Food and Agriculture</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmel.de/EN/Homepage/homepage_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04jw21793</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bmel.de/EN/Services/Contact/contact_node.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Freunde von GISAID e.V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Global Initiative on Sharing All Influenza Data</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gisaid.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_018251</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Institut für Informatik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">MPII</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Max Planck Institute for Informatics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpi-inf.mpg.de/home/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01w19ak89</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011367</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_88721</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>GISAID EpiFlu™ Database Access Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.gisaid.org/registration/terms-of-use/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gisaid.org/registration/terms-of-use/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gisaid.org/registration/terms-of-use/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://gisaid.org/publish/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>To receive your personal access credentials to the GISAID EpiFlu™ database you must positively identify yourself and agree to the terms of the Database Access Agreement (DAA)   ---     Elbe, S., and Buckland-Merrett, G. (2017) Data, disease and diplomacy: GISAID&#039;s innovative contribution to global health. Global Challenges, 1: 33–46. doi: 10.1002/gch2.1018.</r3d:remarks>
+        <r3d:entryDate>2012-12-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

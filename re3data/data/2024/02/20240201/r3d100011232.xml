@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011232</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PANDIT</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Protein and Associated Nucleotide Domains with Inferred Trees</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ebi.ac.uk/research/goldman/software/pandit</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_003321</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03241</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; Efforts to obtain renewed funding after 2008 were unfortunately not successful.  PANDIT has therefore been frozen since November 2008, and its data are not updated since September 2005 when version 17.0 was released (corresponding to Pfam 17.0).  The existing data and website remain available from these pages, and should remain stable and, we hope, useful. &gt;&gt;&gt;!!!&gt;&gt;&gt; PANDIT is a collection of multiple sequence alignments and phylogenetic trees. It contains corresponding amino acid and nucleotide sequence alignments, with trees inferred from each alignment. PANDIT is based on the Pfam database (Protein families database of alignments and HMMs), and includes the seed amino acid alignments of most families in the Pfam-A database. DNA sequences for as many members of each family as possible are extracted from the EMBL Nucleotide Sequence Database and aligned according to the amino acid alignment. PANDIT also contains a further copy of the amino acid alignments, restricted to the sequences for which DNA sequences were found.</r3d:description>
+                    <r3d:repositoryContact>pandit@ebi.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-05-15">7.738 protein families</r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate>2008</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>nucleotide</r3d:keyword>
+                    <r3d:keyword>pfam-A</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.embl.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mstc592</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute, Goldman Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI, Goldman Group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/research/goldman</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>EMBL-EBI terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.ebi.ac.uk/goldman-srv/pandit/Pandit/data/GNULICENSE</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/goldman-srv/pandit/Pandit/data/COPYRIGHT</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ebi.ac.uk/goldman-srv/pandit/Pandit/data/GNULICENSE</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ebi.ac.uk/goldman-srv/pandit/pandit.cgi?action=help</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>What happened to PANDIT:  Efforts to obtain renewed funding after 2008 were unfortunately not successful. PANDIT has therefore been frozen since November 2008, and its data are not updated since September 2005 when version 17.0 was released (corresponding to Pfam 17.0).  The existing data and website remain available from these pages, and should remain stable and, we hope, useful.</r3d:remarks>
+        <r3d:entryDate>2014-11-03</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

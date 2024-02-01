@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012165</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">STITCH 4.0</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Search Tool for Interactions of Chemicals</r3d:additionalName>
+                <r3d:repositoryURL>http://stitch.embl.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_01589</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007947</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03499</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Database explores the interactions of chemicals and proteins.  It integrates information about interactions from metabolic pathways, crystal structures, binding experiments and drug-target relationships. Inferred information from phenotypic effects, text mining and chemical structure similarity is used to predict relations between chemicals. STITCH further allows exploring the network of chemical relations, also in the context of associated binding proteins.</r3d:description>
+                    <r3d:repositoryContact>mering@imls.uzh.ch</r3d:repositoryContact>
+                    <r3d:repositoryContact>mkuhn@embl.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2016-09-26">Stitch contains interactions for between 300.000 small molecules and 2.6 million proteins from 1.133 organisms.</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biochemical processes</r3d:keyword>
+                    <r3d:keyword>chemical models</r3d:keyword>
+                    <r3d:keyword>chemical-protein interactions</r3d:keyword>
+                    <r3d:keyword>pharmaceutical preparations</r3d:keyword>
+                    <r3d:keyword>protein interaction mapping</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>stereoisomerism</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Europäisches Laboratorium für Molekularbiologie</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Laboratoire Européen de Biologie Moléculaire</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.embl.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.embl.de/aboutus/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NNF Center for Protein Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Novo Nordisk Foundation,  Center for Protein Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cpr.ku.dk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swiss Institute of Bioinformatics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SIB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sib.swiss/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>christian.vonmering@sib.swiss</r3d:institutionContact>
+                                    <r3d:institutionContact>damian.szklarczyk@sib.swiss</r3d:institutionContact>
+                                    <r3d:institutionContact>milan.simonovic@sib.swiss</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Technische Universität Dresden, Biotechnology Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">TU Dresden, Biotechnologisches Zentrum</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Technische Universität Dresden,  Biotechnologisches Zentrum</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">biotec</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.biotec.tu-dresden.de/home.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.biotec.tu-dresden.de/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Copenhagen, Faculty of Health and Medical Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">Københavns Universitet, Det Sundhedsvidenskabelige Fakultet</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">UCPH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://healthsciences.ku.dk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://introduction.ku.dk/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Zurich</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">UZH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Zürich</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uzh.ch/cmsssl/en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>alexander.roth@imls.uzh.ch</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.uzh.ch/de/contact.html</r3d:institutionContact>
+                                    <r3d:institutionContact>mering@imls.uzh.ch</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>License of STITCH for Scientific Purposes</r3d:policyName>
+                <r3d:policyURL>http://stitch.embl.de/download/STITCHacademiclicense.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://stitch.embl.de/download/STITCHacademiclicense.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">http://stitch-beta.embl.de/cgi/access.pl?&amp;footer_active_subpage=apis</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Sister projects: String and eggNOG // The previous versions, STITCH 3.1, 2.0 and 1.0, are still accessible.</r3d:remarks>
+        <r3d:entryDate>2016-09-23</r3d:entryDate>
+        <r3d:lastUpdate>2020-10-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

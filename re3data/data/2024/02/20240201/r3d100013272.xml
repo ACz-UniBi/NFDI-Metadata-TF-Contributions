@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013272</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ReefTEMPS</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Portail d&#039;information du réseau Réseau d&#039;observation des eaux côtières du Pacifique insulaire</r3d:additionalName>
+                <r3d:repositoryURL>http://www.reeftemps.science/en/home/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.5ftlhl</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ReefTEMPS is a temperature, pressure, salinity and other observables sensor network in coastal area of South, West and South West of Pacific ocean, driven by UMR ENTROPIE. It is an observatory service from the French national research infrastructure ILICO for “coastal environments”. Some of the network’s sensors have been deployed since 1958. Nearly hundred sensors are actually deployed in 14 countries covering an area of more than 8000 km from East to West. The data are acquired at different rates (from 1sec to 30 mn) depending on sensors and sites. They are processed and described using Climate and Forecast Metadata Convention at the end of oceanographic campaigns organized for sensors replacement every 6 months to 2 years.</r3d:description>
+                    <r3d:repositoryContact>contact@reeftemps.science</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-04-08">204 datasets; 116 platforms</r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.reeftemps.science/en/home/#objectives</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>conductivity</r3d:keyword>
+                    <r3d:keyword>fluorescence</r3d:keyword>
+                    <r3d:keyword>pressure</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                    <r3d:keyword>sea pressure</r3d:keyword>
+                    <r3d:keyword>sea temperature</r3d:keyword>
+                    <r3d:keyword>significant wave height</r3d:keyword>
+                    <r3d:keyword>surface winds</r3d:keyword>
+                    <r3d:keyword>swell</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                    <r3d:keyword>turbidity</r3d:keyword>
+                    <r3d:keyword>wind waves</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Institute of Research for the Development</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IRD</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Institut de Recherche pour le Développement</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Noumea IRD Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://nouvelle-caledonie.ird.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01j4h9t83</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Pacific Community</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SPC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.spc.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05ewdm369</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The University of the South Pacific</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FJI</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usp.ac.fj/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of New Caledonia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UNC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Université de la Nouvelle-Calédonie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NCL</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.univ-nc.nc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jrgcx64</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">http://www.reeftemps.science/thredds/catalog/reeftemps/catalog.html</r3d:api>
+                    <r3d:api apiType="OpenDAP">http://www.reeftemps.science/thredds/catalog/reeftemps/catalog.html</r3d:api>
+                    <r3d:api apiType="REST">http://sosoceano.ird.nc/service</r3d:api>
+                    <r3d:api apiType="REST">https://www.ogc.org/standards/sensorthings</r3d:api>
+                    <r3d:api apiType="SOAP">http://sosoceano.ird.nc/service</r3d:api>
+                    <r3d:api apiType="SOAP">http://reeftemps.science/geoserver/wfs?</r3d:api>
+                    <r3d:api apiType="SOAP">http://reeftemps.science/geoserver/wms?</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="other">http://dboceano.ird.nc/dboceano/stream.xml</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-03-30</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

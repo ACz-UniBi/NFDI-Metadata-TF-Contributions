@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013405</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Gaia@AIP</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Gaia@AIP Services</r3d:additionalName>
+                <r3d:repositoryURL>https://gaia.aip.de/</r3d:repositoryURL>
+                <r3d:description language="eng">Launched in December 2013, Gaia is destined to create the most accurate map yet of the Milky Way. By making accurate measurements of the positions and motions of stars in the Milky Way, it will answer questions about the origin and evolution of our home galaxy. The first data release (2016) contains three-dimensional positions and two-dimensional motions of a subset of two million stars. The second data release (2018) increases that number to over 1.6 Billion. Gaia’s measurements are as precise as planned, paving the way to a better understanding of our galaxy and its neighborhood.
+The AIP hosts the Gaia data as one of the external data centers along with the main Gaia archive maintained by ESAC and provides access to the Gaia data releases as part of Gaia Data Processing and Analysis Consortium (DPAC).</r3d:description>
+                    <r3d:repositoryContact>https://gaia.aip.de/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-12-07">1.69 billion stars</r3d:size>
+        <r3d:startDate>2016-09-14</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://gaia.aip.de/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>GAIA DR1</r3d:keyword>
+                    <r3d:keyword>GAIA DR2</r3d:keyword>
+                    <r3d:keyword>GAIA DR3</r3d:keyword>
+                    <r3d:keyword>Global Auroral Imaging Access</r3d:keyword>
+                    <r3d:keyword>RAVE DR5</r3d:keyword>
+                    <r3d:keyword>TYCHO2</r3d:keyword>
+                    <r3d:keyword>UCAC5</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Space Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.esa.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wd9za21</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry of Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/en/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Astrophysik Potsdam</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Astrophysics Potsdam</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aip.de/de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mrbr458</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of usage of the Data Access Service (DAS) at AIP</r3d:policyName>
+                <r3d:policyURL>https://cloud.aip.de/terms/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://gaia.aip.de/cms/credit/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://gaia.aip.de/oai/</r3d:api>
+                    <r3d:api apiType="other">https://gaia.aip.de/tap/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://gaia.aip.de/cms/credit/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>It is developed and maintained by AIP&#039;s E-Science group: https://github.com/aipescience</r3d:remarks>
+        <r3d:entryDate>2020-09-08</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

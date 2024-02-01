@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010159</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NASA Socioeconomic Data and Applications Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SEDAC</r3d:additionalName>
+                <r3d:repositoryURL>https://sedac.ciesin.columbia.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.4ufVpm</r3d:repositoryIdentifier>
+                <r3d:description language="eng">SEDAC, the Socioeconomic Data and Applications Center, is one of the Distributed Active Archive Centers (DAACs) in the Earth Observing System Data and Information System (EOSDIS) of the U.S. National Aeronautics and Space Administration. SEDAC is a regular member of the World Data System and focuses on human interactions in the environment. Its mission is to develop and operate applications that support the integration of socioeconomic and Earth science data and to serve as an &quot;Information Gateway&quot; between the Earth and social sciences.</r3d:description>
+                    <r3d:repositoryContact>ciesin.info@ciesin.columbia.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-11-10">47 data collections; 263 datasets</r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20701 Soil Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31702 Human Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">410 Construction Engineering and Architecture</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">41002 Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">45 Construction Engineering and Architecture</r3d:subject>
+                <r3d:missionStatementURL>https://sedac.ciesin.columbia.edu/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>conservation</r3d:keyword>
+                    <r3d:keyword>energy infrastructure</r3d:keyword>
+                    <r3d:keyword>environmental assessment</r3d:keyword>
+                    <r3d:keyword>environmental health</r3d:keyword>
+                    <r3d:keyword>environmental indicators</r3d:keyword>
+                    <r3d:keyword>environmental sciences</r3d:keyword>
+                    <r3d:keyword>environmental treaties</r3d:keyword>
+                    <r3d:keyword>global environment</r3d:keyword>
+                    <r3d:keyword>governance</r3d:keyword>
+                    <r3d:keyword>hazards</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>infrastructure</r3d:keyword>
+                    <r3d:keyword>land use</r3d:keyword>
+                    <r3d:keyword>marine and coastal</r3d:keyword>
+                    <r3d:keyword>population</r3d:keyword>
+                    <r3d:keyword>poverty</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>socioeconomics</r3d:keyword>
+                    <r3d:keyword>sustainability</r3d:keyword>
+                    <r3d:keyword>water</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Earth Institute, Center for International Earth Science Information Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIESIN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://ciesin.columbia.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://ciesin.columbia.edu/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration, Earth Observing System Data and Information System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA EOSDIS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NASA Earth Data</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://earthdata.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA web privacy policy</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Privacy Policy, Copyrights, and Permissions</r3d:policyName>
+                <r3d:policyURL>https://sedac.ciesin.columbia.edu/privacy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WDC - Data Sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://www.icsu-wds.org/services/data-sharing-principles</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://sedac.ciesin.columbia.edu/privacy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://sedac.ciesin.columbia.edu/citations</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">http://ciesin.columbia.edu/rest/rss/sedacnews</r3d:syndication>
+                <r3d:remarks>SEDAC is covered by Thomson Reuters Data Citation Index. 
+This record is combined with &#039;NASA Socioeconomic Data and Applications Center&#039;, see https://www.re3data.org/repository/r3d100010160
+ The World Data Center for Human Interactions in the Environment has been superseded by the NASA Socioeconomic Data and Applications Center (SEDAC), which is a regular member of the World Data System (WDS). The International Council for Science (ICSU) replaced the World Data Centers (WDC) with the WDS, which supports the provision of trusted scientific data services by certifying its members to ensure that they maintain the organizational capabilities and infrastructure for managing the data products and services that they offer.</r3d:remarks>
+        <r3d:entryDate>2012-12-09</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

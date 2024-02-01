@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010677</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UniProtKB/Swiss-Prot</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UniProt Knowledgebase</r3d:additionalName>
+                <r3d:repositoryURL>http://web.expasy.org/docs/swiss-prot_guideline.html</r3d:repositoryURL>
+                <r3d:description language="eng">UniProtKB/Swiss-Prot is the manually annotated and reviewed section of the UniProt Knowledgebase (UniProtKB).
+It is a high quality annotated and non-redundant protein sequence database, which brings together experimental results, computed features and scientific conclusions.
+Since 2002, it is maintained by the UniProt consortium and is accessible via the UniProt website.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-11-17">561.176 sequence entries, 201.758.313 amino acids,  from 268.833 references.</r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>diseases</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>insecta</r3d:keyword>
+                    <r3d:keyword>mammalia</r3d:keyword>
+                    <r3d:keyword>nematode</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                    <r3d:keyword>proteome</r3d:keyword>
+                    <r3d:keyword>sequence</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                    <r3d:keyword>vertebrata</r3d:keyword>
+                    <r3d:keyword>viridiplantae</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">International Molecular Exchange Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMEx</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.imexconsortium.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swiss Institute of Bioinformatics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SIB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sib.swiss/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:002n09z45</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1996</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Uniprot consortium</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uniprot.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2002</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>help@uniprot.org</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.uniprot.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IMEx Curation Rules</r3d:policyName>
+                <r3d:policyURL>http://www.imexconsortium.org/curation</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/licenses/by-nd/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/licenses/by/2.5/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>IMEx data submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.imexconsortium.org/submit-your-data</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.expasy.org./databases/swiss-prot/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.uniprot.org/help/publications</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Swiss-Prot is active partner of the International Molcular Exchange Consortium (IMEx). Swiss-Prot is part of the Uniprot knowledgebase</r3d:remarks>
+        <r3d:entryDate>2014-03-31</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

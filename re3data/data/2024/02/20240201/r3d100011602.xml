@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011602</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EELS Data Base</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Electron energy loss spectroscopy Data Base</r3d:additionalName>
+                    <r3d:additionalName language="eng">Inner &amp; Outer Shell Excitation Spectrum Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://eelsdb.eu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2430-3593</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The EELS database is a public interactive consultable web repository of outer-shell and inner-shell excitation spectra from Electron Energy Loss Spectroscopy and X-Ray experiments, which forms a reference catalog of fine structures for materials. Each spectrum is available with a full set of recording parameters providing a complete overview of the working conditions. The database must also be seen as a research tool for EEL spectroscopists, theoreticians, students, or private firms and a central “location” for the growing EELS community.</r3d:description>
+                    <r3d:repositoryContact>sfmu@sfmu.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-27">287 spectra</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://eelsdb.eu/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>XAS</r3d:keyword>
+                    <r3d:keyword>condensed matter</r3d:keyword>
+                    <r3d:keyword>material science</r3d:keyword>
+                    <r3d:keyword>periodic table</r3d:keyword>
+                    <r3d:keyword>spectroscopy</r3d:keyword>
+                    <r3d:keyword>x-ray</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">CEMES - CNRS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Centre d’Élaboration de Matériaux et d’Etudes Structurales (UPR 8011) - Centre National de la Recherche Scientifique</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cemes.fr/en/home/?lang=en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03kwnqq69</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cemes.fr/en/contact-access/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">French microscopy society SF(my)</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">SFµ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Société Francaise des Microscopies</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sfmu.fr/fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>sfmu-at-sfmu.fr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">METSA</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Electron Microscopy and Atom Probe</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Microscopie Electronique et Sonde Atomique</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.metsa.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université de Nantes, Institut des Matériaux Jean Rouxel</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">IMN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnrs-imn.fr/index.php/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cqpd580</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">esteem2</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">european network for electron microscopy</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.esteem3.eu/about_us</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2012-10-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2016-09-30</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cordis.europa.eu/project/rcn/104478_en.html</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opendatacommons.org/licenses/odbl/1-0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/odbl/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Open Data Commons Open Database License</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://opendatacommons.org/licenses/odbl/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://eelsdb.eu/about/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-06-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

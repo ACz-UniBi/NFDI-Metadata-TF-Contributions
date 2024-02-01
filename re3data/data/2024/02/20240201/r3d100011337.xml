@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011337</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IMS Universität Stuttgart Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IMS Fedora Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">Repository of the CLARIN-D Centre at IMS Stuttgart</r3d:additionalName>
+                <r3d:repositoryURL>http://clarin04.ims.uni-stuttgart.de/repo/</r3d:repositoryURL>
+                <r3d:description language="eng">Currently, the IMS repository focuses on resources provided by the Institute for Natural Language Processing in Stuttgart (IMS) and other CLARIN-D related institutions such as the local Collaborative Research Centre 732 (SFB 732) as well as institutions and/or organizations that belong to the CLARIN-D extended scientific community. Comprehensive guidelines and workflows for submission by external contributors are being compiled based on the experiences in archiving such in-house resources.</r3d:description>
+                    <r3d:repositoryContact>clarin@ims.uni-stuttgart.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.uni-stuttgart.de/cgi-bin/mail.cgi?clarin=ims.uni-stuttgart.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-04-01">83 datasets</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.ims.uni-stuttgart.de/en/research/projects/clarin-d/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>conversation</r3d:keyword>
+                    <r3d:keyword>corpora</r3d:keyword>
+                    <r3d:keyword>speechCorpus</r3d:keyword>
+                    <r3d:keyword>transcription</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - D</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin-d.net/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Stuttgart</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Stuttgart</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-stuttgart.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04vnq7t77</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Stuttgart, Institut für Linguistik / Anglistik; Sonferforschungsbereich 732</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SFB 732</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ims.uni-stuttgart.de/forschung/projekte/sfb-732/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uni-stuttgart.de/cgi-bin/mail.cgi?sabine.mohr=ifla.uni-stuttgart.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Stuttgart, Institut für Maschinelle Sprachverarbeitung, Forschungszentrum Informatik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IMS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">University Stuttgart, Institute for Natural Language Processing</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ims.uni-stuttgart.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>ims@ims.uni-stuttgart.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Centre B Certificate IMS, Universität Stuttgart</r3d:policyName>
+                <r3d:policyURL>https://www.clarin.eu/content/institut-f%C3%BCr-maschinelle-sprachverarbeitung-ims</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>GÉANT Data Protection Code of Conduct</r3d:policyName>
+                <r3d:policyURL>https://geant3plus.archive.geant.net/Pages/uri/V1.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>IMS Stuttgart CLARIN Centre repository Terms of Use</r3d:policyName>
+                <r3d:policyURL>http://clarin04.ims.uni-stuttgart.de/repo/resources/terms-of-use.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Report on CLARIN Model Contracts</r3d:policyName>
+                <r3d:policyURL>https://weblicht.sfs.uni-tuebingen.de/Reports/D-SPIN_R7.2.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://weblicht.sfs.uni-tuebingen.de/Reports/D-SPIN_R7.2.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.clarin.eu/content/licenses-and-clarin-categories</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CLARIN Deposition &amp; License Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://clarin04.ims.uni-stuttgart.de/repo/resources/data_ipr.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://vlo.clarin.eu/data/clarin/results/cmdi/IMS_Repository/</r3d:api>
+                    <r3d:api apiType="OAI-PMH">http://clarin04.ims.uni-stuttgart.de/oaiprovider/oai</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Within CLARIN, IMS data is aggregated and can be searched online via software components such as the Virtual Language Oberservatory (https://vlo.clarin.eu/search;jsessionid=6DE196689CC47BF860822CCA6ABCD98F?1&amp;fq=organisation:Universit%C3%A4t+Stuttgart)</r3d:remarks>
+        <r3d:entryDate>2015-01-09</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

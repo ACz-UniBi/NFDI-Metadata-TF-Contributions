@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012565</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Autophagy Database</r3d:repositoryName>
+                <r3d:repositoryURL>http://www.tanpaku.org/autophagy/index.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_03306</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002671</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The goal of the Autophagy Database is to provide up-to-date relevant information including protein structure data to researchers of autophagy, and to disseminate important findings to a wider audience so that their ramifications can be appreciated. For this purpose, we strive to make the database to contain as much pertinent information as possible and to make the contents freely available in a user-friendly format.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2017-01-18">52.021 proteins</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>http://www.tanpaku.org/autophagy/overview.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>autophagocytosis</r3d:keyword>
+                    <r3d:keyword>cell death</r3d:keyword>
+                    <r3d:keyword>cell protection</r3d:keyword>
+                    <r3d:keyword>diseases</r3d:keyword>
+                    <r3d:keyword>eukaryotes</r3d:keyword>
+                    <r3d:keyword>lysosomal degradation pathway</r3d:keyword>
+                    <r3d:keyword>macroautophagy</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>self-digestion</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Basis for Supporting Innovative Drug Discovery and Life Science Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BINDS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">革新的な創薬とライフサイエンス研究を支える基盤</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.binds.jp/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2017-06</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Education, Culture, Sports, Science and Technology, Targeted Proteins Research Program</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MEXT, TPRP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.tanpaku.org/e_about.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Tokyo</r3d:institutionName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.u-tokyo.ac.jp/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011731</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_97187</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.1/jp/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.tanpaku.org/autophagy/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.tanpaku.org/autophagy/overview.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-11-29</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

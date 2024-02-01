@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010621</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CDC - Climate Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Deutscher Wetterdienst - DWD</r3d:additionalName>
+                <r3d:repositoryURL>https://cdc.dwd.de/portal/</r3d:repositoryURL>
+                <r3d:description language="eng">The CDC Data Catalogue describes the Climate Data of the DWD and provides access to data, descriptions and access methods. Climate Data refers to observations, statistical indices and spatial analyses. CDC comprises Climate Data for Germany, but also global Climate Data, which were collected and processed in the framework of international co-operation. The CDC Data Catalogue is under construction and not yet complete. The purposes of the CDC Data Catalogue are:
+to provide uniform access to climate data centres and climate datasets of the DWD
+to describe the climate data according to international metadata standards
+to make the catalogue information available on the Internet
+to support the search for climate data
+to facilitate the access to climate data and climate data descriptions</r3d:description>
+                    <r3d:repositoryContact>https://cdc.dwd.de/EN/contact.xhtml</r3d:repositoryContact>
+                    <r3d:repositoryContact>klima.vertrieb@dwd.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.dwd.de/EN/ourservices/_functions/search/search_Formular.html?nn=16102</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>agroclimatology</r3d:keyword>
+                    <r3d:keyword>atmospheric chemistry</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>human biometeorology</r3d:keyword>
+                    <r3d:keyword>hydroclimatology</r3d:keyword>
+                    <r3d:keyword>marine climatology</r3d:keyword>
+                    <r3d:keyword>medical climatology</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>phenology</r3d:keyword>
+                    <r3d:keyword>radioactivity monitoring</r3d:keyword>
+                    <r3d:keyword>technical climatology</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Digitales und Verkehr</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMDV</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry for Digital and Transport</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bmdv.bund.de/DE/Home/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00e3ns026</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutscher Wetterdienst</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DWD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dwd.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nrqs528</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cdc.dwd.de/EN/contact.xhtml</r3d:institutionContact>
+                                    <r3d:institutionContact>info@dwd.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access</r3d:policyName>
+                <r3d:policyURL>https://www.dwd.de/EN/climate_environment/cdc/cdc_node_en.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Gesetz über den Deutschen Wetterdienst</r3d:policyName>
+                <r3d:policyURL>https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Quality management</r3d:policyName>
+                <r3d:policyURL>https://www.dwd.de/EN/service/qm/qm_node.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dwd.de/EN/service/copyright/copyright_node.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendata.dwd.de/climate_environment/CDC/Terms_of_use.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://opendata.dwd.de/climate_environment/CDC/</r3d:api>
+                        <r3d:citationGuidelineURL>https://www.dwd.de/EN/service/copyright/copyright_node.html;jsessionid=D2C1D0FC9788410448E6EEF3651307A2.live21064</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Various web applications of the Deutscher Wetterdienst contain extensive information (metadata) about the climate data available and facilitate access to the data sets.
+WebWerdis(Web-based Weather Request and Distribution System) provides for substantial metadata and allows access to many of the freely available data without the necessity of registration. WebWerdis is aimed at users with some prior subject knowledge, in particular from research and educational institutions and public authorities. Proper registration with WebWerdis, however, allows full access to the wide variety of contents and manifold possibilities of use offered.
+Even more comprehensive metadata are contained in the Climate Catalogue of the DWD&#039;s Climate Data Center (CDC). This data catalogue is currently still being extended and will in the end contain nationally and internationally standardised metadata (ISO 19115 and ISO 19139) for all data available at the DWD. Direct access will be possible in many cases.
+The Global Data Set (GDS) comprises not only freely available data and products relating to current weather and weather forecasts but also free climate data. The data and products are usually presented in a form, which is used for their exchange within and among the national meteorological services. Access is possible via ftp (file transfer protocol). The use of GDS is free of charge, but requires cost-free registration.</r3d:remarks>
+        <r3d:entryDate>2014-02-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-08-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

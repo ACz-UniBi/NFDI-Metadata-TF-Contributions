@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010572</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Values Survey</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WVS</r3d:additionalName>
+                <r3d:repositoryURL>https://www.worldvaluessurvey.org/wvs.jsp</r3d:repositoryURL>
+                <r3d:description language="eng">The World Values Survey (WVS) is a worldwide network of social scientists studying changing values and their impact on social and political life. The WVS in collaboration with EVS (European Values Study) carried out representative national surveys in more than 100 countries containing almost 90 percent of the world&#039;s population. These surveys show pervasive changes in what people want out of life and what they believe. In order to monitor these changes, the EVS/WVS has executed six waves of surveys, from 1981 to 2013.</r3d:description>
+                    <r3d:repositoryContact>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=ContactUs&amp;CMSID=ContactUs</r3d:repositoryContact>
+                    <r3d:repositoryContact>jdiezmed@jdsurvey.net</r3d:repositoryContact>
+                    <r3d:repositoryContact>wvsa.secretariat@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=WhatWeDo&amp;CMSID=WhatWeDo</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>converging values</r3d:keyword>
+                    <r3d:keyword>culture</r3d:keyword>
+                    <r3d:keyword>democracy</r3d:keyword>
+                    <r3d:keyword>diversity</r3d:keyword>
+                    <r3d:keyword>empowerment</r3d:keyword>
+                    <r3d:keyword>gender</r3d:keyword>
+                    <r3d:keyword>globalization</r3d:keyword>
+                    <r3d:keyword>happiness</r3d:keyword>
+                    <r3d:keyword>interpersonal trust</r3d:keyword>
+                    <r3d:keyword>religion</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ASEP/JDS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">banco de datos ASEP/JDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.jdsurvey.net/jds/jdsurvey.jsp?Idioma=I</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>jdiezmed@jdsurvey.net</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Values Survey Association</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WVSA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=WVSA</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=ContactUs&amp;CMSID=ContactUs</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Values Survey Network</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.worldvaluessurvey.org/WVSParticipants.jsp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data &amp; Documentation</r3d:policyName>
+                <r3d:policyURL>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=DataDoc&amp;CMSID=DataDoc</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions of institutional membership</r3d:policyName>
+                <r3d:policyURL>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=instmemb&amp;CMSID=instmemb</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=intconduse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=DataDoc&amp;CMSID=DataDoc</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>World Values Survey is covered by Thomson Reuters Data Citation Index. The World Values Survey is funded through various scientific research foundations and other related organisations.</r3d:remarks>
+        <r3d:entryDate>2013-12-17</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

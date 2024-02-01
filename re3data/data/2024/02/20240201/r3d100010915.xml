@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010915</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">History Data Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">HDS</r3d:additionalName>
+                <r3d:repositoryURL>http://hds.essex.ac.uk/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; History Data Service ressources now available in https://www.data-archive.ac.uk/find, see re3data https://www.re3data.org/repository/r3d100010215&gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>help@ukdataservice.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://hds.essex.ac.uk/history/about/contact.asp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2017-09-04">over 650 separate studies</r3d:size>
+        <r3d:startDate>2008-04-01</r3d:startDate>
+        <r3d:endDate>2023</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>http://hds.essex.ac.uk/history/about/more.asp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>elections</r3d:keyword>
+                    <r3d:keyword>geographic information systems</r3d:keyword>
+                    <r3d:keyword>local history</r3d:keyword>
+                    <r3d:keyword>maps</r3d:keyword>
+                    <r3d:keyword>mortality</r3d:keyword>
+                    <r3d:keyword>nineteenth century</r3d:keyword>
+                    <r3d:keyword>ordinances, municipal</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                    <r3d:keyword>twentieth century</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Economic and Social Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.esrc.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.esrc.ac.uk/contact-us.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Joint Information Systems Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JISC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jisc.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.jisc.ac.uk/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Essex, UK Data Archive, UK Data Service</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://https//www.data-archive.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.data-archive.ac.uk/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright, disclaimer and privacy policy</r3d:policyName>
+                <r3d:policyURL>http://hds.essex.ac.uk/history/about/copyrightanddisclaimer.asp</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Restriction on the use of data</r3d:policyName>
+                <r3d:policyURL>http://hds.essex.ac.uk/history/about/faq.asp#restrictions</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions of access</r3d:policyName>
+                <r3d:policyURL>https://ukdataservice.ac.uk/get-data/how-to-access/conditions.aspx</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.nationalarchives.gov.uk/doc/open-government-licence/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://data-archive.ac.uk/media/381244/ukda137-enduserlicence.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                    <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Collections Development Policy</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ukdataservice.ac.uk/media/398725/cd227-collectionsdevelopmentpolicy.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ukdataservice.ac.uk/citethedata</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Description: The History Data Service data collection brings together over 650 separate studies transcribed, scanned or compiled from historical sources. The studies cover a wide range of historical topics, from the seventh century to the twentieth century. Although the primary focus of the collection is on the United Kingdom, it also includes a significant body of cross-national and international data collections. Examples of topics covered include: nineteenth and twentieth century statistics, manuscript census records, state finance data, demographic data, mortality data, community histories, electoral history and economic indicators.</r3d:remarks>
+        <r3d:entryDate>2014-08-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

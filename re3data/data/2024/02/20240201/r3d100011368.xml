@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011368</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Zentrum für Klinische Studien der Universität zu Köln</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CTCC</r3d:additionalName>
+                    <r3d:additionalName language="eng">Clinical Trials Center Cologne</r3d:additionalName>
+                    <r3d:additionalName language="deu">ZKS Köln</r3d:additionalName>
+                <r3d:repositoryURL>https://zks.uni-koeln.de/index.php?s=studien&amp;c=studien_klinische-studien</r3d:repositoryURL>
+                <r3d:description language="eng">The Centre for Clinical Trials Cologne (Köln ZKS) aims to support all processes of clinical trials and the quality of patient-oriented clinical research in an academic environment. It supports doctors of University Hospital of Cologne, other clinics, study groups and professional associations in the design and conduct of clinical trials. For the pharmaceutical industry and contract research organizations, the ZKS Köln is a clinic near partner for medical research projects.</r3d:description>
+                    <r3d:repositoryContact>assistenz@zks-koeln.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://zks.uni-koeln.de/english-clinical-trials-centre-cologne/profile</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>clinical trial</r3d:keyword>
+                    <r3d:keyword>dermatology</r3d:keyword>
+                    <r3d:keyword>drugs</r3d:keyword>
+                    <r3d:keyword>oncology</r3d:keyword>
+                    <r3d:keyword>patient study</r3d:keyword>
+                    <r3d:keyword>surgery</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Germany, Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/de/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">KKS Netzwerk</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Koordinierungszentren für Klinische Studien</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kks-netzwerk.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Köln, Medizinische Fakultät, Zentrum für Klinische Studien</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">ZKS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://zks.uni-koeln.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@zks-koeln.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Durchführung internationaler Studien</r3d:policyName>
+                <r3d:policyURL>https://medfak.uni-koeln.de/fakultaet/dienstleistungen-qualitaetssicherung/qualitaetssicherung-fuer-klinische-studien/durchfuehrung-internationaler-studien</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Good Clinical Practice - GCP</r3d:policyName>
+                <r3d:policyURL>https://www.ema.europa.eu/en/documents/scientific-guideline/ich-guideline-good-clinical-practice-e6r2-step-5_en.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>University of Cologne as Sponsor for Clinical Trials</r3d:policyName>
+                <r3d:policyURL>https://medfak.uni-koeln.de/en/faculty/core-facilities-kopie-2/quality-assurance-for-clinical-trials</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>World Medical Association Declaration of Helsinki - Ethical Principles for Medical Research Involving Human Subjects</r3d:policyName>
+                <r3d:policyURL>https://jamanetwork.com/journals/jama/fullarticle/1760318</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://zks.uni-koeln.de/ueber-uns/qualitaetsmanagement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>CTCC is obligated by the University of Cologne (UoC), by national law (i.e. AMG, MPG) and international regulatory bodies (i.e. ICH-GCP, DIN ISO 14155, DIN ISO 9001) to uphold quality standards. The quality management of the CTCC tends to ensure all quality relevant processes, arrangements and procedures. We are certified in accordance with DIN ISO 9001. This signet stresses our ambition to fulfill expectations of clients, partners, providers and staff in order of legal requirements and our own approach.</r3d:remarks>
+        <r3d:entryDate>2015-05-20</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

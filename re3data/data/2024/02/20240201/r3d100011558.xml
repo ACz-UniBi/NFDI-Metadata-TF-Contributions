@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011558</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Influenza Research Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IRD</r3d:additionalName>
+                <r3d:repositoryURL>https://www.fludb.org/brc/home.spg?decorator=influenza</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ws7cgw</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000172</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_04512</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006641</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-21222</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The mission of the Influenza Research Database (IRD) is to provide a resource for the influenza virus research community that will facilitate an understanding of the influenza virus and how it interacts with the host organism, leading to new treatments and preventive actions. This resource will contain avian and non-human mammalian influenza surveillance data, human clinical data associated with virus extracts, phenotypic characteristics of viruses isolated from extracts, and all genomic and proteomic data available in public repositories for influenza viruses.</r3d:description>
+                    <r3d:repositoryContact>https://www.fludb.org/brc/problemReport.spg?decorator=influenza</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20302 Evolution, Anthropology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.fludb.org/brc/staticContent.spg?decorator=influenza&amp;type=FluInfo&amp;subtype=Mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>allergy</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>phylogenetics</r3d:keyword>
+                    <r3d:keyword>protein structure</r3d:keyword>
+                    <r3d:keyword>proteomics</r3d:keyword>
+                    <r3d:keyword>systems biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bioinformatics Resource Centers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BRCs</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.niaid.nih.gov/research/bioinformatics-resource-centers</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>alison.yao@nih.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Allergy and Infectious Diseases</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIAID</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.niaid.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.niaid.nih.gov/global/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Northrop Grumman</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>http://www.northropgrumman.com/Pages/default.aspx</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.northropgrumman.com/ContactUs/Pages/default.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The J. Craig Venter Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.jcvi.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.jcvi.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Vecna Technologies, Inc.</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.vecna.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@vecna.com</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NIAID/Division of Microbiology and Infectious Diseases (DMID) Data Sharing and Release Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.fludb.org/brc/staticContent.spg?decorator=influenza&amp;type=FluInfo&amp;subtype=Cite</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Northrop Grumman is one of the Bioinformatics Resource Centers awarded by NIAID to provide data, tools and services which can be accessed through publicly available sites. 
+Terms &amp; Conditions: While this resource is freely available to researchers neither we as data providers nor our funding agencies are responsible for incorrect data or for incorrect interpretations of any results. Accuracy cannot be guaranteed for data that is predicted using computational tools and sequence similarity methods as they may not be experimentally validated. In some cases data can be incomplete as it may be part of an ongoing research project. To minimize errors, we strongly encourage users to contact the primary data provider(s) to ensure that any anomalies present in the primary data are adequately considered.</r3d:remarks>
+        <r3d:entryDate>2015-03-09</r3d:entryDate>
+        <r3d:lastUpdate>2020-04-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

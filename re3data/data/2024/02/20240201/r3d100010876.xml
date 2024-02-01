@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010876</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">U.S. Department of Labor, Bureau of Labor Statistics</r3d:repositoryName>
+                    <r3d:additionalName language="eng">United States Department of Labor, Bureau of Labor Statistics</r3d:additionalName>
+                <r3d:repositoryURL>https://www.bls.gov/data/</r3d:repositoryURL>
+                <r3d:description language="eng">The U.S. Bureau of Labor Statistics collects, analyzes, and publishes reliable information on many aspects of the United States economy and society. They measure employment, compensation, worker safety, productivity, and price movements. This information is used by jobseekers, workers, business leaders, and others to assist them in making sound decisions at work and at home. Statistical data covers a wide range of topics about the labor market, economy and society in the U.S.; subject areas include: Inflation &amp; Prices, Employment, Unemployment, Pay &amp; Benefits, Spending &amp; Time Use, Productivity, Workplace Injuries, International, and Regional Resources. Data is available in multiple formats including charts and tables as well as Bureau of Labor Statistics publications.</r3d:description>
+                    <r3d:repositoryContact>https://www.bls.gov/bls/contact.htm</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11202 Economic and Social Policy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11203 Public Finance</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11205 Statistics and Econometrics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.bls.gov/k12/faq.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>demographics</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>economics - statistics</r3d:keyword>
+                    <r3d:keyword>employment</r3d:keyword>
+                    <r3d:keyword>government publications</r3d:keyword>
+                    <r3d:keyword>inflation (finance)</r3d:keyword>
+                    <r3d:keyword>labor</r3d:keyword>
+                    <r3d:keyword>labor market</r3d:keyword>
+                    <r3d:keyword>social status</r3d:keyword>
+                    <r3d:keyword>unemployment</r3d:keyword>
+                    <r3d:keyword>work</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">United States Department of Labor, Bureau of Labor Statistics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BLS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bls.gov/home.htm</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03z2d7y96</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://data.bls.gov/forms/opb.htm?/bls/pss.htm</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Confidentiality of Data</r3d:policyName>
+                <r3d:policyURL>https://www.bls.gov/bls/confidentiality.htm</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>website policies</r3d:policyName>
+                <r3d:policyURL>https://www.bls.gov/bls/website-policies.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.bls.gov/bls/linksite.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.bls.gov/developers/api_signature.htm</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.bls.gov/oes/oes_ques.htm</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-07-29</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

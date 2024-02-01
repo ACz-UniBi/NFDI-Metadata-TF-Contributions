@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013233</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Pitt Quantum Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PQR</r3d:additionalName>
+                <r3d:repositoryURL>http://pqr.pitt.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">PQR is an online database of molecular properties predicted from quantum mechanics with integrated capabilities for molecular visualization and data sharing. ased on the number of molecules, PQR is currently the largest open database of molecular quantum calculations. PQR features interactive high-quality rendering of molecular structures and properties on computers, tablets, and cell phones and allows to efficiently share data via digital object identifiers (DOI) and scannable QR barcodes.</r3d:description>
+                    <r3d:repositoryContact>http://pqr.pitt.edu/contact/</r3d:repositoryContact>
+                    <r3d:repositoryContact>pqr@pitt.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-07-01">106.066 molecules</r3d:size>
+        <r3d:startDate>2015-06-23</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>http://pqr.pitt.edu/news/2015-06-23-announcement</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>MOPAC program package</r3d:keyword>
+                    <r3d:keyword>PM6 semiempirical quantum chemical model</r3d:keyword>
+                    <r3d:keyword>quantum mechanics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Camille and Henry Dreyfus Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.dreyfus.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019p8h045</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Pittsburgh, Department of Chemistry</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.chem.pitt.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Pittsburgh, Dietrich School of Arts &amp; Sciences</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.as.pitt.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>VIAF:5110147425861045040005</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opendatacommons.org/licenses/odbl/summary/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/odbl/summary/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="other">http://pqr.pitt.edu/api</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://pqr.pitt.edu/news/2015-07-01-open-data</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>PQR is covered by Clarivate Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2020-02-12</r3d:entryDate>
+        <r3d:lastUpdate>2020-08-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

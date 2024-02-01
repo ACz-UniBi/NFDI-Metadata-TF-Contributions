@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013668</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">bio.tools</r3d:repositoryName>
+                <r3d:repositoryURL>https://bio.tools</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001815</r3d:repositoryIdentifier>
+                <r3d:description language="eng">bio.tools is a software registry for bioinformatics and the life sciences.</r3d:description>
+                    <r3d:repositoryContact>registry-support@elixirmail.cbs.dtu.dk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-10-25">22.612 tools</r3d:size>
+        <r3d:startDate>2015</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://bio.tools/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                                    <r3d:institution>
+                <r3d:institutionName language="eng">ELIXIR Denmark</r3d:institutionName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://elixir-europe.org/about-us/who-we-are/nodes/denmark</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Ministry of Higher Education and Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="dan">Uddannelses- og Forskningsministeriet</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ufm.dk/en/the-ministry/organisation/the-ministry</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03ge1nb22</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>BSD</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://spdx.org/licenses/BSD-3-Clause</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://spdx.org/licenses/CC-BY-4.0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://biotools.readthedocs.io/en/latest/api_usage_guide.html</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://biotools.readthedocs.io/en/latest/publications.html#citation</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>GitHub: https://github.com/bio-tools/biotoolsRegistry</r3d:remarks>
+        <r3d:entryDate>2021-10-21</r3d:entryDate>
+        <r3d:lastUpdate>2021-10-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

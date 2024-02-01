@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010184</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GDP Drifter Data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Data from Global Drifter Program (GDP)</r3d:additionalName>
+                <r3d:repositoryURL>https://www.aoml.noaa.gov/phod/gdp/data.php</r3d:repositoryURL>
+                <r3d:description language="eng">Satellite-tracked drifting buoys (&quot;drifters&quot;) collect measurements of upper ocean currents and sea surface temperatures (SST) around the world as part of the Global Drifter Program.
+Drifter locations are estimated from 16-20 satellite fixes per day, per drifter. The Drifter Data Assembly Center (DAC) at NOAA&#039;s Atlantic Oceanographic and Meteorological Laboratory (AOML) assembles these raw data, applies quality control procedures, and interpolates them via kriging to regular six-hour intervals. The raw observations and processed data are archived at AOML and at the Marine Environmental Data Services (MEDS) in Canada.
+Two types of data are available: &quot;metadata&quot; contains deployment location and time, time of drogue (sea anchor) loss, date of final transmission, etc. for each drifter. &quot;Interpolated data&quot; contains the quality-controlled, interpolated drifter observations.</r3d:description>
+                    <r3d:repositoryContact>https://www.aoml.noaa.gov/phod/gdp/contacts.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>shaun.Dolk@noaa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-05-21">Data of 2.500 buoys; data and metadata from more than 30.000 drifters</r3d:size>
+        <r3d:startDate>1979</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.aoml.noaa.gov/phod/gdp/data.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>atmospheric pressure</r3d:keyword>
+                    <r3d:keyword>bouy</r3d:keyword>
+                    <r3d:keyword>climate prediction</r3d:keyword>
+                    <r3d:keyword>drifter</r3d:keyword>
+                    <r3d:keyword>measurement</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                    <r3d:keyword>satellite tracking</r3d:keyword>
+                    <r3d:keyword>sea level pressure</r3d:keyword>
+                    <r3d:keyword>sea surface temperature</r3d:keyword>
+                    <r3d:keyword>surface velocity data</r3d:keyword>
+                    <r3d:keyword>weather prediction</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Atlantic Oceanographic &amp; Meterological Laboratory, Physical Oceanography Division, Global Ocean Observations</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PhOD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aoml.noaa.gov/phod/goos.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Drifter Program</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aoml.noaa.gov/phod/gdp/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.aoml.noaa.gov/phod/gdp/contacts.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Oceanic and Atmospheric Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02z5nhe81</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011426</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>FAQ</r3d:policyName>
+                <r3d:policyURL>https://www.aoml.noaa.gov/phod/gdp/data_faq.php#wmo_location</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Public Domain</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.aoml.noaa.gov/phod/gdp/data_faq.php#wmo_location</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.aoml.noaa.gov/phod/gdp/data_faq.php#wmo_location</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.aoml.noaa.gov/pub/phod/buoydata</r3d:api>
+                    <r3d:api apiType="FTP">http://www.aoml.noaa.gov/envids/gld/FtpInterpolatedInstructions.php</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Data are available: http://www.aoml.noaa.gov/envids/</r3d:remarks>
+        <r3d:entryDate>2013-01-11</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

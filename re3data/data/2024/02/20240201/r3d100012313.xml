@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012313</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">mzCloud</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Advanced mass spectral database</r3d:additionalName>
+                <r3d:repositoryURL>https://www.mzcloud.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_14329</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_014669</r3d:repositoryIdentifier>
+                <r3d:description language="eng">mzCloud is an extensively curated database of high-resolution tandem mass spectra that are arranged into spectral trees. MS/MS and multi-stage MSn spectra were acquired at various collision energies, precursor m/z, and isolation widths using Collision-induced dissociation (CID) and Higher-energy collisional dissociation (HCD). Each raw mass spectrum was filtered and recalibrated giving rise to additional filtered and recalibrated spectral trees that are fully searchable. Besides the experimental and processed data, each database record contains the compound name with synonyms, the chemical structure, computationally and manually annotated fragments (peaks), identified adducts and multiply charged ions, molecular formulas, predicted precursor structures, detailed experimental information, peak accuracies, mass resolution, InChi, InChiKey, and other identifiers. mzCloud is a fully searchable library that allows spectra searches, tree searches, structure and substructure searches, monoisotopic mass searches, peak (m/z) searches, precursor searches, and name searches. mzCloud is free and available for public use online.</r3d:description>
+                    <r3d:repositoryContact>https://www.mzcloud.org/Contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>ms@highchem.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-12-01">26.417 compounds,; 39.480  trees;  8.787.041 spectra</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.mzcloud.org/About</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biochemistry</r3d:keyword>
+                    <r3d:keyword>chromatography</r3d:keyword>
+                    <r3d:keyword>forensic</r3d:keyword>
+                    <r3d:keyword>mass spectrometry</r3d:keyword>
+                    <r3d:keyword>metabolomics</r3d:keyword>
+                    <r3d:keyword>pharmaceutics</r3d:keyword>
+                    <r3d:keyword>small molecules</r3d:keyword>
+                    <r3d:keyword>spectral trees</r3d:keyword>
+                    <r3d:keyword>tandem mass spectra</r3d:keyword>
+                    <r3d:keyword>toxicology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Palacký University, University Hospital Olomouc , Institute of Molecular and Translational Medicine, Laboratory for inherited metabolic disorders</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ces">Univerzita Palackého v Olomouci, Fakultní Nemocnice Olomouc, Ústav molekulární a translační medicíny, Laboratoř dědičných metabolických poruch</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CZE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://ldmp.upol.cz/indexeng.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://ldmp.upol.cz/contact.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Slovak Academy of Sciences, Institute of Chemistry</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="slk">Chemický ústav SAV</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SVK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.chem.sk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.chem.sk/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swiss Federal Institute of Aquatic Science and Technology,  Department  Environmental Chemistry</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Eawag Département Chimie de l&#039;environnement</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Eawag Environmental Chemistry</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Eawag Uchem</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz, Umweltchemie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.eawag.ch/en/department/uchem/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.eawag.ch/en/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Thermo Fisher Scientific Inc.</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.thermofisher.com/de/de/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04428zn91</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008452</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.thermofisher.com/de/de/home/technical-resources/contact-us.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Athens, Department of Chemistry</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ell">Πανεπιστήμιο Αθηνών, Τμήμα Χημείας</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GRC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://en.chem.uoa.gr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://en.chem.uoa.gr/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Birmingham, School of Biosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">School of Biosciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.birmingham.ac.uk/schools/biosciences/index.aspx</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.birmingham.ac.uk/visit/index.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California -  Davis, Fiehn Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UC Fiehn Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://fiehnlab.ucdavis.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_008311</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of North Texas, College of Arts and Sciences, Department of Biological Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Department of Biological Sciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://biology.unt.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Vienna, Faculty for Life Sciences, Molecular Systems Biology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Molecular Systems Biology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://mosys.univie.ac.at/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.univie.ac.at/en/about-us/further-information/contact-services-a-z/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.mzcloud.org/Terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.mzcloud.org/Terms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Thermo Fisher Scientific has completed the acquisition of HighChem, Ltd., a developer of mass spectrometry software based in Bratislava, Slovakia.</r3d:remarks>
+        <r3d:entryDate>2017-02-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

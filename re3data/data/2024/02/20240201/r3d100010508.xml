@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010508</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Laser Ranging Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ILRS</r3d:additionalName>
+                <r3d:repositoryURL>https://ilrs.cddis.eosdis.nasa.gov/</r3d:repositoryURL>
+                <r3d:description language="eng">The International Laser Ranging Service (ILRS) provides global satellite and lunar laser ranging data and their related products to support geodetic and geophysical research activities as well as IERS products important to the maintenance of an accurate International Terrestrial Reference Frame (ITRF). The service develops the necessary global standards/specifications and encourages international adherence to its conventions. The ILRS is one of the space geodetic services of the International Association of Geodesy (IAG).
+
+The ILRS collects, merges, archives and distributes Satellite Laser Ranging (SLR) and Lunar Laser Ranging (LLR) observation data sets of sufficient accuracy to satisfy the objectives of a wide range of scientific, engineering, and operational applications and experimentation.</r3d:description>
+                    <r3d:repositoryContact>https://ilrs.gsfc.nasa.gov/about/contact_ilrs/index.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>ilrs-cb@lists.nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://ilrs.gsfc.nasa.gov/missions/mission_support/index.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>earth&#039;s gravity field</r3d:keyword>
+                    <r3d:keyword>geodesy</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>gravitation</r3d:keyword>
+                    <r3d:keyword>lunar laser ranging</r3d:keyword>
+                    <r3d:keyword>navigation</r3d:keyword>
+                    <r3d:keyword>polar motion</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>satellite</r3d:keyword>
+                    <r3d:keyword>space</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Goddard Space Flight Center</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/goddard</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0171mag52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/content/contact-goddard</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">ICSU World Data System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://icsu-wds.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Geodesy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IAG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iag-aig.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Geodesy, Global Geodetic Observing System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GGOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ggos.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ggos.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>ILS Terms of Reference</r3d:policyName>
+                <r3d:policyURL>https://ilrs.gsfc.nasa.gov/about/termsofref.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nasa.gov/multimedia/guidelines/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://edc.dgfi.tum.de/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ilrs.gsfc.nasa.gov/about/cite.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>ILRS is a network member of ICSU World Data System. ILRS includes 2 global data centers: CDDIS and EDC</r3d:remarks>
+        <r3d:entryDate>2013-10-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

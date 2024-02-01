@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011392</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">INDEPTH Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">International Network for the Demographic Evaluation of Populations and Their Health Data Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">iSHARE Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://www.indepth-ishare.org/index.php/home</r3d:repositoryURL>
+                <r3d:description language="eng">INDEPTH is a global network of research centres that conduct longitudinal health and demographic evaluation of populations in low- and middle-income countries (LMICs). INDEPTH aims to strengthen global capacity for Health and Demographic Surveillance Systems (HDSSs), and to mount multi-site research to guide health priorities and policies in LMICs, based on up-to-date scientific evidence. The data collected by the INDEPTH Network members constitute a valuable resource of population and health data for LMIC countries. This repository aims to make well documented anonymised longitudinal microdata from these Centres available to data users.</r3d:description>
+                    <r3d:repositoryContact>data-admin@indepth-ishare.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.indepth-ishare.org/index.php/feedback</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2019-12-11">132 surveys; 3.191 citations; 4.499 variables</r3d:size>
+        <r3d:startDate>2013-07-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11202 Economic and Social Policy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.indepth-ishare.org/index.php/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Africa</r3d:keyword>
+                    <r3d:keyword>Asia</r3d:keyword>
+                    <r3d:keyword>Oceania</r3d:keyword>
+                    <r3d:keyword>cause of death</r3d:keyword>
+                    <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>fertility</r3d:keyword>
+                    <r3d:keyword>health and demographic surveillance system (HDSS)</r3d:keyword>
+                    <r3d:keyword>health research</r3d:keyword>
+                    <r3d:keyword>migration</r3d:keyword>
+                    <r3d:keyword>mortality</r3d:keyword>
+                    <r3d:keyword>population</r3d:keyword>
+                    <r3d:keyword>population research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bill and Melinda Gates Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Gates Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gatesfoundation.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0456r8d26</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gatesfoundation.org/Who-We-Are/General-Information/Contact-Us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Hewlett Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://hewlett.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04hd1y677</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://hewlett.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">IDRC/CRDI</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Centre de Recherches pour le Développement International</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">International Development Research Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.idrc.ca/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029agyb27</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.idrc.ca/en/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">INDEPTH Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">International Network for the Demographic Evaluation of Populations and Their Health Network</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GHA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.indepth-network.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0326f0a78</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sida</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Swedisch International Development Cooperation Agency</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sida.se/English/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01fn7me06</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wellcome.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029chgv08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wellcome.ac.uk/about-us/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>INDEPTH Data Access and Sharing Policy</r3d:policyName>
+                <r3d:policyURL>http://www.indepth-network.org/images/idasp.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.indepth-network.org/images/annex%203.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.indepth-network.org/images/the%20policy.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.indepth-ishare.org/index.php/howtouse</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>INDEPTH Data Repository is covered by Thomson Reuters Data Citation Index. Associated with the repository is INDEPTHStats, a freely accessible website to visualise key demographic indicators.</r3d:remarks>
+        <r3d:entryDate>2014-12-12</r3d:entryDate>
+        <r3d:lastUpdate>2021-10-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

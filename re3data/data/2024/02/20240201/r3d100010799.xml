@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010799</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Classification of Diseases</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ICD</r3d:additionalName>
+                <r3d:repositoryURL>http://www.who.int/classifications/icd/en/</r3d:repositoryURL>
+                <r3d:description language="eng">ICD serves as the international standard for diagnostic classification for all general epidemiological, many health management purposes and clinical use. The ICD&#039;s resources include the analysis of different population groups&#039; general health situations, monitoring of the incidence and prevalence of diseases in relation to the characteristics of the individuals affected, reimbursement, resource allocation, quality, and guidelines. The records provide the basis for the compilation of national mortality and morbidity statistics, and enable the storage and retrieval of diagnostic information for clinical epidemiological and quality purposes.</r3d:description>
+                    <r3d:repositoryContact>http://www.who.int/about/contacthq/en/</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www.who.int/classifications/icd/ICD-10%20languages.pdf?ua=1</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-07-23">11th revision</r3d:size>
+        <r3d:startDate>1992</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>ara</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>classification system</r3d:keyword>
+                    <r3d:keyword>clinical purposes</r3d:keyword>
+                    <r3d:keyword>diagnostics</r3d:keyword>
+                    <r3d:keyword>epidemiology</r3d:keyword>
+                    <r3d:keyword>health management</r3d:keyword>
+                    <r3d:keyword>health standards</r3d:keyword>
+                    <r3d:keyword>medicine</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">World Health Organization</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WHO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.who.int/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.who.int/about/contacthq/en/</r3d:institutionContact>
+                                    <r3d:institutionContact>whofic@who.int</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://www.who.int/about/copyright/en/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.who.int/about/copyright/en/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://apps.who.int/classifications/apps/icd/ClassificationDownloadNR/license.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://www.who.int/about/licensing/rss/en/</r3d:syndication>
+                <r3d:remarks>#isDatabib; Ich würde den Service ICD nicht als FDR aufnehmen, da es sich um einen Standard handelt und Klassifikationen keine FD darstellen. Das Datenrepositorium kann stattdessen aufgenommen werden, das Global Health Observatory, hier zu finden: http://apps.who.int/gho/data/?theme=main</r3d:remarks>
+        <r3d:entryDate>2014-06-16</r3d:entryDate>
+        <r3d:lastUpdate>2019-07-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014306</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Covid-19 Immunity Task Force Databank</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Banque de Données du GTIC</r3d:additionalName>
+                    <r3d:additionalName language="eng">CITF</r3d:additionalName>
+                    <r3d:additionalName language="eng">CITF Data Portal</r3d:additionalName>
+                    <r3d:additionalName language="fra">GTIC</r3d:additionalName>
+                    <r3d:additionalName language="fra">Groupe de Travail sur l&#039;Immunité face à la COVID-19</r3d:additionalName>
+                <r3d:repositoryURL>https://portal.citf.mcgill.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">From April 2020 to March 2023, the Covid-19 Immunity Task Force (CITF) supported 120 studies to generate knowledge about immunity to SARS-CoV-2. The subjects addressed by these studies include the extent of SARS-CoV-2 infection in Canada, the nature of immunity, vaccine effectiveness and safety, and the need for booster shots among different communities and priority populations in Canada. The CITF Databank was developed to further enhance the impact of CITF funded studies by allowing additional research using the data collected from CITF-supported studies. The CITF Databank centralizes and harmonizes individual-level data from CITF-funded studies that have met all ethical requirements to deposit data in the CITF Databank and have completed a data sharing agreement. The CITF Databank is an internationally unique resource for sharing epidemiological and laboratory data from studies about SARS-CoV-2 immunity in different populations. The types of research that are possible with data from the CITF Databank include observational epidemiological studies, mathematical modelling research, and comparative evaluation of surveillance and laboratory methods.</r3d:description>
+                    <r3d:repositoryContact>data@covid19immunitytaskforce.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2020-04-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20404 Virology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20405 Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.covid19immunitytaskforce.ca/citf-databank/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19 Serological Testing</r3d:keyword>
+                    <r3d:keyword>Disease Transmission, Infectious</r3d:keyword>
+                    <r3d:keyword>Pandemics</r3d:keyword>
+                    <r3d:keyword>Public Health</r3d:keyword>
+                    <r3d:keyword>SARS-CoV-2</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">McGill University</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mcgill.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01pxwe438</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011388</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mcgill.ca/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CITF Data Access Agreement</r3d:policyName>
+                <r3d:policyURL>https://portal.citf.mcgill.ca/assets/files/data-access-agreenent-en.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CITF Data Access Policy</r3d:policyName>
+                <r3d:policyURL>https://www.covid19immunitytaskforce.ca/wp-content/uploads/2022/11/data-access-policy-en.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CITF Data Security Policy</r3d:policyName>
+                <r3d:policyURL>https://www.covid19immunitytaskforce.ca/wp-content/uploads/2022/11/data-security-policy-en.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.covid19immunitytaskforce.ca/wp-content/uploads/2022/11/data-access-agreenent-en.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Tools and Information for Researchers: https://www.covid19immunitytaskforce.ca/task-force-research-2/ 
+further open datasets: https://borealisdata.ca/dataverse/CITF</r3d:remarks>
+        <r3d:entryDate>2024-01-30</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

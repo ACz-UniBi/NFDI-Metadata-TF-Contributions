@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012899</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MODES</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Modal view of atmospheric circulation</r3d:additionalName>
+                <r3d:repositoryURL>http://modes.fmf.uni-lj.si</r3d:repositoryURL>
+                <r3d:description language="eng">MODES focuses on the representation of the inertio-gravity circulation in numerical weather prediction models, reanalyses, ensemble prediction systems and climate simulations. The project methodology relies on the decomposition of global circulation in terms of 3D orthogonal normal-mode functions. It allows quantification of the role of inertio-gravity waves in atmospheric varibility across the whole spectrum of resolved spatial and temporal scales.
+
+MODES is compiled by using gfortran although other options have been succesfully tested. The application requires the use of the netcdf and (optionally) grib-api libraries.</r3d:description>
+                    <r3d:repositoryContact>fizika@fmf.uni-lj.si</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.uni-lj.si/research_and_development/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Kelvin wave energetics</r3d:keyword>
+                    <r3d:keyword>circulation maps</r3d:keyword>
+                    <r3d:keyword>hovmöller diagrams</r3d:keyword>
+                    <r3d:keyword>polar maps</r3d:keyword>
+                    <r3d:keyword>tropical zonal winds</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/project/id/280153</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2016</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Ljubljana, Faculty of Mathematics and Physics</r3d:institutionName>
+                                <r3d:institutionCountry>SVN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-lj.si/study/bachelor/fmf/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>fizika@fmf.uni-lj.si</r3d:institutionContact>
+                                    <r3d:institutionContact>matematika@fmf.uni-lj.si</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://modes.fmf.uni-lj.si</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.geosci-model-dev.net/8/1169/2015/gmd-8-1169-2015.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-11-15</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

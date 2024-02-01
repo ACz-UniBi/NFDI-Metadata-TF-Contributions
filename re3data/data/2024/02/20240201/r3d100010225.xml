@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010225</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HYDAT</r3d:repositoryName>
+                    <r3d:additionalName language="eng">HYDEX</r3d:additionalName>
+                    <r3d:additionalName language="eng">National Water Data Archive</r3d:additionalName>
+                <r3d:repositoryURL>https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey/data-products-services/national-archive-hydat.html</r3d:repositoryURL>
+                <r3d:description language="eng">HYDAT is the archival database that contains all water information collected through the National Hydrometric Program. These data include: daily and monthly mean flow, water level and sediment concentration for over 2500 active and 5500 discontinued hydrometric monitoring station across Canada. HYDEX is a relational database that contains inventory information on the various streamflow, water level, and sediment stations (both active and discontinued) in Canada. This database contains information about the stations themselves, such as location, equipment, and type(s) of data collected.</r3d:description>
+                    <r3d:repositoryContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Canada</r3d:keyword>
+                    <r3d:keyword>hydroclimatology</r3d:keyword>
+                    <r3d:keyword>hydrometric survey</r3d:keyword>
+                    <r3d:keyword>sediment concentration</r3d:keyword>
+                    <r3d:keyword>sediment load</r3d:keyword>
+                    <r3d:keyword>sediment particle size</r3d:keyword>
+                    <r3d:keyword>sediment station</r3d:keyword>
+                    <r3d:keyword>stage height</r3d:keyword>
+                    <r3d:keyword>stream flow</r3d:keyword>
+                    <r3d:keyword>stream gauge</r3d:keyword>
+                    <r3d:keyword>water level</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Environment and Climate Change Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ECCC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/en/environment-climate-change.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026ny0e17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>ec.enviroinfo.ec@canada.ca</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Water Survey of Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Relevés hydrologiques du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Relevés hydrologiques du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">WSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://www.canada.ca/en/transparency/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Hydrometric data are collected and compiled by Water Survey of Canada’s eight regional offices. The information is housed in two centrally-managed databases: HYDEX and HYDAT.</r3d:remarks>
+        <r3d:entryDate>2013-03-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011723</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Environmental Dataset Gateway</r3d:repositoryName>
+                    <r3d:additionalName language="eng">EDG</r3d:additionalName>
+                    <r3d:additionalName language="eng">EPA&#039;s official open data catalog</r3d:additionalName>
+                <r3d:repositoryURL>https://edg.epa.gov/metadata/catalog/main/home.page</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001615</r3d:repositoryIdentifier>
+                <r3d:description language="eng">EPA was established on December 2, 1970 to consolidate in one agency a variety of federal research, monitoring, standard-setting and enforcement activities to ensure environmental protection. Since its inception, EPA has been working for a cleaner, healthier environment for the American people</r3d:description>
+                    <r3d:repositoryContact>edg@epa.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://edg.epa.gov/metadata/catalog/identity/feedback.page</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-02-18">5214 records</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>environmental justice</r3d:keyword>
+                    <r3d:keyword>environmental sciences</r3d:keyword>
+                    <r3d:keyword>facility</r3d:keyword>
+                    <r3d:keyword>waste</r3d:keyword>
+                    <r3d:keyword>water</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">U. S. Environmental Protection Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EPA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.epa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03tns0030</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Regulatory Information</r3d:policyName>
+                <r3d:policyURL>https://www.epa.gov/laws-regulations</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.usa.gov/publicdomain/label/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://edg.epa.gov/EPA_Data_License.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://edg.epa.gov/metadata/webhelp/en/gptlv10/index.html#/REST_API_Syntax/00t000000029000000/1</r3d:api>
+                    <r3d:api apiType="REST">https://edg.epa.gov/metadata/catalog/components/components.page</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>EDG is covered by Clarivate Data Citation Index</r3d:remarks>
+        <r3d:entryDate>2016-03-03</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

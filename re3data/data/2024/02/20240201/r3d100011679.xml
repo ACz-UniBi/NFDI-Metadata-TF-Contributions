@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011679</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Northern California Earthquake Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NCEDC</r3d:additionalName>
+                <r3d:repositoryURL>https://ncedc.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.248eda</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>doi:10.7932/NCEDC</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Northern California Earthquake Data Center (NCEDC) is a permanent archive and distribution center primarily for multiple types of digital data relating to earthquakes in central and northern California. The NCEDC is located at the Berkeley Seismological Laboratory, and has been accessible to users via the Internet since mid-1992. The NCEDC was formed as a joint project of the Berkeley Seismological Laboratory (BSL) and the U.S. Geological Survey (USGS) at Menlo Park in 1991, and current USGS funding is provided under a cooperative agreement for seismic network operations.</r3d:description>
+                    <r3d:repositoryContact>https://ncedc.org/comments.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>ncedcinfo@ncedc.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1992</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://ncedc.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>BARD</r3d:keyword>
+                    <r3d:keyword>BDSN</r3d:keyword>
+                    <r3d:keyword>HRSN</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Berkeley Seismological Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BSL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Berkeley Seismological Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://seismo.berkeley.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@seismo.berkeley.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">California Integrated Seismic Network,  Advanced National Seismic SystemNetwork</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ANSS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">CISN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://earthquake.usgs.gov/monitoring/anss/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://earthquake.usgs.gov/monitoring/anss/contacts.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">California Integrated Seismic Network, Northern California Earthquake Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCEDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ncedc.org/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ncedc.org/comments.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Geological Survey</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usgs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:035a68863</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California, Lawrence Berkeley National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Berkeley Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lbl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jbv0t02</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies and Notices</r3d:policyName>
+                <r3d:policyURL>https://www.usgs.gov/legal</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.usgs.gov/legal</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://service.ncedc.org/DART/</r3d:api>
+                    <r3d:api apiType="FTP">ftp://www.ncedc.org/pub/gps/highrate/raw</r3d:api>
+                    <r3d:api apiType="FTP">ftp://www.ncedc.org/pub/gps/highrate/rinex</r3d:api>
+                    <r3d:api apiType="REST">https://service.ncedc.org/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ncedc.org/acknowledge.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-12-09</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

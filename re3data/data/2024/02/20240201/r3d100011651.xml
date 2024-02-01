@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011651</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Freshwater Biodiversity Data Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BIOFRESH</r3d:additionalName>
+                <r3d:repositoryURL>http://data.freshwaterbiodiversity.eu/</r3d:repositoryURL>
+                <r3d:description language="eng">The aim of the Freshwater Biodiversity Data Portal is to integrate and provide open and free access to freshwater biodiversity data from all possible sources. To this end, we offer tools and support for scientists interested in documenting/advertising their dataset in the metadatabase, in submitting or publishing their primary biodiversity data (i.e. species occurrence records) or having their dataset linked to the Freshwater Biodiversity Data Portal. This information portal serves as a data discovery tool, and allows scientists and managers to complement, integrate, and analyse distribution data to elucidate patterns in freshwater biodiversity. The Freshwater Biodiversity Data Portal was initiated under the EU FP7 BioFresh project and continued through the Freshwater Information Platform (http://www.freshwaterplatform.eu). To ensure the broad availability of biodiversity data and integration in the global GBIF index, we strongly encourages scientists to submit any primary biodiversity data published in a scientific paper to national nodes of GBIF or to thematic initiatives such as the Freshwater Biodiversity Data Portal.</r3d:description>
+                    <r3d:repositoryContact>aline.vanderwerf@belspo.be</r3d:repositoryContact>
+                    <r3d:repositoryContact>data@freshwaterplatform.eu</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@freshwaterplatform.eu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.freshwaterplatform.eu/index.php/fip-principles.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Bolivian fish</r3d:keyword>
+                    <r3d:keyword>Fish-SPRICH</r3d:keyword>
+                    <r3d:keyword>Stygofauna Mundi</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>ecosystems</r3d:keyword>
+                    <r3d:keyword>fisheries</r3d:keyword>
+                    <r3d:keyword>freshwater ecology</r3d:keyword>
+                    <r3d:keyword>freshwater management</r3d:keyword>
+                    <r3d:keyword>species observations</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Belgian Biodiversity Platform</r3d:institutionName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.biodiversity.be/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>aline.vanderwerf@belspo.be</r3d:institutionContact>
+                                    <r3d:institutionContact>contact@biodiversity.be</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Biofresh Project</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://project.freshwaterbiodiversity.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2014</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://project.freshwaterbiodiversity.eu/index.php/project/our-team</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www2.freshwaterbiodiversity.eu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://ec.europa.eu/research/fp7/index_en.cfm</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2014</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Freshwater Information Platform</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FIP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.freshwaterplatform.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.freshwaterplatform.eu/index.php/contact.html</r3d:institutionContact>
+                                    <r3d:institutionContact>info@freshwaterplatform.eu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Biodiversity Information Facility</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GBIF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gbif.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gbif.org/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute of Freshwater Ecology and Inland Fisheries</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IGB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut für Gewässerökologie und Binnenfischerei</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.igb-berlin.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>tockner@igb-berlin.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Royal Belgian Institute of Natural Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Institut royal des Sciences naturelles de Belgique</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Koninklijk Belgisch Instituut voor Natuurwetenschappen</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Königliches Belgisches Institut für Naturwissenschaften</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">RBINS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.naturalsciences.be/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>aaike.dewever@naturalsciences.be</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Duisburg-Essen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Universität Duisburg-Essen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-due.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04mz5ra38</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Duisburg-Essen, Aquatic Ecology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UDE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Duisburg-Essen, Aquatische Ökologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-due.de/aquatische_oekologie/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>joerg.strackbein@uni-due.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Natural Resources and Life Sciences, Institute of Hydrobiology and Aquatic Ecosystem Management</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BOKU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">IHG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität für Bodenkultur Wien, Institut für Hydrobiologie, Gewässermanagement</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.wau.boku.ac.at/ihg/?&amp;L=1</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>astrid.schmidt-kloiber@boku.ac.at</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Draft Data Policy</r3d:policyName>
+                <r3d:policyURL>http://data.freshwaterbiodiversity.eu/datapolicy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Manual for contributing to the BioFresh metadatabase</r3d:policyName>
+                <r3d:policyURL>http://data.freshwaterbiodiversity.eu/data/manuals/BioFresh_Metadata_Manual_v1.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>http://data.freshwaterbiodiversity.eu/datarepository</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/by/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://data.freshwaterbiodiversity.eu/datapolicy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://data.freshwaterbiodiversity.eu/datapolicy</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">http://data.freshwaterbiodiversity.eu/ipt/rss.do</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">http://project.freshwaterbiodiversity.eu/index.php?format=feed&amp;type=rss</r3d:syndication>
+                <r3d:remarks>Numerous EU funded projects addressing freshwater ecology and water management have generated websites, tools, databases and other products, which are intended for long-term use. However, many of them are not maintained after the project has ended and, moreover, they are dispersed across several project websites. For freshwater researchers and other users, it is challenging to gain an overview of projects and their products. The EU funded project BioFresh was the first to establish a platform — the Global Freshwater Biodiversity Information Platform — bringing together information and data on freshwater biodiversity in a clearly arranged and easily explorable way. We now continue these efforts and extend the platform, widening its scope from biodiversity issues to all kinds of freshwater ecology, management and research topics. Our mission is to bring together the results of many projects dealing with freshwater ecosystems in one a single platform.</r3d:remarks>
+        <r3d:entryDate>2015-08-25</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

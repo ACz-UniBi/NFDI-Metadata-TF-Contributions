@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011330</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ModelDB</r3d:repositoryName>
+                <r3d:repositoryURL>https://senselab.med.yale.edu/ModelDB/default.cshtml</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.5rb3fk</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000131</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007271</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00004</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ModelDB is a curated database of published models in the broad domain of computational neuroscience. It addresses the need for access to such models in order to evaluate their validity and extend their use. It can handle computational models expressed in any textual form, including procedural or declarative languages (e.g. C++, XML dialects) and source code written for any simulation environment. The model source code doesn&#039;t even have to reside inside ModelDB; it just has to be available from some publicly accessible online repository or WWW site.</r3d:description>
+                    <r3d:repositoryContact>curator@modeldb.science</r3d:repositoryContact>
+                    <r3d:repositoryContact>tom.morse@yale.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-04-01">1.734 models</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20603 Developmental Neurobiology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://senselab.med.yale.edu/ModelDB/mdb_model_sharing.cshtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CNS models</r3d:keyword>
+                    <r3d:keyword>brain</r3d:keyword>
+                    <r3d:keyword>epilepsy</r3d:keyword>
+                    <r3d:keyword>neurobiology</r3d:keyword>
+                    <r3d:keyword>neuroinformatics</r3d:keyword>
+                    <r3d:keyword>synapses</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of Mental Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NIMH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nimh.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ISNI:0000 0004 0464 0574</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>ROR:04xeg9z08</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011431</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005109</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Neuroscience Information Framework</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://neuinfo.org//</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_002894</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-25673</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@neuinfo.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">SenseLab Project</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://senselab.med.yale.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_007276</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-00017</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>senselab_admin@mailman.yale.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Yale University, Yale School of Medicine, Shepherd Lab</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://medicine.yale.edu/lab/shepherd/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://medicine.yale.edu/lab/shepherd/people/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Model sharing in computational neuroscience</r3d:policyName>
+                <r3d:policyURL>http://www.scholarpedia.org/article/Model_sharing_in_computational_neuroscience</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Yale University Copyright Policy</r3d:policyName>
+                <r3d:policyURL>https://research.yale.edu/copyright-policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://research.yale.edu/copyright-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://senselab.med.yale.edu/ModelDB/HowToCite.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://senselab.med.yale.edu/_site/api/rss2-0.cshtml?db=2&amp;daysback=14</r3d:syndication>
+                <r3d:remarks>Model DB is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. ModelDB uses a great number of resources that you find here https://senselab.med.yale.edu/ModelDB/mdbresources.cshtml</r3d:remarks>
+        <r3d:entryDate>2014-12-16</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

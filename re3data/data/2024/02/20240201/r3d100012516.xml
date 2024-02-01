@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012516</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PlasmID</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Plasmid Information Database</r3d:additionalName>
+                <r3d:repositoryURL>https://plasmid.med.harvard.edu/PLASMID/Home.xhtml</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.k9ptv7</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_08730</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  As of Aug. 15, 2019, we are suspending plasmid distribution from the collection. If you would like to request BioPlex ORF clones (Harper lab) or if you identify other clones in our collection for which you cannot find an alternative, please email us at plasmidhelp@hms.harvard.edu.  &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>https://plasmid.med.harvard.edu/PLASMID/Contactus.jsp</r3d:repositoryContact>
+                    <r3d:repositoryContact>plasmidhelp@hms.harvard.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-02-01">about 350.000 plasmids</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate>2019-08-15</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://plasmid.med.harvard.edu/PLASMID/AboutUs.jsp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA sequencing</r3d:keyword>
+                    <r3d:keyword>cDNA</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>molecule</r3d:keyword>
+                    <r3d:keyword>mouse</r3d:keyword>
+                    <r3d:keyword>plasmid clones</r3d:keyword>
+                    <r3d:keyword>shRNA</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Harvard Medical School</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://hms.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard Medical School, Dana-Faber/Harvard Cancer Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DF/HCC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">High-Throughput DNA Sequencing Core (Formerly)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dnaseq.med.harvard.edu/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://dnaseq.med.harvard.edu/contactus.html</r3d:institutionContact>
+                                    <r3d:institutionContact>stephanie_mohr@hms.harvard.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nih.gov/about-nih/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditons</r3d:policyName>
+                <r3d:policyURL>https://plasmid.med.harvard.edu/PLASMID/TermAndCondition.jsp</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://plasmid.med.harvard.edu/PLASMID/TermAndCondition.jsp</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Depositor Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://plasmid.med.harvard.edu/PLASMID/PSI_Depositor_Agreement_OCT2007_final_generic.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Description:
+The Plasmid Information Database (PlasmID) was established in 2004 to curate, maintain, and distribute cDNA and ORF constructs for use in basic molecular biological research. The materials deposited at our facility represent the culmination of several international collaborative efforts from 2004 to present:  Beth Israel Deaconess Medical Center, Boston Children&#039;s Hospital, Brigham and Women&#039;s Hospital, Dana-Farber Cancer Institute, Harvard Medical School, Harvard School of Public Health, and Massachusetts General Hospital.</r3d:remarks>
+        <r3d:entryDate>2017-10-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

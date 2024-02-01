@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012542</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Research Catalogue -  Society for Artistic Research</r3d:repositoryName>
+                    <r3d:additionalName language="eng">RC - an International Database for Artistic Research</r3d:additionalName>
+                <r3d:repositoryURL>https://www.researchcatalogue.net</r3d:repositoryURL>
+                <r3d:description language="eng">RC content presented through one of our portals is peer reviewed, while the remaining expositions and other information are quality controlled by the individual author(s) themselves. As a result, the RC is highly inclusive.
+The open source status of the RC is essential to its nature and serves its function as a connective and transitional layer between academic discourse and artistic practice, thereby constituting a discursive field for artistic research.</r3d:description>
+                    <r3d:repositoryContact>support@researchcatalogue.net</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.researchcatalogue.net/portal/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>JAR</r3d:keyword>
+                    <r3d:keyword>Journal for Artistic Research</r3d:keyword>
+                    <r3d:keyword>art</r3d:keyword>
+                    <r3d:keyword>artistic research</r3d:keyword>
+                    <r3d:keyword>research exposition</r3d:keyword>
+                    <r3d:keyword>videowork</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">KTH Royal Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="swe">Kungliga Tekniska högskolan</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kth.se/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026vcq606</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Society for Artistic Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SAR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.societyforartisticresearch.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@societyforartisticresearch.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.researchcatalogue.net/portal/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.researchcatalogue.net/portal/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Institutional members: https://www.researchcatalogue.net/portal/members
+ The RC is the backbone of JAR: potential JAR expositions emerge from the range of the artistic research activities taking place in it for peer-review and development within the RC space itself. Authors may nominate or JAR editors may select expositions for development as JAR contributions.
+The RC has been developed as part of the Artistic Research Catalogue (ARC) project.</r3d:remarks>
+        <r3d:entryDate>2017-11-15</r3d:entryDate>
+        <r3d:lastUpdate>2021-02-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

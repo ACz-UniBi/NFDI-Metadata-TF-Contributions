@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011775</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">RESA</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Rapid eye science archive</r3d:additionalName>
+                <r3d:repositoryURL>https://www.planet.com/resa/</r3d:repositoryURL>
+                <r3d:description language="eng">The company RapidEye AG of Brandenburg brought on 29 August 2008 five satellites into orbit that can be aligned within a day to any point on Earth. The data are interesting for a number of large and small companies for applications from harvest planning to assessment of insurance claims case of natural disasters.
+Via the Rapid Eye Science Archive (RESA) science users can receive, free of charge, optical image data of the RapidEye satellite fleet. Imagery is allocated based on a proposal to be submitted via the RESA Portal which will be evaluated by independent experts.</r3d:description>
+                    <r3d:repositoryContact>resa@planet.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009-03-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.planet.com/products/satellite-imagery/files/160625-RapidEye%20Image-Product-Specifications.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agriculture, soils</r3d:keyword>
+                    <r3d:keyword>earth observation</r3d:keyword>
+                    <r3d:keyword>ecosystems</r3d:keyword>
+                    <r3d:keyword>forestry</r3d:keyword>
+                    <r3d:keyword>land cover</r3d:keyword>
+                    <r3d:keyword>land use management</r3d:keyword>
+                    <r3d:keyword>observation</r3d:keyword>
+                    <r3d:keyword>satellites</r3d:keyword>
+                    <r3d:keyword>vegetation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium  für Wirtschaft und Energie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMWi</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmwi.de/Navigation/DE/Home/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02vgg2808</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2007-07-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2012-07-31</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bmwi.de/Redaktion/DE/Artikel/Service/impressum.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Fernerkundungsdatenzentrum</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFD</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Remote Sensing Data Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/eoc/desktopdefault.aspx/tabid-5278/8856_read-15911/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2012-08-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013-12-31</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dlr.de/eoc/desktopdefault.aspx/tabid-5245/mailcontact-1169/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Zentrum für Luft- und Raumfahrt e.V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Aerospace Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/DE/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2012-08-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013-12-31</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dlr.de/rd/de/desktopdefault.aspx/tabid-2096/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Earth Observation Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EOC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/eoc/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dlr.de/eoc/desktopdefault.aspx/tabid-5232/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Planet Labs Gemany GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Planet</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.planet.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2014-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.planet.com/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Lizenzvereinbarung zur Nutzung von RapidEye Daten undProdukten</r3d:policyName>
+                <r3d:policyURL>https://geoservice.dlr.de/egp/resources/files/RESA_user-license-de_v4.0.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.planet.com/resa/terms/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://geoservice.dlr.de/egp/resources/files/RESA_user-license-de_v4.0.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://geoservice.dlr.de/egp/resources/files/RESA_user-license-en_v4.0.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.planet.com/resa/projektantrag-und-verfahren/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-02-29</r3d:entryDate>
+        <r3d:lastUpdate>2021-10-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

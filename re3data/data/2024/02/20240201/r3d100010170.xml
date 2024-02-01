@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010170</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TreeBASE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">a database of phylogenetic knowledge</r3d:additionalName>
+                <r3d:repositoryURL>https://www.treebase.org/treebase-web/home.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.zcn4w4</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_005688</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03587</r3d:repositoryIdentifier>
+                <r3d:description language="eng">TreeBASE is a repository of phylogenetic information, specifically user-submitted phylogenetic trees and the data used to generate them. TreeBASE accepts all types of phylogenetic data (e.g., trees of species, trees of populations, trees of genes) representing all biotic taxa. Data in TreeBASE are exposed to the public if they are used in a publication that is in press or published in a peer-reviewed scientific journal, book, conference proceedings, or thesis. Data used in publications that are in preparation or in review can be submitted to TreeBASE but are only available to the authors, publication editors, or reviewers using a special access code.</r3d:description>
+                    <r3d:repositoryContact>help@treebase.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://treebase.org/treebase-web/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://treebase.org/treebase-web/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>evolution</r3d:keyword>
+                    <r3d:keyword>evolutionary relationship</r3d:keyword>
+                    <r3d:keyword>genealocial tree</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>morphology</r3d:keyword>
+                    <r3d:keyword>phylogenetics</r3d:keyword>
+                    <r3d:keyword>phylogeography</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Dryad</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://datadryad.org/stash</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00x6h5n95</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Evolutionary Synthesis Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NESCent</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nescent.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:001ykb961</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2016</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Naturalis Biodiversity Center</r3d:institutionName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.naturalis.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0566bfb96</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact@naturalis.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Phyloinformatics Research Foundation, Inc.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PRF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.phylofoundation.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.phylofoundation.org/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">uBio</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://automation.cloud/about</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NSF Data Management Plan</r3d:policyName>
+                <r3d:policyURL>https://treebase.org/treebase-web/dataMan.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>BSD</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/BSD-3-Clause</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://treebase.org/treebase-web/dataMan.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://github.com/TreeBASE/treebase/wiki/OAI-PMH</r3d:api>
+                    <r3d:api apiType="REST">https://github.com/TreeBASE/treebase/wiki/API</r3d:api>
+                    <r3d:api apiType="other">https://treebase.org/treebase-web/urlAPI.html</r3d:api>
+                            <r3d:pidSystem>PURL</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://treebase.org/treebase-web/reference.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>TreeBASE is covered by Thomson Reuters Data Citation Index. In previous years the database has been hosted by the Yale Peabody Museum, the San Diego Supercomputer Center, the University at Buffalo, Harvard University, Leiden University, and the University of California, Davis. Development of TreeBASE is hosted at SourceForge. All source code can be downloaded from the TreeBASE subversion repository at SourceForge under a BSD license.
+There are no fees for upload, but there are limits to the data size. The interface starts to choke when alignment lengths exceed 200,000 or so.
+Wikipedia: https://en.wikipedia.org/wiki/TreeBASE
+TreeBASE wiki: https://github.com/TreeBASE</r3d:remarks>
+        <r3d:entryDate>2012-12-14</r3d:entryDate>
+        <r3d:lastUpdate>2022-10-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

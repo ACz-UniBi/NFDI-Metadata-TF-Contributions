@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012176</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">iDog</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DoGSD</r3d:additionalName>
+                    <r3d:additionalName language="eng">Dog Genome SNP Database</r3d:additionalName>
+                <r3d:repositoryURL>https://ngdc.cncb.ac.cn/idog/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.408108</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.exc0vp</r3d:repositoryIdentifier>
+                <r3d:description language="eng">iDog, an integrated resource for domestic dog (Canis lupus familiaris) and wild canids, provides the worldwide dog research community a variety of data services. This includes Genes, Genomes, SNPs, Breed/Disease Traits, Gene Expressions, Single Cell, Dog-Human Homolog Diseases and Literatures. In addition, iDog provides Online tools for performing genomic data visualization and analyses.</r3d:description>
+                    <r3d:repositoryContact>idog@big.ac.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-03-29">2.155 samples</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://ngdc.cncb.ac.cn/mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>canidae</r3d:keyword>
+                    <r3d:keyword>dog</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>grey wolf</r3d:keyword>
+                    <r3d:keyword>single nucleotide polymorphism</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Chinese Academy of Sciences, Beijing Institute of Genomics, China National Center for Bioinformation, National Genomics Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIG Data Center</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">BIGD</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Chinese Academy of Sciences, Beijing Institute of Genomics, BIG Data Center</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="zho">中国科学院北京基因组研究所, 生命与健康大数据中心</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="zho">生命与健康大数据中心</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ngdc.cncb.ac.cn/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Chinese Academy of Sciences, Kunming Institute of Zoology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KIZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Kunming Institute of Zoology</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="zho">中国科学院昆明动物研究所</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://english.kiz.cas.cn/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03m0vk445</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@mail.kiz.ac.cn</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>FAQ</r3d:policyName>
+                <r3d:policyURL>https://ngdc.cncb.ac.cn/idog/pages/help/faq.jsp</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ngdc.cncb.ac.cn/mission</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://ngdc.cncb.ac.cn/doggd/pages/modules/download/download.jsp</r3d:api>
+                        <r3d:citationGuidelineURL>https://ngdc.cncb.ac.cn/idog/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-10-04</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

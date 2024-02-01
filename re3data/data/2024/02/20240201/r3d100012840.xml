@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012840</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Laboratory of Neuroimaging Image &amp; Data Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IDA</r3d:additionalName>
+                    <r3d:additionalName language="eng">LONI Image &amp; Data Archive</r3d:additionalName>
+                    <r3d:additionalName language="eng">Laboratory of Neuroimaging Database</r3d:additionalName>
+                <r3d:repositoryURL>https://ida.loni.usc.edu/login.jsp</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.r4ph5f</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_13882</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_001922</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-10494</r3d:repositoryIdentifier>
+                <r3d:description language="eng">LONI’s Image and Data Archive (IDA) is a secure data archiving system. The IDA uses a robust infrastructure to provide researchers with a flexible and simple interface for de-identifying, searching, retrieving, converting, and disseminating their biomedical data. With thousands of investigators across the globe and more than 21 million data downloads to data, the IDA guarantees reliability with a fault-tolerant network comprising multiple switches, routers, and Internet connections to prevent system failure.</r3d:description>
+                    <r3d:repositoryContact>http://loni.usc.edu/about_loni/contact_us</r3d:repositoryContact>
+                    <r3d:repositoryContact>ida@loni.usc.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-10-226">Data on 43.185 subjects from 118 studies</r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20606 Cognitive Neuroscience and Neuroimaging</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://ida.loni.usc.edu/services/Menu/About.jsp?project=</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>aging</r3d:keyword>
+                    <r3d:keyword>brain</r3d:keyword>
+                    <r3d:keyword>cerebral metabolism</r3d:keyword>
+                    <r3d:keyword>clinical research studies</r3d:keyword>
+                    <r3d:keyword>clinical trials</r3d:keyword>
+                    <r3d:keyword>human health</r3d:keyword>
+                    <r3d:keyword>neuroimaging</r3d:keyword>
+                    <r3d:keyword>neuromedicine</r3d:keyword>
+                    <r3d:keyword>neurosciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alzheimer&#039;s Disease Neuroimaging Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ADNI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://adni.loni.usc.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01j20wc74</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003007</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:ScrRes_000144</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-00516</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://adni.loni.usc.edu/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Michael J. Fox Foundation for Parkinson&#039;s Research, Parkinson&#039;s Progression Markers Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PPMI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ppmi-info.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_006183</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ppmi-info.org/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nih.gov/about-nih/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Southern California, Keck School of Medicine, USC Mark and Mary Stevens Neuroimaging and Informatics Institute, Laboratory of Neuro Imaging</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LONI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">USC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://loni.usc.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://loni.usc.edu/about_loni/contact_us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>LONI Policies &amp; Procedures</r3d:policyName>
+                <r3d:policyURL>https://loni.usc.edu/docs/resources/LONI_Policy.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>http://loni.usc.edu/loni/termsofuse</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://loni.usc.edu/loni/licenseagreement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>ARK</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>AuthorClaim</r3d:aidSystem>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-08-27</r3d:entryDate>
+        <r3d:lastUpdate>2020-12-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010780</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NCBI Probe</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Probe</r3d:additionalName>
+                <r3d:repositoryURL>http://www.ncbi.nlm.nih.gov/probe</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_004816</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_80513</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; NCBI has retired the Probe Database &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>info@ncbi.nlm.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2014-05-15">over 14.000.000 probes available</r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate>2020-04-31</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.ncbi.nlm.nih.gov/About/glance/ourmission.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA data banks</r3d:keyword>
+                    <r3d:keyword>Gene expression</r3d:keyword>
+                    <r3d:keyword>Gene mapping</r3d:keyword>
+                    <r3d:keyword>Gene silencing</r3d:keyword>
+                    <r3d:keyword>Nucleic acid probes</r3d:keyword>
+                    <r3d:keyword>biomedical reserach</r3d:keyword>
+                    <r3d:keyword>human genome</r3d:keyword>
+                    <r3d:keyword>influenza virus</r3d:keyword>
+                    <r3d:keyword>mouse genome</r3d:keyword>
+                    <r3d:keyword>primer-BLAST</r3d:keyword>
+                    <r3d:keyword>reference sequences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Biotechnology Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ncbi.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://search.nih.gov/search?utf8=%E2%9C%93&amp;affiliate=nih&amp;query=contact+us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HHS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.hhs.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.hhs.gov/contactus.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">USA.gov</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Government Made Easy</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.usa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://search.usa.gov/search?affiliate=usagov&amp;query=contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States National Library of Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NIH Public Access Policy</r3d:policyName>
+                <r3d:policyURL>http://publicaccess.nih.gov/policy.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Public Domain</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://www.ncbi.nlm.nih.gov/projects/genome/probe/doc/Overview.shtml</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.ncbi.nlm.nih.gov/About/disclaimer.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.ncbi.nlm.nih.gov/About/disclaimer.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.ncbi.nlm.nih.gov/About/disclaimer.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submitting data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.ncbi.nlm.nih.gov/projects/genome/probe/doc/Submitting.shtml</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://ftp.ncbi.nih.gov/pub/ProbeDB/</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=probenews</r3d:syndication>
+                <r3d:remarks>Description:
+&quot;Probe database provides a public registry of nucleic acid reagents as well as information on reagent distributors, sequence similarities and probe effectiveness. Database users have access to applications of gene expression, gene silencing and mapping, as well as reagent variation analysis and projects based on probe-generated data. The Probe database is constantly updated.&quot;
+
+The UniSTS database of sequence tagged sites (STSs) derived from STS-based maps and other experiments will be retired shortly. All data has now been included in to the Probe database. You can retrieve UniSTS records by using the search term &quot;unists[properties]&quot;. Additionally, legacy data will remain on the NCBI FTP Site ftp://ftp.ncbi.nih.gov/repository/UniSTS/ in the UniSTS Repository.</r3d:remarks>
+        <r3d:entryDate>2014-05-15</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

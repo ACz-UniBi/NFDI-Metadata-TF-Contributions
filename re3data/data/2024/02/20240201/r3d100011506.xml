@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011506</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Fluxnet - Fluxdata</r3d:repositoryName>
+                    <r3d:additionalName language="eng">FLUXNET  (formerly)</r3d:additionalName>
+                <r3d:repositoryURL>https://fluxnet.org/data/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.yfk79s</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Vast networks of meteorological sensors ring the globe measuring atmospheric state variables, like temperature, humidity, wind speed, rainfall, and atmospheric carbon dioxide, on a continuous basis.  These measurements serve earth system science by providing inputs into models that predict weather, climate and the cycling of carbon and water.  And, they provide information that allows researchers to detect the trends in climate, greenhouse gases, and air pollution. The eddy covariance method is currently the standard method used by biometeorologists to measure fluxes of trace gases between ecosystems and atmosphere.</r3d:description>
+                    <r3d:repositoryContact>fluxdata-support@fluxdata.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://fluxnet.org/about/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2015</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://fluxnet.org/about/vision/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR data</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>biosphere</r3d:keyword>
+                    <r3d:keyword>carbon dioxide</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>measurement</r3d:keyword>
+                    <r3d:keyword>meterology</r3d:keyword>
+                    <r3d:keyword>physics</r3d:keyword>
+                    <r3d:keyword>water vapor</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">FLUXNET</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">a global network of micrometeorological tower sites</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=9</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>fluxnet-community@fluxdata.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lawrence Berkeley National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Berkeley Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lbl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jbv0t02</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011336</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>help@ lbl.gov</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Policies</r3d:policyName>
+                <r3d:policyURL>https://fluxnet.org/data/data-policy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://fluxnet.org/data/data-policy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://fluxnet.org/data/data-policy/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Fluxnet is covered by Clarivate Data Citation Index.  FLUXNET is organized through the Regional Networks that contribute to the two main FLUXNET portals: the FLUXNET-ORNL website (https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=9/), hosted at the Oak Ridge National Laboratory (USA), that maintains the catalog of all the existing and past eddy covariance sites globally, giving access to historical collection such the Marconi dataset and providing useful tools such updated images, MODIS cutout, and references.  The second portal is the one you are surfing now, the FLUXNET-Fluxdata webiste (https://fluxnet.fluxdata.org/), hosted at the Lawrence Berkeley National Laboratory (USA).  Here the data that have been shared by the Regional Networks and processed and harmonized to share with the FLUXNET communities.  Fluxdata website offers a number of tools in addition to the data access such communication and ideas sharing platforms, documentation, and support to the FLUXNET data users. The two FLUXNET portals are interconnected between them and with the Regional Networks, making FLUXNET one of the largest ecosystem network and environmental experiment in the world.  The high level of collaboration and integration of the actors involved (FLUXNET-ORNL, Fluxdata, Regional Network) ensures the robustness and the best possible use of the resources available.
+Sponsors: https://fluxnet.org/about/sponsors/</r3d:remarks>
+        <r3d:entryDate>2015-05-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

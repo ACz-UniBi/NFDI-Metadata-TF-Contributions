@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012723</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Database for Bacterial Group II Introns</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Group II introns database</r3d:additionalName>
+                <r3d:repositoryURL>http://webapps2.ucalgary.ca/~groupii/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.710xh8</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Database for identification and cataloguing of group II introns. All bacterial introns listed are full-length and appear to be functional, based on intron RNA and IEP characteristics. The database names the full-length introns, and provides information on their boundaries, host genes, and secondary structures. In addition, the website provides tools for analysis that may be useful to researchers who encounter group II introns in DNA sequences. Intron data can be downloaded in FASTA format.</r3d:description>
+                    <r3d:repositoryContact>http://webapps2.ucalgary.ca/~groupii/html/static/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>zimmerly@ucalgary.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://webapps2.ucalgary.ca/~groupii/html/static/intro.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>algae</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>genome</r3d:keyword>
+                    <r3d:keyword>plants</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                    <r3d:keyword>protists</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Institutes of Health Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Instituts de recherche en santé du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cihr-irsc.gc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01gavpb45</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012838</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Calgary, Department of Biological Sciences</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://science.ucalgary.ca/biological-sciences</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://cihr-irsc.gc.ca/e/14202.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cihr-irsc.gc.ca/e/14202.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>http://webapps2.ucalgary.ca/~groupii/html/static/cite.php</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>AuthorClaim</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-07-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

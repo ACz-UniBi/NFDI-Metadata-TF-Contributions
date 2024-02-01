@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011896</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">THEREDA</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Thermodynamic Reference Database</r3d:additionalName>
+                    <r3d:additionalName language="deu">Thermodynamische Referenz-Datenbasis</r3d:additionalName>
+                <r3d:repositoryURL>https://www.thereda.de/en</r3d:repositoryURL>
+                <r3d:description language="eng">THEREDA (Thermodynamic Reference Database) is a joint project dedicated to the creation of a comprehensive, internally consistent thermodynamic reference database, to be used with suitable codes for the geochemical modeling of aqueous electrolyte solutions up to high concentrations.</r3d:description>
+                    <r3d:repositoryContact>https://www.thereda.de/de/impressum</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30203 Theory and Modelling</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.grs.de/en/news/projects/thereda-thermodynamic-reference-database</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Pitzer interaction coefficients</r3d:keyword>
+                    <r3d:keyword>actinides</r3d:keyword>
+                    <r3d:keyword>cement</r3d:keyword>
+                    <r3d:keyword>chemical-toxic elements</r3d:keyword>
+                    <r3d:keyword>oceanic salts</r3d:keyword>
+                    <r3d:keyword>radio-toxic elements</r3d:keyword>
+                    <r3d:keyword>thermodynamic data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesgesellschaft für Endlagerung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BGE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bge.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CSD Engineers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">CSD Ingenieure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.csd.ch/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:042sgv520</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>l.wissmeier@csd.ch</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Gesellschaft für Anlagen- und Reaktorsicherheit</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GRS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Global Research for Safety</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.grs.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03sj2jc05</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>helge.moog@grs.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Helmholtz-Zentrum Dresden-Rossendorf</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HZDR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hzdr.de/db/Cms?pNid=618</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01zy2cs03</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>f.bok@hzdr.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Karlsruher Institut für Technologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Karlsruher Institute of Technology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kit.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Karlsruher Institut für Technologie, Institut für Nukleare Entsorgung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">KIT, INE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Karlsruhe Institute of Technology, Institute for Nuclear Waste Disposal</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ine.kit.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>marcus.altmaier@kit.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Technische Universität Bergakademie Freiberg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">TU-BAF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://tubaf.org/home</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:031vc2293</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>daniela.freyer@chemie.tu-freiberg.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright and trademark law</r3d:policyName>
+                <r3d:policyURL>https://www.thereda.de/en/disclaimer</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Quality Criteria</r3d:policyName>
+                <r3d:policyURL>https://www.thereda.de/en/data-access/quality-criteria</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.thereda.de/en/data-access/license</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.thereda.de/en/disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.thereda.de/en/disclaimer</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>THEREDA Team  and Partner organizations from prior project phases: https://www.thereda.de/en/partner</r3d:remarks>
+        <r3d:entryDate>2015-12-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

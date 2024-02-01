@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010327</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">RCSB Protein Data Bank</r3d:repositoryName>
+                    <r3d:additionalName language="eng">RCSB PDB</r3d:additionalName>
+                <r3d:repositoryURL>https://www.rcsb.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.2t35ja</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100029</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_03036</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_012820</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00135</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Protein Data Bank (PDB) archive is the single worldwide repository of information about the 3D structures of large biological molecules, including proteins and nucleic acids. These are the molecules of life that are found in all organisms including bacteria, yeast, plants, flies, other animals, and humans. Understanding the shape of a molecule helps to understand how it works. This knowledge can be used to help deduce a structure&#039;s role in human health and disease, and in drug development. The structures in the archive range from tiny proteins and bits of DNA to complex molecular machines like the ribosome.</r3d:description>
+                    <r3d:repositoryContact>https://www.rcsb.org/pages/contactus</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-06-14">178.747  Biological Macromolecular Structures</r3d:size>
+        <r3d:startDate>1971</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.rcsb.org/pages/about-us/index</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Biological Macromolecular Resource</r3d:keyword>
+                    <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>Protein</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Cancer Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NCI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cancer.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:040gcmg81</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NIDDK</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.niddk.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00adh9b73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012895</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.niddk.nih.gov/about-niddk/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NIGMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nigms.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q48ey07</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012887</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nigms.nih.gov/Pages/ContactUs.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of Neurological Disorders and Stroke</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NINDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ninds.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01s5ya894</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013116</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ninds.nih.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Library of Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nlm.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0060t0j89</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011446</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://new.nsf.gov/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Research Collaboratory for Structural Bioinformatics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RCSB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rcsb.org/pages/team</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.rcsb.org/pages/contactus</r3d:institutionContact>
+                                    <r3d:institutionContact>info@rcsb.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Rutgers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The State University of New Jersey</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rutgers.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011508</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_14806</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.rcsb.org/pages/contactus</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy, Office of Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/science/office-science</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UC San Diego</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCSD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ucsd.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0168r3w48</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011625</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_71933</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ucsd.edu/about/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>https://www.rcsb.org/pages/policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Processing Procedures and Policies Document</r3d:policyName>
+                <r3d:policyURL>https://www.wwpdb.org/documentation/policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.rcsb.org/pages/usage-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.wwpdb.org/</r3d:api>
+                    <r3d:api apiType="REST">https://data.rcsb.org/redoc/index.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.rcsb.org/pages/policies#References</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>is covered by Elsevier. The RCSB PDB is a member of the Worldwide Protein Data Bank (wwPDB: https://www.wwpdb.org/). RCSB PDB took part in developing the plattform
+File Download Services: https://www.rcsb.org/docs/programmatic-access/file-download-services#protocols-ftp-and-http</r3d:remarks>
+        <r3d:entryDate>2013-07-28</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

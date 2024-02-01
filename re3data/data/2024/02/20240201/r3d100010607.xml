@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010607</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">United States Health Information Knowledgebase</r3d:repositoryName>
+                    <r3d:additionalName language="eng">USHIK</r3d:additionalName>
+                <r3d:repositoryURL>https://ushik.ahrq.gov/mdr/portals</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; USHIK was archived because some of the metadata are maintained by other sites and there is no need for duplication. 
+The USHIK metadata registry was a neutral repository of metadata from an authoritative source used to promote interoperability and reuse of data. The registry did not attempt to change the metadata content but rather provided a structured way to view data for the technical or casual user. 
+Complete information see: https://www.ahrq.gov/data/ushik.html &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>https://www.ahrq.gov/contact/index.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012-09</r3d:startDate>
+        <r3d:endDate>2022-07</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ahrq.gov/cpi/about/mission/index.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>APCD</r3d:keyword>
+                    <r3d:keyword>Childrens Electronic Health Reocrd (EHR)</r3d:keyword>
+                    <r3d:keyword>Childrens Health Insurance Program (CHIP)</r3d:keyword>
+                    <r3d:keyword>Medicaid</r3d:keyword>
+                    <r3d:keyword>clinical quality</r3d:keyword>
+                    <r3d:keyword>healthcare quality</r3d:keyword>
+                    <r3d:keyword>pharmaceutical name</r3d:keyword>
+                    <r3d:keyword>value sets</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Agency for Healthcare Research and Quality</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AHQR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ahrq.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ahrq.gov/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Health Statistics, Centers for Disease Control and Preventions</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cdc.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Health Statistics, Centers for Medicare &amp; Medicaid Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL></r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S Department of Health &amp; Human Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HHS.gov</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hhs.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Electronic Policies</r3d:policyName>
+                <r3d:policyURL>https://www.ahrq.gov/policy/electronic/about/policyix.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>FOIA (Freedom of Information Act)</r3d:policyName>
+                <r3d:policyURL>https://www.hhs.gov/foia</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Web Site Policies</r3d:policyName>
+                <r3d:policyURL>https://www.ahrq.gov/policy/electronic/index.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://archive.ahrq.gov/policy/electronic/about/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://archive.ahrq.gov/policy/electronic/copyright/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://archive.ahrq.gov/policy/electronic/about/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ahrq.gov/funding/policies/publicaccess/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">http://ushik.ahrq.gov/help/MeaningfulUse/api?system=mu&amp;enableAsynchronousLoading=true#Retrieve_Multiple_Value_Sets</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ahrq.gov/funding/policies/publicaccess/index.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Description:
+&quot;The United States Health Information Knowledgebase (USHIK) is an on-line, publicly accessible registry and repository of healthcare related data, metadata, and standards.&quot;
+USHIK is funded and directed by the Agency for Healthcare Research and Quality (AHRQ) with management support and partnership from the Centers for Medicare &amp; Medicaid Services (CMS) and the Centers for Disease Control and Prevention&#039;s (CDC) National Center for Health Statistics.</r3d:remarks>
+        <r3d:entryDate>2014-02-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

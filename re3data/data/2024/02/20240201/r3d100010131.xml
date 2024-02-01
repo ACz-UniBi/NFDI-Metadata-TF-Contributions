@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010131</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CyberCell Database</r3d:repositoryName>
+                    <r3d:additionalName language="jpn">CCDB</r3d:additionalName>
+                    <r3d:additionalName language="eng">CCDB</r3d:additionalName>
+                <r3d:repositoryURL>http://ccdb.wishartlab.com/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_013423</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-02644</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The CyberCell database (CCDB) is a comprehensive collection of detailed enzymatic, biological, chemical, genetic, and molecular biological data about E. coli (strain K12, MG1655). It is intended to provide sufficient information and querying capacity for biologists and computer scientists to use computers or detailed mathematical models to simulate all or part of a bacterial cell at a nanoscopic (10-9 m), mesoscopic (10-8 m).The CyberCell database CCDB actually consists of 4 browsable databases: 1) the main CyberCell database (CCDB - containing gene and protein information), 2) the 3D structure database (CC3D – containing information for structural proteomics), 3) the RNA database (CCRD – containing tRNA and rRNA information), and 4) the metabolite database (CCMD – containing metabolite information). Each of these databases is accessible through hyperlinked buttons located at the top of the CCDB homepage. All CCDB sub-databases are fully web enabled, permitting a wide variety of interactive browsing, search and display operations. and microscopic (10-6 m) level.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-04-21">4.252 protein coding genes; 478 x-ray structures; 65 NMR structures; 770 model structures; 2.976 without 3D structures; 2.790 cytoplasmic proteins; 152 periplasmic proteins; 1.053 membrane proteins; 297 essential genes; 2.052 non essential genes; 4.190 translated proteins, 3.810 post-translated proteins; 7.941 Translated + Mature Proteins;</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>E.coli</r3d:keyword>
+                    <r3d:keyword>Eschericha coli</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>enzymes</r3d:keyword>
+                    <r3d:keyword>gene information</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">GenomePrairie</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.genomeprairie.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:013s3gf12</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University Alberta, Wishart Research Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UAlberta</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wishartlab.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.wishartlab.com/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Western Economic Diversification Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">DEO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Diversification de l&#039;économie de l&#039;Ouest Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">WD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wd-deo.gc.ca/eng/home.asp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:002sgqx17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy Policy (für CCDB u. CC3D)</r3d:policyName>
+                <r3d:policyURL>https://www.uniprot.org/help/license</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://ccdb.wishartlab.com/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Project CyberCell is also part of the International E. coli Alliance, an multi-national project aimed at coordinating E. coli simulation and E. coli bioinformatics efforts across Canada (Project CyberCell), the US (EMC2), Japan (E-Cell) and the European Community (SiliconCell, GSK)</r3d:remarks>
+        <r3d:entryDate>2012-12-06</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

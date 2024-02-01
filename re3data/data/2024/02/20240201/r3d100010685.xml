@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010685</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">virus mentha</r3d:repositoryName>
+                    <r3d:additionalName language="eng">VirusMINT</r3d:additionalName>
+                    <r3d:additionalName language="eng">the interactome browser</r3d:additionalName>
+                <r3d:repositoryURL>https://virusmentha.uniroma2.it/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.6w29qp</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_05572</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:OMICS_01909</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_005987</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03636</r3d:repositoryIdentifier>
+                <r3d:description language="eng">virus mentha archives evidence about viral interactions collected from different sources and presents these data in a complete and comprehensive way. Its data comes from manually curated protein-protein interaction databases that have adhered to the IMEx consortium. virus mentha is a resource that offers a series of tools to analyse selected proteins in the context of a network of interactions. Protein interaction databases archive protein-protein interaction (PPI) information from published articles. However, no database alone has sufficient literature coverage to offer a complete resource to investigate &quot;the interactome&quot;.
+virus mentha&#039;s approach generates every week a consistent interactome (graph). Most importantly, the procedure assigns to each interaction a reliability score that takes into account all the supporting evidence. virus mentha offers direct access to viral families such as: Orthomyxoviridae, Orthoretrovirinae and Herpesviridae plus, it offers the unique possibility of searching by host organism. The website and the graphical application are designed to make the data stored in virus mentha accessible and analysable to all users.virus mentha superseeds VirusMINT. The Source databases are: MINT, DIP, IntAct, MatrixDB, BioGRID.</r3d:description>
+                    <r3d:repositoryContact>https://virusmentha.uniroma2.it/contact.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-01-18">5828 proteins; 15967 interactions; 12765 publications</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://160.80.34.9/mentha/virusmentha/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>arabidopsis thaliana</r3d:keyword>
+                    <r3d:keyword>caenorhabditis elegans</r3d:keyword>
+                    <r3d:keyword>drosophila melanogaster</r3d:keyword>
+                    <r3d:keyword>escheria coli K-12</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>molecular genetics</r3d:keyword>
+                    <r3d:keyword>mus musculus</r3d:keyword>
+                    <r3d:keyword>rattus norvegicus</r3d:keyword>
+                    <r3d:keyword>saccharomyces cerevisiae S288c</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CORDIS FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/guidance/archive_en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="ita">Fondo per gli Investimenti della Ricerca di Base</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">FIRB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Fund for Investment in Basic Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://firb.miur.it/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">HUPO Proteomics Standards Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PSI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.psidev.info/index.php/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Molecular Exchange Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMEx</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.imexconsortium.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Tor Vergata University, Department of Biology, Molecular Genetics Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">Universita degli Studi di Roma &#039;Tor Vergata&#039;, Dipartimento di Biologia</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://bio.uniroma2.it/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>cesareni@uniroma2.it</r3d:institutionContact>
+                                    <r3d:institutionContact>http://bio.uniroma2.it/contatti/</r3d:institutionContact>
+                                    <r3d:institutionContact>sinnefa@gmail.com</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IMEx Curation Rules</r3d:policyName>
+                <r3d:policyURL>http://www.imexconsortium.org/curation</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/2.5/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>IMEx data submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.imexconsortium.org/submit-your-data</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">http://mentha.uniroma2.it/developers.php</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://160.80.34.9/mentha/virusmentha/about.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Thank you for your interest in VirusMINT http://mint.bio.uniroma2.it/virusmint/Welcome.do. Unfortunately MINT related websites are not all available at the moment. MINT is currently undergoing a series of updates, sorry for the inconvenience.
+We have developed a similar resource to browse interactions, viral interactions included.
+A beta version of virus mentha can be found at virus mentha. virus mentha is active partner of the International Molcular Exchange Consortium (IMEx).</r3d:remarks>
+        <r3d:entryDate>2014-04-03</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

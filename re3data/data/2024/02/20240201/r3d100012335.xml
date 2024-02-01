@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012335</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GFZ Data Services</r3d:repositoryName>
+                <r3d:repositoryURL>https://dataservices.gfz-potsdam.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.e0d571</r3d:repositoryIdentifier>
+                <r3d:description language="eng">GFZ Data Services is a repository for research data and scientific software across the Earth System Sciences, hosted at GFZ. The curated data are archived, persistently accessible and published with digital object identifier (DOI). They range from large dynamic datasets from global monitoring networks with real-time aquisition, to international services in geodesy and geophysics, to the full suite of small and highly heterogeneous datasets collected by individual researchers or small teams (&quot;long-tail data&quot;). In addition to the DOI registration and data archiving itself, GFZ Data Services team offers comprehensive consultation by domain scientists and IT specialists. Among others, GFZ Data Services is data publisher for the IAG Services ICGEM, IGETS and ISG (IAG = Int. Association for Geodesy; ICGEM = Int. Center for Global Earth Models; IGETS = Int. Geodynamics and Earth Tide Service; ISG = Int. Service for the Geoid), the World Stress Map, INTERMAGNET, GEOFON, the Geophysical Instrument Pool Potsdam GIPP, TERENO, EnMAP Flight Campaigns, the Potsdam Institute for Climate Impact Research PIK, the Specialised Information Service for Solid Earth Geosciences (FID GEO) and hosts the GFZ Catalogue for the International Generic Sample Number IGSN.</r3d:description>
+                    <r3d:repositoryContact>https://bib.telegrafenberg.de/dataservices/about-us/team-contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>kelger@gfz-potsdam.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-04">7.735 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://dataservices.gfz-potsdam.de/portal/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Earth Science data</r3d:keyword>
+                    <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>biosphere</r3d:keyword>
+                    <r3d:keyword>cryosphere</r3d:keyword>
+                    <r3d:keyword>geoscience</r3d:keyword>
+                    <r3d:keyword>hazard</r3d:keyword>
+                    <r3d:keyword>ocean</r3d:keyword>
+                    <r3d:keyword>paleoclimate</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsches GeoForschungsZentrum GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gfz-potsdam.de/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://bib.telegrafenberg.de/dataservices/about-us/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opensource.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://doidb.wdc-terra.org//oaip/oai</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataservices.gfz-potsdam.de/portal/about.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>is covered by Elsevier. GFZ German Research Centre for Geosciences is covered by Clarivate Data Citation Index. GFZ Data Services publishes Earth Science data of GFZ members and collaboration partners.</r3d:remarks>
+        <r3d:entryDate>2017-03-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

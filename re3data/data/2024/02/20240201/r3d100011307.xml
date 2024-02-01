@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011307</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Geological Data Center at Scripps Institution of Oceanography</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GDC</r3d:additionalName>
+                    <r3d:additionalName language="eng">University of California San Diego, Scripps Institution of Oceanography, Geological Data Center</r3d:additionalName>
+                <r3d:repositoryURL>https://gdc.ucsd.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The mission of the GDC is to curate and provide access to oceanographic data, especially from Scripps expeditions, making them accessible for scientific and educational use worldwide. Originally launched by Bill Menard, the GDC has been in operation for more than 40 years. While many historic physical artifacts are carefully preserved, the current emphasis is on digital archiving, in coordination with other national and international programs.</r3d:description>
+                    <r3d:repositoryContact>gdc@ucsd.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://gdc.ucsd.edu/index.php/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://gdc.ucsd.edu/index.php/about/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CTD</r3d:keyword>
+                    <r3d:keyword>bathymetry</r3d:keyword>
+                    <r3d:keyword>cruise reports</r3d:keyword>
+                    <r3d:keyword>expeditions</r3d:keyword>
+                    <r3d:keyword>gravity</r3d:keyword>
+                    <r3d:keyword>magnetics</r3d:keyword>
+                    <r3d:keyword>multibeam</r3d:keyword>
+                    <r3d:keyword>navigation</r3d:keyword>
+                    <r3d:keyword>physical sciences</r3d:keyword>
+                    <r3d:keyword>research vessels</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National National Science Digital Library</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSDL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nibib.nih.gov/content/national-science-digital-library-nsdl</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00bj1nn86</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008215</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-21294</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California San Diego, Scripps Institution of Oceanography</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SIO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Scripps Institution of Oceanography</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://scripps.ucsd.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04v7hvq31</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://scripps.ucsd.edu/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Division of Ocean Sciences (OCE) Sample and Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies and Procedures</r3d:policyName>
+                <r3d:policyURL>https://scripps.ucsd.edu/ships/policies-and-procedures</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://scripps.ucsd.edu/ships/policies-and-procedures/data-and-sample-distribution-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-12-08</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

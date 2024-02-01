@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012039</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Bedford Institute of Oceanography - Oceanographic Databases</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Institut océanographique de Bedford - Bases de données océanographiques</r3d:additionalName>
+                <r3d:repositoryURL>https://www.bio.gc.ca/science/data-donnees/base/index-en.php</r3d:repositoryURL>
+                <r3d:description language="eng">Databases maintained by Ocean Sciences at the Bedford Institute of Oceanography, including temperature-salinity profiles for the NW Atlantic, sea-surface temperature and chlorophyll from satellite, monthly statistics of ocean currents and other moored instruments, and daily temperature observations from coastal thermographs.</r3d:description>
+                    <r3d:repositoryContact>DataServicesDonnees@dfo-mpo.gc.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.bio.gc.ca/science/data-donnees/base/contact-en.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.bio.gc.ca/general-generales/about-sujet-en.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>East Coast of Canada</r3d:keyword>
+                    <r3d:keyword>Northwest Atlantic</r3d:keyword>
+                    <r3d:keyword>Satellite derived</r3d:keyword>
+                    <r3d:keyword>chlorophyll</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>coastal time series</r3d:keyword>
+                    <r3d:keyword>hydrographic</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                    <r3d:keyword>temperature-salinity profiles</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bedford Institute of Oceanography</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">IOB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Institut océanographique de Bedford</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bio.gc.ca/index-en.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03bz9t645</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>WebmasterBIO-IOB@dfo-mpo.gc.ca</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Government of Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Gouvernement du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/en.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:010q4q527</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright Act</r3d:policyName>
+                <r3d:policyURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and Conditions - Fisheries and Oceans Canada</r3d:policyName>
+                <r3d:policyURL>https://www.dfo-mpo.gc.ca/terms-conditions-avis-eng.htm</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions - Government of Canada</r3d:policyName>
+                <r3d:policyURL>https://www.canada.ca/en/transparency/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wet-boew.github.io/wet-boew/License-en.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Databases: BioChem, Ocean Science Hydrographic Climate Database (Climate),  Coastal Time Series (CTS) Application, Ocean Colour Database (OCDB),  Ocean Data Inventory (ODI), Sea-surface Temperature (SST) Database
+Research partnerships:  https://www.bio.gc.ca/info/collaborations/partnerships-partenariat-en.php</r3d:remarks>
+        <r3d:entryDate>2016-06-21</r3d:entryDate>
+        <r3d:lastUpdate>2022-05-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

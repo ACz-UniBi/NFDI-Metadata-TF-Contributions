@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100000006</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Archaeology Data Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ADS</r3d:additionalName>
+                <r3d:repositoryURL>https://archaeologydataservice.ac.uk/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.hm1mfg</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The ADS is an accredited digital repository for heritage data that supports research, learning and teaching with freely available, high quality and dependable digital resources by preserving and disseminating digital data in the long term. The ADS also promotes good practice in the use of digital data, provides technical advice to the heritage community, and supports the deployment of digital technologies.</r3d:description>
+                    <r3d:repositoryContact>help@archaeologydataservice.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://archaeologydataservice.ac.uk/about/contact.xhtml</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-26">About 3.000 archaeological collections</r3d:size>
+        <r3d:startDate>1996-10-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10104 Classical Archaeology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://archaeologydataservice.ac.uk/about/ourWork.xhtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>archaeology</r3d:keyword>
+                    <r3d:keyword>cultural heritage</r3d:keyword>
+                    <r3d:keyword>prehistory</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Arts and Humanities Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AHRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/ahrc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0505m1554</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1996</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>enquiries@ahrc.ukri.org</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ukri.org/about-us/ahrc/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Joint Information Systems Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JISC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jisc.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01rv9gx86</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011331</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_23596</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2008-03-31</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.jisc.ac.uk/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Environment Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/nerc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02b5d8509</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012850</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_27406</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of York,  Institute of fine Arts</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ifa.nyu.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1996</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>help@archaeologydataservice.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>ADS Guides to good practice</r3d:policyName>
+                <r3d:policyURL>https://guides.archaeologydataservice.ac.uk/g2gp/Contents</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ADS Identifying Copyright and Reuse Licences</r3d:policyName>
+                <r3d:policyURL>https://archaeologydataservice.ac.uk/advice/IdentifyingCopyright.xhtml</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ADS Terms of Use and Access</r3d:policyName>
+                <r3d:policyURL>https://archaeologydataservice.ac.uk/advice/termsOfUseAndAccess.xhtml</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CTS assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/04/Archaeology-Data-Service.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Preservation Policy</r3d:policyName>
+                <r3d:policyURL>https://archaeologydataservice.ac.uk/advice/PolicyDocuments.xhtml#PresPol</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Repository Operations</r3d:policyName>
+                <r3d:policyURL>https://archaeologydataservice.ac.uk/advice/PolicyDocuments.xhtml#RepOp</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://archaeologydataservice.ac.uk/advice/IdentifyingCopyright.xhtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://archaeologydataservice.ac.uk/advice/WebsiteTerms.xhtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Guidelines for Depositors</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://archaeologydataservice.ac.uk/advice/guidelinesForDepositors.xhtml#section-guidelinesForDepositors-1.2.HowToDeposit</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://archaeologydataservice.ac.uk/about/metadataServices.xhtml</r3d:api>
+                    <r3d:api apiType="SPARQL">http://data.archaeologydataservice.ac.uk/query/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://archaeologydataservice.ac.uk/advice/termsOfUseAndAccess.xhtml</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>ADS is covered by Clarivate Data Citation Index. is covered by Elsevier. ADS is one of the Data Centres of NERC, https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/  The Archaeology Data Service (ADS) was established in September 1996, as one of five discipline-based service providers within the Arts and Humanities Data Service (AHDS).The ADS is a member of the Europeana Council of Content Providers and Aggregators.
+The ADS is an associate member of the Digital Preservation Coalition (DPC)</r3d:remarks>
+        <r3d:entryDate>2012-07-23</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010762</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UNdata</r3d:repositoryName>
+                    <r3d:additionalName language="eng">United Nations Data</r3d:additionalName>
+                    <r3d:additionalName language="eng">a world of information</r3d:additionalName>
+                <r3d:repositoryURL>http://data.un.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001678</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The United Nations Data (UND) site provides access to 32 databases and over 60million records. UN Statistical Databases include datasets on Energy Statistics, International Finances, The State of the World’s Children, and World Contraceptive Use; among many other global social, environmental and economic subjects.</r3d:description>
+                    <r3d:repositoryContact>http://data.un.org/Feedback.aspx</r3d:repositoryContact>
+                    <r3d:repositoryContact>statistics@un.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-07-15">32 databases - 60 million records</r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">113 Jurisprudence</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://data.un.org/Host.aspx?Content=About</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>international finance</r3d:keyword>
+                    <r3d:keyword>international organization</r3d:keyword>
+                    <r3d:keyword>population</r3d:keyword>
+                    <r3d:keyword>social status</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                    <r3d:keyword>world health</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">United Nations, Department of Economic and Social Affairs</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DESA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.un.org/development/desa/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.un.org/en/development/desa/contact-us.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United Nations, Statistics Division</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UNSD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://unstats.un.org/home/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://unstats.un.org/unsd/contactus.htm</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>http://data.un.org/Host.aspx?Content=UNdataUse</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://unstats.un.org/unsd/copyright.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://data.un.org/Host.aspx?Content=UNdataUse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="SOAP">http://data.un.org/Host.aspx?Content=API</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://data.un.org/Host.aspx?Content=UNdataUse</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Further information about contributing partners can be found at: http://data.un.org/Partners.aspx ;UNdata is replacing the UNCDB (UN Common Database - CDB).</r3d:remarks>
+        <r3d:entryDate>2014-04-29</r3d:entryDate>
+        <r3d:lastUpdate>2022-07-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

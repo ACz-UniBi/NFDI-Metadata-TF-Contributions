@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010528</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GenBank</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.ncbi.nlm.nih.gov/genbank/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.9kahy4</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01650</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002760</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-02873</r3d:repositoryIdentifier>
+                <r3d:description language="eng">GenBank® is a comprehensive database that contains publicly available nucleotide sequences for almost 260 000 formally described species. These sequences are obtained primarily through submissions from individual laboratories and batch submissions from large-scale sequencing projects, including whole-genome shotgun (WGS) and environmental sampling projects. Most submissions are made using the web-based BankIt or standalone Sequin programs, and GenBank staff assigns accession numbers upon data receipt. Daily data exchange with the European Nucleotide Archive (ENA) and the DNA Data Bank of Japan (DDBJ) ensures worldwide coverage. GenBank is accessible through the NCBI Entrez retrieval system, which integrates data from the major DNA and protein sequence databases along with taxonomy, genome, mapping, protein structure and domain information, and the biomedical journal literature via PubMed. BLAST provides sequence similarity searches of GenBank and other sequence databases. Complete bimonthly releases and daily updates of the GenBank database are available by FTP.</r3d:description>
+                    <r3d:repositoryContact>info@ncbi.nlm.nih.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>pubmedcentral@ncbi.nlm.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-10-06">2.112.058.517.945 bases; 246.119.175 seqeuences;</r3d:size>
+        <r3d:startDate>1983</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ncbi.nlm.nih.gov/genbank/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>EST</r3d:keyword>
+                    <r3d:keyword>GSS</r3d:keyword>
+                    <r3d:keyword>STS</r3d:keyword>
+                    <r3d:keyword>bioSample</r3d:keyword>
+                    <r3d:keyword>clone</r3d:keyword>
+                    <r3d:keyword>epigenomics</r3d:keyword>
+                    <r3d:keyword>genomes</r3d:keyword>
+                    <r3d:keyword>metagenomes</r3d:keyword>
+                    <r3d:keyword>nucleotide</r3d:keyword>
+                    <r3d:keyword>sequence data</r3d:keyword>
+                    <r3d:keyword>transcriptome</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">International Nucleotide Sequence Database Collaboration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">INSDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insdc.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>OMICS_01653</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011967</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Biotechnology Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ncbi.nlm.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02meqm098</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006472</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-00139</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>gb-admin@ncbi.nlm.nih.gov</r3d:institutionContact>
+                                    <r3d:institutionContact>gb-sub@ncbi.nlm.nih.gov</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ncbi.nlm.nih.gov/home/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011417</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005116</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U. S. National Library of Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nlm.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0060t0j89</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011446</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005117</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DHHS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hhs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:033jnv181</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_009983</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005043</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>INSDC Status Document</r3d:policyName>
+                <r3d:policyURL>https://www.insdc.org/submitting-standards/insdc-status-document/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>International Nucleotide Sequence Database Collaboration Policy</r3d:policyName>
+                <r3d:policyURL>https://www.insdc.org/policy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Updating Information on GenBank Records</r3d:policyName>
+                <r3d:policyURL>https://www.ncbi.nlm.nih.gov/genbank/update/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ncbi.nlm.nih.gov/genbank/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://osp.od.nih.gov/wp-content/uploads/Public_Comments_Data_Managment_Sharing_Citation.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=genbanksubmissiontoo</r3d:syndication>
+                <r3d:remarks>is covered by Elsevier. GenBank is covered by Thomson Reuters Data Citation Index. GenBank is part of the International Nucleotide Sequence Database Collaboration , which comprises the DNA DataBank of Japan (DDBJ), the European Molecular Biology Laboratory (EMBL), and GenBank at NCBI. These three organizations exchange data on a daily basis.</r3d:remarks>
+        <r3d:entryDate>2013-09-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

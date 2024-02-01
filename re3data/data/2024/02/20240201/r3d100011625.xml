@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011625</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Aid Transparency Initiative</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IATI</r3d:additionalName>
+                    <r3d:additionalName language="fra">IITA</r3d:additionalName>
+                    <r3d:additionalName language="fra">Initiative internationale pour la transparence de l’aide</r3d:additionalName>
+                <r3d:repositoryURL>https://iatistandard.org/en/</r3d:repositoryURL>
+                <r3d:description language="eng">IATI is a voluntary, multi-stakeholder initiative that seeks to improve the transparency of aid, development, and humanitarian resources in order to increase their effectiveness in tackling poverty. IATI brings together donor and recipient countries, civil society organisations, and other experts in aid information who are committed to working together to increase the transparency and openness of aid. - See more at: https://iatistandard.org/en/about/#sthash.BYPZ6NPt.dpuf</r3d:description>
+                    <r3d:repositoryContact>https://iatistandard.org/en/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-01-17">5.770 datasets</r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://iatistandard.org/en/using-data/iati-tools-and-resources/using-iati-registry/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>cash flow</r3d:keyword>
+                    <r3d:keyword>control</r3d:keyword>
+                    <r3d:keyword>development aid agency</r3d:keyword>
+                    <r3d:keyword>spending</r3d:keyword>
+                    <r3d:keyword>trancparency</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">International Aid Transparency Governing board</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IATI secretariat</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iatistandard.org/en/about/governance/who-runs-iati/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://iatistandard.org/en/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Aid Transparency Initiative Steering Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IATI Steering Committee</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iatistandard.org/en/about/governance/members-assembly-documents/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@iatistandard.org</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/how-to-license-your-data/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://iatistandard.org/documents/62/The-IATI-Licensing-Standard.doc</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendefinition.org/od/2.1/en/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">http://reference.iatistandard.org/202/guidance/datastore/reference/data-api/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">other</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Publishers:https://www.iatiregistry.org/publisher;</r3d:remarks>
+        <r3d:entryDate>2015-06-26</r3d:entryDate>
+        <r3d:lastUpdate>2020-01-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

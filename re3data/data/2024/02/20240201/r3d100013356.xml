@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013356</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Data Center - SAFE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Data Center - Sustainable Architecture for Finance in Europe</r3d:additionalName>
+                    <r3d:additionalName language="eng">SAFE-FDZ</r3d:additionalName>
+                <r3d:repositoryURL>https://safe-frankfurt.de/de/data-center.html</r3d:repositoryURL>
+                <r3d:description language="eng">Research on German and European financial markets suffers from a lack of pan-European data sets. Also, existing sets do not provide a standard identification of, for example, companies. Therefore, researchers often utilize data from the United States where the integration of different databases is more advanced. As a consequence, empirical analyses are mostly based on non-European data. Because of the institutional differences, political recommendations that result from these analyses cannot – or only in a limited scope – be transferred to Europe.
+Against this background, the SAFE Research Data Center not only draws on the usual international data sources but also creates new European data sets, brings existing data together and processes them. The aim is to place the central research areas of SAFE on a common European data footing.
+Data access is provided by &#039;SAFE data sources&#039; https://datacenter.safefrankfurt.de/datacenter/_databases/ and &#039;FiF - Repositorium für Forschungsdaten aus dem Finanzbereich (Preview version)&#039; https://fif.safe-frankfurt.de/xmlui/</r3d:description>
+                    <r3d:repositoryContact>datacenter@safe-frankfurt.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>dataroom@safe-frankfurt.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11201 Economic Theory</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://safe-frankfurt.de/about-safe.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Bloomberg</r3d:keyword>
+                    <r3d:keyword>Central Banks</r3d:keyword>
+                    <r3d:keyword>ECB Securites Lending</r3d:keyword>
+                    <r3d:keyword>Eurex</r3d:keyword>
+                    <r3d:keyword>European financial market</r3d:keyword>
+                    <r3d:keyword>Factset</r3d:keyword>
+                    <r3d:keyword>GC Pooling</r3d:keyword>
+                    <r3d:keyword>German financial market</r3d:keyword>
+                    <r3d:keyword>German historial financial data</r3d:keyword>
+                    <r3d:keyword>bonds and fixed income</r3d:keyword>
+                    <r3d:keyword>derivatives/options</r3d:keyword>
+                    <r3d:keyword>economic indicators</r3d:keyword>
+                    <r3d:keyword>stockprices/markets</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Finanzmarktforschung SAFE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Financial Research SAFE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://safe-frankfurt.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05wxywg93</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Good scientific practice SAFE</r3d:policyName>
+                <r3d:policyURL>https://safe-frankfurt.de/about-safe/good-scientific-practice.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://datacenter.safefrankfurt.de/datacenter/documents/Terms_of_Use_Datacenter_01-04-2021.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>RatSWD</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-06-10</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

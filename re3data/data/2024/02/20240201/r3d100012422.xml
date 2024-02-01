@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012422</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TOAR Surface Observation Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Surface station data from Jülich database</r3d:additionalName>
+                    <r3d:additionalName language="eng">TOAR Surface Observation Database Version 1</r3d:additionalName>
+                    <r3d:additionalName language="eng">TOAR Surface Observation Database Version 2</r3d:additionalName>
+                    <r3d:additionalName language="eng">TOAR Surface Stations Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">Tropospheric Ozone Assessment Report database of global surface observations</r3d:additionalName>
+                <r3d:repositoryURL>https://toar-data.fz-juelich.de/</r3d:repositoryURL>
+                <r3d:description language="eng">The Tropospheric Ozone Assessment Report (TOAR) database of  global surface observations is the world&#039;s most extensive collection of surface ozone measurements and includes also data on other air pollutants and  on weather for some regions. Measurements from 1970 to 2019 (Version 1) have been collected in a relational database, and are made available via a graphical web interface, a REST service (https://toar-data.fz-juelich.de/api/v1) and as aggregated products on PANGAEA (https://doi.pangaea.de/10.1594/PANGAEA.876108). Measurements from 1970 to present (Version 2) are being collected in a relational database, and are made available via a REST service (https://toar-data.fz-juelich.de/api/v2).</r3d:description>
+                    <r3d:repositoryContact>support@toar-data.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-08-18">13.000 time series; 7.000 stations; 1TB</r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://igacproject.org/activities/TOAR</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>air pollution</r3d:keyword>
+                    <r3d:keyword>atmospheric composition</r3d:keyword>
+                    <r3d:keyword>atmospheric science</r3d:keyword>
+                    <r3d:keyword>climate impacts</r3d:keyword>
+                    <r3d:keyword>health impacts</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>troposphere</r3d:keyword>
+                    <r3d:keyword>vegetation impacts</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Forschungszentrum Jülich GmbH</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fz-juelich.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nv7yv05</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Forschungszentrum Jülich Gmbh, Jülich Supercomputing Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fz-juelich.de/de/ias/jsc</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q55342974</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>m.schultz@fz-juelich.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Tropospheric Ozone Assessment Report</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://igacproject.org/activities/TOAR</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2022/05/20220530-toar-database-infrastructure_final.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://toar-data.fz-juelich.de/footer/terms-of-use.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>The TOAR Database User Guide</r3d:policyName>
+                <r3d:policyURL>https://toar-data.fz-juelich.de/documentation/TOAR_UG_Vol03_Database.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://toar-data.fz-juelich.de/api/v2/</r3d:api>
+                    <r3d:api apiType="REST">https://join.fz-juelich.de/services/rest/surfacedata/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://toar-data.fz-juelich.de/footer/terms-of-use.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>TOAR Data Portal with links: https://toar-data.org/</r3d:remarks>
+        <r3d:entryDate>2017-07-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

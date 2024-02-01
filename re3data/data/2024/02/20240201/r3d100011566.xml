@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011566</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">WASCAL Data Discovery Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WADI - Data Portal</r3d:additionalName>
+                    <r3d:additionalName language="eng">WASCAL SDI</r3d:additionalName>
+                    <r3d:additionalName language="eng">WASCAL spatial data infrastructure</r3d:additionalName>
+                    <r3d:additionalName language="eng">West African Science Service Center on Climate Change and Adapted Land Use Data Discovery Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://wascal-dataportal.org/wascal_searchportal2/</r3d:repositoryURL>
+                <r3d:description language="eng">Within WASCAL a large number of heterogeneous data are collected. These data are mainly coming from different initiated research activities within WASCAL (Core Research Program, Graduate School Program) from the hydrological-meteorological, remote sensing, biodiversity and socio economic observation networks within WASCAL, and from the activities of the WASCAL Competence Center in Ouagadougou, Burkina-Faso.</r3d:description>
+                    <r3d:repositoryContact>j.sorg@fz-juelich.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>r.kunkel@fz-juelich.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2000</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://wascal-dataportal.org/wascal_searchportal2/info.jsp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>farming</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>land use</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>socio-economy</r3d:keyword>
+                    <r3d:keyword>soil</r3d:keyword>
+                    <r3d:keyword>topography</r3d:keyword>
+                    <r3d:keyword>vegetation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">WASCAL  Partner Networks</r3d:institutionName>
+                                <r3d:institutionCountry>BFA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wascal-dataportal.org/wascal_searchportal2/add.info.jsp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">West African Science Service Center on Climate Change and Adapted Land Use</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WASCAL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GHA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wascal.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0134qgb15</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wascal.org/contact/</r3d:institutionContact>
+                                    <r3d:institutionContact>info@wascal.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Legal constraints for data sharing: Data Policy</r3d:policyName>
+                <r3d:policyURL>https://wascal-dataportal.org/wascal_searchportal2/downloads/WADI-Portal_Handbook_2nd.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WASCAL Cooperation Agreement</r3d:policyName>
+                <r3d:policyURL>https://wascal.org/wp-content/uploads/2020/08/WASCAL_Cooperation_Agreement.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WASCAL Data Management Plan</r3d:policyName>
+                <r3d:policyURL>https://wascal-dataportal.org/wascal_searchportal2/downloads/WASCAL-DMP.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gnu.org/licenses/gpl-2.0.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wascal-dataportal.org/wascal_searchportal2/downloads/WASCAL-DMP.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wascal-dataportal.org/wascal_searchportal2/downloads/WASCAL-DMP.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://wascal-dataportal.org/wascal_searchportal2/downloads/WASCAL-DMP.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>WASCAL is governed by a Governing Board that includes one member of each of the ten WASCAL partner countries and Germany. WASCAL partner countries: Bénin, Burkina Faso, Côte d&#039;Ivoire, Gambia, Ghana, Mali, Niger, Nigeria, Sénégal, Togo</r3d:remarks>
+        <r3d:entryDate>2015-04-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

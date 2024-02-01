@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013591</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Ecosystem Data Bank</r3d:repositoryName>
+                    <r3d:additionalName language="eng">EcoDB</r3d:additionalName>
+                    <r3d:additionalName language="zho">国家生态科学数据存储库</r3d:additionalName>
+                <r3d:repositoryURL>http://ecodb.cern.ac.cn</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ad7575</r3d:repositoryIdentifier>
+                <r3d:description language="eng">National ecosystem data bank (EcoDB) is a public professional scientific data repository supported by the National Ecosystem Science Data Center (NESDC) for researchers in ecology and related fields, which provides long-term preservation, publication, sharing and access services of scientific data. EcoDB provides services for both individual researchers and scientific journals. Individuals can use this repository to store, manage and publish scientific data, get feedback from others on the data, and discover scientific data shared by others through this repository. Journals can use the repository to gather, manage and review the supporting data of submitted paper. At the same time, journals can timely publish these supporting data according to their own data policies.</r3d:description>
+                    <r3d:repositoryContact>https://www.scidb.cn/en/about/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>nesdc@igsnrr.ac.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-12-07">403 datasets; 14.161 data files, over 6 Terabyte data volume</r3d:size>
+        <r3d:startDate>2021</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20701 Soil Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.scidb.cn/en/about/introduction</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Chinese Academy of Sciences, Institute of Geographic Sciences and Natural Resources Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CAS IGSNRR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="zho">中国科学院地理科学与资源研究所</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://english.igsnrr.cas.cn/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t1cdb72</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://english.igsnrr.cas.cn/ai/cu/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.scidb.cn/en/help?p=data_policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Service</r3d:policyName>
+                <r3d:policyURL>https://www.scidb.cn/en/about/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Terms of Service</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.scidb.cn/en/about/terms</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://www.scidb.cn/en/help?p=oai_pmh</r3d:api>
+                    <r3d:api apiType="REST">https://www.scidb.cn/open-api/swagger-ui.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.scidb.cn/en/help?p=data_policy</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2021-06-22</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

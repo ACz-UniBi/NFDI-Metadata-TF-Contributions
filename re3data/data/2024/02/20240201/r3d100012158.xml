@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012158</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Etsin Research Data Finder</r3d:repositoryName>
+                    <r3d:additionalName language="fin">Etsin - tutkimusaineistojen hakupalvelu</r3d:additionalName>
+                <r3d:repositoryURL>https://etsin.fairdata.fi/</r3d:repositoryURL>
+                <r3d:description language="eng">Etsin is a research data finder that contains descriptive information – that is, metadata – on research datasets. In the service you can search and find data from various fields of research. A researcher, research group or organisation can use Etsin to publish information on their datasets and offer them for wider use. The metadata contained in Etsin makes it easy for anyone to discover the datasets.  Etsin assigns a permanent URN identifier to datasets, making it possible to link to the dataset and gather merit through its publication and use.
+The metadata enables users to search for datasets and evaluate the potential for reuse. Etsin includes a description of the dataset, keywords and various dataset identifiers. The dataset information includes, for example, its subject, language, author, owner and how it is licensed for reuse. Good description of data plays an important role in its discoverability and visibility. Etsin encourages comprehensive descriptions by adapting a common set of discipline independent metadata fields and by making it easy to enter metadata.
+Etsin only collects metadata on datasets, not the data themselves. Anyone may browse and read the metadata. Etsin can be used with a browser or through an open interface (API). The service is discipline independent and free to use. 
+Etsin is a service provided by the Ministry of Education and Culture to actors in the Finnish research system. The service is produced by CSC – IT Center for Science (CSC).  Customer service contacts and feedback is available through servicedesk@csc.fi. The service maintenance window is on the fourth Monday of every month between 4 and 6 PM (EET). During that time, the service will be out of use.</r3d:description>
+                    <r3d:repositoryContact>servicedesk@csc.fi</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2020-11-26">10.143 datasets</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fin</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.fairdata.fi/en/etsin/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>AILA</r3d:keyword>
+                    <r3d:keyword>AVAA</r3d:keyword>
+                    <r3d:keyword>Doria</r3d:keyword>
+                    <r3d:keyword>Finto</r3d:keyword>
+                    <r3d:keyword>IDA</r3d:keyword>
+                    <r3d:keyword>Language</r3d:keyword>
+                    <r3d:keyword>Language Bank of Finland</r3d:keyword>
+                    <r3d:keyword>Tuuli</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CSC - IT Center for Science Ltd</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fin">CSC - Tieteen tietotekniikan keskus</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FIN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.csc.fi/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04m8m1253</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.csc.fi/contact-info</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Education and Culture</r3d:institutionName>
+                                <r3d:institutionCountry>FIN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://minedu.fi/OPM/?lang=en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02w52zt87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Accessibility Statement for Fairdata Etsin</r3d:policyName>
+                <r3d:policyURL>https://www.fairdata.fi/en/etsin-accessibility/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Fairdata Terms and Policies</r3d:policyName>
+                <r3d:policyURL>https://www.fairdata.fi/en/terms-and-policies/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Public Domain</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC0</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.fairdata.fi/en/metax/apis/</r3d:api>
+                            <r3d:pidSystem>URN</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.fairdata.fi/en/etsin/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DCAT - Data Catalog Vocabulary</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dcat-data-catalog-vocabulary</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Supports any PID type, provides only URNs. Supports any research identifier, e.g. ORCID. Metadata schema follows the national standard for research data, follows Dublin Core and DCat</r3d:remarks>
+        <r3d:entryDate>2016-09-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

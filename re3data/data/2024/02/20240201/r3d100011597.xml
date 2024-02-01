@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011597</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">LEDAS</r3d:repositoryName>
+                    <r3d:additionalName language="eng">LEicester Database and Archive Service</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ledas.ac.uk/</r3d:repositoryURL>
+                <r3d:description language="eng">The Leicester Database and Archive Service (LEDAS) is an easy to use on-line astronomical database and archive access service, dealing mainly with data from high energy astrophysics missions, but also providing full database functionality for over 200 astronomical catalogues from ground-based observations and space missions. The LEDAS also allows access to images, spectra and light curves in graphics, HDS and FITS formats, as well as access to raw and processed event data. LEDAS provides the primary means of access for the UK astronomical community to the ROSAT Public Data Archive, the ASCA Public Data Archive and the Ginga Products Archive by its Archive Network Interface ARNIE.</r3d:description>
+                    <r3d:repositoryContact>https://www.ledas.ac.uk/info/contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>ledas-help@star.le.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.ledas.ac.uk/info/overview.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ASCA</r3d:keyword>
+                    <r3d:keyword>DSS</r3d:keyword>
+                    <r3d:keyword>Ginga</r3d:keyword>
+                    <r3d:keyword>HEASARC</r3d:keyword>
+                    <r3d:keyword>ROSAT</r3d:keyword>
+                    <r3d:keyword>ViZieR</r3d:keyword>
+                    <r3d:keyword>astronomy</r3d:keyword>
+                    <r3d:keyword>astrophysic</r3d:keyword>
+                    <r3d:keyword>data cubes</r3d:keyword>
+                    <r3d:keyword>gamma-ray</r3d:keyword>
+                    <r3d:keyword>light</r3d:keyword>
+                    <r3d:keyword>space mission</r3d:keyword>
+                    <r3d:keyword>spectra</r3d:keyword>
+                    <r3d:keyword>x-ray</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Leicester</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://le.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04h699437</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Leicester, Department of Physics and Astronomy</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://le.ac.uk/physics</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>dlg@star.le.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>The Leicester Database and Archive Service User Guide</r3d:policyName>
+                <r3d:policyURL>https://www.ledas.ac.uk/info/user_guide/www/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ledas.ac.uk/info/user_guide/www/node19.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ledas.ac.uk/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ledas.ac.uk/info/acknowledge.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-06-03</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

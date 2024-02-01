@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011139</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NIST Standard Reference Data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NIST Data Gateway</r3d:additionalName>
+                    <r3d:additionalName language="eng">SRD</r3d:additionalName>
+                <r3d:repositoryURL>https://www.nist.gov/srd</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_006452</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_144072</r3d:repositoryIdentifier>
+                <r3d:description language="eng">NIST Data Gateway - provides easy access to many of the NIST scientific and technical databases. These databases cover a broad range of substances and properties from many different scientific disciplines. The Gateway includes links to free online NIST data systems as well as to information on NIST PC databases available for purchase.</r3d:description>
+                    <r3d:repositoryContact>data@nist.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.nist.gov/about-nist/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-07-02">49 free SRD databases; 41 fee-based SRD databases</r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.nist.gov/srd</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biometric identification - data processing</r3d:keyword>
+                    <r3d:keyword>biotechnology</r3d:keyword>
+                    <r3d:keyword>chemistry - analytic standards</r3d:keyword>
+                    <r3d:keyword>crystallography</r3d:keyword>
+                    <r3d:keyword>fingerprints</r3d:keyword>
+                    <r3d:keyword>fluid dynamics</r3d:keyword>
+                    <r3d:keyword>mass spectrometry</r3d:keyword>
+                    <r3d:keyword>oxide ceramics</r3d:keyword>
+                    <r3d:keyword>phase diagrams</r3d:keyword>
+                    <r3d:keyword>thermodynamics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">NIST Material Measurement Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MML</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nist.gov/mml</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04a0y3b96</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Standards and Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIST</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nist.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05xpvk416</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006440</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nist.gov/pao/media-contacts</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://www.nist.gov/disclaimer</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NIST Information Quality Standards</r3d:policyName>
+                <r3d:policyURL>https://www.nist.gov/director/nist-information-quality-standards</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NIST Privacy and Accessibility Information</r3d:policyName>
+                <r3d:policyURL>https://www.nist.gov/oism/site-privacy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nist.gov/srd/public-law</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nist.gov/disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nist.gov/system/files/documents/srd/SRDAct-2.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The scope of Version 4.0 of the Gateway is 115 NIST databases: 62 online systems with scientific and technical data as well as 50 PC products. The PC products include 26 standard reference databases and 25 imaging databases available from the NIST Scientific and Technical Databases Web site (https://www.nist.gov/srd). Additional NIST databases will be included in future versions of the Gateway.
+Version 4.0 also provides a new search menu (accessible from the JPCRD link) for 845 articles published in the Journal of Physical and Chemical Reference Data between 1972 and 2003. Full text online versions of over 350 articles can be accessed from the NIST Data Gateway in PDF format. For the articles that are not available online, including those published within the last five years, ordering information for reprints is provided. In addition, links are available to abstracts at the American Institute of Physics Web site for all articles published between 1975 and 2003.
+The Gateway can be searched by keyword, property, and substance name.  Over 1000 keywords and properties as well as over 140,000 substance names and synonyms are available in Version 4.0 of the Gateway.</r3d:remarks>
+        <r3d:entryDate>2014-10-06</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

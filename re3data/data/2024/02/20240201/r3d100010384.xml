@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010384</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UdS Fedora Commons Repository</r3d:repositoryName>
+                    <r3d:additionalName language="deu">UdS Fedora Commons Repositorium</r3d:additionalName>
+                <r3d:repositoryURL>https://fedora.clarin-d.uni-saarland.de/index.en.html</r3d:repositoryURL>
+                <r3d:description language="eng">In collaboration with other centres in the CLARIN-D consortium, the UdS CLARIN-D centre enables eHumanities by providing a service for hosting and processing language resources (notably corpora) for members of the research community. The UdS CLARIN-D centre thus contributes of lifting the fragmentation of language resources by assisting members of the research community in preparing language materials in such a way that easy discovery is ensured, interchange is facilitated and preservation is enabled by enriching such materials with meta-information, transforming them into sustainable formats and hosting them. We have an explicit mission to archive language resources especially multilingual corpora (parallel, comparable) and corpora including specific registers, both collected by associated researchers as well as researchers who are not affiliated with us.</r3d:description>
+                    <r3d:repositoryContact>j.knappen@mx.uni-saarland.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Negra-Corpus</r3d:keyword>
+                    <r3d:keyword>archive</r3d:keyword>
+                    <r3d:keyword>computational linguistics</r3d:keyword>
+                    <r3d:keyword>database of voices</r3d:keyword>
+                    <r3d:keyword>humanitites</r3d:keyword>
+                    <r3d:keyword>language research tool</r3d:keyword>
+                    <r3d:keyword>language resources</r3d:keyword>
+                    <r3d:keyword>linguistic data</r3d:keyword>
+                    <r3d:keyword>multilingual corpora</r3d:keyword>
+                    <r3d:keyword>psycholinguistics</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                    <r3d:keyword>standards</r3d:keyword>
+                    <r3d:keyword>syntactic annotation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/de/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wp25384</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.clarin.eu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Clarin-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Common Language Resources and Technology Infrastructure - D</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin-d.net/de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität des Saarlandes</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">UdS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">UdS CLARIN-D centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-saarland.de/start.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01jdpyv68</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011510</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>H.Kermes@mx.uni-saarland.de</r3d:institutionContact>
+                                    <r3d:institutionContact>e.teich@mx.uni-saarland.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLARIN Template for Data User Agreements</r3d:policyName>
+                <r3d:policyURL>https://repos.ids-mannheim.de/resources/DataUserAgreement.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Clarin Template for Depositor Agreements</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://repos.ids-mannheim.de/resources/DepositorsAgreement.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://vlo.clarin.eu/data/clarin/results/cmdi/UdS_CLARIN_D_Repository/</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://fedora.clarin-d.uni-saarland.de/oaiprovider/</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>You can search the content of the UdS CLARIN-D centre repository using two interfaces:
+The recommended search interface is the facetted search provided by the Virtual Langauge Observatory (VLO) https://vlo.clarin.eu. It provides a user-friendly interface to the resources. It also provides search over a large number of repositories all over the world. There is also a very succinct native Fedora Commons search interface. It provides a facetted search over all metadata fields Fedora Commons maintains.</r3d:remarks>
+        <r3d:entryDate>2013-04-03</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

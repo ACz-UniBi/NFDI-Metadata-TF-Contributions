@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012052</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Cancer Immunome Atlas</r3d:repositoryName>
+                    <r3d:additionalName language="eng">TCIA</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Cancer Immunome Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Cancer Immunome Database</r3d:additionalName>
+                <r3d:repositoryURL>https://tcia.at/home</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_014508</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Cancer Immunome Database (TCIA) provides results of comprehensive immunogenomic analyses of next generation sequencing data (NGS) data for 20 solid cancers from The Cancer Genome Atlas (TCGA) and other datasource. The Cancer Immunome Atlas (TCIA) was developed and is maintained at the Division of Bioinformatics (ICBI). The database can be queried for the gene expression of specific immune-related gene sets, cellular composition of immune infiltrates (characterized using gene set enrichment analyses and deconvolution), neoantigens and cancer-germline antigens, HLA types, and tumor heterogeneity (estimated from cancer cell fractions). Moreover it provides survival analyses for different types immunological parameters.
+TCIA will be constantly updated with new data and results.</r3d:description>
+                    <r3d:repositoryContact>dietmar.rieder@i-med.ac.at</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://tcia.at/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>icbi@i-med.ac.at</r3d:repositoryContact>
+                    <r3d:repositoryContact>zlatko.trajanoski@i-med.ac.at</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-11-25">24 projects; 20 diseases; 9.562 cases</r3d:size>
+        <r3d:startDate>2016-06-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20405 Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20514 Hematology, Oncology, Transfusion Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://tcia.at/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>MHC</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>gesa</r3d:keyword>
+                    <r3d:keyword>immune system</r3d:keyword>
+                    <r3d:keyword>immunity</r3d:keyword>
+                    <r3d:keyword>immuno-oncology</r3d:keyword>
+                    <r3d:keyword>immunom</r3d:keyword>
+                    <r3d:keyword>immunophenogram</r3d:keyword>
+                    <r3d:keyword>immunophenotype</r3d:keyword>
+                    <r3d:keyword>oncology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">APERIM</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Advanced Bioinformatics Platform for Personalised Cancer Immunotherapy</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.up2europe.eu/european/projects/aperim-advanced-bioinformatics-platform-for-personalised-cancer-immunotherapy_27288.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2018</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Horizon 2020</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Medical University of Innsbruck, Biocenter, Division of Bioinformatics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICBI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Medizinische Universität Innsbruck, Sektion für Bioinformatik</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://icbi.i-med.ac.at/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016-06-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>icbi@i-med.ac.at</r3d:institutionContact>
+                                    <r3d:institutionContact>zlatko.trajanoski@i-med.ac.at</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Freedom of Information Act</r3d:policyName>
+                <r3d:policyURL>https://www.cancer.gov/policies/foia</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Reuse of NCI Information</r3d:policyName>
+                <r3d:policyURL>https://www.cancer.gov/policies/copyright-reuse</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.cancer.gov/policies/copyright-reuse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://tcia.at/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Datasources: TCGA
+Access TCGA Data:  Genomic Data Commons Data Portal https://www.re3data.org/repository/r3d100012061</r3d:remarks>
+        <r3d:entryDate>2016-06-24</r3d:entryDate>
+        <r3d:lastUpdate>2022-11-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

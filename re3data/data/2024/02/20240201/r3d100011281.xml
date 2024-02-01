@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011281</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Global Trade Analysis Project</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The GTAP Data Base</r3d:additionalName>
+                <r3d:repositoryURL>https://www.gtap.agecon.purdue.edu/databases/default.asp</r3d:repositoryURL>
+                <r3d:description language="eng">The centerpiece of the Global Trade Analysis Project is a global data base describing bilateral trade patterns, production, consumption and intermediate use of commodities and services. The GTAP Data Base consists of bilateral trade, transport, and protection matrices that link individual country/regional economic data bases. The regional data bases are derived from individual country input-output tables, from varying years.</r3d:description>
+                    <r3d:repositoryContact>contactgtap@purdue.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1993</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.gtap.agecon.purdue.edu/about/history.asp#DBhist</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Africa</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>labor migration</r3d:keyword>
+                    <r3d:keyword>land cover</r3d:keyword>
+                    <r3d:keyword>land use</r3d:keyword>
+                    <r3d:keyword>poverty</r3d:keyword>
+                    <r3d:keyword>satellite data</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">GTAP consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GTAP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gtap.agecon.purdue.edu/about/consortium.asp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Purdue University, Department of Agricultural Economics, Center for Global Trade Analysis, Global Trade Analysis Project</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GTAP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gtap.agecon.purdue.edu/default.asp</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conditions on the Use and Supply of the GTAP  Data Package</r3d:policyName>
+                <r3d:policyURL>https://www.gtap.agecon.purdue.edu/databases/documents/LicenseAgreement_v7.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>GTAP Policy on Input-Output Table and Dataset Contributors</r3d:policyName>
+                <r3d:policyURL>https://www.gtap.agecon.purdue.edu/databases/contribute/documents/conditions.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gtap.agecon.purdue.edu/databases/documents/LicenseAgreement_v7.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.gtap.agecon.purdue.edu/resources/citations.asp</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The GTAP Data Base is covered by Thomson Reuters Data Citation Index. Previous versions of the GTAP Data Base, that are at least 2 releases old are freely available for download. GTAP consortium members and ata contributors receive a single use license and free access to the most recent update.</r3d:remarks>
+        <r3d:entryDate>2014-11-22</r3d:entryDate>
+        <r3d:lastUpdate>2021-12-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

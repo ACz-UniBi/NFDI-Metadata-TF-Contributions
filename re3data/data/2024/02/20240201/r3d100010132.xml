@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010132</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Multimodal Learning Corpus Exchange</r3d:repositoryName>
+                    <r3d:additionalName language="eng">LETEC</r3d:additionalName>
+                    <r3d:additionalName language="eng">MULCE</r3d:additionalName>
+                    <r3d:additionalName language="eng">MUltimodal contextualized Learner Corpus Exchange</r3d:additionalName>
+                    <r3d:additionalName language="eng">Multimodal Learning and Teaching Corpora</r3d:additionalName>
+                <r3d:repositoryURL>http://lrl-diffusion.univ-bpclermont.fr/mulce2/accesCorpus/accesCorpusMulce.php</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2425-3316</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Mulce (MUltimodal contextualized Learner Corpus Exchange) is a research project supported by the National Research Agency (ANR programme: &quot;Corpus and Tools in the Humanities&quot;, ANR-06-CORP-006).
+A teaching corpus (LETEC - Learning and Teaching Corpora) combines a systematic and structured data set, particularly of interactional data, and traces left by a training course experimentation, conducted partially or completely online and completed by additional technical, human, pedagogical and scientific information to enable the data to be analysed in context.</r3d:description>
+                    <r3d:repositoryContact>pfmaster@mulce.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-04-21">49</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10401 General and Applied Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>http://mulce-doc.univ-bpclermont.fr/?lang=en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>learning</r3d:keyword>
+                    <r3d:keyword>teaching</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">ANR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">L&#039;Agence Nationale de la Recherche</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">ANR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">French National Research Agency</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://anr.fr/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011248</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_71540</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2010</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Maison des Sciences de l&#039;Homme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">MSH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.msh-clermont.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">OLAC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Open Language Archives Community</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.language-archives.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Franche-Comté</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">UFC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Université de Franche-Comté</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.univ-fcomte.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03pcc9z86</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2009</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université Clermont Auvergne, Laboratoire de Recherche sur le Langage</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">LRL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uca.fr/laboratoires/laboratoire-de-recherche-sur-le-langage-lrl</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://mulce-doc.univ-bpclermont.fr/spip.php?article3</r3d:institutionContact>
+                                    <r3d:institutionContact>info@mucle.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Access information about Mulce on OLAC</r3d:policyName>
+                <r3d:policyURL>http://www.language-archives.org/archive/mulce.org</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Open Data, Guide to Open Licensing</r3d:policyName>
+                <r3d:policyURL>https://opendefinition.org/guide/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;identifier=oai:mulce.org:mce-archi21-letec-all&amp;metadataPrefix=oai_dc</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">other</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">http://mulce-doc.univ-bpclermont.fr/spip.php?page=backend</r3d:syndication>
+                <r3d:remarks>MULCE is part of Open Language Archive Community (OLAC) http://www.language-archives.org/archive_records/mulce.org and Common Language Resources and Technology Infrastructure (CLARIN) and searchable in its VLO https://vlo.clarin.eu/search?0&amp;fq=collection:Multimodal+Learning+and+teaching+Corpora+Exchange</r3d:remarks>
+        <r3d:entryDate>2012-12-06</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

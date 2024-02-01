@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010423</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Woods Hole Open Access Server</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WHOAS</r3d:additionalName>
+                    <r3d:additionalName language="eng">a repository for the Woods Hole scientific community</r3d:additionalName>
+                <r3d:repositoryURL>https://darchive.mblwhoilibrary.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.r3fzzc</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Woods Hole Open Access Server, WHOAS, is an institutional repository that captures, stores, preserves, and redistributes the intellectual output of the Woods Hole scientific community in digital form.  WHOAS is managed by the MBLWHOI Library as a service to the Woods Hole scientific community</r3d:description>
+                    <r3d:repositoryContact>https://darchive.mblwhoilibrary.org/contact</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.mblwhoilibrary.org/services/whoas-repository-services</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>coastal geology</r3d:keyword>
+                    <r3d:keyword>ecosystems</r3d:keyword>
+                    <r3d:keyword>marine biology</r3d:keyword>
+                    <r3d:keyword>marine geology</r3d:keyword>
+                    <r3d:keyword>marine policy</r3d:keyword>
+                    <r3d:keyword>seafloor mapping</r3d:keyword>
+                    <r3d:keyword>sediment transport</r3d:keyword>
+                    <r3d:keyword>tectonics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Woods Hole Oceanographic Institution, Marine Biological Laboratory, Library</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MBLWHOI Library</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.mblwhoilibrary.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://darchive.mblwhoilibrary.org/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>whoas@whoi.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/08/Woods-Hole-Open-Access-Server-WHOAS.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WHOAS Repository Services</r3d:policyName>
+                <r3d:policyURL>http://www.mblwhoilibrary.org/services/whoas-repository-services</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/bsd-license.php</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.mblwhoilibrary.org/services/copyright-management</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.mblwhoilibrary.org/services/whoas-repository-services</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.mblwhoilibrary.org/services/whoi-open-access-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://creativecommons.org/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                    <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>other</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.mblwhoilibrary.org/sites/default/files/WHOAS_Submission_Instructions_3.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://darchive.mblwhoilibrary.org/oai/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.mblwhoilibrary.org/sites/default/files/WHOAS%20How%20to%20Cite%20Items_1.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="ATOM">https://darchive.mblwhoilibrary.org/feed/atom_1.0/site</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://darchive.mblwhoilibrary.org/feed/rss_1.0/site</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://darchive.mblwhoilibrary.org/feed/rss_2.0/site</r3d:syndication>
+                <r3d:remarks>Woods Hole Open Access Server is covered by Thomson Reuters Data Citation Index. is covered by Elsevier.
+WHOAS uses altmetric.com metrics.</r3d:remarks>
+        <r3d:entryDate>2013-07-01</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

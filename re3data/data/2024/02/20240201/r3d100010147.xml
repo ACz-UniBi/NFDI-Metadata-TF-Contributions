@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010147</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Repository CLARIN Centre Leipzig</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CLARIN repository at the Saxon Academy of Sciences and Humanities</r3d:additionalName>
+                    <r3d:additionalName language="eng">Leipzig Corpora Collection</r3d:additionalName>
+                    <r3d:additionalName language="deu">Repositorium der Sächsischen Akademie der Wissenschaften zu Leipzig</r3d:additionalName>
+                    <r3d:additionalName language="eng">SAW</r3d:additionalName>
+                    <r3d:additionalName language="eng">Text+ centre at the Saxon Academy of Sciences and Humanities</r3d:additionalName>
+                <r3d:repositoryURL>https://repo.data.saw-leipzig.de/en</r3d:repositoryURL>
+                <r3d:description language="eng">The CLARIN­/Text+ repository at the Saxon Academy of Sciences and Humanities in Leipzig offers long­term preservation of digital resources, along with their descriptive metadata. The mission of the repository is to ensure the availability and long­term preservation of resources, to preserve knowledge gained in research, to aid the transfer of knowledge into new contexts, and to integrate new methods and resources into university curricula. Among the resources currently available in the Leipzig repository are a set of corpora of the Leipzig Corpora Collection (LCC), based on newspaper, Wikipedia and Web text. Furthermore several REST-based webservices are provided for a variety of different NLP-relevant tasks
+The repository is part of the CLARIN infrastructure and part of the NFDI consortium Text+. It is operated by the Saxon Academy of Sciences and Humanities in Leipzig.</r3d:description>
+                    <r3d:repositoryContact>clarin@saw-leipzig.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://repo.data.saw-leipzig.de/en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CLARIN</r3d:keyword>
+                    <r3d:keyword>NFDI</r3d:keyword>
+                    <r3d:keyword>NLP</r3d:keyword>
+                    <r3d:keyword>Text+</r3d:keyword>
+                    <r3d:keyword>computational linguistics</r3d:keyword>
+                    <r3d:keyword>corpora</r3d:keyword>
+                    <r3d:keyword>language resources</r3d:keyword>
+                    <r3d:keyword>natural language processing</r3d:keyword>
+                    <r3d:keyword>under-resourced languages</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/en/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - D</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin-d.net/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.clarin-d.net/de/kontakt-impressum</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Saxon Academy of Sciences and Humanities in Leipzig</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">SAW</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Sächsische Akademie der Wissenschaften zu Leipzig</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.saw-leipzig.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03zxjdk07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.saw-leipzig.de/en/contact-info</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Text+</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.text-plus.org/en/home/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.text-plus.org/en/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Leipzig, Fakultät für Mathematik und Informatik, Institut für Informatik, Abteilung Automatische Sprachverarbeitung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">ASV</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NLP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">University Leipzig, Faculty of Mathematics and Computer Science, Institute of Computer Science, Natural Language Processing Group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://asv.informatik.uni-leipzig.de/en/?format=html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2021</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://asv.informatik.uni-leipzig.de/de/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Acess Rights</r3d:policyName>
+                <r3d:policyURL>https://repo.data.saw-leipzig.de/depositing/en</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/02/CLARIN-D-Resource-Center-Leipzig.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Licenses</r3d:policyName>
+                <r3d:policyURL>https://repo.data.saw-leipzig.de/licenses/en</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Usage</r3d:policyName>
+                <r3d:policyURL>https://wortschatz.uni-leipzig.de/en/usage</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://repo.data.saw-leipzig.de/depositing/en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wortschatz.uni-leipzig.de/en/usage</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Depositing</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://repo.data.saw-leipzig.de/depositing/en</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://repo.data.saw-leipzig.de/oai-pmh</r3d:api>
+                    <r3d:api apiType="REST">https://api.wortschatz-leipzig.de/ws/swagger-ui/index.html</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://wortschatz.uni-leipzig.de/en/documentation/publications</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The Virtual Language Observatory (VLO) harvests SAW metadata: https://vlo.clarin.eu/search?fq=dataProvider:SAW+Leipzig
+Partners: https://repo.data.saw-leipzig.de/partners/en
+Resources: https://repo.data.saw-leipzig.de/resources/en</r3d:remarks>
+        <r3d:entryDate>2013-09-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

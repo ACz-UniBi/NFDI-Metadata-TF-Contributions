@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010735</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Rolling Deck to Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">R2R</r3d:additionalName>
+                <r3d:repositoryURL>https://www.rvdata.us/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.ZEbjok</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Rolling Deck to Repository (R2R) Program provides a comprehensive shore-side data management program for a suite of routine underway geophysical, water column, and atmospheric sensor data collected on vessels of the academic research fleet. R2R also ensures data are submitted to the NOAA National Centers for Environmental Information for long-term preservation.</r3d:description>
+                    <r3d:repositoryContact>https://www.rvdata.us/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@rvdata.us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-04-20">48.304 archived datasets; 49 vessels</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.rvdata.us/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ADCP</r3d:keyword>
+                    <r3d:keyword>CTD</r3d:keyword>
+                    <r3d:keyword>Fluorometer</r3d:keyword>
+                    <r3d:keyword>Multibeam</r3d:keyword>
+                    <r3d:keyword>SAMOS</r3d:keyword>
+                    <r3d:keyword>XBT</r3d:keyword>
+                    <r3d:keyword>echosounder</r3d:keyword>
+                    <r3d:keyword>gravity</r3d:keyword>
+                    <r3d:keyword>magnetics</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>ocean temperature</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                    <r3d:keyword>water samples</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Earth Institute, Lamont-Doherty Earth Observatory</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://lamont.columbia.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02e2tgs60</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DataONE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Data Observation Network for Earth</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dataone.org</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00hr5y405</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003999</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158410</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2017</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>support@dataone.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Florida State University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FSU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fsu.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05g3dte14</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011228</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_70332</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Scripps Institution of Oceanography</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://scripps.ucsd.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04v7hvq31</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Shipboard Automated Meteorological and Oceanographic System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SAMOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://samos.coaps.fsu.edu/html/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>samos@coaps.fsu.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University-National Oceanographic Laboratory System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UNOLS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unols.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03nbky582</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>office@unols.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Woods Hole Oceanographic Institutuion</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.whoi.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03zbnzt98</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006315</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_154727</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access</r3d:policyName>
+                <r3d:policyURL>https://www.rvdata.us/about/data-policies-and-repositories/data-access</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Policies</r3d:policyName>
+                <r3d:policyURL>https://www.rvdata.us/about/data-policies-and-repositories</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/mark/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.rvdata.us/about/data-policies-and-repositories/data-submission</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://releases.dataone.org/online/api-documentation-v2.0/apis/MN_APIs.html</r3d:api>
+                    <r3d:api apiType="REST">https://www.rvdata.us/about/technical-details/services</r3d:api>
+                    <r3d:api apiType="SPARQL">http://data.rvdata.us/snorql/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>R2R repository is covered by Thomson Reuters Data Citation Index.
+DataONE member node of R2R:  https://search.dataone.org/portals/R2R</r3d:remarks>
+        <r3d:entryDate>2014-09-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

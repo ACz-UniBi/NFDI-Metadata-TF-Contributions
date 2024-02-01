@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012008</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Mindboggle-101</r3d:repositoryName>
+                <r3d:repositoryURL>https://dataverse.harvard.edu/dataverse/mindboggle101</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_002439</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_155814</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Mindboggle-101 data consist of three data sets: (1) individually labeled human brain surfaces and volumes, (2) templates (unlabeled images combining the individual brains, used for registration), and (3) atlases (anatomical labels combining the individual brains, used for labeling).</r3d:description>
+                    <r3d:repositoryContact>arno@childmind.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-09-21">3 datasets; 62 files</r3d:size>
+        <r3d:startDate>2016</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://mindboggle.info/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>MRI</r3d:keyword>
+                    <r3d:keyword>anatomy</r3d:keyword>
+                    <r3d:keyword>computational neuroscience</r3d:keyword>
+                    <r3d:keyword>human brain</r3d:keyword>
+                    <r3d:keyword>labels</r3d:keyword>
+                    <r3d:keyword>magnetic resonance images</r3d:keyword>
+                    <r3d:keyword>neuroinformatics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Harvard University</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.harvard.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard University, Institute of Quantitative Social Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IQSS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iq.harvard.edu</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>support@dataverse.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Dataverse  Project</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The Dataverse Network Project</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dataverse.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>support@dataverse.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Community-norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Dataverse Guides</r3d:policyName>
+                <r3d:policyURL>https://guides.dataverse.org/en/latest/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Harvard Dataverse General Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://support.dataverse.harvard.edu/harvard-dataverse-general-terms-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://guides.dataverse.org/en/latest/admin/discoverability.html?highlight=oai%20pmh</r3d:api>
+                    <r3d:api apiType="REST">https://guides.dataverse.org/en/latest/api/native-api.html</r3d:api>
+                    <r3d:api apiType="SWORD">https://guides.dataverse.org/en/latest/api/sword.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://mindboggle.info/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Data related to the Mindboggle project (example input, output, and test data, templates, atlases, papers, posters, etc.) are all available in Mindboggle&#039;s Open Science Framework page: https://osf.io/ydyxu/</r3d:remarks>
+        <r3d:entryDate>2016-05-26</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

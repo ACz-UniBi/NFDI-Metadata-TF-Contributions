@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011821</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Chickpea Transcriptome Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CTDB</r3d:additionalName>
+                <r3d:repositoryURL>http://223.31.159.7/ctdb/</r3d:repositoryURL>
+                <r3d:description language="eng">The Chickpea Transcriptome Database (CTDB) has been developed with the view to provide most comprehensive information about the chickpea transcriptome, the most relevant part of the genome. The database contains various information and tools for transcriptome sequence, functional annotation, conserved domain(s), transcription factor families, molecular markers (microsatellites and single nucleotide polymorphisms), Comprehensive gene expression and comparative genomics with other legumes. The database is a freely available resource, which provides user scientists/breeders a portal to search, browse and query the data to facilitate functional and applied genomics research in chickpea and other legumes.
+The current release of database provides transcriptome sequence from cultivated (Cicer arietinum desi (ICC4958) and kabuli (ICCV2)) and wild (Cicer reticulatum, PI489777) chickpea genotypes.</r3d:description>
+                    <r3d:repositoryContact>http://223.31.159.7/ctdb/cgi-bin/contact.pl</r3d:repositoryContact>
+                    <r3d:repositoryContact>mjain@nipgr.ac.in</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://223.31.159.7/ctdb/cgi-bin/data.pl</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Arapidopsis</r3d:keyword>
+                    <r3d:keyword>chickpea transcriptome</r3d:keyword>
+                    <r3d:keyword>cicer arietinum</r3d:keyword>
+                    <r3d:keyword>cicer reticulatum</r3d:keyword>
+                    <r3d:keyword>compound microsatellite</r3d:keyword>
+                    <r3d:keyword>desi chickpea</r3d:keyword>
+                    <r3d:keyword>flower development</r3d:keyword>
+                    <r3d:keyword>kabuli chickpea</r3d:keyword>
+                    <r3d:keyword>legumes</r3d:keyword>
+                    <r3d:keyword>polymorphic microsatellite</r3d:keyword>
+                    <r3d:keyword>wild chickpea</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of India, Ministry of Science &amp; Technology, Department of Biotechnology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DBT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dbtindia.gov.in/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Plant Genome Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIPGR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nipgr.ac.in/home/home.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://223.31.159.7/ctdb/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://223.31.159.7/ctdb/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Chickpea Transcriptome Database is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2016-02-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

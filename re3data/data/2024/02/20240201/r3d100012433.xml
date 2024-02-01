@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012433</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Human Genetic Variation Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">HGVD</r3d:additionalName>
+                <r3d:repositoryURL>https://www.hgvd.genome.med.kyoto-u.ac.jp/index.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.c7edd8</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_11833</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Human Genetic Variation Database (HGVD) aims to provide a central resource to archive and display Japanese genetic variation and association between the variation and transcription level of genes. The database currently contains genetic variations determined by exome sequencing of 1,208 individuals and genotyping data of common variations obtained from a cohort of 3,248 individuals.</r3d:description>
+                    <r3d:repositoryContact>hgvd@genome.med.kyoto-u.ac.jp</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.hgvd.genome.med.kyoto-u.ac.jp/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2017-08-09">1.208 samples of exome sequencing data</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Japanese</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>next-generation sequencers</r3d:keyword>
+                    <r3d:keyword>pathogenic variations</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Kyoto University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">京都大学</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kyoto-u.ac.jp/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02kpeqv85</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004108</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_60798</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Health, Labour and Welfare</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MHLW</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">厚生労働省</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mhlw.go.jp/english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mwa7s65</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011326</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_152042</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Child Health and Development</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCCHD</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">国立児童衛生研究所</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ncchd.go.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03fvwxc59</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The University of Tokyo</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">東京大学</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.u-tokyo.ac.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:057zh3y96</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011731</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_97187</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Tohoku University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">東北大学</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tohoku.ac.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01dq60k83</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Yokohama City University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">YCU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">横浜市立大学</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www-user.yokohama-cu.ac.jp/~english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0135d1r83</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Content and Organization</r3d:policyName>
+                <r3d:policyURL>https://www.hgvd.genome.med.kyoto-u.ac.jp/repository.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Service</r3d:policyName>
+                <r3d:policyURL>https://www.hgvd.genome.med.kyoto-u.ac.jp/about.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.hgvd.genome.med.kyoto-u.ac.jp/repository.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.hgvd.genome.med.kyoto-u.ac.jp/about.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.hgvd.genome.med.kyoto-u.ac.jp/about.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-08-09</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

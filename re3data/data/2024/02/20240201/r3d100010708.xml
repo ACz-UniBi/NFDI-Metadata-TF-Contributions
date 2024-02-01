@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010708</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CEPDB</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The Harvard Clean Energy Project Database</r3d:additionalName>
+                <r3d:repositoryURL>https://www.matter.toronto.edu/basic-content-page/open-software-data</r3d:repositoryURL>
+                <r3d:description language="eng">-----&lt;&lt;&lt;&lt;&lt;   The repository is no longer available. This record is out-dated.  The Matter lab provides the archived database version of 2012 and 2013 at https://www.matter.toronto.edu/basic-content-page/data-download. Data linked from the World Community Grid - The Clean Energy Project  see at https://www.worldcommunitygrid.org/research/cep1/overview.do and on  fighshare https://figshare.com/articles/dataset/moldata_csv/9640427   &gt;&gt;&gt;&gt;&gt;-----    The Clean Energy Project Database (CEPDB) is a massive reference database for organic semiconductors with a particular emphasis on photovoltaic applications. It was created to store and provide access to data from computational as well as experimental studies, on both known and virtual compounds. It is a free and open resource designed to support researchers in the field of organic electronics in their scientific pursuits.
+The CEPDB was established as part of the Harvard Clean Energy Project (CEP), a virtual high-throughput screening initiative to identify promising new candidates for the next generation of carbon-based solar cell materials.</r3d:description>
+                    <r3d:repositoryContact>alan@aspuru.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2013-08-20">over 400 TB data</r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate>2018</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">312 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">33 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">408 Electrical Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.worldcommunitygrid.org/research/cep1/overview.do</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>organic photovoltaic (OPV)</r3d:keyword>
+                    <r3d:keyword>organic solar cells</r3d:keyword>
+                    <r3d:keyword>photosyntetics</r3d:keyword>
+                    <r3d:keyword>quantum computation</r3d:keyword>
+                    <r3d:keyword>quantum information</r3d:keyword>
+                    <r3d:keyword>renewable energy materials</r3d:keyword>
+                    <r3d:keyword>solar engergy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Harvard Clean Energy Project</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CEP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL></r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Matter Lab, Aspuru-Guzik Research Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Aspuru-Guzik group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://matter.toronto.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://matter.toronto.edu/about-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Community Grid - The Clean Energy Project</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.worldcommunitygrid.org/research/cep1/overview.do</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.worldcommunitygrid.org/research/cep2/overview.do</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-08-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-07-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

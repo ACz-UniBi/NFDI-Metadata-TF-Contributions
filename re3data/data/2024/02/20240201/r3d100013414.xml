@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013414</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Germania Sacra Online</r3d:repositoryName>
+                <r3d:repositoryURL>http://www.germania-sacra.de</r3d:repositoryURL>
+                <r3d:description language="eng">Germania Sacra is a long-term research project ongoing at the Göttingen Academy of Sciences and Humanities. The project has a long-standing tradition of researching the history of dioceses, monasteries, collegiate churches, and convents within the Holy Roman Empire. The results of this work are published in reference books, the digital editions of these reference books along with two databases are the core components of Germania Sacra’s Online Portal.  One of these databases is the ‘Digital Index of Persons’, which provides access to biographical and prosopographical information about the clerical staff affiliated to the institutions researched. This includes information about the bishops of a diocese, the canons or canonesses of individual collegiate churches, the monks and nuns of numerous monasteries, etc.  The second primary feature of the online portal is the ‘Database of Monasteries, Collegiate Churches, and Convents of the Holy Roman Empire’.</r3d:description>
+                    <r3d:repositoryContact>germania-sacra@gwdg.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10201 Medieval History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10202 Early Modern History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">107 Theology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://adw-goe.de/en/research/research-projects-within-the-academies-programme/germania-sacra/history-of-the-project/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>bishops</r3d:keyword>
+                    <r3d:keyword>cathedral chapter</r3d:keyword>
+                    <r3d:keyword>church history</r3d:keyword>
+                    <r3d:keyword>collegiate churches</r3d:keyword>
+                    <r3d:keyword>convents</r3d:keyword>
+                    <r3d:keyword>linked ata</r3d:keyword>
+                    <r3d:keyword>monasteries</r3d:keyword>
+                    <r3d:keyword>prosopography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Akademie der Wissenschaften zu Göttingen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Göttingen Academy of Sciences and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://adw-goe.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04hsa7a08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Union der deutschen Akademien der Wissenschaften</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Union of the German Academies of Sciences and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.akademienunion.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bvdz568</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2008-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2033-12-31</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Richtlinien der Germania Sacra</r3d:policyName>
+                <r3d:policyURL>https://adw-goe.de/fileadmin/dokumente/forschungsprojekte/germania_sacra/Richtlinien_Germania_Sacra_3._Folge_neu.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://adw-goe.de/fileadmin/dokumente/forschungsprojekte/germania_sacra/Zitierrichtlinien_der_Germania_Sacra.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-09-17</r3d:entryDate>
+        <r3d:lastUpdate>2020-09-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

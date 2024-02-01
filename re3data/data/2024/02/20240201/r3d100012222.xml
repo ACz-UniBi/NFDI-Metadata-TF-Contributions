@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012222</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Résif Seismological Data Portal</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Réseau sismologique et géodésique francais</r3d:additionalName>
+                <r3d:repositoryURL>https://seismology.resif.fr/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.3a9142</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Résif-EPOS Seismic data repository hosts and distributes seismological data from permanent and temporary seismic networks operated all over the world by French research institutions and international partners, to support research on source processes and imaging of the Earth&#039;s interior at all scales. Résif-EPOS (French seismologic and geodetic network) is a French national equipment for the observation and understanding of the solid Earth.</r3d:description>
+                    <r3d:repositoryContact>https://seismology.resif.fr/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://seismology.resif.fr/resif-information-system/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>GEOSCOPE</r3d:keyword>
+                    <r3d:keyword>LDG</r3d:keyword>
+                    <r3d:keyword>OBS</r3d:keyword>
+                    <r3d:keyword>RAP</r3d:keyword>
+                    <r3d:keyword>RLBP</r3d:keyword>
+                    <r3d:keyword>SISMOB</r3d:keyword>
+                    <r3d:keyword>VOLCANO</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>environmental data</r3d:keyword>
+                    <r3d:keyword>field experimentation</r3d:keyword>
+                    <r3d:keyword>geodetic</r3d:keyword>
+                    <r3d:keyword>ocean bottom seismometer</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">ALLENVI</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Alliance nationale de Recherche pour l&#039;Environnement</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Alliance for Environmental Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.allenvi.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact@allenvi.fr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Centre National de la Recherche Scientifique</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">French National Center for Scientific Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnrs.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02feahw73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_98477</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Institut National des Sciences de l&#039;Univers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">INSU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Institute for Earth Sciences and Astronomy</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insu.cnrs.fr/fr</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04kdfz702</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Higher Education, Research and Innovation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">MESR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Ministère de l&#039;Enseignement supérieur et de la Recherche et de l&#039;Innovation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.enseignementsup-recherche.gouv.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03sjk9a61</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005532</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143604</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Ministère de la Transition Écologique</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Ministry of Ecological Transition</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: MEEM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Ministry of environment, energy and sea</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">formerly: Ministère de L&#039;Environnement, de L&#039;Energie et de la Mer</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ecologie.gouv.fr/#</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">RESIF Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">French seismological and geodetic network</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Réseau sismologique et géodésique français</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.resif.fr</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>bureau@resif.fr</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data and usage policy</r3d:policyName>
+                <r3d:policyURL>https://seismology.resif.fr/data-policy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>RESIF data description</r3d:policyName>
+                <r3d:policyURL>https://seismology.resif.fr/type-of-data/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="other">https://ws.resif.fr/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://seismology.resif.fr/citation-guidelines/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>RESIF is a consortium of French research bodies and academic establishments. Coordinated by the CNRS-INSU, this network relies on the Observatoires des Sciences de l’Univers which are present throughout the whole of France. It is composed of seismographs (velocity meters and accelerometers), geodetic instruments (GNSS) and gravimeters. Read more https://www.resif.fr/presentation/organisation/?article65</r3d:remarks>
+        <r3d:entryDate>2016-11-17</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

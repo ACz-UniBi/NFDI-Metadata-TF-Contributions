@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011048</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Copernicus Space Component Data Access</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CSCDA</r3d:additionalName>
+                    <r3d:additionalName language="eng">GMES</r3d:additionalName>
+                    <r3d:additionalName language="eng">Global Monitoring for Environment and Security programme</r3d:additionalName>
+                <r3d:repositoryURL>https://spacedata.copernicus.eu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001312</r3d:repositoryIdentifier>
+                <r3d:description language="eng">As part of the Copernicus Space Component programme, ESA manages the coordinated access to the data procured from the various Contributing Missions and the Sentinels, in response to the Copernicus users requirements. The Data Access Portfolio documents the data offer and the access rights per user category. The CSCDA portal is the access point to all data, including Sentinel missions, for Copernicus Core Users as defined in the EU Copernicus Programme Regulation (e.g. Copernicus Services).The Copernicus Space Component (CSC) Data Access system is the interface for accessing the Earth Observation products from the Copernicus Space Component. The system overall space capacity relies on several EO missions contributing to Copernicus, and it is continuously evolving, with new missions becoming available along time and others ending and/or being replaced.</r3d:description>
+                    <r3d:repositoryContact>copernicus.space.office@esa.int</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview3</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>earth observation</r3d:keyword>
+                    <r3d:keyword>earth sciences</r3d:keyword>
+                    <r3d:keyword>emergency response</r3d:keyword>
+                    <r3d:keyword>land management</r3d:keyword>
+                    <r3d:keyword>marine environment</r3d:keyword>
+                    <r3d:keyword>satellite observation</r3d:keyword>
+                    <r3d:keyword>security change</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Zentrum für Luft- und Raumfahrt</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Aerospace Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/DE/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>https://www.dlr.de/eoc</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dlr.de/eoc/desktopdefault.aspx/tabid-5367/9013_read-16792/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/commission/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k4n6c32</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011211</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_47458</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ec.europa.eu/info/about-european-commission/contact_en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/guidance/archive_en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Space Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.esa.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wd9za21</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>copernicus.space.office@esa.int</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.esa.int/Applications/Observing_the_Earth/Copernicus</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copernicus Access Rights</r3d:policyName>
+                <r3d:policyURL>https://spacedata.copernicus.eu/web/cscda/copernicus-users/access-rights</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Copernicus Data Access</r3d:policyName>
+                <r3d:policyURL>https://spacedata.copernicus.eu/documents/20126/0/CSCDA_ESA_User_Licence_last_uploaded_2020_02_10.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Legal Documents</r3d:policyName>
+                <r3d:policyURL>https://spacedata.copernicus.eu/web/cscda/data-offer/legal-documents</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://spacedata.copernicus.eu/web/cscda/copernicus-users/access-rights</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://earth.esa.int/documents/10174/296006/Revised_Simplified_EO_Data_policy_03102012.pdf/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://esar-ds.eo.esa.int/oads/access/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://gmesdata.esa.int/web/gsc/news/rssfeeds</r3d:syndication>
+                <r3d:remarks>Copernicus is the most ambitious Earth observation programme to date. It will provide accurate, timely and easily accessible information to improve the management of the environment, understand and mitigate the effects of climate change and ensure civil security. This initiative is headed by the European Commission (EC) in partnership with the European Space Agency (ESA). ESA coordinates the delivery of data from upwards of 30 satellites, while the EEA is responsible for data from airborne and ground sensors. The EC, acting on behalf of the European Union, is responsible for the overall initiative, setting requirements and managing the services. Copernicus partners: Eumetsat, ASI, BNSC, CDTI, CNES, CSA, DLR Earth Observation Center</r3d:remarks>
+        <r3d:entryDate>2014-04-22</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

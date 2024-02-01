@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010850</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Phytozome</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The JGI Comparative Plant Genomics Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://phytozome-next.jgi.doe.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.83d06b</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100556</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_03242</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006507</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_151490</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Phytozome is the Plant Comparative Genomics portal of the Department of Energy&#039;s Joint Genome Institute. Families of related genes representing the modern descendants of ancestral genes are constructed at key phylogenetic nodes. These families allow easy access to clade-specific orthology/paralogy relationships as well as insights into clade-specific novelties and expansions.</r3d:description>
+                    <r3d:repositoryContact>phytozome@jgi-psf.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-10-05">374 assembled and annotated genomes, from 163 Archaeplastida species; 54 Brachypodium distachyon lines from the BrachyPan pan-genome study; 20 species included in the Brassicales Map Alignment Project;  8 cowpea (Vigna unguiculata) genomes included in the CowpeaPan pan-genome project</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20204 Plant Physiology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>BioMart</r3d:keyword>
+                    <r3d:keyword>Genome Portal</r3d:keyword>
+                    <r3d:keyword>JBrowse</r3d:keyword>
+                    <r3d:keyword>PhytoMine</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>physiology, comparative</r3d:keyword>
+                    <r3d:keyword>plant genomes</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">United States Department of Energy, Office of Science, Joint Genome Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JGI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://jgi.doe.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04xm1d337</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003045</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-30425</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://jgi.doe.gov/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.universityofcalifornia.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03taz7m60</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011617</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_79438</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.universityofcalifornia.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Genomic Data Sharing Policies and Expectations</r3d:policyName>
+                <r3d:policyURL>https://www.genome.gov/about-nhgri/Policies-Guidance/Data-Sharing-Policies-and-Expectations</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NHGRI Policies and Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.genome.gov/about-nhgri/Policies-Guidance</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://jgi.doe.gov/disclaimer/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://jgi.doe.gov/disclaimer/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://phytozome-next.jgi.doe.gov/phytomine/api.do</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://mycocosm.jgi.doe.gov/pages/citeUs.jsf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Where possible, each gene has been annotated with PFAM, KOG, KEGG, and PANTHER assignments, and publicly available annotations from RefSeq, UniProt, TAIR, JGI are hyper-linked and searchable.</r3d:remarks>
+        <r3d:entryDate>2014-07-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

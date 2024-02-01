@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010290</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Ecological Observatory Network</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NEON</r3d:additionalName>
+                <r3d:repositoryURL>https://www.neonscience.org/</r3d:repositoryURL>
+                <r3d:description language="eng">Funded by the National Science Foundation (NSF) and proudly operated by Battelle, the National Ecological Observatory Network (NEON) program provides open, continental-scale data across the United States that characterize and quantify complex, rapidly changing ecological processes. The Observatory’s comprehensive design supports greater understanding of ecological change and enables forecasting of future ecological conditions. NEON collects and processes data from field sites located across the continental U.S., Puerto Rico, and Hawaii over a 30-year timeframe. NEON provides free and open data that characterize plants, animals, soil, nutrients, freshwater, and the atmosphere. These data may be combined with external datasets or data collected by individual researchers to support the study of continental-scale ecological change.</r3d:description>
+                    <r3d:repositoryContact>https://www.neonscience.org/about/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-29">More than 180 data products and 500,000 samples and specimens</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.neonscience.org/about/visionandmanagement</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA barcoding</r3d:keyword>
+                    <r3d:keyword>FAIR data principles</r3d:keyword>
+                    <r3d:keyword>agriculture systems</r3d:keyword>
+                    <r3d:keyword>biogeochemistry</r3d:keyword>
+                    <r3d:keyword>carbon cycling</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>ecological data</r3d:keyword>
+                    <r3d:keyword>ecological informatics</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>environmental sensors</r3d:keyword>
+                    <r3d:keyword>forest management</r3d:keyword>
+                    <r3d:keyword>freshwater ecosystems</r3d:keyword>
+                    <r3d:keyword>instrumented systems</r3d:keyword>
+                    <r3d:keyword>invasion biology</r3d:keyword>
+                    <r3d:keyword>metagenomes</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>soil</r3d:keyword>
+                    <r3d:keyword>specimens</r3d:keyword>
+                    <r3d:keyword>terrestrial ecosystems</r3d:keyword>
+                    <r3d:keyword>urban ecosystems</r3d:keyword>
+                    <r3d:keyword>water quality</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Battelle Memorial Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.battelle.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05vqnxk73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011112</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158079</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NEON Data Guidelines and Policies</r3d:policyName>
+                <r3d:policyURL>https://www.neonscience.org/data-samples/guidelines-policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NEON Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.neonscience.org/terms-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.neonscience.org/data-samples/guidelines-policies</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.neonscience.org/data-samples/guidelines-policies</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://data.neonscience.org/data-api/explorer/</r3d:api>
+                    <r3d:api apiType="other">https://data.neonscience.org/data-api/graphql/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.neonscience.org/data-samples/guidelines-policies/citing</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-05-28</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

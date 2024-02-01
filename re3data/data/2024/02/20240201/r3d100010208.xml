@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010208</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The SuiteSparse Matrix Collection</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The University of Florida Sparse Matrix Collection (formerly)</r3d:additionalName>
+                    <r3d:additionalName language="eng">UFL, Sparse Matrix Collection</r3d:additionalName>
+                <r3d:repositoryURL>https://sparse.tamu.edu</r3d:repositoryURL>
+                <r3d:description language="eng">The SuiteSparse Matrix Collection is a large and actively growing set of sparse matrices that arise in real applications. The Collection is widely used by the numerical linear algebra community for the development and performance evaluation of sparse matrix algorithms. It allows for robust and repeatable experiments. Its matrices cover a wide spectrum of domains, include those arising from problems with underlying 2D or 3D geometry (as structural engineering, computational fluid dynamics, model reduction, electromagnetics, semiconductor devices, thermodynamics, materials, acoustics, computer graphics/vision, robotics/kinematics, and other discretizations) and those that typically do not have such geometry (optimization, circuit simulation, economic and financial modeling, theoretical and quantum chemistry, chemical process simulation, mathematics and statistics, power networks, and other networks and graphs.</r3d:description>
+                    <r3d:repositoryContact>http://faculty.cse.tamu.edu/davis/background.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-02-17">2.856 matrices</r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">312 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">33 Mathematics</r3d:subject>
+                <r3d:missionStatementURL>https://sparse.tamu.edu/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>algorithm analysis</r3d:keyword>
+                    <r3d:keyword>algorithms</r3d:keyword>
+                    <r3d:keyword>discrete mathematics</r3d:keyword>
+                    <r3d:keyword>experimentation</r3d:keyword>
+                    <r3d:keyword>graph drawing</r3d:keyword>
+                    <r3d:keyword>graph theory</r3d:keyword>
+                    <r3d:keyword>mathematical software</r3d:keyword>
+                    <r3d:keyword>mathematics of computing</r3d:keyword>
+                    <r3d:keyword>multilevel algorithms</r3d:keyword>
+                    <r3d:keyword>numerical analysis</r3d:keyword>
+                    <r3d:keyword>numerical linear algebra</r3d:keyword>
+                    <r3d:keyword>performance</r3d:keyword>
+                    <r3d:keyword>performance evaluation</r3d:keyword>
+                    <r3d:keyword>sparse matrices</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Texas A&amp;M University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ATM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tamu.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01f5ytq51</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://faculty.cse.tamu.edu/davis/welcome.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Florida, Department of Computer and Information Science and Engineering</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CISE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cise.ufl.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>DrTimothyAldenDavis@gmail.com</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.cise.ufl.edu/~davis/background.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies &amp; Statements</r3d:policyName>
+                <r3d:policyURL>https://www.tamu.edu/statements/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/MIT</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://sparse.tamu.edu/submit</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://sparse.tamu.edu/interfaces</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://sparse.tamu.edu/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>SuiteSparse Matrix Collection is covered by Clarivate Data Citation Index. The SuiteSparse Matrix Collection (formerly known as the University of Florida Sparse Matrix Collection)
+I am now at Texas A&amp;M University, with a home page of http://faculty.cse.tamu.edu/davis. The UF Sparse Matrix Collection is still hosted at this site by the University of Florida. It will soon be hosted at a new primary wev site at Texas A&amp;M University (See:  https://sparse.tamu.edu ); this site will continue to be maintained and kept up to date as a mirror. My SuiteSparse package of sparse matrix solvers is hosted at suitesparse.com   // 
+We provide software for accessing and managing the Collection, from MATLABTM, MathematicaTM,
+Fortran, and C, as well as an online search capability. Graph visualization of the matrices is provided, and a new multilevel coarsening scheme is proposed to facilitate this task. The collection also appears as a Public Data Set hosted by Amazon Web Services, at aws.amazon.com This collection is managed by Tim Davis (University of Florida, Department of Computer and Information Science and Engineering) , with images created by Yifan Hu (AT&amp;T Labs Research). // The University of Florida Sparse Matrix Collection is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2013-02-12</r3d:entryDate>
+        <r3d:lastUpdate>2020-02-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

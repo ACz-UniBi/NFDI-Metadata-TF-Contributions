@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011140</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Global Agricultural Trial Repository and Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AgTrials</r3d:additionalName>
+                <r3d:repositoryURL>https://ccafs.cgiar.org/resources/tools/agtrials</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001783</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available.  http://agtrials.org/ &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>http://www.agtrials.org/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2014-10-09">107 Trial Groups; 43 Technologies; 34.705 Trials</r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.agtrials.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>crops and climate</r3d:keyword>
+                    <r3d:keyword>droughts - research</r3d:keyword>
+                    <r3d:keyword>food security</r3d:keyword>
+                    <r3d:keyword>forest management</r3d:keyword>
+                    <r3d:keyword>global warming</r3d:keyword>
+                    <r3d:keyword>livestock management</r3d:keyword>
+                    <r3d:keyword>soil science</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Consultative Group on International Agricultural Research,  Research Program on Climate Change, Agriculture and Food Security</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CGIAR, CCAFS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ccafs.cgiar.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04wccky94</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ccafs.cgiar.org/contact-us#.WTpZjLmweUl</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Priorities and Policies for CSA</r3d:policyName>
+                <r3d:policyURL>https://ccafs.cgiar.org/flagships/priorities-and-policies-for-CSA</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.agtrials.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.agtrials.org/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Description: &quot;The Global Agricultural Trial Repository (AgTrials) provides access to a database on the performance of agricultural technologies at sites across the developing world. It builds on decades of evaluation trials, mostly of varieties, but includes any agricultural technology for developing world farmers. It aims to facilitate the subsequent analysis on the performance of agricultural technologies under a changing climate and to form the basis for improving models of agricultural production under current and future conditions, and for evaluating the efficacy of trialed materials for adaptation.&quot;
+Current partners: Eight CGIAR centers: the Africa Rice Center (AfricaRice), the Tropical Soil Biology and Fertility Institute of CIAT (CIAT-TSBF), the International Potato Center (CIP), the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), the International Livestock Research Institute (ILRI), the International Center for Agricultural Research in Dry Areas (ICARDA), the International Rice Research Institute (IRRI), the International Institute of Tropical Agriculture (IITA) and Bioversity (Bioversity).  National partners: IER, Réseau Ouest et Centrafricain de recherche sur le Sorgho, CILSS, IRAT -NARS/ CIRAD, SMIP</r3d:remarks>
+        <r3d:entryDate>2014-10-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

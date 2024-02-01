@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010303</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ISRIC - World Soil Information</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WDC-Soils</r3d:additionalName>
+                    <r3d:additionalName language="eng">World Data Centre for Soils</r3d:additionalName>
+                <r3d:repositoryURL>https://www.isric.org/</r3d:repositoryURL>
+                <r3d:description language="eng">ISRIC - World Soil Information is an independent foundation. As regular member of the ICS World Data System it is also known as World Data Centre for Soils (WDC-Soils). ISRIC was founded in 1966 through the International Soil Science Society (ISSS) and United Nations Educational, Scientific and Cultural Organization (UNESCO), with a mission to &quot;help to increase the availability and use of soil data, information and knowledge to enable better decision making for sustainable land management around the world&quot;. Our work is organised according to four work streams: 1) Global soil information &amp; standards, 2) Community of practice for soil information providers, 3) Products and services to support SLM (sustainable land management) decision making, and 4) Awareness, education and dialogues. 
+data.isric.org is our central location for searching and downloading soil data bases/maps from around the world. We support Open Data whenever possible, respecting inherited rights (licenses).</r3d:description>
+                    <r3d:repositoryContact>https://www.isric.org/contact-us</r3d:repositoryContact>
+                    <r3d:repositoryContact>niels.batjes@isric.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1966</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20701 Soil Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.isric.org/about/vision-mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>OGC compliant</r3d:keyword>
+                    <r3d:keyword>soil collections</r3d:keyword>
+                    <r3d:keyword>soil data</r3d:keyword>
+                    <r3d:keyword>soil mapping</r3d:keyword>
+                    <r3d:keyword>web services</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ISRIC - World Soil Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">World Data Centre for Soils (WDC-Soils)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.isric.org</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01z8yfp14</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1966</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.isric.org/form/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal assessment 2023-2026</r3d:policyName>
+                <r3d:policyURL>https://ctscertificationbucket.s3.amazonaws.com/2023/11/2023-11-09-ISRIC---World-Soil-Information-ISRIC---World-Soil-Information-/-WDC--Soils_final.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4ZTNLHN3BLBCAFWX%2F20231110%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20231110T133444Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2d98849c5f067dd6d75035a8ec7a24a0c3c56aa54e58079328ffaa2d487f64fc</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ISRIC Data and Software Policy</r3d:policyName>
+                <r3d:policyURL>https://www.isric.org/about/data-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WDS Data Sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.isric.org/about/data-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/odbl/summary/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://creativecommons.org/licenses/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://rest.isric.org/soilgrids/v2.0/docs</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.isric.org/about/data-policy#citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                    <r3d:certificate>WDS</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>World Data Centre for Soils is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2013-05-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

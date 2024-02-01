@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010219</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DSMZ</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Deutsche Sammlung von Mikroorganismen und Zellkulturen</r3d:additionalName>
+                    <r3d:additionalName language="eng">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures</r3d:additionalName>
+                    <r3d:additionalName language="deu">Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen</r3d:additionalName>
+                <r3d:repositoryURL>https://www.dsmz.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_001711</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-10209</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The DSMZ is the most comprehensive biological resource center worldwide. Being one of the world&#039;s largest collections, the DSMZ currently comprises more than 73,700 items, including about 31,900 different bacterial and 6,600 fungal strains, 840 human and animal cell lines, 1,500 plant viruses and antisera, 700 bacteriophages and 19,000 different types of bacterial genomic DNA. All biological materials accepted in the DSMZ collection are subject to extensive quality control and physiological and molecular characterization by our central services. In addition, DSMZ provides an extensive documentation and detailed diagnostic information on the biological materials. The unprecedented diversity and quality management of its bioresources render the DSMZ an internationally renowned supplier for science, diagnostic laboratories, national reference centers, as well as industrial partners.</r3d:description>
+                    <r3d:repositoryContact>contact@dsmz.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.dsmz.de/customer-support</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-11-24">more than 85.000 bioresources</r3d:size>
+        <r3d:startDate>1997</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.dsmz.de/dsmz/portrait/vision</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>animal cell lines</r3d:keyword>
+                    <r3d:keyword>archea</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>bacteriophages</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>biological interactions</r3d:keyword>
+                    <r3d:keyword>bioressources</r3d:keyword>
+                    <r3d:keyword>biosafety</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>genome evolution</r3d:keyword>
+                    <r3d:keyword>human cell lines</r3d:keyword>
+                    <r3d:keyword>microbial diversity</r3d:keyword>
+                    <r3d:keyword>microbial taxonomy</r3d:keyword>
+                    <r3d:keyword>patent depositary</r3d:keyword>
+                    <r3d:keyword>phylogeny</r3d:keyword>
+                    <r3d:keyword>plant cell cultures</r3d:keyword>
+                    <r3d:keyword>plant cell virus</r3d:keyword>
+                    <r3d:keyword>plasmids</r3d:keyword>
+                    <r3d:keyword>population genetics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DSMZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.dsmz.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02tyer376</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001711</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1969</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dsmz.de/imprint</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Convention on Biological Diversity</r3d:policyName>
+                <r3d:policyURL>https://www.dsmz.de/collection/nagoya-protocol/convention-on-biological-diversity</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Privacy Statement / Data Protection</r3d:policyName>
+                <r3d:policyURL>https://www.dsmz.de/privacy-statement</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms &amp; Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.dsmz.de/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.dsmz.de/imprint</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dsmz.de/imprint</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Convention on Biological Diversity</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.dsmz.de/bacterial-diversity/convention-on-biological-diversity.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.dsmz.de/fileadmin/Bereiche/ChiefEditors/Forms/Neu16/Agreement__Terms_Conditions_PFVI.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                                <r3d:remarks>For the sample ordering of strains, cell lines, cell pellets, DNA, plant cells and plant viruses, fee is required. The DSMZ is the most diverse collection worldwide: alongside fungi, yeasts, bacteria and archaea, human and animal cell cultures, as well as plant viruses and plant cell cultures are explored and archived there as well.
+The DSMZ consists of four collection departments (Microorganisms, Human and Animal Cell Lines, Plant Cell Lines, Plant Viruses) and a dedicated research unit `Microbial Ecology and Diversity Research`.
+Furthermore the units `Central Services` and &#039; Patent Depository&#039; offer a broad range of services to support the scientific community.
+DSMZ is member of Leibniz Association.</r3d:remarks>
+        <r3d:entryDate>2012-02-28</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

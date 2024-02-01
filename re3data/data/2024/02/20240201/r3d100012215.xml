@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012215</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PRO-ACT</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Pooled Resource Open-Access ALS Clinical Trials Database</r3d:additionalName>
+                <r3d:repositoryURL>https://ncri1.partners.org/ProACT/</r3d:repositoryURL>
+                <r3d:description language="eng">The PRO-ACT platform houses the largest ALS clinical trials dataset ever created.  It is a powerful tool for biomedical researchers, statisticians, clinicians, or anyone else interested in &quot;Big Data.&quot; PRO-ACT merges data from existing public and private clinical trials, generating an invaluable resource for the design of future ALS clinical trials. The database will also contribute to the identification of unique observations, novel correlations, and patterns of ALS disease progression, as well as a variety of still unconsidered analyses. More than 600,000 people around them world are battling ALS. The disease strikes indiscriminately, and typically patients will die within 2-5 years following diagnosis. Currently, there are no effective treatments or a cure for ALS. Users of PRO-ACT are helping to accelerate the discovery, development, and delivery of ALS treatments, which will provide hope to patients and their families.</r3d:description>
+                    <r3d:repositoryContact>https://ncri1.partners.org/ProACT/Document/DisplayLatest/8</r3d:repositoryContact>
+                    <r3d:repositoryContact>researchgrants@alsa-national.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-11-29">over 11.600 fully de-identified clinical patient records</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://ncri1.partners.org/ProACT/Document/DisplayLatest/5</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Amyotrophic Lateral Sclerosis</r3d:keyword>
+                    <r3d:keyword>Lou Gehrig&#039;s disease</r3d:keyword>
+                    <r3d:keyword>clinical trial</r3d:keyword>
+                    <r3d:keyword>neurodegenerative illness</r3d:keyword>
+                    <r3d:keyword>psychometric assessment</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ALS Therapy Alliance</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ATA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://alstherapyalliance.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:038m76n55</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://alstherapyalliance.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Massachusetts General Hospital, Neurological Clinical Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ncrinstitute.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>ALSresearch@partners.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Northeast ALS Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NEALS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Northeast Amyotrophic Lateral Scierois Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://neals.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01yjhny41</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012851</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://neals.org/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Novartis</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.novartis.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.novartis.com/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Prize4Life</r3d:institutionName>
+                                <r3d:institutionCountry>ISR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://prize4life.org.il/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Regeneron Pharmaceuticals, Inc</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.regeneron.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02f51rf24</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008547</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.regeneron.com/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sanofi</r3d:institutionName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sanofi.com/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02n6c9837</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sanofi.com/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Teva Pharmaceutical Industries, Ltd</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TEVA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ISR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tevapharm.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01wfv3m53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.tevapharm.com/contact_us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://ncri1.partners.org/ProACT/Document/DisplayLatest/1</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ncri1.partners.org/ProACT/Document/DisplayLatest/1</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ncri1.partners.org/ProACT/Document/DisplayLatest/6</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-11-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

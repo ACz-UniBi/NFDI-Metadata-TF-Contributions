@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011528</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TOXMAP</r3d:repositoryName>
+                <r3d:repositoryURL>https://toxmap.nlm.nih.gov/toxmap/</r3d:repositoryURL>
+                <r3d:description language="eng">The repository is no longer available. &lt;&lt;&lt;!!!&lt;&lt;&lt; Selected TOXMAP data can be accesse from the following sites:
+U.S. EPA Toxics Release Program (TRI) (https://www.epa.gov/toxics-release-inventory-tri-program)
+U.S. EPA Superfund Program (https://www.epa.gov/superfund)
+U.S. EPA Facilities Registry System (FRS) (https://www.epa.gov/frs)
+U.S. EPA Clean Air Markets Program (https://www.epa.gov/airmarkets)
+U.S. EPA Geospatial Applications (https://www.epa.gov/geospatial/epa-geospatial-applications)
+U.S. NIH NCI Surveillance, Epidemiology, and End Results Program (SEER) (https://seer.cancer.gov/)
+Government of Canada National Pollutant Release Inventory (NPRI) (https://www.canada.ca/en/services/environment/pollution-waste-management/national-pollutant-release-inventory.html)
+U.S. Census Bureau (https://www.census.gov/)
+U.S. Nuclear Regulatory Commission (NRC) (https://www.nrc.gov/) &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate>2019-12-16</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20510 Toxicology and Occupational Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://toxmap.nlm.nih.gov/toxmap/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>NPL</r3d:keyword>
+                    <r3d:keyword>National Priorities List</r3d:keyword>
+                    <r3d:keyword>Superfund</r3d:keyword>
+                    <r3d:keyword>TRI</r3d:keyword>
+                    <r3d:keyword>Toxics Release Inventory</r3d:keyword>
+                    <r3d:keyword>chemical</r3d:keyword>
+                    <r3d:keyword>environmental health</r3d:keyword>
+                    <r3d:keyword>environmental justice</r3d:keyword>
+                    <r3d:keyword>environmental map</r3d:keyword>
+                    <r3d:keyword>toxins</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, U.S. National Library of Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nlm.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ISNI:0000000405077840</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>ROR:0060t0j89</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011446</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005117</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://support.nlm.nih.gov/?deptID=28054&amp;from=https://www.nlm.nih.gov/about/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">TOXNET</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Toxicology Data Network</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://toxnet.nlm.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://sis.nlm.nih.gov/siscontact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Toxics Release Inventory Program</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.epa.gov/toxics-release-inventory-tri-program</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.epa.gov/toxics-release-inventory-tri-program/forms/tri-program-contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Environmental Protection Agency, Superfund</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EPA, Superfund</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.epa.gov/superfund</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.epa.gov/superfund/forms/contact-us-about-superfund</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>TOXMAP Accessibility</r3d:policyName>
+                <r3d:policyURL>https://toxmap.nlm.nih.gov/toxmap/accessibility.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nlm.nih.gov/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nlm.nih.gov/copyright.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The data shown in TOXMAP comes from: http://wayback.archive-it.org/org-350/20180312141653/https://www.nlm.nih.gov/pubs/factsheets/toxmap.html
+TOXMAP&#039;s data are also available in text-only format from a variety of sources: TOXNET®/TRI (National Library of Medicine), HSDB® (National Library of Medicine), TRI Explorer (U.S. EPA), USA Quick Facts (U.S. Census Bureau), and The Agency for Toxic Substances and Disease Registry.
+TOXMAP belongs to a group of TOXNET databases related to toxicology, hazardous chemicals, environmental health, and toxic releases.
+Description: TOXMAP® is a Geographic Information System (GIS) from the Division of Specialized Information Services of the US National Library of Medicine® (NLM) that uses maps of the United States and Canada to help users visually explore data primarily from the US Environmental Protection Agency (EPA)&#039;s Toxics Release Inventory (TRI) and Superfund Program.</r3d:remarks>
+        <r3d:entryDate>2015-03-09</r3d:entryDate>
+        <r3d:lastUpdate>2019-12-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

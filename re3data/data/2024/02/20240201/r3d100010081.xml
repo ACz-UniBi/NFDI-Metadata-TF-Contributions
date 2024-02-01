@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010081</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HEPData</r3d:repositoryName>
+                    <r3d:additionalName language="eng">High Energy Physics Data Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Durham HEPData Project</r3d:additionalName>
+                <r3d:repositoryURL>https://hepdata.net/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.awgyhy</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Durham High Energy Physics Database (HEPData), formerly: the Durham HEPData Project,  has been built up over the past four decades as a unique open-access repository for scattering data from experimental particle physics. It currently comprises the data points from plots and tables related to several thousand publications including those from the Large Hadron Collider (LHC).
+The Durham HepData Project has for more than 25 years compiled the Reactions Database containing what can be loosly described as cross sections from HEP scattering experiments. The data comprise total and differential cross sections, structure functions, fragmentation functions, distributions of jet measures, polarisations, etc... from a wide range of interactions. 
+In the new HEPData site (hepdata.net), you can explore new functionalities for data providers and data consumers, as well as the submission interface. HEPData is operated by CERN and IPPP at Durham University and is based on the digital library framework Invenio.</r3d:description>
+                    <r3d:repositoryContact>info@hepdata.net</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-03-10">124.313 data tables</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">307 Condensed Matter Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30901 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://hepdata.net/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Large Hadron Collider (LHC)</r3d:keyword>
+                    <r3d:keyword>distributions of jet measures</r3d:keyword>
+                    <r3d:keyword>fragmentation functions</r3d:keyword>
+                    <r3d:keyword>high energy physics</r3d:keyword>
+                    <r3d:keyword>particle physics</r3d:keyword>
+                    <r3d:keyword>polarisation</r3d:keyword>
+                    <r3d:keyword>scattering experiments</r3d:keyword>
+                    <r3d:keyword>structure functions</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CERN</r3d:institutionName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://home.cern/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01ggx4157</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@hepdata.net</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Durham University, Institute for Particle Physics Phenomenology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IP3</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">IPPP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ippp.dur.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Graeme.Watt@durham.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Science &amp; Technology Facilities Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">STFC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/stfc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:057g20z61</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://hepdata.net/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://hepdata.net/terms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission steps</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://hepdata.net/submission</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>HepData is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. The LHC (Large Hadron Collider) is an international project based at CERN, in which the UK has a leading role.  It is designed to answer some of the big questions about the Universe and the world we live in. Data from the LHC are stored on HEPDATA: Atlas, CMS, LHCb ALICE.
+This new site is still under development. In the meantime, please continue using the old site at http://hepdata.cedar.ac.uk.  . The new site was presented in a meeting at CERN on 25th April 2016.</r3d:remarks>
+        <r3d:entryDate>2012-08-29</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

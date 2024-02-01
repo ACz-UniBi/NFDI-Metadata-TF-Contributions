@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010664</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Stress Map</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WSM</r3d:additionalName>
+                    <r3d:additionalName language="deu">Weltkarte der tektonischen Spannungen</r3d:additionalName>
+                <r3d:repositoryURL>https://www.world-stress-map.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>doi:10.5880/WSM.2016.001</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The World Stress Map (WSM) is a global compilation of information on the crustal present-day stress field maintained since 2009 at the Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences. It is a collaborative project between academia and industry that aims to characterize the crustal stress pattern and to understand the stress sources. All stress information is analysed and compiled in a standardized format and quality-ranked for reliability and comparability on a global scale. 
+The WSM is an open-access public database and is used by various academic and industrial institutions working in a wide range of Earth science disciplines such as geodynamics, hazard assessment, hydrocarbon exploitations and engineering.</r3d:description>
+                    <r3d:repositoryContact>heidbach@gfz-potsdam.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.world-stress-map.org/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2016-12-22">42.870 data records</r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.world-stress-map.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>basin modelling</r3d:keyword>
+                    <r3d:keyword>boreholes</r3d:keyword>
+                    <r3d:keyword>earths&#039;s crust</r3d:keyword>
+                    <r3d:keyword>fault-slip tendency</r3d:keyword>
+                    <r3d:keyword>geomechanical modelling</r3d:keyword>
+                    <r3d:keyword>mines</r3d:keyword>
+                    <r3d:keyword>seismic hazard assessment</r3d:keyword>
+                    <r3d:keyword>stress field</r3d:keyword>
+                    <r3d:keyword>tunnels</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam  -  GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/home/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>heidbach@gfz-potsdam.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Council for Science, World Data System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICSU WDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.worlddatasystem.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q17102557</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Karlsruher Institut für Technologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Karlsruhe Institute of Technology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kit.edu/english/index.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001552</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>birgit.mueller@kit.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ICSU World Data System Constitution &amp; Bylaws</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/constitution/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.world-stress-map.org/download/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Contribution and Participation</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.world-stress-map.org/data/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://doidb.wdc-terra.org//oaip/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.world-stress-map.org/download/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The WSM commenced in 1986 as a project of the International Lithosphere Program (ILP) under the leadership of Mary-Lou Zoback. From 1995-2008 it was a project of the Heidelberg Academy of Sciences and Humanities headed by Karl Fuchs and Friedemann Wenzel. Since 2012 the WSM is a member of the ICSU World Data System.</r3d:remarks>
+        <r3d:entryDate>2014-02-17</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

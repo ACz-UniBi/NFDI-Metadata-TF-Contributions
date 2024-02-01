@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011751</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">JGI MycoCosm</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MycoCosm - the fungal genomics resource</r3d:additionalName>
+                <r3d:repositoryURL>https://mycocosm.jgi.doe.gov/mycocosm/home</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:OMICS_01657</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_005312</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_144366</r3d:repositoryIdentifier>
+                <r3d:description language="eng">MycoCosm, the DOE JGI’s web-based fungal genomics resource, which integrates fungal genomics data and analytical tools for fungal biologists. It provides navigation through sequenced genomes, genome analysis in context of comparative genomics and genome-centric view. MycoCosm promotes user community participation in data submission, annotation and analysis.</r3d:description>
+                    <r3d:repositoryContact>http://jgi.doe.gov/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://jgi.doe.gov/our-science/science-programs/fungal-genomics/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>RNA</r3d:keyword>
+                    <r3d:keyword>biocontrol</r3d:keyword>
+                    <r3d:keyword>biorefinery mechanisms</r3d:keyword>
+                    <r3d:keyword>encyclopedia of funghi</r3d:keyword>
+                    <r3d:keyword>expression</r3d:keyword>
+                    <r3d:keyword>funghi</r3d:keyword>
+                    <r3d:keyword>genome sequence</r3d:keyword>
+                    <r3d:keyword>helix</r3d:keyword>
+                    <r3d:keyword>pathogenicity</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                    <r3d:keyword>symbiosis</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Joint Genome Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://jgi.doe.gov/our-science/science-programs/fungal-genomics/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://jgi.doe.gov/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy, Office of Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://science.energy.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://science.energy.gov/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://universityofcalifornia.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://universityofcalifornia.edu/uc-system/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Management Policy</r3d:policyName>
+                <r3d:policyURL>http://jgi.doe.gov/data-and-tools/data-management-policy-practices-resources/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>http://jgi.doe.gov/user-program-info/pmo-overview/policies/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://jgi.doe.gov/data-and-tools/data-management-policy-practices-resources/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>DOE JGI’s Policy on Microbial Genbank Submissions</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://jgi.doe.gov/data-and-tools/data-management-policy-practices-resources/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://genome.jgi.doe.gov/pages/citeUs.jsf</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-04-25</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

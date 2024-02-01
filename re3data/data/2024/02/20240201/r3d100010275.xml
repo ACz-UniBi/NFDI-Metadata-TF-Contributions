@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010275</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Marine Environmental Data Section</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MEDS</r3d:additionalName>
+                    <r3d:additionalName language="fra">SDMM</r3d:additionalName>
+                    <r3d:additionalName language="fra">Section des données sur le milieu marin</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Canadian Oceanographic Data Centre - CODC (1962-1971)</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Integrated Science Data Management - ISDM (2005-2013)</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Marine Environmental Data Service - MEDS (1971-2005)</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Oceanography and Scientific Data - OSD (2013-2015)</r3d:additionalName>
+                <r3d:repositoryURL>https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/index-eng.html</r3d:repositoryURL>
+                <r3d:description language="eng">As the national oceanographic data centre for Canada, MEDS maintains centralized repositories of some oceanographic data types collected in Canada, and coordinates data exchanges between DFO and recognized intergovernmental organizations, as well as acts as a central point for oceanographic data requests. Real-time, near real-time (for operational oceanography) or historical data are made available as appropriate.</r3d:description>
+                    <r3d:repositoryContact>https://www.canada.ca/en/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.dfo-mpo.gc.ca/about-notre-sujet/index-eng.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>contamination</r3d:keyword>
+                    <r3d:keyword>fish health</r3d:keyword>
+                    <r3d:keyword>fishery</r3d:keyword>
+                    <r3d:keyword>freshwater</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>marine chemistry</r3d:keyword>
+                    <r3d:keyword>marine habitat data</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>oceanographic data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of Canada,  Fisheries and Oceans Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DFO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Gouvernement du Canada, Pêches et Océans Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfo-mpo.gc.ca/index-eng.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02qa1x782</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1979</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dfo-mpo.gc.ca/contact/index-eng.htm</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies and Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/index-eng.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policy for scientific data</r3d:policyName>
+                <r3d:policyURL>https://www.dfo-mpo.gc.ca/about-notre-sujet/publications/science/datapolicy-politiquedonnees/index-eng.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.dfo-mpo.gc.ca/terms-conditions-avis-eng.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dfo-mpo.gc.ca/terms-conditions-avis-eng.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://open.canada.ca/en/open-government-licence-canada</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Policy for scientific data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.dfo-mpo.gc.ca/about-notre-sujet/publications/science/datapolicy-politiquedonnees/index-eng.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>MEDS was established as the Marine Environmental Data Service in 1969 to coordinate the Canadian Wave Climate Study. It was significantly enlarged in 1973, when the Tides and Water Levels Section of the Canadian Hydrographic Service and the Canadian Oceanographic Data Centre (established in 1962) were incorporated into it. It was known between 2005 and 2015 under the acronyms ISDM and OSD. Since 2015, MEDS is a Section of the Department&#039;s Ocean Sciences Branch.</r3d:remarks>
+        <r3d:entryDate>2013-05-28</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010586</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">dictybase</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Dictyostelium discoideum</r3d:additionalName>
+                <r3d:repositoryURL>http://dictybase.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.4shj9c</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100367</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_03158</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006643</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-02751</r3d:repositoryIdentifier>
+                <r3d:description language="eng">dictyBase is an integrated genetic and literature database that contains published Dictyostelium discoideum literature, genes, expressed sequence tags (ESTs), as well as the chromosomal and mitochondrial genome sequences. Direct access to the genome browser, a Blast search tool, the Dictyostelium Stock Center, research tools, colleague databases, and much much more are just a mouse click away. Dictybase is a genome portal for the Amoebozoa. dictyBase is funded by a grant from the National Institute for General Medical Sciences.</r3d:description>
+                    <r3d:repositoryContact>dictystocks@northwestern.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://dictybase.org/db/cgi-bin/dictyBase/SC/suggestion.pl</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2012-05">1.850 strains; 700 plasmids</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://dictybase.org/tutorial/#Community</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>dictyostelid genomics</r3d:keyword>
+                    <r3d:keyword>model organism</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.columbia.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00hj8s172</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011164</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_63913</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2002</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2009</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Northwestern University, Dicty Stock Center</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://dictybase.org/StockCenter/StockCenter.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>dictybase@northwestern.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Human Genome Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NHGRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.genome.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00baak391</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003205</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006475</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011416</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143900</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005098</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute of General Medical Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIGMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nigms.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q48ey07</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012887</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005108</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Nomenclature Guidelines</r3d:policyName>
+                <r3d:policyURL>http://dictybase.org/Dicty_Info/nomenclature_guidelines.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Procedure for Strain and Plasmid Deposits to the Dicty Stock Center</r3d:policyName>
+                <r3d:policyURL>http://dictybase.org/StockCenter/Deposit.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://sourceforge.net/projects/dictybase/?source=navbar</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://dictybase.org/Downloads/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://dictybase.org/tutorial/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Procedure for Strain and Plasmid Deposits to the Dicty Stock Center</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://dictybase.org/StockCenter/Deposit.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>http://dictybase.org/CitingDictyBase.htm</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-01-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

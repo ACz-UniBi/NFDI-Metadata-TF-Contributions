@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010882</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EMDataResource</r3d:repositoryName>
+                    <r3d:additionalName language="eng">formerly:  EMDataBank</r3d:additionalName>
+                <r3d:repositoryURL>http://www.emdataresource.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_08960</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003207</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-30776</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>biodbcore-001523</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Cryo electron microscopy enables the determination of 3D structures of macromolecular complexes and cells from 2 to 100 Å resolution. EMDataResource is the unified global portal for one-stop deposition and retrieval of 3DEM density maps, atomic models and associated metadata, and is a joint effort among investigators of the Stanford/SLAC CryoEM Facility and the Research Collaboratory for Structural Bioinformatics (RCSB) at Rutgers, in collaboration with the EMDB team at the European Bioinformatics Institute. EMDataResource also serves as a resource for news, events, software tools, data standards, and validation methods for the 3DEM community.
+The major goal of the EMDataResource project in the current funding period is to work with the 3DEM community to (1) establish data-validation methods that can be used in the process of structure determination, (2) define the key indicators of a well-determined structure that should accompany every deposition, and (3) implement appropriate validation procedures for maps and map-derived models into a 3DEM validation pipeline.</r3d:description>
+                    <r3d:repositoryContact>help@emdataresource.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www.emdataresource.org/contactus.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-06-08">15.417 entries</r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20530 Radiology and Nuclear Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20532 Biomedical Technology and Medical Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.emdataresource.org/mission.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>crystal growth</r3d:keyword>
+                    <r3d:keyword>crystallography</r3d:keyword>
+                    <r3d:keyword>crystals</r3d:keyword>
+                    <r3d:keyword>electron distribution</r3d:keyword>
+                    <r3d:keyword>electron microscopy</r3d:keyword>
+                    <r3d:keyword>electrons</r3d:keyword>
+                    <r3d:keyword>microscopy</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>molecular microbiology</r3d:keyword>
+                    <r3d:keyword>nuclear magnetic resonance</r3d:keyword>
+                    <r3d:keyword>tomography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Baylor College of Medicine</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bcm.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02pttbw34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02catss52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nigms.nih.gov/Pages/default.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q48ey07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Rutgers University</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rutgers.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05vt9qd57</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.emdataresource.org/faq.html#c5</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Deposit</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.emdataresource.org/deposit.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/emdb</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.emdataresource.org/faq.html#c5</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://www.emdataresource.org/rss.xml</r3d:syndication>
+                <r3d:remarks>EM depositions to EMDB and PDB are curated by annotation staff located at PDBe, RCSB-PDB, and PDBj.</r3d:remarks>
+        <r3d:entryDate>2014-08-04</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>
