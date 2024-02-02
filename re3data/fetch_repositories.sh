@@ -6,6 +6,7 @@
 #
 # requirements:
 # * curl
+# * date
 # * sed
 # * xmlstarlet
 
