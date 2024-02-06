@@ -6,6 +6,7 @@ This repository contains data and scripts of the [NFDI Task Force Metadata](http
 
 - Standard Unix command line tools `bash`, `grep`, `wc`, `date`, `sed`, `curl`...
 - xmlstarlet
+- jq
 - ...
 
 ## Data
@@ -15,6 +16,10 @@ This repository contains data and scripts of the [NFDI Task Force Metadata](http
 Data about resarch data repositories listed in [re3data](https://www.re3data.org/).
 
 The data is retrieved from [re3data API](https://www.re3data.org/api/) as describe at the [documentation page](https://www.re3data.org/api/doc).
+
+## wikidata
+
+*this is work in progress*
 
 ## License
 
