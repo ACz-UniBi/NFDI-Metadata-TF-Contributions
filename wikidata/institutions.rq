@@ -1,0 +1,16 @@
+SELECT DISTINCT ?wGeprisID  ?wRORID ?w ?wLabel ?affiliationType ?affiliationTypeLabel ?p ?pLabel 
+WHERE 
+{
+    {
+    ?w wdt:P463 wd:Q105757481 .
+  } UNION {
+    ?p wdt:P31 wd:Q98270496 .
+    ?p p:P1416 ?statement .
+    ?statement ps:P1416 ?w .
+    OPTIONAL { ?statement pq:P3831 ?affiliationType .}  
+  }
+  OPTIONAL {?w wdt:P4871 ?wGeprisID} 
+  OPTIONAL {?w wdt:P6782 ?wRORID} 
+  BIND(IF(! Bound(?affiliationType), "Vereinsmitglied", ?affiliationTypeLabel) AS ?affiliationTypeLabel)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en" . }
+} ORDER BY ASC(?wLabel)
