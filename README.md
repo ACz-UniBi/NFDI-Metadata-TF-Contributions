@@ -2,7 +2,15 @@
 
 This repository contains data and scripts of the [NFDI Task Force Metadata](https://www.nfdi.de/section-metadata/).
 
-## re3data
+## Requirements
+
+- Standard Unix command line tools `bash`, `grep`, `wc`, `date`, `sed`, `curl`...
+- xmlstarlet
+- ...
+
+## Data
+
+### re3data
 
 Data about resarch data repositories listed in [re3data](https://www.re3data.org/).
 
