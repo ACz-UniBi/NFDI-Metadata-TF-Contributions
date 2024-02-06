@@ -1,24 +1,25 @@
 #!/bin/bash
-#
-# count repositories from overview list
-#
-# v0.0.1, Andreas Czerniak
-#
-# requirements:
-# * date
-# * grep
-# * wc
+set -euo pipefail
 
-ADATE=`date +%Y%m%d`
-if [ ! -z "$1" ]; then
-  ADATE="$1"
+today=`date +%Y%m%d`
+date=${1:-$today}
+
+if [[ ! "$date" =~ ^20[0-9]{6}$ ]]; then
+  echo "Usage: $0 YYYYMMDD"
+  exit 1
 fi
-AYEAR=`date +%Y`
-AMONTH=`date +%m`
-MYDATE=`date +%Y-%m-%d`
 
-SAVEDATA="./data/${AYEAR}/${AMONTH}"
+year=${date:0:4}
+month=${date:4:2}
+day=${date:5:2}
 
-COUNTREPO=`grep '</repository>' ${SAVEDATA}/${ADATE}_repositories.xml | wc -l`
+dir=./data/$year/$month
+repos=${dir}/${date}_repositories.xml
 
-echo "${MYDATE},${COUNTREPO}"
+if [[ -f "$repos" ]]; then
+  echo -n "$year-$month-$day,"
+  grep '</repository>' "$repos"  | wc -l
+else
+  echo 1>&2 "Missing $repos"
+  exit 1
+fi
