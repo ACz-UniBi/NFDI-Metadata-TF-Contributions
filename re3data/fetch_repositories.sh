@@ -21,6 +21,7 @@ curl --silent 'https://www.re3data.org/api/v1/repositories' > ${SAVEDATA}/${ADAT
 
 RE3DATA=`xmlstarlet sel -t -v '//link/@href' ${SAVEDATA}/${ADATE}_repositories.xml | sed 's#/api/v1/repository/##' `
 
+mkdir -p ${SAVEDATA}/${ADATE}
 for re3 in ${RE3DATA}; do
 
   echo -n "${re3}:"
