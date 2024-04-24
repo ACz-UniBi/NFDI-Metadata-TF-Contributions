@@ -16,7 +16,7 @@ AMONTH=`date +%m`
 
 SAVEDATA="./data/${AYEAR}/${AMONTH}"
 
-mkdir -p ${AYEAR}/${AMONTH}
+mkdir -p ${SAVEDATA}
 curl --silent 'https://www.re3data.org/api/v1/repositories' > ${SAVEDATA}/${ADATE}_repositories.xml
 
 RE3DATA=`xmlstarlet sel -t -v '//link/@href' ${SAVEDATA}/${ADATE}_repositories.xml | sed 's#/api/v1/repository/##' `
