@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011261</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BsubCyc</r3d:repositoryName>
+                    <r3d:additionalName language="eng">a member of the BioCyc Database Collection</r3d:additionalName>
+                <r3d:repositoryURL>https://bsubcyc.org/</r3d:repositoryURL>
+                <r3d:description language="eng">BsubCyc is a model-organism database for the bacterium Bacillus subtilis and is based on the updated B. subtilis 168 genome sequence and annotation published by Barbe et al. in 2009. Gene function annotations are being updated when new literature is available.
+Subscriptions are now required to access BsubCyc. For more information on obtaining a subscription, click here: http://www.phoenixbioinformatics.org/biocyc/subscriptions.html</r3d:description>
+                    <r3d:repositoryContact>biocyc-support@ai.sri.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://bsubcyc.org/contact.shtml</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Bacillus subtilis</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH NIGMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nigms.nih.gov/Pages/default.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q48ey07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">SRI International</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sri.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05s570m15</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004926</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sri.com/locations</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>BioCyc to Adopt Subscription Model</r3d:policyName>
+                <r3d:policyURL>https://biocyc.org/news001-subscriptions.shtml</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Web Site User&#039;s Guide for Pathway Tools-Based Web Sites</r3d:policyName>
+                <r3d:policyURL>https://bsubcyc.org/PToolsWebsiteHowto.shtml</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://biocyc.org/download-flatfiles.shtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://biocyc.org/download.shtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://bioinformatics.ai.sri.com/ptools/licensing/all-reg.shtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://bsubcyc.org/web-services.shtml</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://bsubcyc.org/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://feeds.feedburner.com/BioCycUpdates</r3d:syndication>
+                <r3d:remarks>BsubCyc is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2014-11-13</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

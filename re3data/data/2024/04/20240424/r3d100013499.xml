@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013499</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Materials Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MDR</r3d:additionalName>
+                    <r3d:additionalName language="eng">NIMS Materials Data Repository</r3d:additionalName>
+                    <r3d:additionalName language="jpn">材料データリポジトリ</r3d:additionalName>
+                <r3d:repositoryURL>https://mdr.nims.go.jp</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OpenDOAR:9713</r3d:repositoryIdentifier>
+                <r3d:description language="eng">MDR is a data repository to collect and store papers, presentation materials, and related materials data to accumulate and release them in a form suitable for the promotion of materials research and materials informatics. Users can search the documents and the data from information (metadata) such as sample, instrument, method, and from the full text of the deposited data, to browse and download them freely. User registration is not required and there is no charge for use.</r3d:description>
+                    <r3d:repositoryContact>https://dice.nims.go.jp/en/contact/form.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>mdr-info@ml.nims.go.jp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-09-16">3.629 works</r3d:size>
+        <r3d:startDate>2020-06-15</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">405 Materials Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">406 Materials Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://mdr.nims.go.jp/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>materials engineering</r3d:keyword>
+                    <r3d:keyword>materials informatics</r3d:keyword>
+                    <r3d:keyword>materials platform</r3d:keyword>
+                    <r3d:keyword>materials science</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institute for Materials Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="jpn">国立研究開発法人物質・材料研究機構</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">物質・材料研究機構</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nims.go.jp/eng/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026v1ze26</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-06-15</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>mdr-info@ml.nims.go.jp</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>MDR Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://mdr.nims.go.jp/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://rightsstatements.org/page/InC/1.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://rightsstatements.org/page/InC/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Before MDR, NIMS operated two repositories as part of the digital library NIMS eSciDoc: PubMan for publications and Imeji for multimedia. MDR inherits and replaces these two services. Most data on the two older services have been migrated into MDR. Some of the data formerly on NIMS Materials Database MatNavi have been migrated into MDR as well.
+MDR is one of the services of NIMS&#039;s data platform DICE. See also https://dice.nims.go.jp/services/MDR/en/</r3d:remarks>
+        <r3d:entryDate>2021-02-11</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

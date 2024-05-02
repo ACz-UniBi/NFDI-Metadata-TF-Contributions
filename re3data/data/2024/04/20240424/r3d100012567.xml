@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012567</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SWE-CLARIN</r3d:repositoryName>
+                <r3d:repositoryURL>https://sweclarin.se/eng/home</r3d:repositoryURL>
+                <r3d:description language="eng">SWE-CLARIN is a national node in European Language and Technology Infrastructure (CLARIN) - an ESFRI initiative to build an infrastructure for e-science in the humanities and social sciences.
+SWE-CLARIN makes language-based materials available as research data using advanced processing tools and other resources. One basic idea is that the increasing amount of text and speech - contemporary and historical - as digital research material enables new forms of e-science and new ways to tackle old research issues.</r3d:description>
+                    <r3d:repositoryContact>info@sweclarin.se</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://sweclarin.se/eng/about-us</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>CILTLab</r3d:keyword>
+                    <r3d:keyword>Computational Linguistics</r3d:keyword>
+                    <r3d:keyword>Computational Linguistics and Sign Language</r3d:keyword>
+                    <r3d:keyword>Language Council of Sweden</r3d:keyword>
+                    <r3d:keyword>National Archives</r3d:keyword>
+                    <r3d:keyword>Språkbanken</r3d:keyword>
+                    <r3d:keyword>Swedish National Data Service (SND)</r3d:keyword>
+                    <r3d:keyword>Swedish language</r3d:keyword>
+                    <r3d:keyword>The Humanities Laboratory</r3d:keyword>
+                    <r3d:keyword>The Speech Group</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CLARIN -  European Research Infrastructure for Language Resources and Technology</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>clarin@clarin.eu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="swe">Göteborgs Universitet, Språkbanken Text</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University of Gothenburg, Språkbanken Text</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://spraakbanken.gu.se/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://spraakbanken.gu.se/en/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>sb-info@svenska.gu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="swe">Institutet för Språk och folkminnet</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Swedish Institute for Language and Folklore</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.isof.se/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00e4n7b29</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">KTH School of Computer Science and Communication,  Speech, Music and Hearing</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="swe">Kungliga Tekniska högskolan, Skolan för datavetenskap och kommunikation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kth.se/is/tmh</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>davidh (at) csc.kth.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Linköping University, Department of Computer and Information Science, Human Centered Systems Division, NLPLAB</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ida.liu.se/divisions/hcs/nlplab/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ida.liu.se/projects/sweclarin/</r3d:institutionContact>
+                                    <r3d:institutionContact>lars.ahrenberg (at) liu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lund University Humanities Lab</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="swe">Lunds Universitet, Humanistlaboratoriet</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sweclarin.se/eng/centers/lund</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>johan.frid (at) ling.lu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="swe">Riskarkivet</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Swedish National Archives</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://riksarkivet.se/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Johanna.Berg (at) riksarkivet.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Stockholm University, Department of Linguistics</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.su.se/department-of-linguistics/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swedish National Data Service</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://snd.gu.se/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>snd@snd.gu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Gothenburg</r3d:institutionName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gu.se/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01tm6cn81</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="swe">Uppsala Universitet, Datorlingvistik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Uppsala University, Computational Linguistics Group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lingfil.uu.se/research/computational-linguistics/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>joakim.nivre (at) lingfil.uu.se</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="swe">Vetenskapsrådet</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Swedish Research Council</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.vr.se/english.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03zttf063</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>SWE-CLARIN Handbok</r3d:policyName>
+                <r3d:policyURL>https://sweclarin.se/swe/handbok</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SWE-CLARIN kickoff</r3d:policyName>
+                <r3d:policyURL>https://sweclarin.se/sites/sweclarin.se/files/Swe-Clarin_Kick-off_m%C3%B6tesanteckningar_publika_20150205-06_0.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-12-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010813</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Wharton Research Data Services</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WRDS</r3d:additionalName>
+                <r3d:repositoryURL>https://wrds-www.wharton.upenn.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">Wharton Research Data Services (WRDS) is a web-based business data research service from The Wharton School at the University of Pennsylvania. Developed in 1993 to support faculty research at Wharton, the service has evolved to become a common tool for research for over 290 institutions around the world. WRDS is the de facto standard for business data, providing researchers worldwide with instant access to financial, economic, and marketing data through a uniform, web-based interface. This hosted data service has become the locus for quantitative data research and is recognized by the academic and financial research community around the world as the leading business intelligence tool. WRDS provides access to COMPUSTAT, CRSP, IBES, NYSE-TAQ, Bureau van Dijk, Global Insight, OptionMetrics and other important business research databases.</r3d:description>
+                    <r3d:repositoryContact>https://wrds-www.wharton.upenn.edu/contact-support/</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.facebook.com/Wharton-Research-Data-Services-WRDS-97638911013/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1995-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://wrds-www.wharton.upenn.edu/pages/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>accounting</r3d:keyword>
+                    <r3d:keyword>banking</r3d:keyword>
+                    <r3d:keyword>eEconomics</r3d:keyword>
+                    <r3d:keyword>finance</r3d:keyword>
+                    <r3d:keyword>marketing</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Pennsylvania, The Wharton School</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.wharton.upenn.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>communications@wharton.upenn.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>WRDS Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://wrds-www.wharton.upenn.edu/users/tou/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wrds-www.wharton.upenn.edu/users/tou/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-07-25</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

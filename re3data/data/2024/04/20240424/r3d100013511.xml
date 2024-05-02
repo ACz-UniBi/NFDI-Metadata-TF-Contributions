@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013511</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="spa">Repositorio de Activos Digitales</r3d:repositoryName>
+                    <r3d:additionalName language="spa">Repositorio de Activos Digitales del Instituto Andaluz de Patrimonio Histórico</r3d:additionalName>
+                <r3d:repositoryURL>https://repositorio.iaph.es/</r3d:repositoryURL>
+                <r3d:description language="eng">The REA-IAPH aims to manage and disseminate the graphic collection of the institution as well as the scientific production and technical documentation resulting from its projects and activities of research and innovation, documentation, intervention, communication and dissemination in the field of Cultural Heritage.</r3d:description>
+                    <r3d:repositoryContact>marial.loza@juntadeandalucia.es</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://repositorio.iaph.es/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>archeology</r3d:keyword>
+                    <r3d:keyword>conservation</r3d:keyword>
+                    <r3d:keyword>cultural heritage</r3d:keyword>
+                    <r3d:keyword>landscape</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="spa">Instituto Andaluz de Patrimonio Histórico</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Andalusian Institute of Historical Heritage</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://repositorio.iaph.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01p1xdv40</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>marial.loza@juntadedeandalucia.es</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Aviso legal</r3d:policyName>
+                <r3d:policyURL>https://www.juntadeandalucia.es/informacion/legal.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Politica Institutcional de Acceso Abierto del Instituto Andaluz de Patrimonio Historico</r3d:policyName>
+                <r3d:policyURL>https://repositorio.iaph.es/ayuda/Politica%20acceso%20abierto_%20IAPH_2020_aprobado.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Politicas de Funcionamiento del Repositorio de Activosdigatales del IAPH (ReA)</r3d:policyName>
+                <r3d:policyURL>https://repositorio.iaph.es/ayuda/politicas_ReA_2020_definitivo_202010.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/choose/?lang=es</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/choose/?lang=es</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://repositorio.iaph.es/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2021-02-25</r3d:entryDate>
+        <r3d:lastUpdate>2022-07-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

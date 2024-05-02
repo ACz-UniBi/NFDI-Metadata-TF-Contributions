@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013355</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GePaRD</r3d:repositoryName>
+                    <r3d:additionalName language="eng">German Pharmacoepidemiological Research Database</r3d:additionalName>
+                <r3d:repositoryURL>https://www.bips-institut.de/forschung/forschungsinfrastrukturen/gepard.html</r3d:repositoryURL>
+                <r3d:description language="eng">Since 2004, the Leibniz Institute for Prevention Research and Epidemiology – BIPS has been working on the establishment and maintenance of the project-based German Pharmacoepidemiological Research Database (short GePaRD). GePaRD is based on claims data from statutory health insurance (SHI) providers and currently includes information on about 20 million persons who have been insured with one of the participating providers since 2004. Per data year, there is information on approximately 17% of the general population from all geographical regions of Germany.</r3d:description>
+                    <r3d:repositoryContact>gepard(at)leibniz-bips.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20405 Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>drug dispensation</r3d:keyword>
+                    <r3d:keyword>drug safety</r3d:keyword>
+                    <r3d:keyword>outpatient and inpatient diagnoses</r3d:keyword>
+                    <r3d:keyword>outpatient and inpatient services</r3d:keyword>
+                    <r3d:keyword>statutory health insurance (SHI) providers</r3d:keyword>
+                    <r3d:keyword>vaccine safety</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Präventionsforschung und Epidemiologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BIPS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Prevention Research and Epidemiology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bips-institut.de/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02c22vc57</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>GePaRD description</r3d:policyName>
+                <r3d:policyURL>https://www.bips-institut.de/fileadmin/bips/images/gepard/GePaRD_description_V1.9.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>closed</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.bips-institut.de/fileadmin/bips/images/gepard/GePaRD_description_V1.9.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>RatSWD</r3d:certificate>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-06-10</r3d:entryDate>
+        <r3d:lastUpdate>2021-03-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

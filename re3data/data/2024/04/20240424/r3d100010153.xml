@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010153</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">VegBank</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The Vegetation Plot Archive Project</r3d:additionalName>
+                <r3d:repositoryURL>http://vegbank.org/vegbank/index.jsp</r3d:repositoryURL>
+                <r3d:description language="eng">VegBank is the vegetation plot database of the Ecological Society of America&#039;s Panel on Vegetation Classification. VegBank consists of three linked databases that contain  the actual plot records,  vegetation types recognized in the U.S. National Vegetation Classification and other vegetation types submitted by users, and  all plant taxa recognized by ITIS/USDA as well as all other plant taxa recorded in plot records. Vegetation records, community types and plant taxa may be submitted to VegBank and may be subsequently searched, viewed, annotated, revised, interpreted, downloaded, and cited. VegBank receives its data from the VegBank community of users.</r3d:description>
+                    <r3d:repositoryContact>help@vegbank.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://vegbank.org/vegbank/general/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-02-07">115.246 plots; 293.172 plant concepts;  38.961 community concepts</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20201 Plant Systematics and Evolution</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://vegbank.org/vegbank/general/info.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>botany</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>plant communities</r3d:keyword>
+                    <r3d:keyword>plant taxa</r3d:keyword>
+                    <r3d:keyword>plot data</r3d:keyword>
+                    <r3d:keyword>vegetation mapping</r3d:keyword>
+                    <r3d:keyword>vegetation monitoring</r3d:keyword>
+                    <r3d:keyword>vegetation records</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Ecological Society of America, Panel on Vegetation Classification</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESA Panel on Vegetation Classification</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://vegbank.org/vegdocs/panel/panel.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://vegbank.org/vegbank/general/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Ecological Analysis and Synthesis</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCEAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nceas.ucsb.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0146z4r19</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_024597</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NatureServe</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.natureserve.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02rnyzs79</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">US Federal Geographic Data Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FGDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fgdc.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">US Geological Survey</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usgs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:035a68863</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_010168</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Guidelines for Describing Associations and Alliances of the U.S. National Vegetation Classification</r3d:policyName>
+                <r3d:policyURL>http://vegbank.org/vegdocs/panel/standards.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Privacy policy</r3d:policyName>
+                <r3d:policyURL>http://vegbank.org/vegbank/general/privacy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>VegBank Use Policy - Intellectual property rights and disclaimers</r3d:policyName>
+                <r3d:policyURL>http://vegbank.org/vegbank/general/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://vegbank.org/vegbank/general/terms.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Intellectual property rights and disclaimers</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://vegbank.org/vegbank/general/terms.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://vegbank.org/vegbank/general/cite.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2012-10-25</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

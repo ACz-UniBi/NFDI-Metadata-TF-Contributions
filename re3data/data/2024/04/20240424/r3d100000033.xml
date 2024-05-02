@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100000033</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Forest Global Earth Observatory</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CTFS-ForestGEO</r3d:additionalName>
+                    <r3d:additionalName language="eng">ForestGEO</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: CTFS</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Center for Tropical Forest Science</r3d:additionalName>
+                <r3d:repositoryURL>https://forestgeo.si.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The Center for Tropical Forest Science (CTFS) is a global network of forest research plots committed to the study of tropical and temperate forest function and diversity. The multi-institutional network comprises more than forty forest research plots across the Americas, Africa, Asia, and Europe, with a strong focus on tropical regions. CTFS monitors the growth and survival of about 6 million trees of approximately 10,000 species.</r3d:description>
+                    <r3d:repositoryContact>ForestGEO@si.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://forestgeo.si.edu/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-04-08">72 Sites; 27 Countries; 7.000.000 Trees; 12.000 Species</r3d:size>
+        <r3d:startDate>1980</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20302 Evolution, Anthropology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://forestgeo.si.edu/what-forestgeo</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biological diversity</r3d:keyword>
+                    <r3d:keyword>forest research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Smithsonian Tropical Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">STRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>PAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://stri.si.edu/facilities</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:035jbxr46</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://stri.si.edu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Smithsonian Institution&#039;s Privacy Statement</r3d:policyName>
+                <r3d:policyURL>https://www.si.edu/privacy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.si.edu/termsofuse</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.si.edu/termsofuse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.si.edu/termsofuse</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="other">https://ctfsnews.blogspot.com/</r3d:syndication>
+                <r3d:remarks>CTFS also includes the data from a subordinate repository CTFS-Panama http://ctfs.si.edu/webatlas/datasets/ (r3d100010689)</r3d:remarks>
+        <r3d:entryDate>2012-11-05</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

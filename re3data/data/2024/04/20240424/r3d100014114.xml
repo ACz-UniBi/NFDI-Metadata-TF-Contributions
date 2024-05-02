@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014114</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Global Record of Stocks and Fisheries</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GRSF</r3d:additionalName>
+                <r3d:repositoryURL>https://i-marine.d4science.org/web/grsf/data-catalogue</r3d:repositoryURL>
+                <r3d:description language="eng">The GRSF, the Global Record of Stocks and Fisheries, integrates data from three authoritative sources: FIRMS (Fisheries and Resources Monitoring System), RAM (RAM Legacy Stock Assessment Database) and FishSource (Program of the Sustainable Fisheries Partnership).
+The GRSF content publicly disseminated through this catalogue is distributed as a beta version to test the logic to generate unique identifiers for stocks and fisheries. The access to and review of collated stock and fishery data is restricted to selected users. This beta release can contain errors and we welcome feedback on content and software performance, as well as the overall usability.
+Beta users are advised that information on this site is provided on an &quot;as is&quot; and &quot;as available&quot; basis. The accuracy, completeness or authenticity of the information on the GRSF catalogue is not guaranteed. It is reserved the right to alter, limit or discontinue any part of this service at its discretion. Under no circumstances shall the GRSF be liable for any loss, damage, liability or expense suffered that is claimed to result from the use of information posted on this site, including without limitation, any fault, error, omission, interruption or delay.
+The GRSF is an active database, updates and additions will continue after the beta release. For further information, or for using the GRSF unique identifiers as a beta tester please contact FIRMS-Secretariat@fao.org.</r3d:description>
+                    <r3d:repositoryContact>FIRMS-Secretariat@fao.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-01-10">2.500 records</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://i-marine.d4science.org/web/grsf/home</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FIRMS</r3d:keyword>
+                    <r3d:keyword>FishSource</r3d:keyword>
+                    <r3d:keyword>Fishing Pressure (FIRMS Standard)</r3d:keyword>
+                    <r3d:keyword>RAM</r3d:keyword>
+                    <r3d:keyword>abundance</r3d:keyword>
+                    <r3d:keyword>assessment unit</r3d:keyword>
+                    <r3d:keyword>catch</r3d:keyword>
+                    <r3d:keyword>fishery</r3d:keyword>
+                    <r3d:keyword>fishing pressure</r3d:keyword>
+                    <r3d:keyword>fishing unit</r3d:keyword>
+                    <r3d:keyword>marine resource</r3d:keyword>
+                    <r3d:keyword>stock</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">D4Science</r3d:institutionName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.d4science.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Horizon 2020</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://i-marine.d4science.org/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://wiki.gcube-system.org/gcube/GCat_Service</r3d:api>
+                        <r3d:citationGuidelineURL>https://i-marine.d4science.org/terms-of-use</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2023-01-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

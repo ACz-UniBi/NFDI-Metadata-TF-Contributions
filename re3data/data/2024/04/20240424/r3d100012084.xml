@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012084</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Phenylalanine Hydroxylase Locus Knowledgebase</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PAHdb</r3d:additionalName>
+                <r3d:repositoryURL>https://www.pahdb.mcgill.ca</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_013381</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>pahdb@debelle.mcgill.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate>2022</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.pahdb.mcgill.ca/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cDNA</r3d:keyword>
+                    <r3d:keyword>gDNA</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>henylalanine hydroxylase enzyme</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>mutation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Inherited Metabolic Diseases Research Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIMDRN</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">RCRMMH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Réseau canadien de recherche sur les maladies métaboliques héréditaires</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cimdrn.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>khangura@uottawa.ca</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CHIR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">IRSC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Instituts de recherche en santé du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Medical Research Council</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cihr-irsc.gc.ca/e/193.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.cihr-irsc.gc.ca/e/9833.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">McGill University Health Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CUSM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Centre universitaire de santé McGill</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">MUHC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://muhc.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://muhc.ca/homepage/page/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Network of Applied Medical Genetics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">RMGA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Réseau de Médecine Génétique Appliquée</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.rmga.qc.ca/en/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.rmga.qc.ca/en/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.pahdb.mcgill.ca/?Topic=About&amp;Section=Copyright&amp;Page=0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.pahdb.mcgill.ca/PahdbSearch.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>description: This site provides users with access to up-to-date information about mutations at the phenylalanine hydroxylase locus. Here you will have access to the content of the database in the form of electronic reports. The database is updated manually off-line by the curators to assure that no erroneous information is appended. The curators now also accept data electronically via the submission form.</r3d:remarks>
+        <r3d:entryDate>2016-07-27</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

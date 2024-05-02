@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011326</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GEOFON</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GEOFOrschungsNetz</r3d:additionalName>
+                    <r3d:additionalName language="eng">GFZ Seismological Data Archive</r3d:additionalName>
+                <r3d:repositoryURL>https://geofon.gfz-potsdam.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.J3YyP9</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>doi:10.14470/TR560404</r3d:repositoryIdentifier>
+                <r3d:description language="eng">GEOFON seeks to facilitate cooperation in seismological research and earthquake and tsunami hazard mitigation by providing rapid transnational access to seismological data and source parameters of large earthquakes, and keeping these data accessible in the long term.
+It pursues these aims by operating and maintaining a global network of permanent broadband stations in cooperation with local partners, facilitating real time access to data from this network and those of many partner networks and plate boundary observatories, providing a permanent and secure archive for seismological data. It also archives and makes accessible data from temporary experiments carried out by scientists at German universities and institutions, thereby fostering cooperation and encouraging the full exploitation of all acquired data and serving as the permanent archive for the Geophysical Instrument Pool at Potsdam (GIPP). It also organises the data exchange of real-time and archived data with partner institutions and international centres.</r3d:description>
+                    <r3d:repositoryContact>angelo.strollo@gfz-potsdam.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>geofon@gfz-potsdam.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://geofon.gfz-potsdam.de/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1993</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://geofon.gfz-potsdam.de/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>broad-band network</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>real time data</r3d:keyword>
+                    <r3d:keyword>seismic network</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                    <r3d:keyword>tsunami warning</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam  - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://geofon.gfz-potsdam.de/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Creation Guidelines for Seismic Network Operators</r3d:policyName>
+                <r3d:policyURL>https://geofon.gfz-potsdam.de/docs/doi-geofon-guidelines/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Grundsätze zum Umgang mit Forschungsdaten am Deutschen GeoForschungsZentrum GFZ</r3d:policyName>
+                <r3d:policyURL>https://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_de.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Guidelines on Research Data at the GFZ German Research Centre for Geosciences</r3d:policyName>
+                <r3d:policyURL>https://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_en.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Waveform Access</r3d:policyName>
+                <r3d:policyURL>https://geofon.gfz-potsdam.de/waveform/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://geofon.gfz-potsdam.de/docs/doi-geofon-guidelines/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.seiscomp.de/seiscomp3/doc/seattle/2013.046/base/license.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Contributing to the GEOFON data archive</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://geofon.gfz-potsdam.de/contribute/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.fdsn.org/webservices/</r3d:api>
+                    <r3d:api apiType="other">https://geofon.gfz-potsdam.de/waveform/webservices/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://geofon.gfz-potsdam.de/citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://geofon.gfz-potsdam.de/eqinfo/list.php?fmt=rss</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://geofon.gfz-potsdam.de/eqinfo/form.php?fmt=rss</r3d:syndication>
+                <r3d:remarks>The GEOFON earthquake monitoring system acts as key node for rapid global earthquake information for the European-Mediterranean Seismological Centre (EMSC) and as background centre of many tsunami warning centres in the Indian Ocean and in the Mediterranean. GEOFON is part of the Modular Earth Science Infrastructure (MESI) housed at the GeoForschungsZentrum providing services within the “Permanent networks”, “Data Distribution and Archiving” and “Communications” groups of MESI.
+More information about the submission of data can be found at: https://geofon.gfz-potsdam.de/contribute.php</r3d:remarks>
+        <r3d:entryDate>2014-09-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

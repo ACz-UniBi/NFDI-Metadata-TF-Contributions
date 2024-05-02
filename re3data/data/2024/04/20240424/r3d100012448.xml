@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012448</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MPDS</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Materials Platform for Data Science</r3d:additionalName>
+                    <r3d:additionalName language="eng">PAULING FILE</r3d:additionalName>
+                <r3d:repositoryURL>https://mpds.io</r3d:repositoryURL>
+                <r3d:description language="eng">Online materials database (known as PAULING FILE project) with nearly 2 million entries: physical properties, crystal structures, phase diagrams, available via API, ready for modern data-intensive applications. The source of these entries are about 0.5M peer-reviewed publications in materials science, processed during the last 30 years by an international team of PhD editors. The results are presented online with a quick search interface. The basic access is provided for free.</r3d:description>
+                    <r3d:repositoryContact>admin@mpds.io</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@tilde.pro</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-03-20">more than 30M data points</r3d:size>
+        <r3d:startDate>2017-03</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">307 Condensed Matter Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">406 Materials Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">41 Mechanical and industrial Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>http://paulingfile.com/index.php?p=products</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>PAULING FILE</r3d:keyword>
+                    <r3d:keyword>crystalline structures</r3d:keyword>
+                    <r3d:keyword>crystallography</r3d:keyword>
+                    <r3d:keyword>materials platform</r3d:keyword>
+                    <r3d:keyword>phase diagrams</r3d:keyword>
+                    <r3d:keyword>physical properties</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Materials Platform for Data Science OÜ</r3d:institutionName>
+                                <r3d:institutionCountry>EST</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://ariregister.rik.ee/eng/company/14224849</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2017-03-20</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>admin@mpds.io</r3d:institutionContact>
+                                    <r3d:institutionContact>support@tilde.pro</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Geneva, Faculty of Science, Department of Qantum Matter Physics, Crystallography service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University of Geneva, Faculty of Science, DQMP, Crystallography service</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Université de Genève, Faculté des Sciences, Service de Cristallographie</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: University of Geneva,  Laboratory of Crystallography</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">formerly: Université de Genève, Laboratoire de Cristallographie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dqmp.unige.ch/crystallography-service/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://dqmp.unige.ch/crystallography-service/services/</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://mpds.io/formal/api</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://mpds.io/formal/terms</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://mpds.io/formal/api</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://mpds.io/formal/terms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://developer.mpds.io</r3d:api>
+                    <r3d:api apiType="SPARQL">https://developer.mpds.io</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>PURL</r3d:pidSystem>
+                    <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://mpds.io/formal/privacy</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CIF - Crystallographic Information Framework</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cif-crystallographic-information-framework</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="other">https://developer.mpds.io</r3d:syndication>
+                <r3d:remarks>Software publishing: Materials Platform for Data Science OÜ, Sepapaja tn 6, Lasnamäe district, Tallinn city, Harju county, 15551, Estonia, European Union</r3d:remarks>
+        <r3d:entryDate>2017-08-29</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

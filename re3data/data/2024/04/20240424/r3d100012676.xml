@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012676</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CSISA Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Cereal Systems Initiative for South Asia (CSISA) Research Data</r3d:additionalName>
+                <r3d:repositoryURL>https://data.cimmyt.org/dataverse/csisadvn</r3d:repositoryURL>
+                <r3d:description language="eng">In keeping with the open data policies of the U.S. Agency for International Development (USAID) and Bill &amp; Melinda Gates Foundation, the Cereal Systems Initiative for South Asia (CSISA) has launched the CSISA Data Repository to ensure public accessibility to key data sets, including crop cut data- directly observed, crop yield estimates, on-station and on-farm research trial data and socioeconomic surveys.
+CSISA is a science-driven and impact-oriented regional initiative for increasing the productivity of cereal-based cropping systems in Bangladesh, India and Nepal, thus improving food security and farmers’ livelihoods. CSISA generates data that is of value and interest to a diverse audience of researchers, policymakers and the public.
+CSISA’s data repository is hosted on Dataverse, an open source web application developed at Harvard University to share, preserve, cite, explore and analyze research data. CSISA’s repository contains rich datasets, including on-station trial data from 2009–17 about crop and resource management practices for sustainable future cereal-based cropping systems. Collection of this data occurred during the long-term, on-station research trials conducted at the Indian Council of Agricultural Research – Research Complex for the Eastern Region in Bihar, India. The data include information on agronomic management for the sustainable intensification of cropping systems, mechanization, diversification, futuristic approaches to sustainable intensification, long-term effects of conservation agriculture practices on soil health and the pest spectrum.
+Additional trial data in the repository includes nutrient omission plot technique trials from Bihar, eastern Uttar Pradesh and Odisha, India, covering 2012–15, which help determine the indigenous nutrient supplying ability of the soil. This data helps develop precision nutrient management approaches that would be most effective in different types of soils.
+CSISA’s most popular dataset thus far includes crop cut data on maize in Odisha, India and rice in Nepal. Crop cut datasets provide ground-truthed yield estimates, as well as valuable information on relevant agronomic and socioeconomic practices affecting production practices and yield. A variety of research data on wheat systems are also available from Bangladesh and India. Additional crop cut data will also be coming online soon.
+Cropping system-related data and socioeconomic data are in the repository, some of which are cross-listed with a Dataverse run by the International Food Policy Research Institute. The socioeconomic datasets contain baseline information that is crucial for technology targeting, as well as to assess the adoption and performance of CSISA-supported technologies under smallholder farmers’ constrained conditions, representing the ultimate litmus test of their potential for change at scale. Other highly interesting datasets include farm composition and productive trajectory information, based on a 20-year panel dataset, and numerous wheat crop cut and maize nutrient omission trial data from across Bangladesh.</r3d:description>
+                    <r3d:repositoryContact>cimmyt-csisa@cgiar.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://csisa.org/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-03">32 datasets; 313 files</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20702 Plant Cultivation</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20703 Plant Nutrition</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20705 Plant Breeding</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://csisa.org/about-csisa/overview/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Bangladesh</r3d:keyword>
+                    <r3d:keyword>Bihar</r3d:keyword>
+                    <r3d:keyword>Eastern Uttar Pradesh</r3d:keyword>
+                    <r3d:keyword>India</r3d:keyword>
+                    <r3d:keyword>Nepal</r3d:keyword>
+                    <r3d:keyword>Odisha</r3d:keyword>
+                    <r3d:keyword>agricultural risk management</r3d:keyword>
+                    <r3d:keyword>maize</r3d:keyword>
+                    <r3d:keyword>mechanization</r3d:keyword>
+                    <r3d:keyword>rice</r3d:keyword>
+                    <r3d:keyword>seed markets</r3d:keyword>
+                    <r3d:keyword>seed systems</r3d:keyword>
+                    <r3d:keyword>soil fertility management</r3d:keyword>
+                    <r3d:keyword>wheat</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bill &amp; Melinda Gates Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gatesfoundation.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0456r8d26</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006346</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_152065</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Cereal Systems Inititative for South Asia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CSISA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://csisa.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Food Policy Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IFPRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ifpri.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03pxz9p87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Maize and Wheat Improvement Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">CIMMYT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="spa">Centro Internacional de Mejoramiento de Maíz y Trigo</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cimmyt.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04d4vcg59</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Rice Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IRRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.irri.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0593p4448</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">USAID</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">U.S. Agency for International Development</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">United States Agency for International Development</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usaid.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01n6e6j62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012846</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_152008</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Management</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/data-management</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Dataverse Community Norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://csisa.org/check-out-csisas-data-repository/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>CSISA Data Repository is part of CIMMYT Research Data &amp; Software Repository Network</r3d:remarks>
+        <r3d:entryDate>2018-05-19</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

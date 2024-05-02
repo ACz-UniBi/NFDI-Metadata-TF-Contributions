@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012329</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">STRENDA DB</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Standards for Reporting Enzymology Data</r3d:additionalName>
+                <r3d:repositoryURL>https://www.beilstein-strenda-db.org/strenda/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ekj9zx</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_017422</r3d:repositoryIdentifier>
+                <r3d:description language="eng">STRENDA DB is a storage and search platform supported by the Beilstein-Institut that incorporates the STRENDA Guidelines in a user-friendly, web-based system. If you are an author who is preparing a manuscript containing functional enzymology data, STRENDA DB provides you the means to ensure that your data sets are complete and valid before you submit them as part of a publication to a journal. 
+ Data entered in the STRENDA DB submission form are automatically checked for compliance with the STRENDA Guidelines; users receive warnings informing them when necessary information is missing.</r3d:description>
+                    <r3d:repositoryContact>https://www.beilstein-institut.de/en/projects/strenda/contact/</r3d:repositoryContact>
+                    <r3d:repositoryContact>strenda-db-service@beilstein-institut.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.beilstein-institut.de/en/projects/strenda/aims</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biochemistry</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>enzyme</r3d:keyword>
+                    <r3d:keyword>mechanistic enzymology</r3d:keyword>
+                    <r3d:keyword>nomenclature</r3d:keyword>
+                    <r3d:keyword>systems biology</r3d:keyword>
+                    <r3d:keyword>theoretical biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Beilstein-Institut zur Förderung der Chemischen Wissenschaften</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.beilstein-institut.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05jdrrw50</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@beilstein-institut.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">STRENDA Commission</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.beilstein-institut.de/en/projects/strenda/commission/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.beilstein-strenda-db.org/strenda/termsConditions.xhtml</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>User Guide for Data Input into STRENDA DB</r3d:policyName>
+                <r3d:policyURL>https://www.beilstein-strenda-db.org/strenda/help/STRENDA_DB_UserGuide_v0.92.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.beilstein-strenda-db.org/strenda/termsConditions.xhtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-03-17</r3d:entryDate>
+        <r3d:lastUpdate>2022-05-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

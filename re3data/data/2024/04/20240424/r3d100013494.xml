@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013494</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DATICE</r3d:repositoryName>
+                    <r3d:additionalName language="isl">GAGNÍS</r3d:additionalName>
+                    <r3d:additionalName language="isl">Gagnaþjónusta félagsvísinda á Íslandi</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Icelandic Social Science Data Service</r3d:additionalName>
+                <r3d:repositoryURL>https://dataverse.rhi.hi.is</r3d:repositoryURL>
+                <r3d:description language="eng">DATICE was established in late 2018 and is funded by the University of Iceland&#039;s (UI) School of Social Sciences, with a contribution from the university&#039;s Centennial Fund. DATICE is the appointed service provider for the Consortium of European Social Science Data Archives (CESSDA ERIC) in Iceland and is located within the UI Social Science Research Institute (SSRI). The main goal of the data service is to ensure open and free access to high quality research data for the research community as well as the general public.</r3d:description>
+                    <r3d:repositoryContact>gudbjorg@hi.is</r3d:repositoryContact>
+                    <r3d:repositoryContact>ort@hi.is</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-10-28">24 datasets; 124 files</r3d:size>
+        <r3d:startDate>2018</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>isl</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10601 Social and Cultural Anthropology and Ethnology/Folklore</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">110 Psychology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://datice.is/is/node/3</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>CESSDA service provider</r3d:keyword>
+                    <r3d:keyword>Dataverse</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>Iceland</r3d:keyword>
+                    <r3d:keyword>open access data</r3d:keyword>
+                    <r3d:keyword>social science research data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Iceland,  School of Social Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="isl">Háskóli Íslands, Félagsvísindasvið</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ISL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://english.hi.is/school_of_social_sciences</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Iceland, Social Science Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="isl">Háskóli Íslands, Félagsvísindastofnun</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">UI, SSRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ISL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ssri.is/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>VIAF:158733447</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>gudbjorg@hi.is</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>University of Iceland Data Protection Policy</r3d:policyName>
+                <r3d:policyURL>https://english.hi.is/leita?search_api_views_fulltext=data+policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>DATICE is a member organisation of CESSDA ERIC https://www.cessda.eu/
+Some of DATICE&#039;s datasets are also accessible through the SSRI Nesstar respository where you can view descriptive statistics for the data and conduct analysis online.</r3d:remarks>
+        <r3d:entryDate>2021-02-08</r3d:entryDate>
+        <r3d:lastUpdate>2022-10-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

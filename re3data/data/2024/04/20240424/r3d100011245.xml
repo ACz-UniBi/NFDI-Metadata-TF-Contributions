@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011245</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">University of Southampton Institutional Research Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ePrints Soton</r3d:additionalName>
+                <r3d:repositoryURL>https://eprints.soton.ac.uk/</r3d:repositoryURL>
+                <r3d:description language="eng">ePrints Soton is the University&#039;s Research Repository. It contains journal articles, books, PhD theses, conference papers, data, reports, working papers, art exhibitions and more. Where possible, journal articles, conference proceedings and research data made open access.</r3d:description>
+                    <r3d:repositoryContact>eprints@soton.ac.uk</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Southampton</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.southampton.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01ryk1543</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008086</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_56990</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.southampton.ac.uk/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Open Access &amp; Institutional Repository: Policies and Information for Depositors/Authors</r3d:policyName>
+                <r3d:policyURL>https://library.soton.ac.uk/openaccess/policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Open Access Policy</r3d:policyName>
+                <r3d:policyURL>https://www.southampton.ac.uk/about/governance/regulations-policies/policies/open-access</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Regulations, policy and student charter</r3d:policyName>
+                <r3d:policyURL>https://www.southampton.ac.uk/about/governance/regulations-policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>University Ethics policy</r3d:policyName>
+                <r3d:policyURL>https://www.southampton.ac.uk/about/governance/policies/ethics.page</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://library.soton.ac.uk/openaccess/options</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Deposit agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://library.soton.ac.uk/openaccess/policies</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>EPrints</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://eprints.soton.ac.uk/cgi/oai2</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://library.soton.ac.uk/researchdata/sharing#s-lib-ctab-14751949-6</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="ATOM">https://eprints.soton.ac.uk/cgi/latest_tool?output=Atom</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://eprints.soton.ac.uk/cgi/latest_tool?output=RSS</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://eprints.soton.ac.uk/cgi/latest_tool?output=RSS2</r3d:syndication>
+                <r3d:remarks>University of Southampton Institutional Research Repository is covered by Thomson Reuters Data Citation Index. University of Southampton Institutional Research Repository uses Altmetric metrics.
+ePrints is no longer available to login or deposit outputs, although you can still use ePrints for searching.
+All research outputs must now be deposited in Pure, the University&#039;s research information system https://www.southampton.ac.uk/research/researcher-support/pure.page. All records deposited in Pure with the status &#039;public&#039; will appear in ePrints.</r3d:remarks>
+        <r3d:entryDate>2014-11-18</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

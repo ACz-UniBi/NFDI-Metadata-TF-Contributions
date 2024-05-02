@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010356</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Unidata&#039;s RAMADDA</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Unidata&#039;s Motherlode Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://ramadda.unidata.ucar.edu/repository</r3d:repositoryURL>
+                <r3d:description language="eng">Our mission is to provide the data services, tools, and cyberinfrastructure leadership that advance earth-system science, enhance educational opportunities, and broaden participation. Unidata&#039;s main RAMADDA server contains access to a variety of datasets including the full IDD feed, Case Studies and other project data. RAMADDA is a content management system for Earth Science data. More information is available here:  https://ramadda.org/?</r3d:description>
+                    <r3d:repositoryContact>jeff.mcwhirter@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://ramadda.org/?</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>case studies</r3d:keyword>
+                    <r3d:keyword>earth science</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://new.nsf.gov/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Unidata</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">providing innovative data services and tools to transform the conduct of geoscience</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unidata.ucar.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nkrnd53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University Corporation for Atmospheric Research, Community Programs</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCAR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">UCP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ucar.edu/community-programs</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Participation Policy</r3d:policyName>
+                <r3d:policyURL>https://www.unidata.ucar.edu/legal/participation.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/MIT</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ramadda.org/repository/userguide/license.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ucar.edu/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>ARK</r3d:pidSystem>
+                    <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>RAMADDA is a freely available, open-source content and data repository. Its a place to manage all of your digital stuff - documents, photos, wikis, data, maps, etc. Unidata is a data facilitator, not a data archive center. Unidata provides mechanisms for accessing some archived data sets and case studies, and some Unidata sites do archive our data streams in raw, encoded form.Unidata is a diverse community of education and research institutions with the common goal of sharing geoscience data and the tools to access and visualize that data. For more than 25 years, Unidata has been providing data, software tools, and support to enhance Earth-system education and research. In an era of increasing data complexity and multidisciplinary integration, Unidata provides a rich set of services to the community.
+Funded primarily by the National Science Foundation, Unidata is one of the University Corporation for Atmospheric Research (UCAR)&#039;s Community Programs (UCP). UCP units create, conduct, and coordinate projects that strengthen education and research in the atmospheric, oceanic, and Earth sciences.</r3d:remarks>
+        <r3d:entryDate>2013-06-10</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

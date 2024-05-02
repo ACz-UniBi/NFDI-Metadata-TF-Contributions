@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012528</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Canadian Open Genetics Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">COGR</r3d:additionalName>
+                <r3d:repositoryURL>http://opengenetics.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">The Canadian Open Genetics Repository is a collaborative effort for the collection, storage, sharing and robust analysis of variants reported by medical diagnostics laboratories across Canada. As clinical laboratories adopt modern genomics technologies, the need for this type of collaborative framework is increasingly important.  If you want to join COGR project and get data  please send  an email at cogr@opengenetics.ca and the  introduction to the project will be arranged.</r3d:description>
+                    <r3d:repositoryContact>cogr@opengenetics.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://opengenetics.ca/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2017-11-06">2.921 matching variants</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://opengenetics.ca/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>BRCA1</r3d:keyword>
+                    <r3d:keyword>BRCA2</r3d:keyword>
+                    <r3d:keyword>Canadian laboratories</r3d:keyword>
+                    <r3d:keyword>clinical genetics</r3d:keyword>
+                    <r3d:keyword>data sharing</r3d:keyword>
+                    <r3d:keyword>diagnostics</r3d:keyword>
+                    <r3d:keyword>genetic counselling</r3d:keyword>
+                    <r3d:keyword>genetic screening</r3d:keyword>
+                    <r3d:keyword>human genetics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of Canada, Genome Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Genome Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.genomecanada.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029s29983</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.genomecanada.ca/en/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ontario Genomics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Ontario Genomics Institute</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ontariogenomics.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00c68jz96</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013156</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-32038</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sinai Health System, Mount Sinai Hospital Toronto,  Department of Microbiology</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mountsinai.on.ca/care/microbiology</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Jordan.Lerner-Ellis@sinaihealthsystem.ca</r3d:institutionContact>
+                                    <r3d:institutionContact>mlebo@partners.orgMatthew Lebo</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies / guidelines</r3d:policyName>
+                <r3d:policyURL>http://opengenetics.ca/policiesguidelines/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://opengenetics.ca/policiesguidelines/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://opengenetics.ca/policiesguidelines/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.nature.com/gim/journal/vaop/ncurrent/full/gim201780a.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Collaborators:  http://opengenetics.ca/communities/  ---- More information: http://www.mountsinai.on.ca/about_us/news/2015-news/personalized-medicine-gets-real-with-the-canadian-open-genetics-repository</r3d:remarks>
+        <r3d:entryDate>2017-11-06</r3d:entryDate>
+        <r3d:lastUpdate>2021-01-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

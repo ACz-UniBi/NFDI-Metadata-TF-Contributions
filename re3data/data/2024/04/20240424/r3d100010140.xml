@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010140</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CLAPOP</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The Dutch CLARIN Portal Pages</r3d:additionalName>
+                <r3d:repositoryURL>https://portal.clarin.nl/</r3d:repositoryURL>
+                <r3d:description language="eng">CLAPOP is the portal of the Dutch CLARIN community. It brings together all relevant resources that were created within the CLARIN NL project and that now are part of the CLARIN NL infrastructure or that were created by other projects but are essential for the functioning of the CLARIN (NL) infrastructure.
+CLARIN-NL has closely cooperated with CLARIN Flanders in a number of projects. The common results of this cooperation and the results of this cooperation created by CLARIN Flanders are included here as well.</r3d:description>
+                    <r3d:repositoryContact>https://portal.clarin.nl/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.clarin.nl/node/3</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>corpora</r3d:keyword>
+                    <r3d:keyword>cross-media</r3d:keyword>
+                    <r3d:keyword>dialect</r3d:keyword>
+                    <r3d:keyword>dictionary</r3d:keyword>
+                    <r3d:keyword>language</r3d:keyword>
+                    <r3d:keyword>multilingual</r3d:keyword>
+                    <r3d:keyword>songs</r3d:keyword>
+                    <r3d:keyword>transcription</r3d:keyword>
+                    <r3d:keyword>typology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIAH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Lab Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clariah.nl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure -  European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-NL</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure Netherlands</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.nl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>clarinnl@uu.nl</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.clarin.nl/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>j.odijk@uu.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Utrecht Institute of Linguistics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">Onderzoeksinstituut voor Taal en Spraak</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">UIL-OTS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uu.nl/en/research/utrecht-institute-of-linguistics-ots</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>clarinnl@uu.nl</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLARIN-NL Data Curation Service</r3d:policyName>
+                <r3d:policyURL>https://www.clarin.nl/sites/default/files/CLARIN_DCS_pilot.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CLARIN‐NL Samenwerkingsovereenkomst</r3d:policyName>
+                <r3d:policyURL>https://www.clarin.nl/sites/default/files/restore/Consortiumovereenkomst_0.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>CLARIN-NL is a consortium of Dutch Data Centres in the European framework of CLARIN ERIC. The Dutch members are: MPI for Psycholinguistics, Huygens Instituut, Instituut voor Nederlandse Lexicologie (INL), Data Archiving and Networked Services (DANS) and Meertens Instituut (MI)</r3d:remarks>
+        <r3d:entryDate>2013-09-05</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

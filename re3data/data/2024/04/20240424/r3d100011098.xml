@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011098</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">OpenML</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Open Machine Learning</r3d:additionalName>
+                <r3d:repositoryURL>https://www.openml.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.d36c2c</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>biodbcore-001316</r3d:repositoryIdentifier>
+                <r3d:description language="eng">OpenML is an open ecosystem for machine learning. By organizing all resources and results online, research becomes more efficient, useful and fun.
+OpenML is a platform to share detailed experimental results with the community at large and organize them for future reuse. Moreover, it will be directly integrated in today’s most popular data mining tools (for now: R, KNIME, RapidMiner and WEKA). Such an easy and free exchange of experiments has tremendous potential to speed up machine learning research, to engender larger, more detailed studies and to offer accurate advice to practitioners. Finally, it will also be a valuable resource for education in machine learning and data mining.</r3d:description>
+                    <r3d:repositoryContact>https://www.openml.org/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.openml.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>algorithms</r3d:keyword>
+                    <r3d:keyword>datasets</r3d:keyword>
+                    <r3d:keyword>experimental methodology</r3d:keyword>
+                    <r3d:keyword>experiments</r3d:keyword>
+                    <r3d:keyword>machine learning</r3d:keyword>
+                    <r3d:keyword>meta-learning</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Dutch Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">NWO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Nederlandse Organisatie voor Wetenschappelijk Onderzoek</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nwo.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04jsz6e67</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nwo.nl/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Eindhoven University of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">TU/e</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">Technische Universiteit Eindhoven</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tue.nl/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02c2kyt77</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003354</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_151954</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.tue.nl/universiteit/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/info/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k4n6c32</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ec.europa.eu/info/about-european-commission/contact_en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="nld">Katholieke Universiteit Leuven, Declaratieve Talen en Artificiele Intelligentie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">DTAI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Katholieke Universiteit Leuven,Declarative Languages and Artificial Intelligence</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dtai.cs.kuleuven.be/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://dtai.cs.kuleuven.be/about</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Leiden University, Leiden Institute of Advanced Computer Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LIACS Data Mining Group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.universiteitleiden.nl/en/science/computer-science</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>j.vanschoren@liacs.leidenuniv.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">PASCAL 2</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PASCAL Network</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Pattern Analysis, Statistical Modelling and Computational Learning</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.k4all.org/project/pascal2/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>OpenML documentation</r3d:policyName>
+                <r3d:policyURL>https://docs.openml.org/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms</r3d:policyName>
+                <r3d:policyURL>https://docs.openml.org/terms/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/choose/mark/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://docs.openml.org/#programming-apis</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://docs.openml.org/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>OpenML attributes data, flows, runs, tells other how to cite it</r3d:remarks>
+        <r3d:entryDate>2014-07-17</r3d:entryDate>
+        <r3d:lastUpdate>2023-08-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

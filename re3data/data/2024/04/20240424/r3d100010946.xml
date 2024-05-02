@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010946</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">diversitydata.org</r3d:repositoryName>
+                <r3d:repositoryURL>http://diversitydata.org</r3d:repositoryURL>
+                <r3d:description language="eng">diversitydata.org is an online tool for exploring quality of life data across metropolitan areas for people of different racial/ethnic groups in the United States. It provides values and rankings for the largest U.S. metropolitan areas on different indicators in 8 areas of life (domains), including demographics, education, economic opportunity, housing, neighborhoods, and health. It also provides a simple mapping utility, showing the range of indicator values for metros across the U.S. 
+Data from 1999 indicators is archives in the companion Diversity Data Archive (https://diversitydata-archive.org/). For a wider selection of data on child wellbeing, visit our partner site, diversitydatakids.org (https://www.diversitydatakids.org/).
+diversitydata.org has been named a Health Data All Star by the Health Data Consortium. The list was compiled in consultation with leading health researchers, government officials, entrepreneurs, advocates and others to identify the health data resources that matter most.</r3d:description>
+                    <r3d:repositoryContact>info@diversitydatakids.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11202 Economic and Social Policy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31702 Human Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://diversitydata.org/about-us</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>GeoNames.org</r3d:keyword>
+                    <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>crime</r3d:keyword>
+                    <r3d:keyword>demographic surveys</r3d:keyword>
+                    <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>diversity in the workplace</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>ethnicity</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>housing</r3d:keyword>
+                    <r3d:keyword>metropolitan areas</r3d:keyword>
+                    <r3d:keyword>population</r3d:keyword>
+                    <r3d:keyword>population density</r3d:keyword>
+                    <r3d:keyword>quality of life</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                    <r3d:keyword>social surveys</r3d:keyword>
+                    <r3d:keyword>surveys</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Brandeis University, The Heller School for Social Policy and Management, Institute for Child, Youth and Family Policy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICYFP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://heller.brandeis.edu/icyfp/work/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard T.H. Chan School of Public Health</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hsph.harvard.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011268</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_43611</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.hsph.harvard.edu/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Robert Wood Johnson Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RWJF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rwjf.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02ymmdj85</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.rwjf.org/en/about-rwjf/contact-us.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">W.K. Kellog Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wkkf.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03gtcr185</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Heller Policies</r3d:policyName>
+                <r3d:policyURL>https://heller.brandeis.edu/policies/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Information Security Policy</r3d:policyName>
+                <r3d:policyURL>https://heller.brandeis.edu/policies/secure-heller.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://heller.brandeis.edu/policies/secure-heller.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://heller.brandeis.edu/policies/pdfs/secure-heller/certificate-of-disposition-9-4-12.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-08-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

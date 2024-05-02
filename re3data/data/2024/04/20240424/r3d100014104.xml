@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014104</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="spa">eBiltegia</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Digital repository of Mondragon Unibertsitatea</r3d:additionalName>
+                <r3d:repositoryURL>https://ebiltegia.mondragon.edu</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OpenDOAR:4435</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Mondragon Unibertsitatea’s open access repository provides you with full text access to the documents produced by University members, as result of the academic, research and institutional activity. Its purpose is to increase the visibility of University´s scientific and teaching production, to spread its impact and to assure its preservation.
+You can find PhD theses, Bachelor theses, didactic material, University publications, working papers, preprints, post-prints, articles, proceedings, institutional documentation, etc.</r3d:description>
+                    <r3d:repositoryContact>ebiltegia@mondragon.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2024-02-21">4.983 items</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eus</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://ebiltegia.mondragon.edu/xmlui/page/ebiltegia/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Mondragon University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">Mondragon Unibertsitatea</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eus">Universidad de Mondragón</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mondragon.edu/en/home</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00wvqgd19</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Open access policy from Mondragon Unibertsitatea</r3d:policyName>
+                <r3d:policyURL>https://www.mondragon.edu/en/web/biblioteka/open-access-policy-mondragon-unibertsitatea</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-nc-nd/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">http://ebiltegia.mondragon.edu:8080/oai/driver?verb=Identify</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.mondragon.edu/en/web/biblioteka/how-to-write-a-bibliography</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2023-01-04</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

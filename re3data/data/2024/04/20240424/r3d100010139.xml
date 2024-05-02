@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010139</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Hamburger Zentrum für Sprachkorpora Korpus Repositorium</r3d:repositoryName>
+                    <r3d:additionalName language="deu">HZSK Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">Hamburg Centre for Speech Corpora Digital Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://corpora.uni-hamburg.de/hzsk/en/repository-search</r3d:repositoryURL>
+                <r3d:description language="eng">The repository of the Hamburg Centre for Speech Corpora is used for archiving, maintenance, distribution and development of spoken language corpora. These usually consist of audio and / or video recordings, transcriptions and other data and structured metadata.
+The corpora treat the focus on multilingualism and are generally freely available for research and teaching. Most of the measures maintained by the HZSK corpora were created in the years 2000-2011 in the framework of the SFB 538 &quot;Multilingualism&quot; at the University of Hamburg. The HZSK however also strives to take linguistic data from other projects or contexts, and to provide also the scientific community for research and teaching are available, provided that they are compatible with the current focus of HZSK, ie especially spoken language and multilingualism.</r3d:description>
+                    <r3d:repositoryContact>corpora AT uni-hamburg.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://corpora.uni-hamburg.de/pdf/Satzung.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>VLO</r3d:keyword>
+                    <r3d:keyword>Virtual Language Observatory</r3d:keyword>
+                    <r3d:keyword>legacy data</r3d:keyword>
+                    <r3d:keyword>multilingualism</r3d:keyword>
+                    <r3d:keyword>spoken language corpora</r3d:keyword>
+                    <r3d:keyword>transcriptions</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure-D</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin-d.net/de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure-EU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DFG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry of Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Hamburg, Hamburger Zentrum für Sprachkorpora</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">hzsk</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://corpora.uni-hamburg.de/hzsk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://corpora.uni-hamburg.de/hzsk/de/kontakt</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/02/HZSK-Repository.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Satzung</r3d:policyName>
+                <r3d:policyURL>https://corpora.uni-hamburg.de/pdf/Satzung.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://corpora.uni-hamburg.de/hzsk/en/corpus-enquiries-licenses</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Korpushosting</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://corpora.uni-hamburg.de/hzsk/de/korpushosting</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">http://corpora.uni-hamburg.de:8080/oai/provider</r3d:api>
+                    <r3d:api apiType="other">https://vlo.clarin.eu/data/clarin/results/cmdi/HZSK_Repository/</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://corpora.uni-hamburg.de/hzsk/rss.xml</r3d:syndication>
+                <r3d:remarks>The HZSK is a B-center in CLARIN-D; In addition to the Hamburg Center for Speech Corpora eight more data centers in Germany are involved in the CLARIN network, including the Institute for German Language in Mannheim (IDS) and the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW). The data centers each operate independently, but are linked together in the CLARIN infrastructure.
+HZSK Corpora can be accessed by VLO- Virtual Language Observatory https://vlo.clarin.eu/ (search:HZSK)</r3d:remarks>
+        <r3d:entryDate>2013-08-21</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

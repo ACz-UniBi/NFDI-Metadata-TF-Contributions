@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011131</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Panel Study on Income Dynamics</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PSID</r3d:additionalName>
+                <r3d:repositoryURL>https://psidonline.isr.umich.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_008976</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_152067</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>https://fairsharing.org/3031</r3d:repositoryIdentifier>
+                <r3d:description language="eng">A national study on socioeconomics and family health over lifetimes and across generations funded by National Science Foundation (NSF). It is the longest running longitudinal household survey in the world, started in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. It is recognizing the importance of the socioeconomic data, available on this website without cost to researchers and analysts.</r3d:description>
+                    <r3d:repositoryContact>psidhelp@umich.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">110 Psychology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31702 Human Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://psidonline.isr.umich.edu/GettingStarted.aspx</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>child development</r3d:keyword>
+                    <r3d:keyword>childbearing</r3d:keyword>
+                    <r3d:keyword>demographics</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>employment</r3d:keyword>
+                    <r3d:keyword>expenditures</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>income</r3d:keyword>
+                    <r3d:keyword>marriage</r3d:keyword>
+                    <r3d:keyword>philanthropy</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                    <r3d:keyword>wealth</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, Institute for Social Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://isr.umich.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://isr.umich.edu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conditions of use</r3d:policyName>
+                <r3d:policyURL>https://simba.isr.umich.edu/U/CondUse.aspx</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://simba.isr.umich.edu/U/CondUse.aspx</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://psidonline.isr.umich.edu/Guide/FAQ.aspx?ID=1040</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The PSID is currently funded by the following organizations: 
+National Institute on Aging;
+Eunice Kennedy Shriver National Institute of Child Health and Human Development;
+Indiana University Lilly Family School of Philanthropy;
+Economic Research Service, Department of Agriculture;
+Food and Nutrition Service, Department of Agriculture;
+Office of the Assistant Secretary for Planning and Evaluation, Department of Health and Human Services;
+Department of Housing and Urban Development.
+PSID is part of the CNEF User Package, read more: https://www.cnefdata.org/data/cnef-data</r3d:remarks>
+        <r3d:entryDate>2014-10-06</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

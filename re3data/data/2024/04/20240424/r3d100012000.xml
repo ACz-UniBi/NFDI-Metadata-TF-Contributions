@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012000</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Water Survey of Canada</r3d:repositoryName>
+                    <r3d:additionalName language="fra">RHC</r3d:additionalName>
+                    <r3d:additionalName language="fra">Relevés hydrologiques du Canada</r3d:additionalName>
+                    <r3d:additionalName language="eng">WSC</r3d:additionalName>
+                <r3d:repositoryURL>https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey.html</r3d:repositoryURL>
+                <r3d:description language="eng">Real time and archival databases containing Canadian water information. These data include, archived hydrometric data, water level and streamflow statistics, daily and monthly mean flow, water level and sediment concentration for monitoring station across Canada.
+The Water Survey of Canada (WSC) is the national authority responsible for the collection, interpretation and dissemination of standardized water resource data and information in Canada. In partnership with the provinces, territories and other agencies, WSC operates over 2800 active hydrometric gauges across the country.</r3d:description>
+                    <r3d:repositoryContact>https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>HYDAT</r3d:keyword>
+                    <r3d:keyword>Municipal Water and Wastewater Survey MWWS</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>environment</r3d:keyword>
+                    <r3d:keyword>historical station information</r3d:keyword>
+                    <r3d:keyword>sediment</r3d:keyword>
+                    <r3d:keyword>water quantity monitoring</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Environment and Climate Change Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ECCC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/en/environment-climate-change.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026ny0e17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>ec.enviroinfo.ec@canada.ca</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer for hydrometric information</r3d:policyName>
+                <r3d:policyURL>https://wateroffice.ec.gc.ca/disclaimer_info_e.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://www.canada.ca/en/transparency/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wateroffice.ec.gc.ca/disclaimer_info_e.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.canada.ca/en/transparency/terms.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-05-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

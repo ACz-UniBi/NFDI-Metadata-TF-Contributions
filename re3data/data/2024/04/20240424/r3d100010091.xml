@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010091</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">JASPAR</r3d:repositoryName>
+                <r3d:repositoryURL>https://jaspar.elixir.no/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.6641f3</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:OMICS_00538</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003030</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03061</r3d:repositoryIdentifier>
+                <r3d:description language="eng">JASPAR is the leading open-access database of matrix profiles describing the DNA-binding patterns of transcription factors and other proteins interacting with DNA in a sequence-specific manner.</r3d:description>
+                    <r3d:repositoryContact>https://jaspar.elixir.no/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-17">5.278 profiles; 4.279 Jaspar CORE profiles</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://jaspar.elixir.no/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>funghi</r3d:keyword>
+                    <r3d:keyword>insect</r3d:keyword>
+                    <r3d:keyword>matrix models</r3d:keyword>
+                    <r3d:keyword>nematoda</r3d:keyword>
+                    <r3d:keyword>pattern</r3d:keyword>
+                    <r3d:keyword>plant</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                    <r3d:keyword>structures</r3d:keyword>
+                    <r3d:keyword>vertebrata</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ELIXIR Norway</r3d:institutionName>
+                                <r3d:institutionCountry>NOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.elixir.no/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>contact@elixir.no</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Copenhagen, Department of Biology, The Bioinformatics Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="dan">Kobenhavns Universitet, Biologisk Institut,  Bioinformatik-centret</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www1.bio.ku.dk/english/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@binf.ku.dk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Documentation</r3d:policyName>
+                <r3d:policyURL>https://jaspar.elixir.no/docs/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>BSD</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://jaspar.elixir.no/docs/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://jaspar.elixir.no/api/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://jaspar.elixir.no/faq/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Authority: Albin Sandelin (University of Copenhagen); Boris Lenhard (University of Bergen)</r3d:remarks>
+        <r3d:entryDate>2012-10-08</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

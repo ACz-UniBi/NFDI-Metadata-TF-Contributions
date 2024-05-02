@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010236</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Fachinformationssystem Geophysik</r3d:repositoryName>
+                    <r3d:additionalName language="deu">FIS GP</r3d:additionalName>
+                    <r3d:additionalName language="eng">Geophysics Information System</r3d:additionalName>
+                <r3d:repositoryURL>https://www.fis-geophysik.de/</r3d:repositoryURL>
+                <r3d:description language="eng">LIAG&#039;s Geophysics Information System (FIS GP) serves for the storage and supply of geophysical measurements and evaluations of LIAG and its partners. 
+The architecture of the overall system intends a subdivision into an universal part (superstructure) and into several subsystems dedicated to geophysical methods (borehole geophysics, gravimetry, magnetics, 1D/2D geoelectrics, underground temperatures, seismics, VSP, helicopter geophysics and rock physics. The building of more subsystems is planned.</r3d:description>
+                    <r3d:repositoryContact>poststelle@leibniz-liag.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-05-05">1.344.295 measuring points; 355.989 gravity measurments; 68.251 temperature values from 11.286 boreholes; 21.591 Schlumberger soundings; 2.123 measurement logs from 539 boreholes and 634 composite logs from 634 boreholes;</r3d:size>
+        <r3d:startDate>1999</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31401 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31701 Physical Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.leibniz-liag.de/forschung/projekte/haushaltsprojekte/fis-gp.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>VSP</r3d:keyword>
+                    <r3d:keyword>borehole geophysics</r3d:keyword>
+                    <r3d:keyword>drilling</r3d:keyword>
+                    <r3d:keyword>geoelectricity</r3d:keyword>
+                    <r3d:keyword>geothermal energy</r3d:keyword>
+                    <r3d:keyword>gravimetry</r3d:keyword>
+                    <r3d:keyword>helicopter geophysics</r3d:keyword>
+                    <r3d:keyword>magnetism</r3d:keyword>
+                    <r3d:keyword>measurement</r3d:keyword>
+                    <r3d:keyword>petrophysics</r3d:keyword>
+                    <r3d:keyword>seismics</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Wirtschaft und Energie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMWi</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry for Economic Affairs and Energy</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Ministère de l&#039;Economie et de l&#039;Énergie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmwi.de/Navigation/EN/Home/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02vgg2808</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bmwk.de/Navigation/EN/Service/Contact/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Angewandte Geophysik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">LIAG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Applied Geophysics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.leibniz-liag.de/en/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05txczf44</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1999</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>klaus.kuehne@liag-hannover.de</r3d:institutionContact>
+                                    <r3d:institutionContact>m.bening@liag-hannover.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Niedersächsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mw.niedersachsen.de/startseite/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05jrpd556</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mw.niedersachsen.de/startseite/uber_uns/kontakt/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policy</r3d:policyName>
+                <r3d:policyURL>https://www.leibniz-liag.de/fileadmin/user_upload/S4/projekte/fis_gp_flyer_seite1und2.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.leibniz-liag.de/en/metamenue/privacy-policy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms</r3d:policyName>
+                <r3d:policyURL>https://www.geotis.de/homepage/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.fis-geophysik.de/fis_gp/help/de/geodatenrechte.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The internet user interface FIS GP/WEB is divided into two components: FIS GP/FORMS is forms based and supplies functions like search, navigation, export/download, print, visualization, analysis/interpretation etc. The second component FIS GP/GEO is a WebGIS solution to be used for geographical search.
+The metadata of FIS GP contents will also be provided via the European gephysical data portal developed within the EU project GEOMIND.</r3d:remarks>
+        <r3d:entryDate>2013-05-21</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

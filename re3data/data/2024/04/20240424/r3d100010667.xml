@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010667</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Air Pollution Surveillance</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NAPS</r3d:additionalName>
+                    <r3d:additionalName language="fra">RNSPA</r3d:additionalName>
+                    <r3d:additionalName language="fra">Réseau national de surveillance de la pollution atmosphérique</r3d:additionalName>
+                <r3d:repositoryURL>https://www.canada.ca/en/environment-climate-change/services/air-pollution/monitoring-networks-data/national-air-pollution-program.html</r3d:repositoryURL>
+                <r3d:description language="eng">The National Air Pollution Surveillance (NAPS) Program provides accurate and long-term air quality data of a uniform standard across Canada. The NAPS Network has a Canada-Wide database of criteria air contaminants from the early 1970s to the present for designated NAPS sites, as well as provincial, territorial and other sites. Trace contaminants are also monitored at several stations in the network and analyzed by the laboratory at River Road.</r3d:description>
+                    <r3d:repositoryContact>Rnspa-napsinfo@ec.gc.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1969</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.ec.gc.ca/rnspa-naps/default.asp?lang=En&amp;n=6ED32997-1</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>air quality</r3d:keyword>
+                    <r3d:keyword>carbon monoxide</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>environment</r3d:keyword>
+                    <r3d:keyword>fine particulate matter</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>nitrogen dioxide</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>sulphur dioxid</r3d:keyword>
+                    <r3d:keyword>waste management</r3d:keyword>
+                    <r3d:keyword>water</r3d:keyword>
+                    <r3d:keyword>wildlife</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Environment and Climate Change Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ec.gc.ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026ny0e17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1969</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Rnspa-napsinfo@ec.gc.ca</r3d:institutionContact>
+                                    <r3d:institutionContact>dann.tom@etc.ec.gc.ca</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://www.canada.ca/en/transparency/terms.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.canada.ca/en/environment-climate-change/corporate/transparency.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://open.canada.ca/data/en/dataset/1b36a356-defd-4813-acea-47bc3abd859b?lang=en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Partner of NAPS: https://www.canada.ca/en/environment-climate-change/services/air-pollution/monitoring-networks-data/national-air-pollution-program/partners.html
+The National Air Pollution Surveillance Network has a Canada-wide database of criteria air contaminants from the early 1970s to the present for designated National Air Pollution Surveillance Network sites, as well as provincial, territorial and other sites. Trace contaminants are also monitored at several stations in the network and analyzed by the air quality research laboratory at River Road.
+Data is available upon request by email to RNSPA-NAPSINFO@ec.gc.ca</r3d:remarks>
+        <r3d:entryDate>2014-03-20</r3d:entryDate>
+        <r3d:lastUpdate>2021-02-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

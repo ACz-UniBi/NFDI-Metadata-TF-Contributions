@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011296</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NIST Atomic Spectra Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ASD</r3d:additionalName>
+                    <r3d:additionalName language="eng">NIST Standard Reference Database 78</r3d:additionalName>
+                    <r3d:additionalName language="eng">Spectral Data for the Chandra X-Ray Observatory (former database / discontinued)</r3d:additionalName>
+                <r3d:repositoryURL>https://www.nist.gov/pml/atomic-spectra-database</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001108</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>doi:10.18434/T4W30F</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Atomic Spectra Database (ASD) contains data for radiative transitions and energy levels in atoms and atomic ions.  Data are included for observed transitions and energy levels of most of the known chemical elements. ASD contains data on spectral lines with wavelengths from about 0.2 Å (ångströms) to 60 m (meters). For many lines, ASD includes radiative transition probabilities. The energy level data include the ground states and ionization energies for all spectra. Except where noted, the data have been critically evaluated by NIST.
+For most spectra, wavelengths, transition probabilities, relative intensities, and energy levels are integrated, so that all the available information for a given transition is incorporated under a single listing. For classified lines, in addition to the observed wavelength, ASD includes the Ritz wavelength, which is the wavelength derived from the energy levels. The Ritz wavelengths are usually more precise than the observed ones.
+Line lists containing classified lines can be ordered by either multiplet (for a given spectrum) or wavelength. For some spectra, ASD includes lists of prominent lines with wavelengths and relative intensities but without energy-level classifications.</r3d:description>
+                    <r3d:repositoryContact>https://www.nist.gov/about-nist/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1995</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.nist.gov/about-nist/work-nist</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>actinium</r3d:keyword>
+                    <r3d:keyword>aluminium</r3d:keyword>
+                    <r3d:keyword>aluminum</r3d:keyword>
+                    <r3d:keyword>americium</r3d:keyword>
+                    <r3d:keyword>antimony</r3d:keyword>
+                    <r3d:keyword>argon</r3d:keyword>
+                    <r3d:keyword>arsenic</r3d:keyword>
+                    <r3d:keyword>astatine</r3d:keyword>
+                    <r3d:keyword>atom</r3d:keyword>
+                    <r3d:keyword>atomic</r3d:keyword>
+                    <r3d:keyword>atomic physics</r3d:keyword>
+                    <r3d:keyword>atomic property</r3d:keyword>
+                    <r3d:keyword>atomic spectroscopy</r3d:keyword>
+                    <r3d:keyword>atomic spectroscopy</r3d:keyword>
+                    <r3d:keyword>atomic-ions</r3d:keyword>
+                    <r3d:keyword>barium</r3d:keyword>
+                    <r3d:keyword>berkelium</r3d:keyword>
+                    <r3d:keyword>beryllium</r3d:keyword>
+                    <r3d:keyword>bismuth</r3d:keyword>
+                    <r3d:keyword>bohrium</r3d:keyword>
+                    <r3d:keyword>boron</r3d:keyword>
+                    <r3d:keyword>bromine</r3d:keyword>
+                    <r3d:keyword>cadmium</r3d:keyword>
+                    <r3d:keyword>calcium</r3d:keyword>
+                    <r3d:keyword>californium</r3d:keyword>
+                    <r3d:keyword>carbon</r3d:keyword>
+                    <r3d:keyword>cerium</r3d:keyword>
+                    <r3d:keyword>cesium</r3d:keyword>
+                    <r3d:keyword>chandra</r3d:keyword>
+                    <r3d:keyword>chlorine</r3d:keyword>
+                    <r3d:keyword>chromium</r3d:keyword>
+                    <r3d:keyword>cobalt</r3d:keyword>
+                    <r3d:keyword>columbium</r3d:keyword>
+                    <r3d:keyword>copernicium</r3d:keyword>
+                    <r3d:keyword>copper</r3d:keyword>
+                    <r3d:keyword>curium</r3d:keyword>
+                    <r3d:keyword>darmstadtium</r3d:keyword>
+                    <r3d:keyword>database</r3d:keyword>
+                    <r3d:keyword>deuterium</r3d:keyword>
+                    <r3d:keyword>doubly-charged</r3d:keyword>
+                    <r3d:keyword>dubnium</r3d:keyword>
+                    <r3d:keyword>dysprosium</r3d:keyword>
+                    <r3d:keyword>einsteinium</r3d:keyword>
+                    <r3d:keyword>element</r3d:keyword>
+                    <r3d:keyword>energy levels</r3d:keyword>
+                    <r3d:keyword>erbium</r3d:keyword>
+                    <r3d:keyword>europium</r3d:keyword>
+                    <r3d:keyword>fermium</r3d:keyword>
+                    <r3d:keyword>flerovium</r3d:keyword>
+                    <r3d:keyword>fluorine</r3d:keyword>
+                    <r3d:keyword>francium</r3d:keyword>
+                    <r3d:keyword>gadolinium</r3d:keyword>
+                    <r3d:keyword>gallium</r3d:keyword>
+                    <r3d:keyword>germanium</r3d:keyword>
+                    <r3d:keyword>gold</r3d:keyword>
+                    <r3d:keyword>ground states</r3d:keyword>
+                    <r3d:keyword>hafnium</r3d:keyword>
+                    <r3d:keyword>hassium</r3d:keyword>
+                    <r3d:keyword>helium</r3d:keyword>
+                    <r3d:keyword>holmium</r3d:keyword>
+                    <r3d:keyword>hydrogen</r3d:keyword>
+                    <r3d:keyword>indium</r3d:keyword>
+                    <r3d:keyword>iodine</r3d:keyword>
+                    <r3d:keyword>ionization potentials</r3d:keyword>
+                    <r3d:keyword>ionization-energies</r3d:keyword>
+                    <r3d:keyword>ionization-limits</r3d:keyword>
+                    <r3d:keyword>ionized spectra</r3d:keyword>
+                    <r3d:keyword>ionized-atoms</r3d:keyword>
+                    <r3d:keyword>iridium</r3d:keyword>
+                    <r3d:keyword>iron</r3d:keyword>
+                    <r3d:keyword>krypton</r3d:keyword>
+                    <r3d:keyword>kurchatovium</r3d:keyword>
+                    <r3d:keyword>lanthanum</r3d:keyword>
+                    <r3d:keyword>lawrencium</r3d:keyword>
+                    <r3d:keyword>lead</r3d:keyword>
+                    <r3d:keyword>line classifications</r3d:keyword>
+                    <r3d:keyword>lithium</r3d:keyword>
+                    <r3d:keyword>livermorium</r3d:keyword>
+                    <r3d:keyword>lutetium</r3d:keyword>
+                    <r3d:keyword>magnesium</r3d:keyword>
+                    <r3d:keyword>manganese</r3d:keyword>
+                    <r3d:keyword>meitnerium</r3d:keyword>
+                    <r3d:keyword>mendelevium</r3d:keyword>
+                    <r3d:keyword>mercury</r3d:keyword>
+                    <r3d:keyword>mg</r3d:keyword>
+                    <r3d:keyword>molybdenum</r3d:keyword>
+                    <r3d:keyword>multiply-charged</r3d:keyword>
+                    <r3d:keyword>ne</r3d:keyword>
+                    <r3d:keyword>neodymium</r3d:keyword>
+                    <r3d:keyword>neon</r3d:keyword>
+                    <r3d:keyword>neptunium</r3d:keyword>
+                    <r3d:keyword>neutral</r3d:keyword>
+                    <r3d:keyword>nickel</r3d:keyword>
+                    <r3d:keyword>niobium</r3d:keyword>
+                    <r3d:keyword>nitrogen</r3d:keyword>
+                    <r3d:keyword>nobelium</r3d:keyword>
+                    <r3d:keyword>observatory</r3d:keyword>
+                    <r3d:keyword>osmium</r3d:keyword>
+                    <r3d:keyword>oxygen</r3d:keyword>
+                    <r3d:keyword>palladium</r3d:keyword>
+                    <r3d:keyword>phosphorus</r3d:keyword>
+                    <r3d:keyword>physical reference data</r3d:keyword>
+                    <r3d:keyword>physical sciences</r3d:keyword>
+                    <r3d:keyword>platinum</r3d:keyword>
+                    <r3d:keyword>plutonium</r3d:keyword>
+                    <r3d:keyword>polonium</r3d:keyword>
+                    <r3d:keyword>potassium</r3d:keyword>
+                    <r3d:keyword>praseodymium</r3d:keyword>
+                    <r3d:keyword>promethium</r3d:keyword>
+                    <r3d:keyword>protactinium</r3d:keyword>
+                    <r3d:keyword>quadruply-charged</r3d:keyword>
+                    <r3d:keyword>radium</r3d:keyword>
+                    <r3d:keyword>radon</r3d:keyword>
+                    <r3d:keyword>rhenium</r3d:keyword>
+                    <r3d:keyword>rhodium</r3d:keyword>
+                    <r3d:keyword>roentgenium</r3d:keyword>
+                    <r3d:keyword>rubidium</r3d:keyword>
+                    <r3d:keyword>ruthenium</r3d:keyword>
+                    <r3d:keyword>rutherfordium</r3d:keyword>
+                    <r3d:keyword>s</r3d:keyword>
+                    <r3d:keyword>samarium</r3d:keyword>
+                    <r3d:keyword>scandium</r3d:keyword>
+                    <r3d:keyword>seaborgium</r3d:keyword>
+                    <r3d:keyword>selenium</r3d:keyword>
+                    <r3d:keyword>si</r3d:keyword>
+                    <r3d:keyword>silicium</r3d:keyword>
+                    <r3d:keyword>silicon</r3d:keyword>
+                    <r3d:keyword>silver</r3d:keyword>
+                    <r3d:keyword>singly-charged</r3d:keyword>
+                    <r3d:keyword>sodium</r3d:keyword>
+                    <r3d:keyword>spectra</r3d:keyword>
+                    <r3d:keyword>spectral lines</r3d:keyword>
+                    <r3d:keyword>spectroscopy</r3d:keyword>
+                    <r3d:keyword>spectrum</r3d:keyword>
+                    <r3d:keyword>strontium</r3d:keyword>
+                    <r3d:keyword>sulfur</r3d:keyword>
+                    <r3d:keyword>sulphur</r3d:keyword>
+                    <r3d:keyword>tantalum</r3d:keyword>
+                    <r3d:keyword>technetium</r3d:keyword>
+                    <r3d:keyword>tellurium</r3d:keyword>
+                    <r3d:keyword>terbium</r3d:keyword>
+                    <r3d:keyword>thallium</r3d:keyword>
+                    <r3d:keyword>thorium</r3d:keyword>
+                    <r3d:keyword>thulium</r3d:keyword>
+                    <r3d:keyword>tin</r3d:keyword>
+                    <r3d:keyword>titanium</r3d:keyword>
+                    <r3d:keyword>transition probabilities</r3d:keyword>
+                    <r3d:keyword>triply-charged</r3d:keyword>
+                    <r3d:keyword>tritium</r3d:keyword>
+                    <r3d:keyword>tungsten</r3d:keyword>
+                    <r3d:keyword>ununbium</r3d:keyword>
+                    <r3d:keyword>ununhexium</r3d:keyword>
+                    <r3d:keyword>ununoctium</r3d:keyword>
+                    <r3d:keyword>ununpentium</r3d:keyword>
+                    <r3d:keyword>ununquadium</r3d:keyword>
+                    <r3d:keyword>ununseptium</r3d:keyword>
+                    <r3d:keyword>ununtrium</r3d:keyword>
+                    <r3d:keyword>unununium</r3d:keyword>
+                    <r3d:keyword>uranium</r3d:keyword>
+                    <r3d:keyword>vanadium</r3d:keyword>
+                    <r3d:keyword>wavelengths</r3d:keyword>
+                    <r3d:keyword>x-ray</r3d:keyword>
+                    <r3d:keyword>xenon</r3d:keyword>
+                    <r3d:keyword>ytterbium</r3d:keyword>
+                    <r3d:keyword>yttrium</r3d:keyword>
+                    <r3d:keyword>zinc</r3d:keyword>
+                    <r3d:keyword>zirconium</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Standards and Technology, Physical Measurement Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PML</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nist.gov/pml/index.cfm</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Standards and Technology, Standard Reference Data Program</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIST, SRDP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nist.gov/srd</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Standards and Technology, Systems Integration for Manufacturing Applications</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIST, SIMA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.nist.gov/el/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Commerce</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.commerce.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy, Office of Fusion Energy Sciences</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://science.energy.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>http://www.nist.gov/public_affairs/disclaimer.cfm</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NIST quality standards</r3d:policyName>
+                <r3d:policyURL>http://www.nist.gov/director/quality_standards.cfm</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NIST scientific integrity</r3d:policyName>
+                <r3d:policyURL>http://www.nist.gov/director/scientific_integrity_summary.cfm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.nist.gov/public_affairs/disclaimer.cfm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://physics.nist.gov/PhysRefData/ASD/Html/verhist.shtml</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>NIST Atomic Spectra Database is covered by Thomson Reuters Data Citation Index.
+The National Institute of Standards and Technology (NIST) is an agency of the U.S. Department of Commerce.
+As of November 2011, the contents of the database &quot;Spectral Data for the Chandra X-Ray Observatory&quot; have been completely superseded by the NIST Atomic Spectra Database (ASD). Therefore, this database has been discontinued. To search for the data previously contained in this database (multiply ionized spectra of Ne, Mg, Si, and S), please go to Atomic Spectra Database (ASD):</r3d:remarks>
+        <r3d:entryDate>2014-11-26</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

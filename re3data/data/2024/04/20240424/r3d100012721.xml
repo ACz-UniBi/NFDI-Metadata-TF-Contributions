@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012721</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TopFIND</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The public knowledgebase for protein termini and protease processing</r3d:additionalName>
+                <r3d:repositoryURL>https://topfind.clip.msl.ubc.ca/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rkpmhn</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_10578</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_008918</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_151607</r3d:repositoryIdentifier>
+                <r3d:description language="eng">TopFIND is a protein-centric database for the annotation of protein termini currently in its third version. Non-canonical protein termini can be the result of multiple different biological processes, including pre-translational processes such as alternative splicing and alternative translation initiation or post-translational protein processing by proteases that cleave proteases as part of protein maturation or as a regulatory modification. Accordingly, protein termini evidence in TopFIND is inferred from other databases such as ENSEMBL transcripts, TISdb for alternative translation initiation, MEROPS for protein cleavage by proteases, and UniProt for canonical and protein isoform start sites.</r3d:description>
+                    <r3d:repositoryContact>topfind.clip@msl.ubc.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-03-01">331.278 natural and neo N- and C-termini and 35.044 protease cleavages sites listed</r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://topfind.clip.msl.ubc.ca/documentations/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>polypeptide chain</r3d:keyword>
+                    <r3d:keyword>protease</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>proteomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of British Columbia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UBC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ubc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03rmrcq20</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011614</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_18099</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>License &amp; Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://topfind.clip.msl.ubc.ca/documentations/license</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nd/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data contribution</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://topfind.clip.msl.ubc.ca/contribute/index</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL>https://topfind.clip.msl.ubc.ca/documentations/about</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-07-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

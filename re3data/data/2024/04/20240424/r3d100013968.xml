@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013968</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CHILDdb</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CHILD Cohort Study</r3d:additionalName>
+                    <r3d:additionalName language="eng">CHILD database</r3d:additionalName>
+                <r3d:repositoryURL>https://childstudy.ca/childdb/</r3d:repositoryURL>
+                <r3d:description language="eng">The CHILDdb platform provides access to data produced by the CHILD project, a longitudinal birth cohort study of children from pregnancy to 8 years of age, across four Canadian provinces. This study analyzes the participants&#039; home environment including physical, chemical, viral, bacterial, nutritional and psychosocial exposures. This data is expected to further knowledge of the genetic and environmental determinants of atopic diseases including asthma, allergy, allergic rhinitis, and eczema. 
+Researchers can create an account to view meta and aggregate data; access demographic data summaries based on selected variables; and submit a scientific Concept Proposal for approval to access individual-level study data.</r3d:description>
+                    <r3d:repositoryContact>child@mcmaster.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://childstudy.ca/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-09-13">380 questionnaires; 41.000 variables, and more than 300 processed datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://childstudy.ca/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cohort</r3d:keyword>
+                    <r3d:keyword>development</r3d:keyword>
+                    <r3d:keyword>diversity</r3d:keyword>
+                    <r3d:keyword>environmental factors</r3d:keyword>
+                    <r3d:keyword>genetic factors</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Allergy, Genes and Environment Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AllerGen</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">AllerGen NCE Inc.</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Allergy, Genes and Environment Network of Centres of Excellence</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Le réseau des allergies, des gènes et de l&#039;environnement</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.allergen.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:048gf2b30</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CHILD Cohort Study</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://childstudy.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Institutes of Health Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIHR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">IRSC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Instituts de recherche en santé du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cihr-irsc.gc.ca/e/193.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01gavpb45</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies and procedures</r3d:policyName>
+                <r3d:policyURL>https://childstudy.ca/for-researchers/policies-procedures/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://childstudy.ca/for-researchers/data-access/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://childstudy.ca/wp-content/uploads/2020/01/Brand-Guide.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Partners: https://childstudy.ca/people-partners/partners/
+Funders: https://childstudy.ca/people-partners/funding/</r3d:remarks>
+        <r3d:entryDate>2022-09-12</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

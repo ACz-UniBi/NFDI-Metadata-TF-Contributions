@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010368</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">FORS Data Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">FORS Data and Research Information Services for the Social Sciences</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: FORS DARIS</r3d:additionalName>
+                <r3d:repositoryURL>https://forscenter.ch/data-services/</r3d:repositoryURL>
+                <r3d:description language="eng">FORS is the Swiss Centre of Expertise in the Social Sciences. FORS maintains a national digital archive for social science research data, implements large-scale national and international surveys, offers data and research information services to researchers and academic institutions, and conducts methodological and thematic research. FORS Data Service is FORS’ resource centre for research and teaching in the social sciences. It provides data management support and training, and it archives, disseminates and promotes quantitative and qualitative data. The Data Service maintains a comprehensive and up-to-date inventory of social science research projects in Switzerland, and makes available a wide range of datasets for secondary analysis. Databases at the FORS Data Service are: SWISSUbase and DeVisu (for variable level metadata for important surveys).</r3d:description>
+                    <r3d:repositoryContact>https://forscenter.ch/staff/alexandra-stam/</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://forscenter.ch/staff/brian-kleiner/</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://forscenter.ch/staff/francois-loretan/</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@forscenter.ch</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10601 Social and Cultural Anthropology and Ethnology/Folklore</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">110 Psychology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">113 Jurisprudence</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://forscenter.ch/about-fors/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>microdata</r3d:keyword>
+                    <r3d:keyword>qualtitative data</r3d:keyword>
+                    <r3d:keyword>social science research in Switzerland</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Consortium of European Social Science Data Archives European Research Infrastructure</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CESSDA ERIC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cessda.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02wg9xc72</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">FORS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">swiss foundation for research in social sciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://forscenter.ch/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00weppy16</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://forscenter.ch/about-fors/staff/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swiss Academy of Humanities and Social Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Académie suisse des sciences humaines et sociales</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ita">Accademia svizzera di scienze umane e sociali</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">SAGW</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Schweizerische Akademie der Geistes- und Sozialwissenschaften</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sagw.ch/sagw/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:005381c03</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université de Lausanne</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">UNIL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Lausanne</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unil.ch/central/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019whta54</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004773</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>FORS Data Service Acquisition Policy</r3d:policyName>
+                <r3d:policyURL>https://forscenter.ch/wp-content/uploads/2022/07/acquisition-policy_2022.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>FORS Data Service Preservation Policy</r3d:policyName>
+                <r3d:policyURL>https://forscenter.ch/wp-content/uploads/2022/07/preservation-policy_2022.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>FORS Policies</r3d:policyName>
+                <r3d:policyURL>https://forscenter.ch/about-fors/policies/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Implementation of the CoreTrustSeal</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/03/DARIS.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://forscenter.ch/wp-content/uploads/2022/07/preservation-policy_2022.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://forscenter.ch/wp-content/uploads/2018/10/openaccess_guidelinesfors.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-03-13</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

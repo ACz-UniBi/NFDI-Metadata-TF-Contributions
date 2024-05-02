@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010596</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Service of Geomagnetic Indices</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ISGI</r3d:additionalName>
+                    <r3d:additionalName language="fra">SIIG</r3d:additionalName>
+                    <r3d:additionalName language="fra">Service International des Indices Géomagnétiques</r3d:additionalName>
+                <r3d:repositoryURL>http://isgi.unistra.fr/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.5Sfaz2</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The International Service of Geomagnetic Indices (ISGI) is in charge of the elaboration and dissemination of geomagnetic indices, and of tables of remarkable magnetic events, based on the report of magnetic observatories distributed all over the planet, with the help of ISGI Collaborating Institutes.
+The interaction between the solar wind, including plasma and interplanetary magnetic field, and the Earth&#039;s magnetosphere results in a transfer of energy and particles inside the magnetosphere. Solar wind characteristics are highly variable, and they have actually a direct influence on the shape and size of the magnetosphere, on the amount of transferred energy, and on the way this energy is dissipated. It is clear that the great diversity of sources of magnetic variations give rise to a great complexity in ground magnetic signatures.
+Geomagnetic indices aim at describing the geomagnetic activity or some of its components. Each geomagnetic index is related to different phenomena occurring in the magnetosphere, ionosphere and deep in the Earth in its own unique way. The location of a measurement, the timing of the measurement and the way the index is calculated all affect the type of phenomenon the index relates to.
+The IAGA endorsed geomagnetic indices and lists of remarkable geomagnetic events constitute unique temporal and spatial coverage data series homogeneous since middle of 19th century.</r3d:description>
+                    <r3d:repositoryContact>aude.chambodut@unistra.fr</r3d:repositoryContact>
+                    <r3d:repositoryContact>isgi@unistra.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://isgi.unistra.fr/whats_isgi.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>magnetic field</r3d:keyword>
+                    <r3d:keyword>magnetosphere</r3d:keyword>
+                    <r3d:keyword>solar terrestrial physics</r3d:keyword>
+                    <r3d:keyword>space sciences</r3d:keyword>
+                    <r3d:keyword>space weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">CNRS-INSU</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Centre National de la Recherche Scientifique, Institut national des sciences de l&#039;univers</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Center for Scientific Research, National Institute for Earth Sciences and Astronomy</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insu.cnrs.fr/node/1228</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_98477</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.insu.cnrs.fr/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Centre National d’Etudes Spatiales</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNES</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cnes.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04h1h0y33</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cnes.fr/fr/contactez-nous</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DTU Space</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="dan">Danmarks Tekniske Universitet, Space</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="dan">Institut for Rumforskning og-teknologi</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Space Institute</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.space.dtu.dk/English/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q2570097</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ebro Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">Observatori de l&#039; Ebre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.obsebre.es/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03vht8z34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.obsebre.es/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/kp-index/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">ISPL-LATMOS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Institut Pierrre Simon Laplace, Laboratoire Atmosphéres, Milieux, Observations Spatiales</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.latmos.ipsl.fr/index.php/fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2014</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.latmos.ipsl.fr/index.php/en/nous-contacter</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Geomagnetism and Aeronomy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">AIGA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Association Internationale de Géomagnétisme et d&#039;Aéronomie</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">IAGA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.iaga-aiga.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q6048492</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.iaga-aiga.org/index.php?id=imprinthtml</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Council for Science, World Data System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICSU-WDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.icsu-wds.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian Federal Service for Hydrometeorology and Environmental Monitoring, Arctic and Antarctic Research Institute, Department of geophysics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="rus">ФЕДЕРАЛЬНАЯ СЛУЖБА ПО ГИДРОМЕТЕОРОЛОГИИ И МОНИТОРИНГУ ОКРУЖАЮЩЕЙ СРЕДЫ, ФГБУ АРКТИЧЕСКИЙ И АНТАРКТИЧЕСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ, Отдел Геофизики</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.geophys.aari.ru/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>pgc@aari.ru</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Data Center for Geomagnetism, Kyoto</r3d:institutionName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://wdc.kugi.kyoto-u.ac.jp/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">École et Observatoire des Sciences de la Terre, Université de Strasbourg/CNRS-INSU Service national d’Observation en Magnétisme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">EOST</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">School and Observatory of Earth Sciences, University of Strasbourg/CNRS-INSU National Service of Observation in Magnetism</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://eost.unistra.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q3577986</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2015</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://eost.unistra.fr/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Certification of WDS Members</r3d:policyName>
+                <r3d:policyURL>https://www.worlddatasystem.org/services/certification</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ICSU data policy</r3d:policyName>
+                <r3d:policyURL>https://www.worlddatasystem.org/services/data-sharing-principles</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Rules and Policy</r3d:policyName>
+                <r3d:policyURL>http://isgi.unistra.fr/policy.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://isgi.unistra.fr/policy.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                                <r3d:remarks>The 6 ISGI Collaborating Institutes are: EOST (Ecole et Observatoire des Sciences de la Terre, Strasbourg, France),   GFZ (Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum Adolf-Schmidt-Observatorium, Potsdam, Germany),   Observatori de l&#039;Ebre (Roquetes, Spain), WDC Kyoto for Geomagnetism ( World Data Center for Geomagnetism, Data Analysis Center for Geomagnetism and Space Magnetism, Graduate School of Science, Kyoto University, Japan),  DTU Space (DTU Space, National Space Institute, Lyngby, Denmark) and AARI (Arctic and Antarctic Research Institute, St.Petersburg, Russian Federation) [see: http://isgi.unistra.fr/collaborating_institutes.php]. 
+The indices of geomagnetic activity and lists of remarkable events derivation, meaning and availability are available at: http://isgi.unistra.fr/geomagnetic_indices.php.
+ ISGI headquarters have been moved from LATMOS (Guyancourt, France) to EOST(Strasbourg, France) in 2014.</r3d:remarks>
+        <r3d:entryDate>2014-01-30</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010542</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ESTHER database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ESTerases and alpha/beta-Hydrolase Enzymes and Relatives</r3d:additionalName>
+                <r3d:repositoryURL>https://bioweb.supagro.inrae.fr/ESTHER/general?what=index</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN:2417-937X</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_008479</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-02817</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The server ESTHER (ESTerases and alpha/beta-Hydrolase Enzymes and Relatives) is dedicated to the analysis of proteins or protein domains belonging to the superfamily of alpha/beta-hydrolases, exemplified by the cholinesterases.</r3d:description>
+                    <r3d:repositoryContact>arnaud.chatonnet@inrae.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://bioweb.supagro.inrae.fr/ESTHER/definition</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biotech</r3d:keyword>
+                    <r3d:keyword>hydrolase</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">AFM-Téléthon</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">French Muscular Dystrophy Association</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.afm-telethon.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0162y2387</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004033</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143536</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Agence National de la Recherche</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">ANR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">French National Research Agency</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://anr.fr/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00rbzpz17</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011248</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_71540</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Aix-Marseille Université, Laboratioire Architecture et Fonction des Macromolécules Biologiques</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">afmb</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.afmb.univ-mrs.fr/?lang=en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04jm8zw14</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>secretariat@afmb.univ-mrs.fr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Centre National de la Recherche Scientifique</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Center for Scientific Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnrs.fr/fr</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02feahw73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_98477</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">INRAE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Institut national de recherche pour l&#039;agriculture, l&#039;alimentation et l&#039;environnement</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Research Institute for Agriculture, Food and Environment</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.inrae.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:003vg9w96</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011299</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_58306</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.inrae.fr/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Unité Mixte de Recherche Dynamique Musculaire &amp; Métabolisme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">DMEM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dmem.montpellier.hub.inrae.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00xffm983</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer and Privacy policy</r3d:policyName>
+                <r3d:policyURL>https://bioweb.supagro.inrae.fr/ESTHER/general?what=acknowledgement</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://bioweb.supagro.inrae.fr/ESTHER/general?what=acknowledgement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://bioweb.supagro.inrae.fr/ESTHER/aqlquery</r3d:api>
+                        <r3d:citationGuidelineURL>https://bioweb.supagro.inrae.fr/ESTHER/general?what=index</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>ESTHER database is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2013-11-10</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

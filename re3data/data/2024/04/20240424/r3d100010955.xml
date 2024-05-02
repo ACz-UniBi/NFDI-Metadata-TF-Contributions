@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010955</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Arctic Systems for Observing the Atmosphere</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IASOA Data Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://psl.noaa.gov/iasoa/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;This repository is no longer available&gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>Taneil.Uttal@noaa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-06-15">979 datasets</r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate>2023</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://psl.noaa.gov/iasoa/data</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>aerosols</r3d:keyword>
+                    <r3d:keyword>arctic regions</r3d:keyword>
+                    <r3d:keyword>atmospheric radiation</r3d:keyword>
+                    <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>clouds</r3d:keyword>
+                    <r3d:keyword>greenhouse gases</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>pollutants</r3d:keyword>
+                    <r3d:keyword>sea ice</r3d:keyword>
+                    <r3d:keyword>surface energy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">IASOA consortium</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://psl.noaa.gov/iasoa/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://psl.noaa.gov/iasoa/contact_us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IASOA&#039;s Data Mission</r3d:policyName>
+                <r3d:policyURL>https://psl.noaa.gov/iasoa/data</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://psl.noaa.gov/iasoa/data</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Contribute to the Data Portal</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://psl.noaa.gov/iasoa/node/116</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/observ-om</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>International Arctic Systems for Observing the Atmosphere (IASOA) provides and collects multi-year continuous data on atmospheric conditions in the Arctic. International Polar Year (IPY) maintains partnerships with Arctic observatories from Sweden, Canada, United States, Russia, Norway, Finland, and Greenland. Each IASOA observatory features extensive suites of co-located, research grade active, passive and in-situ observing systems. Atmospheric characteristics of interest are standard meteorology, greenhouse gases, atmospheric radiation, clouds, pollutants, chemistry, aerosols, and surface energy balances.  IASOA operates within boundaries defined by (1) the Arctic (2) the atmosphere (3) the ground-based vantage point (4) data generated by instrument systems and (5) multi-year continuous records to support climate studies..For information about the IASOA partners see https://psl.noaa.gov/iasoa/sites/default/files/IASOA%20Organization%20Linkages.pdf</r3d:remarks>
+        <r3d:entryDate>2014-09-17</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

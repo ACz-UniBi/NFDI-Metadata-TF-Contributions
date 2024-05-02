@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011378</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MatDB</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Mat-Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">MatDatabase</r3d:additionalName>
+                <r3d:repositoryURL>https://odin.jrc.ec.europa.eu/alcor/PortalController?query=Select&amp;action=Refresh</r3d:repositoryURL>
+                <r3d:description language="eng">MatDB is a database application for experimentally measured engineering materials data.  It supports open, registered, and restricted access.  It presently hosts more than 20.000 unique data sets coming mainly from European and Member State research programmes.  It supports web interfaces for entering, browsing, and retrieving data.  MatDB is also enabled for innovative services, including data citation and interoperability standards.  The data citation service relies on DataCite DOIs.  The historic data sets are being enabled for citation.  For all new projects where MatDB is used for managing project data, end-users are encouraged to request DataCite DOIs.  There is though no obligation as regards the access level as it is considered sufficient simply that the data sets are made discoverable through data citation.  The service that relies on interoperability standards leverages the outputs from a series of CEN Workshops that aim to deliver Standards-compliant data formats for engineering materials data.  In this context, MatDB is used to validate and demonstrate said formats with a view to promoting their adoption.
+MatDB is part of the ODIN Portal https://odin.jrc.ec.europa.eu/alcor/</r3d:description>
+                    <r3d:repositoryContact>https://odin.jrc.ec.europa.eu/alcor/ODINController?query=Feedback</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2014-11-12">more than 20.000 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">405 Materials Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">406 Materials Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://joint-research-centre.ec.europa.eu/index_en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>material science</r3d:keyword>
+                    <r3d:keyword>measurement</r3d:keyword>
+                    <r3d:keyword>nuclear</r3d:keyword>
+                    <r3d:keyword>reactor</r3d:keyword>
+                    <r3d:keyword>safety</r3d:keyword>
+                    <r3d:keyword>test data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Joint Research Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU, JRC, IET</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://joint-research-centre.ec.europa.eu/index_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://european-union.europa.eu/contact-eu_en</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>COMMISSION DECISION of 12 December 2011 on the reuse of Commission documents</r3d:policyName>
+                <r3d:policyURL>https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:330:0039:0042:EN:PDF</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://commission.europa.eu/legal-notice_en</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://commission.europa.eu/legal-notice_en#copyright-notice</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:330:0039:0042:EN:PDF</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>MatDB is covered by Thomson Reuters Data Citation Index.
+MatDB is part of the ODIN Portal https://odin.jrc.ec.europa.eu/alcor/</r3d:remarks>
+        <r3d:entryDate>2014-12-10</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

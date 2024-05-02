@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013418</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="por">FAPESP COVID-19 Data Sharing/BR</r3d:repositoryName>
+                <r3d:repositoryURL>https://repositoriodatasharingfapesp.uspdigital.usp.br/</r3d:repositoryURL>
+                <r3d:description language="eng">Contains data on patients who have been tested for COVID-19 (whether positive or negative) in participating health institutions in Brazil. This initiative makes available three kinds of pseudonymized data: demographics (gender, year of birth, and region of residency), clinical and laboratory exams. Additional hospitalization information - such as data on  transfers and outcomes - is provided when available. Clinical, lab, and hospitalization information is not limited to COVID-19 data, but covers all health events for these individuals, starting November 1st 2019, to allow for comorbidity studies. Data are deposited periodically, so that health information for a given individual is continuously updated to time of new version upload.</r3d:description>
+                    <r3d:repositoryContact>covid19datasharing@fapesp.br</r3d:repositoryContact>
+                    <r3d:repositoryContact>fatima.nunes@usp.br</r3d:repositoryContact>
+                    <r3d:repositoryContact>jef@ime.usp.br</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2020-06-16</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>por</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20404 Virology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://zenodo.org/record/3966427#.X3Mm69kzaUk</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>Open Science</r3d:keyword>
+                    <r3d:keyword>clinical data records</r3d:keyword>
+                    <r3d:keyword>patient demographic records</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">FAPESP</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Sao Paulo Research Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://fapesp.br/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02ddkpn78</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-05-02</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Fleury Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="por">Grupo Fleury</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.grupofleury.com.br/SitePages/home.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q9me654</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="por">Hospital Israelita Albert Einstein</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Albert Einstein Israelite Hospital</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.einstein.br/Pages/Home.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04cwrbc27</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="por">Hospital Sírio-Libanês</r3d:institutionName>
+                                <r3d:institutionCountry>BRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hospitalsiriolibanes.org.br/Paginas/nova-home.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03r5mk904</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Sao Paulo</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="por">Universidade de São Paulo</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www5.usp.br/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:036rp1748</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-05-02</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://repositoriodatasharingfapesp.uspdigital.usp.br/static/images/refEN.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="ATOM">https://repositoriodatasharingfapesp.uspdigital.usp.br/feed/atom_1.0/site</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://repositoriodatasharingfapesp.uspdigital.usp.br/feed/rss_2.0/site</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://repositoriodatasharingfapesp.uspdigital.usp.br/feed/rss_1.0/site</r3d:syndication>
+                <r3d:remarks>Metadata standards apply to the repository and to each of its datasets.</r3d:remarks>
+        <r3d:entryDate>2020-09-24</r3d:entryDate>
+        <r3d:lastUpdate>2020-10-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

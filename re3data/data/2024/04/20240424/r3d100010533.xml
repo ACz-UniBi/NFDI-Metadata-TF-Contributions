@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010533</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Space Environment Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ISES</r3d:additionalName>
+                <r3d:repositoryURL>http://www.spaceweather.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The International Space Environment Service (ISES) is a collaborative network of space weather service-providing organizations around the globe. Our mission is to improve, to coordinate, and to deliver operational space weather services. ISES is organized and operated for the benefit of the international space weather user community.</r3d:description>
+                    <r3d:repositoryContact>http://www.spaceweather.org/ISES/help/contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>portion@korea.kr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.spaceweather.org/ISES/intro/wdwd/wdwd.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>forecasts</r3d:keyword>
+                    <r3d:keyword>ionosperic</r3d:keyword>
+                    <r3d:keyword>magnetosperic</r3d:keyword>
+                    <r3d:keyword>solar</r3d:keyword>
+                    <r3d:keyword>space weather</r3d:keyword>
+                    <r3d:keyword>storm</r3d:keyword>
+                    <r3d:keyword>warning</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Space Weather Center, Korean Space Weather Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KSWC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>KOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://spaceweather.rra.go.kr/?lang=en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>spaceweather@msip.go.kr</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.spaceweather.org/ISES/swx/swx.jsp#ad-image-0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>At present, there are fourteen Members distributed around the globe; http://www.spaceweather.org/ISES/rwc/rwc.html
+ISES is Network Member of ICSU-WDS.
+Prior to 1996, ISES was called the International URSIgram and World Days Service (IUWDS). The IUWDS was formed in 1962 as a combination of the former International World Days Service, initiated in 1959 as part of the International Geophysical Year (IGY), and the former URSI Central Committee of USRIgrams, which initiated rapid international data interchange services in 1928.</r3d:remarks>
+        <r3d:entryDate>2013-11-07</r3d:entryDate>
+        <r3d:lastUpdate>2021-12-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

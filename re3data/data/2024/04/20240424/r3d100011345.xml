@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011345</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">DARIAH-DE Repository</r3d:repositoryName>
+                <r3d:repositoryURL>https://de.dariah.eu/repository</r3d:repositoryURL>
+                <r3d:description language="eng">The DARIAH-DE repository is a digital long-term archive for human and cultural-scientific research data. Each object described and stored in the DARIAH-DE Repository has a unique and lasting Persistent Identifier (DOI), with which it is permanently referenced, cited, and kept available for the long term. In addition, the DARIAH-DE Repository enables the sustainable and secure archiving of data collections.
+The DARIAH-DE Repository is not only to DARIAH-DE associated research projects, but also to individual researchers as well as research projects that want to save their research data persistently, referenceable and long-term archived and make it available to third parties. The main focus is the simple and user-oriented access to long-term storage of research data. To ensure its long term sustainability, the DARIAH-DE Repository is operated by the Humanities Data Centre.</r3d:description>
+                    <r3d:repositoryContact>https://de.dariah.eu/en/kontakt</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@de.dariah.eu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://wiki.de.dariah.eu/display/publicde/Organisational+Infrastructure#OrganisationalInfrastructure-MissionandLong-TermPreservation</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>digital humanities</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/bmbf/de/home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143994</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bmbf.de/bmbf/de/services/kontakt/kontakt_node.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">DARIAH-DE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Digital Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://de.dariah.eu/en/web/guest/home</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@de.dariah.eu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DARIAH-EU</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Digital Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dariah.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dariah.eu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Georg-August-Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Göttingen State and University Library</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">SUB Göttingen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sub.uni-goettingen.de/en/news/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05745n787</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sub.uni-goettingen.de/en/contact/</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.sub.uni-goettingen.de/en/projects-research/project-details/projekt/dariah-de-iii-1/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GWDG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gwdg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cd95c65</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gwdg.de/about-us/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Humanities Data Centre</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://humanities-data-centre.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://humanities-data-centre.de/?page_id=20</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>DARIAH Code of Conduct</r3d:policyName>
+                <r3d:policyURL>https://de.dariah.eu/en/web/guest/dariah-coc?inheritRedirect=true</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>DARIAH-DE Repository Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://repository.de.dariah.eu/1.0/dhcrud/21.11113/0000-000B-C8F0-4</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://de.dariah.eu/en/web/guest/lizenzen2</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://repository.de.dariah.eu/1.0/oaipmh/oai</r3d:api>
+                    <r3d:api apiType="REST">https://repository.de.dariah.eu/doc/services/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-01-20</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

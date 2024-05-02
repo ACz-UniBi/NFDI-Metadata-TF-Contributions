@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010436</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Forschungsdatenzentrum  am Robert Koch Institut</r3d:repositoryName>
+                    <r3d:additionalName language="deu">FDZ RKI</r3d:additionalName>
+                    <r3d:additionalName language="eng">Research Data Centre of the Robert Koch Institute</r3d:additionalName>
+                <r3d:repositoryURL>https://www.rki.de/DE/Content/Forsch/FDZ/FDZ_node.html</r3d:repositoryURL>
+                <r3d:description language="eng">The Research Data Centre of the Robert Koch Institute (FDZ RKI) publishes the data of population-representative health surveys in the form of public use files (PUFs).The main purpose of health surveys is to generate a maximum amount of information on the state of health and health-related behaviour of Germany&#039;s resident population while ensuring an optimum use of funds. The methodology - i.e. the sample design, the principles on operationalization and measurement, and data-collection techniques - is largely modelled on the tried-and-tested methods of empirical social research. Health interview surveys (HIS) use established survey techniques such as filling out questionnaires, computer-assisted telephone interviews (CATI), computer-assisted personal interviews (CAPI), and online polling via the internet or email. The main difference compared to purely sociological surveys lies in the additional biomedical examinations, tests and medical-biochemical measurements, which generate significant added value in addition to the results of the surveys; this part is referred to internationally as the health examination survey (HES).</r3d:description>
+                    <r3d:repositoryContact>fdz@rki.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010-07-24</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>allergies</r3d:keyword>
+                    <r3d:keyword>cancer registry data</r3d:keyword>
+                    <r3d:keyword>diabetes mellitus</r3d:keyword>
+                    <r3d:keyword>health surveys</r3d:keyword>
+                    <r3d:keyword>hormon therapy</r3d:keyword>
+                    <r3d:keyword>hypertonia</r3d:keyword>
+                    <r3d:keyword>lung disease</r3d:keyword>
+                    <r3d:keyword>nutrition</r3d:keyword>
+                    <r3d:keyword>obesity</r3d:keyword>
+                    <r3d:keyword>overweight</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Robert Koch Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">RKI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Robert Koch Institut</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rki.de/EN/Home/homepage_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01k5qnb77</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011500</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_157722</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.rki.de/EN/Service/Contact/Contact_node.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Daten nutzen</r3d:policyName>
+                <r3d:policyURL>https://www.rki.de/DE/Content/Forsch/FDZ/Zugang/Zugang_node.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Kriterien des RatSWD</r3d:policyName>
+                <r3d:policyURL>https://www.konsortswd.de/wp-content/uploads/RatSWD_FDZKriterien.PDF</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Scientific Use Files</r3d:policyName>
+                <r3d:policyURL>https://www.rki.de/DE/Content/Forsch/FDZ/Zugang/SUF.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Verfahrensregeln des RKI  über die Nutzung von Survey-Daten</r3d:policyName>
+                <r3d:policyURL>https://www.rki.de/DE/Content/Forsch/FDZ/Downloads/verfahrensregeln_11_2014.pdf?__blob=publicationFile_blob=publicationFile</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.rki.de/DE/Service/Impressum/impressum_node.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.rki.de/DE/Content/Forsch/FDZ/Downloads/Antragsformular.pdf?__blob=publicationFile</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.rki.de/DE/Content/Forsch/FDZ/Downloads/verfahrensregeln_11_2014.pdf?__blob=publicationFile</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>RatSWD</r3d:certificate>
+                                    <r3d:syndication syndicationType="RSS">https://www.rki.de/DE/Service/RSS/RSS_node.html</r3d:syndication>
+                <r3d:remarks>FDZ Gesundheitsmonitoring is a member of the RatSWD research data infrastructure.</r3d:remarks>
+        <r3d:entryDate>2013-08-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

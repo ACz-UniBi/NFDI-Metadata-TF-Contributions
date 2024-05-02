@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011561</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PhysioNet</r3d:repositoryName>
+                <r3d:repositoryURL>https://physionet.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.bemzxg</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_25293</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007345</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00250</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Modern signal processing and machine learning methods have exciting potential to generate new knowledge that will impact both physiological understanding and clinical care. Access to data - particularly detailed clinical data - is often a bottleneck to progress. The overarching goal of PhysioNet is to accelerate research progress by freely providing rich archives of clinical and physiological data for analysis.
+The PhysioNet resource has three closely interdependent components: An extensive archive (&quot;PhysioBank&quot;), a large and growing library of software (&quot;PhysioToolkit&quot;), and a collection of popular tutorials and educational materials</r3d:description>
+                    <r3d:repositoryContact>contact@physionet.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://physionet.org/about/#contact_us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1999</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://physionet.org/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>MIMIC-III</r3d:keyword>
+                    <r3d:keyword>National Sleep Research Resource</r3d:keyword>
+                    <r3d:keyword>PWAVE</r3d:keyword>
+                    <r3d:keyword>aging</r3d:keyword>
+                    <r3d:keyword>biomedical signals</r3d:keyword>
+                    <r3d:keyword>cardiology</r3d:keyword>
+                    <r3d:keyword>eICU</r3d:keyword>
+                    <r3d:keyword>electrophysiology</r3d:keyword>
+                    <r3d:keyword>heart</r3d:keyword>
+                    <r3d:keyword>nervous system</r3d:keyword>
+                    <r3d:keyword>nonlinear dynamics</r3d:keyword>
+                    <r3d:keyword>physiological signals</r3d:keyword>
+                    <r3d:keyword>physiology</r3d:keyword>
+                    <r3d:keyword>sudden death</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Beth Israel Deaconess Medical Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIDMC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bidmc.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04drvxt59</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bidmc.org/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Boston University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bu.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05qwgg493</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004054</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bu.edu/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Harvard Medical School</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://hms.harvard.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011267</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://hms.harvard.edu/about-hms/contact-harvard-medical-school</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">MIT Laboratory for Computational Physiology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MIT LCP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://lcp.mit.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">McGill University, Centre for Applied Mathematics in Bioscience and Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CAMBAM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mcgill.ca/cambam/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>infocambam.med@mcgill.ca</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIBIB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nibib.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00372qc85</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011422</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nibib.nih.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIGMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nigms.nih.gov/Pages/Home.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q48ey07</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012887</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nigms.nih.gov/Pages/ContactUs.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opendatacommons.org/licenses/pddl/1.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://physionet.org/about/licenses/physionet-restricted-health-data-license-150/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://physionet.org/content/eicu-crd/view-license/2.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/gpl-3.0.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>NIH Data Sharing Policy</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://physionet.org/content/wfdb-matlab/0.10.0/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.physionet.org/about/#citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://physionet.org/feed.xml</r3d:syndication>
+                <r3d:remarks>PhysioNet is covered by Thomson Reuters Data Citation Index. see also in re3data.org: PhysioBank. PhysioBank is the web-accessible public data archive and component of PhysioNet.</r3d:remarks>
+        <r3d:entryDate>2015-03-20</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011407</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ARACHNE IDAI.objects</r3d:repositoryName>
+                <r3d:repositoryURL>https://arachne.dainst.org/</r3d:repositoryURL>
+                <r3d:description language="eng">Arachne is the central object-database of the German Archaeological Institute (DAI). In 2004 the DAI and the Research Archive for Ancient Sculpture at the University of Cologne (FA) joined the effort to support Arachne as a tool for free internet-based research.
+Arachne&#039;s database design uses a model that builds on one of the most basic assumptions one can make about archaeology, classical archaeology or art history: all activities in these areas can most generally be described as contextualizing objects. Arachne tries to avoid the basic mistakes of earlier databases, which limited their object modeling to specific project-oriented aspects, thus creating separated containers of only a small number of objects. All objects inside Arachne share a general part of their object model, to which a more class-specific part is added that describes the specialised properties of a category of material like architecture or topography. Seen on the level of the general part, a powerful pool of material can be used for general information retrieval, whereas on the level of categories and properties, very specific structures can be displayed.</r3d:description>
+                    <r3d:repositoryContact>https://arachne.dainst.org/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>idai.objects@dainst.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-09-22">4.726.201 entries</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10104 Classical Archaeology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10301 Art History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://arachne.dainst.org/info/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>archaeological objects</r3d:keyword>
+                    <r3d:keyword>archaeology</r3d:keyword>
+                    <r3d:keyword>art history</r3d:keyword>
+                    <r3d:keyword>digitalization</r3d:keyword>
+                    <r3d:keyword>image databank</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Archäologisches Institut</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DAI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Archaelological Institute</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dainst.org/dai/meldungen</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:041qv0h25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dainst.org/dai/standorte/kontakte</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Köln, Archäologisches Institut</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Arbeitsstelle für Digitale Archäologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://archaeologie.phil-fak.uni-koeln.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.portal.uni-koeln.de/kontakt.html?L=0</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>License</r3d:policyName>
+                <r3d:policyURL>https://arachne.dainst.org/info/order</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/3.0/de/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://arachne.dainst.org/info/order</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://arachne.dainst.org/info/faq</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Availability of Arachne 3:
+After a 20 year period of serving the archaeological community online, version 3 of Arachne can no longer be maintained as part of the open World Wide Web. 
+Project partners who still require access to Arachne 3 are advised to contact the Research Archive for Ancient Sculpture at the Institute of Archaeology of the University of Cologne.
+Note: Arachne 3 and 4 (iDAI.objects) manage the same database content (datasets and digitised images). They differ only in aspects of data presentation, and interactive functionality for querying and editing data.</r3d:remarks>
+        <r3d:entryDate>2015-02-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

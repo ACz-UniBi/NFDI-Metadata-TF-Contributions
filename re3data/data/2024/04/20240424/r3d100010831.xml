@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010831</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CCHDO</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CLIVAR and Carbon Hydrographic Data Office</r3d:additionalName>
+                <r3d:repositoryURL>https://cchdo.ucsd.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.b9775c</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007093</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_154728</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The CCHDO provides access to standard, well-described datasets from reference-quality repeat hydrography expeditions. It curates high quality full water column Conductivity-Temperature-Depth (CTD), hydrographic, carbon and tracer data from over 2,500 cruises from ~30 countries. It is the official data center for CTD and water sample profile data from the Global Ocean Ship-Based Hydrographic Investigations Program (GO-SHIP), as well as for WOCE, US Hydro, and other high quality repeat hydrography lines (e.g. SOCCOM, HOT, BATS, WOCE, CARINA.)</r3d:description>
+                    <r3d:repositoryContact>https://cchdo.ucsd.edu/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>kstocks@ucsd.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://cchdo.ucsd.edu/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CTD</r3d:keyword>
+                    <r3d:keyword>carbon</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>conductivity</r3d:keyword>
+                    <r3d:keyword>hydrography</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>nutirents</r3d:keyword>
+                    <r3d:keyword>ocean acidification</r3d:keyword>
+                    <r3d:keyword>ocean circulation</r3d:keyword>
+                    <r3d:keyword>ocean temperature</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                    <r3d:keyword>oxygen</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                    <r3d:keyword>trace metals</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Oceanic and Atmospheric Administration, Global Ocean Monitoring and Observing (GOMO)</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://globalocean.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:037bamf06</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://new.nsf.gov/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California San Diego, Scripps Institution of Oceanography</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SIO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Scripps</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">UCSD, Scripps</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://scripps.ucsd.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04v7hvq31</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://scripps.ucsd.edu/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>https://cchdo.ucsd.edu/policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cchdo.ucsd.edu/policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission Guide</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://cchdo.github.io/hdo-assets/documentation/policies/CCHDO_DataSubmitGuide.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://cchdo.ucsd.edu/formats</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Standards: WHP-Exchange, WOCE, netCDF;  CLIVAR (Variability and predictability of the ocean-atmosphere system) is one of the four core projects of the World Climate Research Programme (WCRP). CLIVAR’s mission is to facilitate observation analysis and prediction of changes in the Earth’s climate system, with a focus on ocean-atmosphere interactions, enabling better understanding of climate variability, predictability, and change, to the benefit of society and the environment in which we live.</r3d:remarks>
+        <r3d:entryDate>2014-07-01</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

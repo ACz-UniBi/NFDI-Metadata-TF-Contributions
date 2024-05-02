@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012503</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NASA Image and Video Library</r3d:repositoryName>
+                <r3d:repositoryURL>https://images.nasa.gov/</r3d:repositoryURL>
+                <r3d:description language="eng">NASA officially has launched a new resource to help the public search and download out-of-this-world images, videos and audio files by keyword and metadata searches from NASA.gov. The NASA Image and Video Library website consolidates imagery spread across more than 60 collections into one searchable location. NASA Image and Video Library allows users to search, discover and download a treasure trove of more than 140,000 NASA images, videos and audio files from across the agency’s many missions in aeronautics, astrophysics, Earth science, human spaceflight, and more. Users can browse the agency’s most recently uploaded files, as well as discover historic and the most popularly searched images, audio files and videos. Other features include:
+Automatically scales the interface for mobile phones and tablets
+Displays the EXIF/camera data that includes exposure, lens used, and other information, when available from the original image
+Allows for easy public access to high resolution files
+All video includes a downloadable caption file
+NASA Image and Video Library’s Application Programmers Interface (API) allows automation of imagery uploads for NASA, and gives members of the public the ability to embed content in their own sites and applications. This public site runs on NASA’s cloud native “infrastructure-as-a-code” technology enabling on-demand use in the cloud.</r3d:description>
+                    <r3d:repositoryContact>brittany.a.brown@nasa.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.nasa.gov/general/nasa-contact-page/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-01-30">more than 140.000 NASA images, videos and audio files</r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.v-studios.com/casestudy_nasa-avail.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cosmos</r3d:keyword>
+                    <r3d:keyword>earth sience</r3d:keyword>
+                    <r3d:keyword>exploration</r3d:keyword>
+                    <r3d:keyword>human spaceflight</r3d:keyword>
+                    <r3d:keyword>natural sciences</r3d:keyword>
+                    <r3d:keyword>photography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/general/nasa-contact-page/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Freedom of Information Act (FOIA)</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/foia/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NASA Media Usage Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/nasa-brand-center/images-and-media/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/privacy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nasa.gov/multimedia/guidelines/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nasa.gov/nasa-brand-center/images-and-media/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.nasa.gov/nasa-brand-center/images-and-media/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-10-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

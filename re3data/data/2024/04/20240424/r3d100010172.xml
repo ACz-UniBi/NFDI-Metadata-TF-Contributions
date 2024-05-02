@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010172</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Data Center for Aerosols</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WDCA</r3d:additionalName>
+                    <r3d:additionalName language="eng">ebas</r3d:additionalName>
+                <r3d:repositoryURL>https://www.gaw-wdca.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The World Data Centre for Aerosols (WDCA) is the data repository and archive for microphysical, optical, and chemical properties of atmospheric aerosol of the World Meteorological Organisation&#039;s (WMO) Global Atmosphere Watch (GAW) programme. The goal of the Global Atmosphere Watch (GAW) programme is to ensure long-term measurements in order to detect trends in global distributions of chemical constituents in air and the reasons for them. With respect to aerosols, the objective of GAW is to determine the spatio-temporal distribution of aerosol properties related to climate forcing and air quality on multi-decadal time scales and on regional, hemispheric and global spatial scales.</r3d:description>
+                    <r3d:repositoryContact>ebas@nilu.no</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.gaw-wdca.org/Contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2023-11-28">GAW-WDCA: 53.397 datsets; GAW-WDCA_NRT:  3.618 datasets</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.gaw-wdca.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>aerosols</r3d:keyword>
+                    <r3d:keyword>air quality</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>environmental sciences</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>radiation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ec</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/index_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Monitoring and Evaluation Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMEP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.emep.int/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Supersites for Atmospheric Aerosol Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EUSAAR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.eusaar.net/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.eusaar.net/files/Contacts/Contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Earth Observation and Monitoring of the Atmosphere</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GEOmon</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.geomon.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@geomon.info</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Helsinki Commission, Baltic Marine Environment Protection Commission</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HELCOM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FIN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://helcom.fi/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:002pjp005</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://helcom.fi/about-us/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Norwegian Institute for Air Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nor">NILU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nor">Norsk institutt for luftforskning</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nilu.no/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00q7d9z06</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Markus.Fiebig@nilu.no</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.gaw-wdca.org/Contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">OSPAR Commission, Protecting and conserving the North-East Atlantic and its resources</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ospar.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ospar.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Meteorological Organization, Global Atmosphere Watch</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GAW</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wmo.int/activities/global-atmosphere-watch-programme-gaw</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wmo.int/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>data policy</r3d:policyName>
+                <r3d:policyURL>https://www.gaw-wdca.org/Browse-Obtain-Data</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ebas.nilu.no/about/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gaw-wdca.org/Browse-Obtain-Data</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The GAW World Data Centre for Aerosol is hosted by the EBAS database, https://ebas.nilu.no/ . Since the WDCA has moved from the EC Joint Research Centre Institute for Environment and Sustainability (JRC-IES) to the Norwegian Institute for Air Research (NILU) as of 1 January 2010, not all legacy data are moved yet. In the transition period, please access legacy data at the JRC-IES FTP-site</r3d:remarks>
+        <r3d:entryDate>2012-12-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

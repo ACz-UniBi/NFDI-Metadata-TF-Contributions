@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010487</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Slovenian Social Science Data Archives</r3d:repositoryName>
+                    <r3d:additionalName language="slv">ADP</r3d:additionalName>
+                    <r3d:additionalName language="slv">Arhiv druzboslovnih podatkov</r3d:additionalName>
+                <r3d:repositoryURL>https://www.adp.fdv.uni-lj.si/eng/</r3d:repositoryURL>
+                <r3d:description language="eng">The Slovenian Social Science Data Archives (Slovenski Arhiv Družboslovnih podatkov - ADP) were established in 1997 as an organizational unit within the Institute of Social Sciences at the Faculty of Social Sciences, University of Ljubljana. Its tasks are to acquire significant data sources within a wide range of social science disciplines of interest to Slovenian social scientists, review and prepare them for digital preservation, and to disseminate them for further scientific, educational and other purposes.</r3d:description>
+                    <r3d:repositoryContact>https://www.adp.fdv.uni-lj.si/eng/kontakt/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1997</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>slv</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.adp.fdv.uni-lj.si/eng/spoznaj/adp/poslanstvo/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Slovenia</r3d:keyword>
+                    <r3d:keyword>Slovenian social science data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Higher Education, Science and Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="slv">MVZT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="slv">Ministrstvo za visoko šolstvo, znanost in tehnologijo</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SVN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.arhiv.mvzt.gov.si/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Ljubljana, Institute of Social Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="slv">Univerza v Ljubljani, Fakulteta za družbene vede</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SVN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fdv.uni-lj.si/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>arhiv.podatkov@fdv.uni-lj.si</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CESSDA Data Access Policy</r3d:policyName>
+                <r3d:policyURL>https://doi.org/10.5281/zenodo.6722000</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policy of digital preservation</r3d:policyName>
+                <r3d:policyURL>https://www.adp.fdv.uni-lj.si/eng/spoznaj/politika/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.adp.fdv.uni-lj.si/eng/deli/postopek/izjava/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>License Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.adp.fdv.uni-lj.si/eng/deli/postopek/izjava/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Nesstar</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.adp.fdv.uni-lj.si/opisi/ads983/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.adp.fdv.uni-lj.si/feed/novice/</r3d:syndication>
+                <r3d:remarks>For information regarding the deposit of data, contact ADP: https://www.adp.fdv.uni-lj.si/eng/kontakt/
+ADP is a member organisation of CESSDA ERIC https://www.cessda.eu/</r3d:remarks>
+        <r3d:entryDate>2013-08-14</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

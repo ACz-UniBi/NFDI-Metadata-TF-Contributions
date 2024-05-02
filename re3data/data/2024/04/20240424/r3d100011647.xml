@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011647</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IPK Gatersleben</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Leibniz Institute of Plant Genetics and Crop Plant Research</r3d:additionalName>
+                    <r3d:additionalName language="deu">Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ipk-gatersleben.de/en/services</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_011341</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The IPK stores a large volume of research results and information in various databases.
+The Institute of Plant Genetics and Crop Plant Research IPK Gatersleben, is a nonprofit research institution for crop genetics and molecular biology, and is part of the Leibniz Association. The mission of the IPK Gatersleben is to conduct basic and applied research in the area of plant genetics and crop plant research. The results of this work are not only of significant benefit to plant breeders and the agricultural industry, but also to the food, feed, and chemical industry. An additional research area, the use of renewable raw materials, is increasingly gaining in importance.</r3d:description>
+                    <r3d:repositoryContact>https://www.ipk-gatersleben.de/en/imprint</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@ipk-gatersleben.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.ipk-gatersleben.de/en/institute/about-us/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>genetic diversity</r3d:keyword>
+                    <r3d:keyword>phenotypic diversity</r3d:keyword>
+                    <r3d:keyword>plant genomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Land Sachsen-Anhalt</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sachsen-anhalt.de/lang/english/sachsen-anhalt</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sachsen-anhalt.de/meta/kontaktformular</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz Gemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Asscociation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.leibniz-gemeinschaft.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01n6r0e97</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.leibniz-gemeinschaft.de/en/about-us/organisation/headquarters/contact-persons</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IPK</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Institute of Plant Genetics and Crop Plant Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ipk-gatersleben.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02skbsp27</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011341</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_157760</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ipk-gatersleben.de/en/imprint</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Technology transfer and legal matters</r3d:policyName>
+                <r3d:policyURL>https://www.ipk-gatersleben.de/en/institute/administration/technology-transfer-and-legal-matters</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nd/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://edal.ipk-gatersleben.de/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://datacite.org/citation.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The Federal ex situ Genebank for agricultural and horticultural crops of the IPK Gatersleben forms an essential component for the implementation of both national and international policy on conservation and and sustainable utilization of plant genetic resources. The Genebank Information System (https://www.ipk-gatersleben.de/en/research/genebank) GBIS maps all processes and documents information related to conservation management and the distribution of material. In addition GBIS represents and interface for exchange of data with national and international databases.</r3d:remarks>
+        <r3d:entryDate>2015-07-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

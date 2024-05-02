@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011838</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Malaria Atlas Project</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MAP</r3d:additionalName>
+                <r3d:repositoryURL>https://malariaatlas.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The Malaria Atlas Project (MAP) brings together researchers based around the world with expertise in a wide range of disciplines from public health to mathematics, geography and epidemiology. We work together to generate new and innovative methods of mapping malaria risk. Ultimately our goal is to produce a comprehensive range of maps and estimates that will support effective planning of malaria control at national and international scales.</r3d:description>
+                    <r3d:repositoryContact>https://malariaatlas.org/contact-us/</r3d:repositoryContact>
+                    <r3d:repositoryContact>malariaatlas@telethonkids.org.au</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2000</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://malariaatlas.org/introducing-map/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Ebola</r3d:keyword>
+                    <r3d:keyword>Plasmodium falciparum</r3d:keyword>
+                    <r3d:keyword>endemicity</r3d:keyword>
+                    <r3d:keyword>epidemiology</r3d:keyword>
+                    <r3d:keyword>malaria</r3d:keyword>
+                    <r3d:keyword>maps</r3d:keyword>
+                    <r3d:keyword>mosquito bionomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bill  &amp; Melinda Gates Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gatesfoundation.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0456r8d26</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gatesfoundation.org/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Curtin University, Telethon Kids Institute</r3d:institutionName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.telethonkids.org.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01dbmzx78</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2019</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.telethonkids.org.au/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Medical Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/mrc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03x94j517</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011018</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Oxford, Department of Biology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WHO Collaborating Centre in Geospatial Disease Modelling</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: University of Oxford, Department of Zoology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.biology.ox.ac.uk/home</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2019</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.biology.ox.ac.uk/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wellcome Trust</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wellcome.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:029chgv08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wellcome.org/who-we-are/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>MAP Open AccessPolicy</r3d:policyName>
+                <r3d:policyURL>https://malariaatlas.org/open-access-policy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://malariaatlas.org/api-docs/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://malariaatlas.org/open-access-policy/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The University of Oxford has received designation as a World Health Organization (WHO) Collaborating Centre in Geospatial Disease Modelling. Based in the Spatial Ecology and Epidemiology Group (SEEG) in the Department of Zoology, University of Oxford, this new designation primarily recognises the contributions of SEEG to supporting the modelling, monitoring and evaluation activities of the WHO Global Malaria Programme. --- MAP is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2016-04-20</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

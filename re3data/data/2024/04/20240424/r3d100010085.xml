@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010085</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Inorganic Crystal Structure Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ICSD</r3d:additionalName>
+                    <r3d:additionalName language="eng">ICSD Web</r3d:additionalName>
+                <r3d:repositoryURL>https://icsd.products.fiz-karlsruhe.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.a95199</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>biodbcore-001709</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The most comprehensive database on fully determined inorganic crystal structures
+• Full structural data: cell parameters, atom positions for all entries, displacement parameters
+• Full bibliographic data: publication title, journal reference(s), author names
+• Full structure description: Structural formula, compositions, ANX formulae, structure types
+• High-quality data: extensive data evaluation and correction by senior experts
+• Web and PC based software solutions, data updated twice a year
+• 25+ years of serving the scientific community</r3d:description>
+                    <r3d:repositoryContact>https://icsd.products.fiz-karlsruhe.de/en/form/fiz-karlsruhe-kontaktformular</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-12-22">272.260 crystal structures</r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://icsd.products.fiz-karlsruhe.de/en/about/about-icsd</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cell</r3d:keyword>
+                    <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>crystal chemistry</r3d:keyword>
+                    <r3d:keyword>inorganic crystal structure</r3d:keyword>
+                    <r3d:keyword>intermetallic compounds</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">FIZ Karlsruhe - Leibniz Institut für Informationsinfrastruktur</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">FIZ Karlsruhe</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Information Infrastructure</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut für Informationsinfrastruktur</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.fiz-karlsruhe.de/de</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0387prb75</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1978</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.fiz-karlsruhe.de/en/form/fiz-karlsruhe-kontaktformular</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>General Terms and Conditions for the Licensing of the Inorganic Crystal Structure Database</r3d:policyName>
+                <r3d:policyURL>https://icsd.products.fiz-karlsruhe.de/sites/default/files/ICSD/documents/terms/ICSD_AGB_E_2021.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>feeRequired</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.fiz-karlsruhe.de/sites/default/files/ICSD/documents/terms/ICSD-AGB-EN-2019.pdf</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://icsd.products.fiz-karlsruhe.de/sites/default/files/ICSD/documents/terms/ICSD_AGB_E_2021.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>input philosophy</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://icsd.products.fiz-karlsruhe.de/sites/default/files/ICSD/documents/brochures/scientific-manual-2021-en.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://icsd.products.fiz-karlsruhe.de/en/about/about-icsd</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Most of the structures contained in ICSD are published in journals, only a few entries were
+submitted as private communications. If you are a registered user of the ICSD database (Inorganic Crystal Structure Database), you will also find the deposited inorganic crystal structure data sets from &#039;Crystal Structure Depot&#039; = r3d100010237 in this database, with a short production-dependent delay. The records in ICSD are produced from the original publication and the deposited data and have the advantage of having undergone additional checking.</r3d:remarks>
+        <r3d:entryDate>2012-09-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

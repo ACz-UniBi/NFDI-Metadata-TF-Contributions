@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010602</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Space Physics Interactive Data Resource</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SPIDR</r3d:additionalName>
+                <r3d:repositoryURL></r3d:repositoryURL>
+                <r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;The repository is offline &gt;&gt;&gt;!!!&lt;&lt;&lt;   The Space Physics Interactive Data Resource from NOAA&#039;s National Geophysical Data Center allows solar terrestrial physics customers to intelligently access and manage historical space physics data for integration with environment models and space weather forecasts.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1995</r3d:startDate>
+        <r3d:endDate>2016-5</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>cosmic ray</r3d:keyword>
+                    <r3d:keyword>ionosphere</r3d:keyword>
+                    <r3d:keyword>magnetosphere</r3d:keyword>
+                    <r3d:keyword>solar activity</r3d:keyword>
+                    <r3d:keyword>solar energetics</r3d:keyword>
+                    <r3d:keyword>solar wind</r3d:keyword>
+                    <r3d:keyword>solar x-ray</r3d:keyword>
+                    <r3d:keyword>solid earth</r3d:keyword>
+                    <r3d:keyword>space weather</r3d:keyword>
+                    <r3d:keyword>sunspots</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Geophysical Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NGDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ngdc.noaa.gov</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ngdc.noaa.gov/ngdcinfo/phone.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Oceanic and Atmospheric Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02z5nhe81</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.noaa.gov/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright</r3d:policyName>
+                <r3d:policyURL>https://www.ngdc.noaa.gov/ngdcinfo/privacy.html#copyright</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opensource.org/licenses/bsd-license.php</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ngdc.noaa.gov/ngdcinfo/privacy.html#copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">http://spidr.ionosonde.net/spidr/tools.do</r3d:api>
+                    <r3d:api apiType="SOAP">http://spidr.ionosonde.net/spidr/tools.do</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>SPIDR (Space Physics Interactive Data Resource) was a standard data source for solar-terrestrial physics, functioning within the framework of the ICSU World Data Centers.
+
+It had a distributed database and application server network, built to select, visualize and model historical space weather data distributed across the Internet. SPIDR worked as a fully-functional web-application (portal) and as a grid of web-services, providing functions for other applications to access its data holdings. It was decommissioned on the ngdc.noaa.gov domain in May, 2016. Please email ncei.info@noaa.gov with questions .   -   Database hosted on sourceforge</r3d:remarks>
+        <r3d:entryDate>2014-02-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

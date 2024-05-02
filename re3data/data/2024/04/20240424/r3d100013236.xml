@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013236</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Social Science Japan Data Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SSJ Data Archive</r3d:additionalName>
+                    <r3d:additionalName language="eng">SSJDA</r3d:additionalName>
+                <r3d:repositoryURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/</r3d:repositoryURL>
+                <r3d:description language="eng">The Social Science Japan Data Archive (SSJDA) collects, maintains, and provides access to the academic community, a vast archive of social science data (quantitative data obtained from social surveys) for secondary analyses.</r3d:description>
+                    <r3d:repositoryContact>https://csrda.iss.u-tokyo.ac.jp/english/csrda/contactus.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>ssjda@iss.u-tokyo.ac.jp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-03-22">Over 2.000 datasets</r3d:size>
+        <r3d:startDate>1998-04</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/ssjda/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Japanese Life Course Panel Surveys (JLPS)</r3d:keyword>
+                    <r3d:keyword>empirical research</r3d:keyword>
+                    <r3d:keyword>quantitative data</r3d:keyword>
+                    <r3d:keyword>secondary analysis</r3d:keyword>
+                    <r3d:keyword>social survey</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Tokyo, Institute of Social Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iss.u-tokyo.ac.jp/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Tokyo, Institute of Social Science, Center for Social Research and Data Archives</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CSRDA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="jpn">東京大学社会科学研究所附属社会調査・データアーカイブ研究センター</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://csrda.iss.u-tokyo.ac.jp/english/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://csrda.iss.u-tokyo.ac.jp/english/csrda/contactus.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conditions for Use</r3d:policyName>
+                <r3d:policyURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/access/condition/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Usage Application Procedures</r3d:policyName>
+                <r3d:policyURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/access/flow.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/access/condition/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>How to Deposit Your Data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/depo/how.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Nesstar</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://ssjda.iss.u-tokyo.ac.jp/Direct/oai2/?verb=ListRecords&amp;metadataPrefix=oai_ddi25</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://csrda.iss.u-tokyo.ac.jp/english/infrastructure/access/condition/#agreement</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>SSJDA is a Japanese hub institution of ICPSR.
+SSJDA is a member of the Networks of Asian Social Science Data Archives (NASSDA).</r3d:remarks>
+        <r3d:entryDate>2020-02-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

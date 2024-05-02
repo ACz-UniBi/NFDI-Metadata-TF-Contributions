@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011594</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Monarch Initiative</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Monarch</r3d:additionalName>
+                    <r3d:additionalName language="eng">Monarch Initiative</r3d:additionalName>
+                <r3d:repositoryURL>https://monarchinitiative.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_14548</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_001373</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_152525</r3d:repositoryIdentifier>
+                <r3d:description language="eng">As with most biomedical databases, the first step is to identify relevant data from the research community. The Monarch Initiative is focused primarily on phenotype-related resources. We bring in data associated with those phenotypes so that our users can begin to make connections among other biological entities of interest. We import data from a variety of data sources. With many resources integrated into a single database, we can join across the various data sources to produce integrated views. We have started with the big players including ClinVar and OMIM, but are equally interested in boutique databases. You can learn more about the sources of data that populate our system from our data sources page https://monarchinitiative.org/about/sources.</r3d:description>
+                    <r3d:repositoryContact>info@monarchinitiative.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20108 Anatomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://monarchinitiative.org/page/about#goals</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>abnormalities in flies</r3d:keyword>
+                    <r3d:keyword>abnormalities in mouse</r3d:keyword>
+                    <r3d:keyword>abnormalities in zebrafish</r3d:keyword>
+                    <r3d:keyword>anatomy</r3d:keyword>
+                    <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>drug</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genotype</r3d:keyword>
+                    <r3d:keyword>human gene function</r3d:keyword>
+                    <r3d:keyword>mutation</r3d:keyword>
+                    <r3d:keyword>orthology</r3d:keyword>
+                    <r3d:keyword>pathways</r3d:keyword>
+                    <r3d:keyword>phenotypes</r3d:keyword>
+                    <r3d:keyword>strain</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Charité Universitätsmedizin Berlin</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.charite.de/charite/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:001w7jn25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.charite.de/ihre_ansprechpartner_an_der_charite/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ebi.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ebi.ac.uk/support/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Garvan Institute of Medical Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Garvan</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.garvan.org.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01b3dvp57</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.garvan.org.au/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Jackson Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The Jackson Laboratory</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jax.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021sy4w91</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2015</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lawrence Berkeley National Lab</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Berkeley Lab</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Lawrence Berkeley National Laboratory</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lbl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jbv0t02</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nih.gov/about-nih/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Oregon Health &amp; Science University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OHSU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ohsu.edu</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:009avj582</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ohsu.edu/xd/about/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Queen Mary University of London</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.qmul.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026zzn846</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.qmul.ac.uk/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/us/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://monarchinitiative.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://api.monarchinitiative.org/api/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://monarchinitiative.org/cite</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="ATOM">https://monarch-initiative.blogspot.com/feeds/posts/default</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://monarch-initiative.blogspot.com/feeds/posts/default?alt=rss</r3d:syndication>
+                <r3d:remarks>We import data from a variety of data sources in formats including databases, spreadsheets, delimited text files, XML, JSON, and Web APIs, on a monthly schedule, which is placed into a Postgres database (hosted by the NIF).
+Collaborations and Partners see:  https://monarchinitiative.org/page/about#partner-text
+The Monarch interface, data, ontologies, and API are rapidly evolving. All of our repositories are on GitHub at https://github.com/monarch-initiative.</r3d:remarks>
+        <r3d:entryDate>2015-06-01</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

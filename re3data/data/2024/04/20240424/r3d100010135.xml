@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010135</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Karlsruhe Astrophysical Database of Nucleosynthesis in Stars</r3d:repositoryName>
+                    <r3d:additionalName language="eng">KADoNIS</r3d:additionalName>
+                <r3d:repositoryURL>https://kadonis.org/</r3d:repositoryURL>
+                <r3d:description language="eng">KADoNiS-p database:
+The KADoNiS project is an online database for cross sections relevant to the s-process and p-process (γ-process). The present p-process library includes all available experimental data from (p,γ), (p,n), (α,γ), (α,n), and (α,p) reactions between 70Ge and 209Bi in or close to the respective Gamow window.</r3d:description>
+                    <r3d:repositoryContact>https://kadonis.org/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>reifarth@physik.uni-frankfurt.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-12-03">357 isotopes</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20530 Radiology and Nuclear Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://kadonis.org/faq.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Gamow window</r3d:keyword>
+                    <r3d:keyword>Karlsruhe nuclide chart</r3d:keyword>
+                    <r3d:keyword>Maxwellian-Averaged cross section</r3d:keyword>
+                    <r3d:keyword>accelerator</r3d:keyword>
+                    <r3d:keyword>heavy ion</r3d:keyword>
+                    <r3d:keyword>ion beam</r3d:keyword>
+                    <r3d:keyword>isotopes</r3d:keyword>
+                    <r3d:keyword>nuclear physics</r3d:keyword>
+                    <r3d:keyword>nucleosynthesis</r3d:keyword>
+                    <r3d:keyword>stellar enhancement factors</r3d:keyword>
+                    <r3d:keyword>tumor therapy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Goethe Universität Frankfurt, Experimentelle Astrophysik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Goethe Universität Frankfurt, Experimental Astrophysics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://exp-astro.physik.uni-frankfurt.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>reifarth@physik.uni-frankfurt.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Hungarian Academy of Sciences, Institute of Nuclear Research, Nuclear Astrophysics Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">A Magyar Tudományos Akadémia Atommagkutató Intézete, Nukleáris Asztrofizikai Csoport</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">ATOMKI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://atomki.hu/en/infrastructures/view/2</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:006vxbq87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>fulop@atomki.hu</r3d:institutionContact>
+                                    <r3d:institutionContact>tszucs@atomki.hu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Karlsruher Institut für Technologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Karlsruhe Institute of Technology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kit.edu/english/index.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001552</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2009</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">TRIUMF</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.triumf.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03kgj4539</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://astro.triumf.ca/people/iris-dillmann</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>KADoNiS-p database</r3d:policyName>
+                <r3d:policyURL>https://kadonis.org/pprocess/index.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://kadonis.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://kadonis.org/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The &quot;Karlsruhe Astrophysical Database of Nucleosynthesis in Stars&quot; (KADoNiS) is an online database which was started in 2005 by Iris Dillmann and Ralf Plag at the Forschungszentrum Karlsruhe; The basis of the new p-process database is the Experimental Nuclear Reaction Data (EXFOR) database https://www-nds.iaea.org/exfor/exfor.htm
+Version 0.3 - online since August 28th, 2009.</r3d:remarks>
+        <r3d:entryDate>2013-04-30</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

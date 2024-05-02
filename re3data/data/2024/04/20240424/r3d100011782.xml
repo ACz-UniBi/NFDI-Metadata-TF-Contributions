@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011782</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The National Map</r3d:repositoryName>
+                    <r3d:additionalName language="eng">TNM</r3d:additionalName>
+                    <r3d:additionalName language="eng">Your Source for Topographic Information</r3d:additionalName>
+                <r3d:repositoryURL>https://www.usgs.gov/programs/national-geospatial-program/national-map</r3d:repositoryURL>
+                <r3d:description language="eng">As one of the cornerstones of the U.S. Geological Survey&#039;s (USGS) National Geospatial Program, The National Map is a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the Nation. It has many uses ranging from recreation to scientific analysis to emergency response. The National Map is easily accessible for display on the Web, as products and services, and as downloadable data. The geographic information available from The National Map includes orthoimagery (aerial photographs), elevation, geographic names, hydrography, boundaries, transportation, structures, and land cover. Other types of geographic information can be added within the viewer or brought in with The National Map data into a Geographic Information System to create specific types of maps or map views.</r3d:description>
+                    <r3d:repositoryContact>mtischler@usgs.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.usgs.gov/programs/national-geospatial-program/national-map</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>GIS Data</r3d:keyword>
+                    <r3d:keyword>US Topo</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>exosystem</r3d:keyword>
+                    <r3d:keyword>hydrography</r3d:keyword>
+                    <r3d:keyword>topographic</r3d:keyword>
+                    <r3d:keyword>topography</r3d:keyword>
+                    <r3d:keyword>wildlife</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of the Interior</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.doi.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03v0pmy70</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www2.usgs.gov/ngpo/tnm_tacticalplan.html#</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Geological Survey</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usgs.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:035a68863</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_010168</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://answers.usgs.gov/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer of Liability and Endorsement</r3d:policyName>
+                <r3d:policyURL>https://www.doi.gov/disclaimer</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies and Notices</r3d:policyName>
+                <r3d:policyURL>https://www.usgs.gov/legal</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>U.S. Geological Survey Freedom of Information Act (FOIA)</r3d:policyName>
+                <r3d:policyURL>https://www.usgs.gov/foia</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>U.S. Geological Survey Information Quality Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.usgs.gov/office-of-science-quality-and-integrity/usgs-information-quality-guidelines</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.usgs.gov/emergency-operations-portal/data-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.usgs.gov/legal</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.usgs.gov/emergency-operations-portal/data-policy</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Standards and specifications (https://www.usgs.gov/ngp-standards-and-specifications/standards-and-specifications) are essential to facilitate the development and sharing of geospatial data and products. The USGS standards and specifications define the requirements to ensure that all products and data prepared by the USGS under the National Geospatial Program are consistent in accuracy, structure, format, style, and content. Geospatial data and products are available via the USGS Store, The National Map, The National Map Small-Scale Collection, and the Geo.Data.Gov websites.
+The National Map Corps volunteers are successfully editing structures in all 50 States, Puerto Rico, and the US Virgin Islands. Structures include schools, hospitals, post offices, police stations and other important public buildings.  Volunteers collect and/or improve structures data by adding new features, removing obsolete points, and correcting existing data using a web-based mapping tool. Both newly collected and modified point features become part of the USGS National Structures Database, The National Map, and ultimately U.S. Topo Maps.
+APIs: https://www.usgs.gov/products/web-tools/apis</r3d:remarks>
+        <r3d:entryDate>2016-05-02</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

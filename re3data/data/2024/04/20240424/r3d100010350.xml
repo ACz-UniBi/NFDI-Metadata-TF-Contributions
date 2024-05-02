@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010350</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BioGRID</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Biological General Repository for Interaction Datasets</r3d:additionalName>
+                <r3d:repositoryURL>https://thebiogrid.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.9d5f5r</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000058</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01901</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007393</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00432</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Biological General Repository for Interaction Datasets (BioGRID) is a public database that archives and disseminates genetic and protein interaction data from model organisms and humans. BioGRID is an online interaction repository with data compiled through comprehensive curation efforts. All interaction data are freely provided through our search index and available via download in a wide variety of standardized formats.</r3d:description>
+                    <r3d:repositoryContact>biogridadmin@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-04-19">over 1.740.000 interactions</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://wiki.thebiogrid.org/doku.php/aboutus</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>protein and genetic interactions</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">BioGRID</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://thebiogrid.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>biogridadmin@gmail.com</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Biotechnology and Biological Sciences Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BBSRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bbsrc.ukri.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cwqg982</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Institutes of Health Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CIHR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Instituts de recherche en santé du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cihr-irsc.gc.ca/e/193.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01gavpb45</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012838</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Mount Sinai Hospital, Samuel Lunenfeld Research Institute</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lunenfeld.ca/Default.asp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01s5axj25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01cwqze88</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011417</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Princeton University</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.princeton.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00hx57361</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001059</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_16293</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The University of Edinburgh</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ed.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01nrxwf90</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011637</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Université de Montréal, Institute for Research in Immunology and Cancer</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IRIC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Université de Montréal, Institut de recherche en immunologie en cancérologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iric.ca/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00wj6x496</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://wiki.thebiogrid.org/doku.php/privacy_policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://wiki.thebiogrid.org/doku.php/terms_and_conditions</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wiki.thebiogrid.org/doku.php/terms_and_conditions#licensing_and_other_terms_applying_to_content_posted_on_the_biogrid_sites</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Contribute to the BioGRID</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://wiki.thebiogrid.org/doku.php/contribute</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://wiki.thebiogrid.org/doku.php/biogridrest</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://downloads.thebiogrid.org/BioGRID</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>BioGRID is partner of the International Molecular Exchange Consortium (IMEx)</r3d:remarks>
+        <r3d:entryDate>2013-04-11</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

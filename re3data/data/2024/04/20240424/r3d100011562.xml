@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011562</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Kinetic models of biological systems</r3d:repositoryName>
+                    <r3d:additionalName language="eng">KiMoSys</r3d:additionalName>
+                <r3d:repositoryURL>https://kimosys.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.6erywc</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_017423</r3d:repositoryIdentifier>
+                <r3d:description language="eng">KiMoSys, a web application for quantitative KInetic MOdels of biological SYStems. Kinetic models, with the aim to understand and subsequently design the metabolism of organism of interest are constructed iteratively and require accurate experimental data for both the generation and verification of hypotheses. Therefore, there is a growing requirement for exchanging experimental data and models between the systems biology community, and to automate as much as possible the kinetic model building, editing, simulation and analysis steps.</r3d:description>
+                    <r3d:repositoryContact>https://www.kimosys.org/documentation/contact#</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-03-17">80 entries</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.kimosys.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>accessible dynamic data</r3d:keyword>
+                    <r3d:keyword>biotechnology</r3d:keyword>
+                    <r3d:keyword>dynamic modeling</r3d:keyword>
+                    <r3d:keyword>enzyme measurements</r3d:keyword>
+                    <r3d:keyword>flux data</r3d:keyword>
+                    <r3d:keyword>kinetic models</r3d:keyword>
+                    <r3d:keyword>metabolite concentrations</r3d:keyword>
+                    <r3d:keyword>metabolomics</r3d:keyword>
+                    <r3d:keyword>reaction data</r3d:keyword>
+                    <r3d:keyword>systems biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, BacHBERRY Seventh Framework Programme - FP7</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BAcHBerry FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/project/rcn/110644_en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cordis.europa.eu/guidance/helpdesk_de.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="por">Fundação para a Ciência e a Tecnologia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="por">FCT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>PRT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fct.pt/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00snfqn58</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.fct.pt/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="por">Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="por">INESC-ID</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>PRT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.inesc-id.pt/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04mqy3p58</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.inesc-id.pt/about-us/contacts/</r3d:institutionContact>
+                                    <r3d:institutionContact>kimosys@kdbio.inesc-id.pt</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Condition of use</r3d:policyName>
+                <r3d:policyURL>https://www.kimosys.org/documentation#17</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.kimosys.org/documentation#17</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.kimosys.org/documentation#cite2</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>KiMoSys is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2015-02-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

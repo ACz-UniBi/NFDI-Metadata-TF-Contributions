@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012655</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Pediatric MRI Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NIH Pediatric MRI Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">PedsMRI</r3d:additionalName>
+                <r3d:repositoryURL>https://pediatricmri.nih.gov/nihpd/info/index.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_15204</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003394</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-00201</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; integrated in https://www.re3data.org/repository/r3d100012653 &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>pedsmri@mail.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2021-10-08</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://pediatricmri.nih.gov/nihpd/info/project_overview.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biomedicine</r3d:keyword>
+                    <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>magnetic resonance study</r3d:keyword>
+                    <r3d:keyword>neurology</r3d:keyword>
+                    <r3d:keyword>pediatrics</r3d:keyword>
+                    <r3d:keyword>psychiatric</r3d:keyword>
+                    <r3d:keyword>structured psychiatric interviews</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Database for Autism Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NDAR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ndar.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_004434</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143735</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NICHD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nichd.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011429</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005104</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Health, National Institute of Mental Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIMH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nimh.nih.gov/index.shtml</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011431</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005109</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Health, National Institute of Neurological Disorders and Stroke</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NINDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ninds.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_013116</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005110</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute on Drug Abuse</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.drugabuse.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011440</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005115</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>https://pediatricmri.nih.gov/nihpd/info/policies.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://pediatricmri.nih.gov/nihpd/info/data_access.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://pediatricmri.nih.gov/nihpd/info/faqs.html</r3d:api>
+                            <r3d:pidSystem>ARK</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Description:
+ This site provides information about the NIH MRI Study of Normal Brain Development (Pediatric MRI Study) and resulting Pediatric MRI Data Repository. This website serves as the portal through which data can be obtained by qualified researchers. The overarching goal of the Pediatric MRI Study is to foster a better understanding of normal brain maturation as a basis for understanding atypical brain development associated with a variety of disorders and diseases.</r3d:remarks>
+        <r3d:entryDate>2018-04-30</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

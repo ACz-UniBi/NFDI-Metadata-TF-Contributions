@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011118</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TanDEM-X ISDC</r3d:repositoryName>
+                <r3d:repositoryURL>http://isdc-old.gfz-potsdam.de/index.php?module=pagesetter&amp;func=viewpub&amp;tid=1&amp;pid=21#tandemX</r3d:repositoryURL>
+                <r3d:description language="eng">TanDEM-X (TerraSAR-X add-on for Digital Elevation Measurement) is the first bistatic SAR mission in space. TanDEM-X and its twin satellite TerraSAR-X are flying in a closely controlled formation with typical distances between 250 and 500 meters. Primary mission objective is the generation of a consistent global digital elevation model with few meter level height accuracy. Beyond that, GFZ equipped TanDEM-X with a geodetic grade GPS receiver for precise baseline determination and for radio occultation measurements. TanDEM-X was launched on June 21, 2010 for a 5 year mission lifetime. The GPS radio occultation data of the German TanDEM-X satellite are analysed and globally distributed vertical atmospheric profiles (bending angles, refractivity, temperature, water vapor) are derived and provided for the international user community.</r3d:description>
+                    <r3d:repositoryContact>jens.wickert@gfz-potsdam.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://tandemx-science.dlr.de/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>S-Band</r3d:keyword>
+                    <r3d:keyword>X-band radar based SAR (Synthetic Aperture Radar) interferometry images</r3d:keyword>
+                    <r3d:keyword>digital earth elevation model</r3d:keyword>
+                    <r3d:keyword>land surface mapping</r3d:keyword>
+                    <r3d:keyword>radar satellite</r3d:keyword>
+                    <r3d:keyword>velocity measurements</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Deutsches Zentrum für Luft- und Raumfahrt</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Aerospace Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/DE/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry for Economic Affairs and Energy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Wirtschaft und Energie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmwi.de/Navigation/EN/Home/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02vgg2808</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Aerospace Center, TanDEM-X Science Service System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TanDEM-X Science Service System</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://tandemx-science.dlr.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>https://tandemx-science.dlr.de</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Irena.Hajnsek@dlr.de</r3d:institutionContact>
+                                    <r3d:institutionContact>tandemx-science@dlr.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/home/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Guidelines on Research Data at the GFZ German Research Centre for Geosciences</r3d:policyName>
+                <r3d:policyURL>https://media.gfz-potsdam.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_en.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://isdc.gfz-potsdam.de/imprint/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://tandemx-science.dlr.de/pdfs/TSX-TDX-user-license-v2.2.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The TanDEM-X mission is financed and implemented as a public-private partnership between the German Aerospace Center, DLR, and Astrium. Funded by the Federal Ministry for Economics and Technology under the ID code 50 EP 0603, TanDEM-X is a PPP project conducted jointly by DLR and Astrium GmbH. DLR is responsible for providing TanDEM-X data to the scientific community, mission planning and implementation, radar operation and calibration, control of the two satellites, and generation of the digital elevation model. To this end, DLR has developed the necessary ground-based facilities. The project&#039;s scientific coordination has been entrusted to the DLR Microwaves and Radar Institute in Oberpfaffenhofen. Airbus, Defence &amp; Space (Astrium) has built the satellite and shares the cost of its development and use. Infoterra GmbH, a subsidiary of Airbus, Defence &amp; Space (Astrium), is responsible for commercial marketing of the data from both missions, TerraSAR-X and TanDEM-X.</r3d:remarks>
+        <r3d:entryDate>2014-08-19</r3d:entryDate>
+        <r3d:lastUpdate>2022-05-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

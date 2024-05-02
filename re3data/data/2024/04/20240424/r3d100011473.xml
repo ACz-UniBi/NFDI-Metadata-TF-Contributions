@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011473</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">circbase</r3d:repositoryName>
+                <r3d:repositoryURL>http://www.circbase.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_10188</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Thousands of circular RNAs (circRNAs) have recently been shown to be expressed in eukaryotic cells [Salzman et al. 2012, Jeck et al. 2013, Memczak et al. 2013, Salzman et al. 2013]. Here you can explore public circRNA datasets and download the custom python scripts needed to discover circRNAs in your own (ribominus) RNA-seq data.</r3d:description>
+                    <r3d:repositoryContact>petar.glazar@mdc-berlin.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>C.elegans</r3d:keyword>
+                    <r3d:keyword>C.melanogaster</r3d:keyword>
+                    <r3d:keyword>L.chalumnae</r3d:keyword>
+                    <r3d:keyword>L.menaodoensis</r3d:keyword>
+                    <r3d:keyword>S.mediterranea</r3d:keyword>
+                    <r3d:keyword>circRNA</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>mouse</r3d:keyword>
+                    <r3d:keyword>systems biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Max Delbrück Center for Molecular Medicine in the Helmholtz Association</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">MDC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mdc-berlin.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04p5ggc03</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Delbrück Center for Molecular Medicine, N. Rajewsky Lab</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MDC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft, AG N. Rajewsky</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mdc-berlin.de/n-rajewsky</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>rajewsky@mdc-berlin.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>circBase help</r3d:policyName>
+                <r3d:policyURL>http://www.circbase.org/doc/help_mod.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.circbase.org/doc/help_mod.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submit your data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.circbase.org/doc/help_mod.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL>http://www.circbase.org/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-05-26</r3d:entryDate>
+        <r3d:lastUpdate>2020-09-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

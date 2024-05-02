@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010191</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Biological Magnetic Resonance Data Bank</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BMRB</r3d:additionalName>
+                    <r3d:additionalName language="eng">BioMagResBank</r3d:additionalName>
+                    <r3d:additionalName language="eng">Biological Magnetic Resonance Databank</r3d:additionalName>
+                <r3d:repositoryURL>https://bmrb.io/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.p06nme</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_02858</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002296</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-21058</r3d:repositoryIdentifier>
+                <r3d:description language="eng">BioMagResBank (BMRB) is the publicly-accessible depository for NMR results from peptides, proteins, and nucleic acids recognized by the International Society of Magnetic Resonance and by the IUPAC-IUBMB-IUPAB Inter-Union Task Group on the Standardization of Data Bases of Protein and Nucleic Acid Structures Determined by NMR Spectroscopy. In addition, BMRB provides reference information and maintains a collection of NMR pulse sequences and computer software for biomolecular NMR</r3d:description>
+                    <r3d:repositoryContact>help@bmrb.io</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20102 Biophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://bmrb.io/bmrb/mission_statement.shtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>NMR</r3d:keyword>
+                    <r3d:keyword>biomolecules</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>nucleic acids</r3d:keyword>
+                    <r3d:keyword>peptides</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>spectroscopy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NLM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nigms.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04q48ey07</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012887</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005108</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1996</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Connecticut</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UConn</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://uconn.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02der9h97</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003764</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_74010</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Wisconsin-Madison</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wisc.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01y2jtd41</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008282</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_65725</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1996</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.wisc.edu/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>BMRB Aims and Policies</r3d:policyName>
+                <r3d:policyURL>https://bmrb.io/bmrb/aims_and_policies.shtml</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://bmrb.io/bmrb/aims_and_policies.shtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Deposit data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://bmrb.io/deposit/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://bmrb.io/ftp/pub/bmrb/</r3d:api>
+                    <r3d:api apiType="REST">https://bmrb.io/bmrb/linking.shtml</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.bmrb.wisc.edu/bmrb/citation.shtml</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>is covered by Elsevier. BMRB is covered by Thomson Reuters Data Citation Index. In collaboration with the Protein Data Bank (PDB, Rutgers University) and Nucleic Acid Data Bank (NDB, Rutgers University), BMRB aims to develop into the collection site for structural NMR data in proteins and nucleic acids. BMRB mirror sites in Osaka, Japan (http://bmrb.protein.osaka-u.ac.jp/) and Florence, Italy (https://bmrb.cerm.unifi.it/).</r3d:remarks>
+        <r3d:entryDate>2013-02-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-02-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

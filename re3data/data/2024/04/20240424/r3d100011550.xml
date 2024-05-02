@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011550</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Open PHACTS</r3d:repositoryName>
+                    <r3d:additionalName language="eng">OPS</r3d:additionalName>
+                    <r3d:additionalName language="eng">Open Pharmacological Space</r3d:additionalName>
+                <r3d:repositoryURL>http://www.openphacts.org/index.php</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_005050</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_144033</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; The Open PHACTS Linked Data API and associated infrastructure was closed down in March 2019 to allow the team to focus on the next phase.  http://www.openphactsfoundation.org/open-phacts-platform-update-march-2019/ &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>info@openphactsfoundation.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate>2019-03</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20508 Pharmacy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.openphactsfoundation.org/platform/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>drug discovery</r3d:keyword>
+                    <r3d:keyword>pharmacology</r3d:keyword>
+                    <r3d:keyword>pharmacy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research and Innovation, FP7, Infrastructures</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/research/fp7/index_en.cfm</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Innovative Medicines Initiative</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imi.europa.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019af4n30</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.imi.europa.eu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Open Phacts Consortium</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.openphactsfoundation.org/people/the-open-phacts-consortium/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.openphactsfoundation.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Open Phacts Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.openphactsfoundation.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_000495</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158351</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2015</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.openphactsfoundation.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">efpia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">European Federation of Pharmaceutical Industries and Associations</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.efpia.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00g1x4v36</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003820</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158124</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.efpia.eu/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Open PHACTS data guidelines</r3d:policyName>
+                <r3d:policyURL>http://www.openphactsfoundation.org/openphacts/documentation/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.openphactsfoundation.org/openphacts/documentation/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.openphactsfoundation.org/openphacts/documentation/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.openphactsfoundation.org/platform/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CC</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.openphactsfoundation.org/platform/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                    <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Terms of Use</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.openphactsfoundation.org/openphacts/documentation/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.openphactsfoundation.org/openphacts/documentation/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Description: The Open PHACTS project will develop an open source, open standards and open access innovation platform, Open Pharmacological Space (OPS), via a semantic web approach. OPS will comprise data, vocabularies and infrastructure needed to accelerate drugoriented research. This semantic integration hub will address key bottlenecks in small molecule drug discovery: disparate information sources, lack of standards and shared concept identifiers, guided by well defined research questions assembled from participating drug discovery teams. Open PHACTS draws together multiple sources of publicly-available pharmacological and physicochemical data, accessible via the Open PHACTS Explorer, an intuitive interface, and the powerful Open PHACTS API.</r3d:remarks>
+        <r3d:entryDate>2015-02-03</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

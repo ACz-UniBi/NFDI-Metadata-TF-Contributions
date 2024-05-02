@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011724</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EUREF Permanent Network</r3d:repositoryName>
+                    <r3d:additionalName language="eng">EPN</r3d:additionalName>
+                <r3d:repositoryURL>https://www.epncb.oma.be/</r3d:repositoryURL>
+                <r3d:description language="eng">The EPN (or EUREF Permanent Network) is a voluntary organization of several European agencies and universities that pool resources and permanent GNSS station data to generate precise GNSS products. The EPN has been created under the umbrella of the International Association Geodesy and more precisely by its sub-commission EUREF. 
+The European Terrestrial Reference System 89 (ETRS89) is used as the standard precise GPS coordinate system throughout Europe. Supported by EuroGeographics and endorsed by the EU, this reference system forms the backbone for all geographic and geodynamic projects on the European territory both on a national as on an international level.</r3d:description>
+                    <r3d:repositoryContact>epncb@oma.be</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.epncb.oma.be/_organisation/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ETRS89</r3d:keyword>
+                    <r3d:keyword>EVRS</r3d:keyword>
+                    <r3d:keyword>European Terrestrial Reference System</r3d:keyword>
+                    <r3d:keyword>European Vertical Reference System</r3d:keyword>
+                    <r3d:keyword>GLONASS</r3d:keyword>
+                    <r3d:keyword>GNSS</r3d:keyword>
+                    <r3d:keyword>GPS</r3d:keyword>
+                    <r3d:keyword>Galileo</r3d:keyword>
+                    <r3d:keyword>Global Navigation Satellite System</r3d:keyword>
+                    <r3d:keyword>satellite</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">EUREF</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.euref.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.euref.eu/euref_contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Association of Geodesy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IAG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iag-aig.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04a9s7v87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Royal Observatory of Belqium, Global Navigation Satellite Systems Research Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ROB,  GNSS Research Group</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://gnss.be/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data policy</r3d:policyName>
+                <r3d:policyURL>https://www.astro.oma.be/common/internet/en/data-policy-en.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.epncb.oma.be/_documentation/faq.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Procedure for becoming an EPN Station</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.epncb.oma.be/_documentation/guidelines/procedure_becoming_station.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://www.epncb.oma.be/_newseventslinks/anonymous_ftp.php</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.epncb.oma.be/_documentation/faq.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The EUREF Permanent Network (EPN) is a voluntary federation of over 100 self-funding agencies, universities, and research institutions in more than 30 European countries. They work together to maintain the European Terrestrial Reference System (ETRS89) which is the single Europe-wide standard coordinate reference system adopted by the European Commission (ref COGI action decision 2003 - F/GIS/69/EN). In addition, the INSPIRE Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services established - among other requirements - that the ETRS89 shall be used for the referencing of spatial data sets in INSPIRE.
+Contributors: https://www.epncb.oma.be/_organisation/contributors.php
+Collaborations:  https://www.epncb.oma.be/_organisation/collaborations.php</r3d:remarks>
+        <r3d:entryDate>2016-03-03</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

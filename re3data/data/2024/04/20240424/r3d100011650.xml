@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011650</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Argo Project</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Argo.net</r3d:additionalName>
+                <r3d:repositoryURL>http://www.argo.net/</r3d:repositoryURL>
+                <r3d:description language="eng">Argo is an international programme using autonomous floats to collect temperature, salinity and current data in the ice-free oceans. It is teamed with the Jason ocean satellite series. Argo will soon reach its target of 3000 floats delivering data within 24 hours to researchers and operational centres worldwide. 23 countries contribute floats to Argo and many others help with float deployments. Argo has revolutionized the collection of information 
+from inside the oceans. ARGO Project is organized in regional and national Centers with a Project Office, an Information Center (AIC) and 2 Global Data Centers (GDAC), at the United States and at France. Each DAC submits regularly all its new files to both USGODAE and Coriolis GDACs.The whole Argo data set is available in real time and delayed mode from the global data centres (GDACs).
+The internet addresses are: https://nrlgodae1.nrlmry.navy.mil/  and http://www.argodatamgt.org</r3d:description>
+                    <r3d:repositoryContact>argo@ucsd.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@argo.net</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1999</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://argo.ucsd.edu/about/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>fishery management</r3d:keyword>
+                    <r3d:keyword>floats</r3d:keyword>
+                    <r3d:keyword>global change</r3d:keyword>
+                    <r3d:keyword>marine safety</r3d:keyword>
+                    <r3d:keyword>marine transport</r3d:keyword>
+                    <r3d:keyword>mesoscale eddies</r3d:keyword>
+                    <r3d:keyword>ocean circulation model</r3d:keyword>
+                    <r3d:keyword>ocean dynamics</r3d:keyword>
+                    <r3d:keyword>ocean observations</r3d:keyword>
+                    <r3d:keyword>offshore industry</r3d:keyword>
+                    <r3d:keyword>salinity</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                    <r3d:keyword>velocity</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Argo Global Data Cenre at IFREMER, Argo Data Management</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARGO GDAC IFREMER</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Euro-Argo ERIC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.argodatamgt.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Argo Information Centre at JCOMMOPS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AIC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">JCOMM in-situ Observations Program Support Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ocean-ops.org/board?t=argo</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>belbeoch@jcommops.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Argo Project Office</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">APO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://argo.ucsd.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>droemmich@ucsd.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Coriolis</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.coriolis.eu.org/Observing-the-Ocean/ARGO</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Ocean Data Assimilation Experiment, Argo Global Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARGO GDAC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">US GDAC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">USGODAE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usgodae.org//argo/argo.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Argo Data Beginners Guide</r3d:policyName>
+                <r3d:policyURL>https://argo.ucsd.edu/data/how-to-use-argo-files/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Argo User&#039;s manual</r3d:policyName>
+                <r3d:policyURL>https://archimer.ifremer.fr/doc/00153/26387/24482.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.argodatamgt.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ifremer.fr/ifremer/argo</r3d:api>
+                    <r3d:api apiType="FTP">https://data-argo.ifremer.fr/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.argodatamgt.org/Legal-notice-acknowledgements/Acknowledgements/Argo-data-acknowledgement</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Argo is a major contributor to the WCRP &#039;s Climate Variability and Predictability Experiment (CLIVAR) project and to the Global Ocean Data Assimilation Experiment (GODAE). The Argo array is part of the Global Climate Observing System/Global Ocean Observing System GCOS /GOOS.</r3d:remarks>
+        <r3d:entryDate>2015-08-11</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

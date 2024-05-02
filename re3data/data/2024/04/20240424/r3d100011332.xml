@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011332</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CLARIN INT Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CLARIN INT Center</r3d:additionalName>
+                    <r3d:additionalName language="nld">CLARIN IvdNT-portaal</r3d:additionalName>
+                <r3d:repositoryURL>https://portal.clarin.inl.nl/</r3d:repositoryURL>
+                <r3d:description language="eng">The focus of CLARIN INT Portal is on resources that are relevant to the lexicological study of the Dutch language and on resources relevant for research in and development of language and speech technology. For Example: lexicons, lexical databases, text corpora, speech corpora, language and speech technology tools, etc. The resources are: Cornetto-LMF (Lexicon Markup Framework), Corpus of Contemporary Dutch (Corpus Hedendaags Nederlands), Corpus Gysseling, Corpus VU-DNC (VU University Diachronic News text Corpus), Dictionary of the Frisian Language (Woordenboek der Friese Taal), DuELME-LMF (Lexicon Markup Framework), Language Portal (Taalportaal), Namescape, NERD (Named Entity Recognition and Disambiguation) and TICCLops (Text-Induced Corpus Clean-up online processing system).</r3d:description>
+                    <r3d:repositoryContact>servicedesk@inl.nl</r3d:repositoryContact>
+                    <r3d:repositoryContact>vincent.vandeghinste@ivdnt.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://ivdnt.org/english-pages/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Dutch language</r3d:keyword>
+                    <r3d:keyword>Frisian language</r3d:keyword>
+                    <r3d:keyword>corpora</r3d:keyword>
+                    <r3d:keyword>dictionary</r3d:keyword>
+                    <r3d:keyword>early middle Dutch</r3d:keyword>
+                    <r3d:keyword>lexicon</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIAH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Lab Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clariah.nl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CLARIN European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-NL</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.nl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="nld">Instituut voor de Nederlandse Taal</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Dutch Language Institute</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">INT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">IVDNT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: INL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Institute for Dutch Lexicology</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nld">formerly: Instituut voor Nederlandse Lexicologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ivdnt.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04m5bjk54</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>griet.depoorter@ivdnt.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLARIN Centre B assessment procedure</r3d:policyName>
+                <r3d:policyURL>https://www.clarin.eu/content/clarin-b-centre-assessment</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CLARIN Standards for LRT</r3d:policyName>
+                <r3d:policyURL>https://www.clarin.eu/sites/default/files/Standards%20for%20LRT-v6.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CTS Assessment for CLARIN INT</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/12/CLARIN-Center-IvdNT.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Deposition of data at the Dutch Language Institute</r3d:policyName>
+                <r3d:policyURL>https://portal.clarin.inl.nl/information-about-deposition.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>End User License Agreement</r3d:policyName>
+                <r3d:policyURL>https://portal.clarin.inl.nl/doc/end_user_license_agreement_INT.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/gpl-3.0.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                    <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                                <r3d:remarks>INL is part of the CLARIN-NL consortium and of CLARIN-ERIC.</r3d:remarks>
+        <r3d:entryDate>2014-12-17</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

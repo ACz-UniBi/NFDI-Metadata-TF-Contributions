@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013365</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IAGOS Data Centre</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IAGOS Data Center</r3d:additionalName>
+                    <r3d:additionalName language="eng">IAGOS Data Portal</r3d:additionalName>
+                    <r3d:additionalName language="eng">In-service Aircraft for a Global Observing System</r3d:additionalName>
+                <r3d:repositoryURL>https://iagos.aeris-data.fr/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.caOJPM</r3d:repositoryIdentifier>
+                <r3d:description language="eng">IAGOS aims to provide long-term, regular and spatially resolved in situ observations of the atmospheric composition. The observation systems are deployed on a fleet of 10 to 15 commercial aircraft measuring atmospheric chemistry concentrations and meteorological fields.
+The IAGOS Data Centre manages and gives access to all the data produced within the project.</r3d:description>
+                    <r3d:repositoryContact>agos-dc@iagos.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://iagos.aeris-data.fr/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1994-08-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.iagos.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>aerosols</r3d:keyword>
+                    <r3d:keyword>aircraft</r3d:keyword>
+                    <r3d:keyword>carbon monoxide</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>clouds</r3d:keyword>
+                    <r3d:keyword>greenhouse gases</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>reactive gases</r3d:keyword>
+                    <r3d:keyword>water vapour</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Forschungszentrum Jülich</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fz-juelich.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nv7yv05</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_023416</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">French National Centre for Scientific Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Centre National de la Recherche Scientifique</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnrs.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02feahw73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_98477</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">IAGOS-AISBL</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">In-Service Aircraft for a Global Observing System AISBL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iagos.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Max Planck Institute for Biogeochemistry</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Institut für Biogeochemie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bgc-jena.mpg.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:051yxp643</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Manchester</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.manchester.ac.uk/research/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027m9bs27</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004996</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_74265</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Policy</r3d:policyName>
+                <r3d:policyURL>https://iagos.aeris-data.fr/data-policy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>IAGOS Data Management Plan</r3d:policyName>
+                <r3d:policyURL>https://iagos.aeris-data.fr/documents/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://iagos.aeris-data.fr/data-policy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://iagos.aeris-data.fr/data-policy/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Related Projects: https://www.iagos.org/related-projects/
+The IAGOS Data Base also contains the data from IAGOS and from the precursor projects MOZAIC and CARIBIC (https://www.caribic-atmospheric.com/)
+In order to be a trustworthy data repository, the IAGOS Data Center aims at achieving the CoreTrustSeal certification by 2021</r3d:remarks>
+        <r3d:entryDate>2020-06-29</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010935</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TropFlux</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Air-sea fluxes for the global tropical oceans</r3d:additionalName>
+                <r3d:repositoryURL>https://incois.gov.in/tropflux/index.jsp</r3d:repositoryURL>
+                <r3d:description language="eng">The TropFlux provides surface heat and momentum flux data of tropical oceans (30°N-30°S) between January 1979 and September 2011.  The TropFlux data is produced under a collaboration between Laboratoire d’Océanographie: Expérimentation et Approches Numériques (LOCEAN) from Institut Pierre Simon Laplace (IPSL, Paris, France) and National Institute of Oceanography/CSIR (NIO, Goa, India), and supported by Institut de Recherche pour le Développement (IRD, France). TropFlux relies on data provided by the ECMWF Re-Analysis interim (ERA-I) and ISCCP projects. Since 2014 located at Indian National Centre for Ocean Information Services.</r3d:description>
+                    <r3d:repositoryContact>https://incois.gov.in/tropflux/contact.jsp</r3d:repositoryContact>
+                    <r3d:repositoryContact>praveen.b@incois.gov.in</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://incois.gov.in/tropflux/description.jsp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>heat flux</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Earth System Science Organization - Indian National Centre for Ocean Information Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESSO-INCOIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://incois.gov.in/portal/index.jsp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04xbqmj23</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://incois.gov.in/portal/contactus</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université Pierre et Marie Curie, Institut Pierre Simon Laplace, Laboratoire d&#039;Océanographie et du Climat: Expérimentations et Approches Numériques</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">IPSL LOCEAN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.locean-ipsl.upmc.fr/index.php?lang=fr</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05j3atf73</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Quality Policy of ESSO-INCOIS</r3d:policyName>
+                <r3d:policyURL>https://incois.gov.in/portal/qualitypolicy.jsp</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://incois.gov.in/tropflux/data_access.jsp</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://incois.gov.in/tropflux/tf_products.jsp</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://incois.gov.in/tropflux/data_access.jsp</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The data is in NetCDF format. Data updated until May 2018</r3d:remarks>
+        <r3d:entryDate>2014-08-22</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

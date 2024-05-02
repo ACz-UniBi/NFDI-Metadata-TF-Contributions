@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010329</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">RAVE database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Radial Velocity Experiment Database</r3d:additionalName>
+                <r3d:repositoryURL>https://www.rave-survey.org/query/</r3d:repositoryURL>
+                <r3d:description language="eng">RAVE (RAdial Velocity Experiment) is a multi-fiber spectroscopic astronomical survey of stars in the Milky Way using the 1.2-m UK Schmidt Telescope of the Anglo-Australian Observatory (AAO). The RAVE collaboration consists of researchers from over 20 institutions around the world and is coordinated by the Leibniz-Institut für Astrophysik Potsdam. As a southern hemisphere survey covering 20,000 square degrees of the sky, RAVE&#039;s primary aim is to derive the radial velocity of stars from the observed spectra. Additional information is also derived such as effective temperature, surface gravity, metallicity, photometric parallax and elemental abundance data for the stars. The survey represents a giant leap forward in our understanding of our own Milky Way galaxy; with RAVE&#039;s vast stellar kinematic database the structure, formation and evolution of our Galaxy can be studied.</r3d:description>
+                    <r3d:repositoryContact>https://www.rave-survey.org/contact/</r3d:repositoryContact>
+                    <r3d:repositoryContact>msteinmetz@aip.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-06-14">518.387 observations of 451.783 stars</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.rave-survey.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>galaxy</r3d:keyword>
+                    <r3d:keyword>milky way</r3d:keyword>
+                    <r3d:keyword>spectral lines</r3d:keyword>
+                    <r3d:keyword>stellar streams</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian National University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ANU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.anu.edu.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019wvm592</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001086</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_23045</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://study.anu.edu.au/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Australian Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.arc.gov.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05mmh0f86</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000952</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://erc.europa.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0472cxd90</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011216</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">French National Research Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">ANR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Agence Nationale de la Recherche</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://anr.fr/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00rbzpz17</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011248</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Research Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/en/index.jsp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dfg.de/en/service/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Johns Hopkins University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JHU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jhu.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00za53h95</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_010247</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.jhu.edu/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Leibniz Institute for Astrophysics Potsdam</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">AIP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Leibniz-Institut für Astrophysik Potsdam</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aip.de/en/?set_language=en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mrbr458</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.aip.de/de/members/matthias-steinmetz/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Macquarie University, Australian Astronomical Optics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AAO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/australian-astronomical-optics-macquarie</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:030cszc07</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mq.edu.au/about/locations/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Heidelberg, Centre for Astronomy, Astronomisches Rechen-Institut</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Heidelberg, Zentrum für Astronomie, Astronomisches Rechen-Institut</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://zah.uni-heidelberg.de/institutes/ari/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://zah.uni-heidelberg.de/service/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Imprint &amp; Data Protection Statement</r3d:policyName>
+                <r3d:policyURL>https://www.rave-survey.org/files/cms/project/imprint/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Standard Acknowlegment</r3d:policyName>
+                <r3d:policyURL>https://www.rave-survey.org/files/cms/project/acknowledgments/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.rave-survey.org/accounts/terms_of_use/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://www.rave-survey.org/oai/</r3d:api>
+                    <r3d:api apiType="REST">https://www.rave-survey.org/spectra/</r3d:api>
+                    <r3d:api apiType="other">https://www.rave-survey.org/tap/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.rave-survey.org/metadata/ravedr6/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-07-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

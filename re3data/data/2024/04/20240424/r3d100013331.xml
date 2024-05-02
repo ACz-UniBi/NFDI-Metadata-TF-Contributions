@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013331</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ClinVar</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.ncbi.nlm.nih.gov/clinvar/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.wx5r6f</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006169</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_151671</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ClinVar is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence. ClinVar thus facilitates access to and communication about the relationships asserted between human variation and observed health status, and the history of that interpretation. ClinVar processes submissions reporting variants found in patient samples, assertions made regarding their clinical significance, information about the submitter, and other supporting data. The alleles described in submissions are mapped to reference sequences, and reported according to the HGVS standard. ClinVar then presents the data for interactive users as well as those wishing to use ClinVar in daily workflows and other local applications. ClinVar works in collaboration with interested organizations to meet the needs of the medical genetics community as efficiently and effectively as possible</r3d:description>
+                    <r3d:repositoryContact>clinvar@ncbi.nlm.nih.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-04-10">2.815.823 Unique variation records; 92.215 genes represented</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20108 Anatomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.ncbi.nlm.nih.gov/clinvar/intro/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>disease</r3d:keyword>
+                    <r3d:keyword>gene</r3d:keyword>
+                    <r3d:keyword>genotype</r3d:keyword>
+                    <r3d:keyword>phenotype</r3d:keyword>
+                    <r3d:keyword>sequence variation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Center for Biotechnology Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ncbi.nlm.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02meqm098</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006472</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-00139</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Accessing and using data in ClinVar</r3d:policyName>
+                <r3d:policyURL>https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Overview</r3d:policyName>
+                <r3d:policyURL>https://ftp.ncbi.nlm.nih.gov/pub/factsheets/Factsheet_ClinVar.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ftp.ncbi.nlm.nih.gov/pub/factsheets/Factsheet_ClinVar.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission to ClinVar</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ncbi.nlm.nih.gov/clinvar/docs/submit/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://ftp.ncbi.nlm.nih.gov/pub/clinvar/</r3d:api>
+                    <r3d:api apiType="other">https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/#api</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Sources of data in ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/docs/datasources/
+Guide to using files from the ftp site or accessed via e-utilities: https://www.ncbi.nlm.nih.gov/clinvar/docs/ftp_primer/</r3d:remarks>
+        <r3d:entryDate>2020-05-07</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

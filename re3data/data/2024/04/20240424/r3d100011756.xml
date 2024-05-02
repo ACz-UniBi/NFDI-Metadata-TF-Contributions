@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011756</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Meteoritical bulletin database</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.lpi.usra.edu/meteor/</r3d:repositoryURL>
+                <r3d:description language="eng">The primary function of this database is to provide authoritative information about meteorite names. The correct spelling, complete with punctuation and diacritical marks, of all known meteorites recognized by the Meteoritical Society may be found in this compilation. Official abbreviations for many meteorites are documented here as well. The database also contains status information for meteorites with provisional names, and listings for specimens of doubtful origin and pseudometeorites.
+A seconday purpose of this database is to provide an interface to map services for the display of geographic information about meteorites. Two are currently implemented here. If the user has installed the free NASA program World Wind, links are provided for each meteorite to zoom the program to the find location. The database also provides links to the Google Maps service for the display of find locations.</r3d:description>
+                    <r3d:repositoryContact>https://meteoritical.org/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>jgrossman@nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-11-29">64.474 valid meteorite names; 6.859 provisional names; 12.900 full-text writeups</r3d:size>
+        <r3d:startDate>2005-04-23</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.lpi.usra.edu/meteor/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>astronomy</r3d:keyword>
+                    <r3d:keyword>meteorites</r3d:keyword>
+                    <r3d:keyword>planetary science</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Lunar and Planetary Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LPI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lpi.usra.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01r4eh644</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@lpi.usra.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Meteoritical Society</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">International Society for Meteorites and Planetary Science</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://meteoritical.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://meteoritical.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conflict of Interest Policy</r3d:policyName>
+                <r3d:policyURL>https://meteoritical.org/society/governance/conflict-interest-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Constitution and Bylaws</r3d:policyName>
+                <r3d:policyURL>https://meteoritical.org/society/governance/constitution-and-bylaws</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Guidelines for meteorite nomenclature</r3d:policyName>
+                <r3d:policyURL>https://www.lpi.usra.edu/meteor/docs/nc-guidelines-2015-february.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://meteoritical.org/society/governance/position-statements</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Requesting Names</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.lpi.usra.edu/meteor/FAQ.php</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.lpi.usra.edu/meteor/meteorite-rss.php</r3d:syndication>
+                <r3d:remarks>The Meteoritical Bulletin is published as a Supplement to &quot;Meteoritics and Planetary Science&quot;.
+All photographs listed in the Meteoritical Bulletin Database are given as links to publically accessible images on other websites. Links to images in the &#039;Encyclopedia of Meteorites&#039; http://www.encyclopedia-of-meteorites.com/ are updated each night.</r3d:remarks>
+        <r3d:entryDate>2016-01-27</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

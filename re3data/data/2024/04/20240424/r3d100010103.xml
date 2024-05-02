@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010103</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IPB MassBank</r3d:repositoryName>
+                    <r3d:additionalName language="eng">High resolution mass spectral database</r3d:additionalName>
+                    <r3d:additionalName language="eng">IPB MS Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">JST-BIRD MassBank</r3d:additionalName>
+                <r3d:repositoryURL>https://msbi.ipb-halle.de/MassBank/</r3d:repositoryURL>
+                <r3d:description language="eng">MassBank is the first public repository of mass spectral data for sharing them among scientific research community.   MassBank data are useful for the chemical identification and structure elucidation of chemical comounds detected by mass spectrometry.MassBank system is originally designed for public sharing of reference mass spectra for metabolite identification. It is also useful for their in-house or local sharing. Recently it finds another application; sharing mass spectra of unknown metabolites for metabolite profiling. The IPB is operating the first european MassBank site, that is part of the consortial MassBank Project. You can access both the set of IPB Tandem-MS and Ion Trap spectra, as well as the other massbank sites.</r3d:description>
+                    <r3d:repositoryContact>https://www.ipb-halle.de/mitarbeiter/steffen-neumann/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://msbi.ipb-halle.de/MassBank/About</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>chemical compounds</r3d:keyword>
+                    <r3d:keyword>mass spectra</r3d:keyword>
+                    <r3d:keyword>mass spectrometry</r3d:keyword>
+                    <r3d:keyword>metabolomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Institute for Bioinformatics Research and Development</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BIRD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jst.go.jp/nbdc/bird/index_e.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2010</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Pflanzenbiochemie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IPB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Plant Biochemistry</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ipb-halle.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01mzk5576</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ipb-halle.de/en/contact/</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ipb-halle.de/mitarbeiter/steffen-neumann/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Mass Spectorometry Society of Japan</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MSSJ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mssj.jp/index_en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mssj.jp/about/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Biomedical Innovation, Health and Nutrition</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIBO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nibiohn.go.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:001rkbe13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nibiohn.go.jp/en/contact/index.php</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ipb-halle.de/en/contact/data-protection/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://massbank.eu/MassBank/Result.jsp?splash=splash10-0002-0900000000-f236794b68cee8f6798c</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>As of January 2010, 16 research groups, 12 in Japan, 3 in the United States and 1 in Germany, are contributing data to MassBank (Table 2). Mass spectral data, chemical compounds and analytical methods are summarized for each research group. These data are distributed on eight MassBank data servers, one of which is located in the Leibniz Institute of Plant Biochemistry (Halle, Germany). Eight small research groups currently without their own data servers contribute their data to the MassBank data servers in Japan or Germany.</r3d:remarks>
+        <r3d:entryDate>2012-10-05</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

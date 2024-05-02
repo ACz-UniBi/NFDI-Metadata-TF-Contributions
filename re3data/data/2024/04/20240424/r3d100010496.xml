@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010496</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">TARKI Data Archive</r3d:repositoryName>
+                    <r3d:additionalName language="hun">TÁRKI</r3d:additionalName>
+                <r3d:repositoryURL>https://adatbank.tarki.hu/en/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.d14d9f</r3d:repositoryIdentifier>
+                <r3d:description language="eng">TÁRKI Social Research Institute is an independent, employee-owned research organisation that specialises in policy research in the fields of social policy and the social consequences of economic policies. This includes related data-collection, archiving and statistical activities. We recently increased our involvement in the areas of strategic market research and health policy analysis. In addition, we regularly contribute to basic research, in the areas of social stratification and inequality, and to the methodology of empirical social research.</r3d:description>
+                    <r3d:repositoryContact>tarki@tarki.hu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-12-20">825 records</r3d:size>
+        <r3d:startDate>1985</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>hun</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>http://www.tarki.hu/en/about/mission/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ANCIEN</r3d:keyword>
+                    <r3d:keyword>EUROMOD</r3d:keyword>
+                    <r3d:keyword>Growing ineequalities</r3d:keyword>
+                    <r3d:keyword>LLL Lifelong Learning</r3d:keyword>
+                    <r3d:keyword>Roma</r3d:keyword>
+                    <r3d:keyword>WORKCARE</r3d:keyword>
+                    <r3d:keyword>child poverty</r3d:keyword>
+                    <r3d:keyword>healthcare</r3d:keyword>
+                    <r3d:keyword>household monitor</r3d:keyword>
+                    <r3d:keyword>pension developments</r3d:keyword>
+                    <r3d:keyword>survey data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Eötvös Loránd University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ELTE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="lat">Universitas Budapestinensis de Rolando Eotvos Nominata</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.elte.hu/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Hungarian National Scientific Research Fund</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="hun">OTKA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="hun">Országos Tudományos Kutatási Alapprogramok</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nkfih.gov.hu/english-2017/funding-schemes/funded-projects</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Magyar Tudományos Akadémia, Centre for Social Science, Institute for Political Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="hun">MTATK</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="hun">Magyar Tudományos Akadémia, Társadalomtudományi Kutatóközpont</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://politikatudomany.tk.hu/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">TÁRKI Group</r3d:institutionName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tarki.hu/en/about/profile/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.tarki.hu/en/about/contact/index.html</r3d:institutionContact>
+                                    <r3d:institutionContact>tarki@tarki.hu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Nyíregyháza</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="rus">Ньиредьхазская Высшая школа</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>HUN</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nyf.hu/nyf-en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CESSDA Data Access Policy</r3d:policyName>
+                <r3d:policyURL>https://dag.cessda.eu/Chapter-2/4-Data-Access-Policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://old.tarki.hu/en/help/imprint.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Information on data processing</r3d:policyName>
+                <r3d:policyURL>https://tarki.hu/eng/information-data-processing</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.tarki.hu/en/help/imprint.html</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://tarki.hu/eng/information-data-processing</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>TARKI Data Archive is a member of CESSDA ERIC, Council of European Social Science Data Archives and ICPSR, Inter-university Consortium for Political and Social Research. TÁRKI Data Archive is part of the National Digital Archive programme.</r3d:remarks>
+        <r3d:entryDate>2013-08-27</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

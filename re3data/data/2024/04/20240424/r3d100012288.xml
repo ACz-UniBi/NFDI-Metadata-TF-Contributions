@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012288</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CCCA Data Server</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Climate Change Centre Austria Data Centre</r3d:additionalName>
+                <r3d:repositoryURL>https://data.ccca.ac.at/</r3d:repositoryURL>
+                <r3d:description language="eng">The Climate Change Centre Austria - Data Centre provides the central national archive for climate data and information.
+The data made accessible includes observation and measurement data, scenario data, quantitative and qualitative data, as well as the measurement data and findings of research projects.</r3d:description>
+                    <r3d:repositoryContact>datenzentrum@ccca.ac.at.</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://data.ccca.ac.at/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-04.12">2.650 datasets</r3d:size>
+        <r3d:startDate>2016-12-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31701 Physical Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://data.ccca.ac.at/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>climate indices</r3d:keyword>
+                    <r3d:keyword>climate information</r3d:keyword>
+                    <r3d:keyword>models</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Climate Change Centre Austria</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CCCA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ccca.ac.at/en/homepage</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2015-02-02</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ccca.ac.at/en/service/contact/</r3d:institutionContact>
+                                    <r3d:institutionContact>info@ccca.ac.at</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Zentralanstalt für Meteorologie und Geodynamik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Central Institution for Meteorology and Geodynamics</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">ZAMG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.zamg.ac.at/cms/de/aktuell</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:048dqgk17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.zamg.ac.at/cms/en/topmenu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>About CCCA Data Centre</r3d:policyName>
+                <r3d:policyURL>https://data.ccca.ac.at/about</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Open definition</r3d:policyName>
+                <r3d:policyURL>http://opendefinition.org/od/2.0/en/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.opendefinition.org/licenses/cc-by</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.opendefinition.org/licenses/cc-by-sa</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.opendefinition.org/licenses/cc-zero</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://data.ccca.ac.at/disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://opendefinition.org/od/2.0/en/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://data.ccca.ac.at/api/3</r3d:api>
+                    <r3d:api apiType="other">http://docs.ckan.org/en/latest/api/index.html</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://data.ccca.ac.at/about/citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>For upcoming development, Persistent Identifiers (PID) will be implemented.</r3d:remarks>
+        <r3d:entryDate>2016-12-20</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

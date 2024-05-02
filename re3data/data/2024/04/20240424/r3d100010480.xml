@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010480</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">COSYNA Data web portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CODM</r3d:additionalName>
+                <r3d:repositoryURL>https://codm.hzg.de/codm/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.f7e006</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The COSYNA observatory measures key physical, sedimentary, geochemical and biological parameters at high temporal resolution in the water column and at the sediment and atmospheric boundaries.
+COSYNA delivers spatial representation through a set of fixed and moving platforms, like tidal flats poles, FerryBoxes, gliders, ship surveys, towed devices, remote sensing, etc..
+New technologies like underwater nodes, benthic landers and automated sensors for water biogeochemical parameters are further developed and tested.
+A great variety of parameters is measured and processed, stored, analyzed, assimilated into models and visualized.</r3d:description>
+                    <r3d:repositoryContact>gisbert.breitbach@hzg.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.hereon.de/about_us/mission/index.php.en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>AUV</r3d:keyword>
+                    <r3d:keyword>Geodata</r3d:keyword>
+                    <r3d:keyword>North Sea</r3d:keyword>
+                    <r3d:keyword>arctic seas</r3d:keyword>
+                    <r3d:keyword>buoys</r3d:keyword>
+                    <r3d:keyword>coastal research</r3d:keyword>
+                    <r3d:keyword>ferrybox</r3d:keyword>
+                    <r3d:keyword>forecasts</r3d:keyword>
+                    <r3d:keyword>measurements</r3d:keyword>
+                    <r3d:keyword>oberservation</r3d:keyword>
+                    <r3d:keyword>offshore stations</r3d:keyword>
+                    <r3d:keyword>satellite Remote Sensing</r3d:keyword>
+                    <r3d:keyword>sediment</r3d:keyword>
+                    <r3d:keyword>series of various oceanographic parameters</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Helmholtz-Zentrum hereon GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">hereon</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hereon.de/index.php.en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03qjp1d79</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>burkard.baschek@hereon.de</r3d:institutionContact>
+                                    <r3d:institutionContact>holger.brix@hereon.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>COSYNA Data Policies</r3d:policyName>
+                <r3d:policyURL>https://www.hereon.de/imperia/md/content/gkss/institut_fuer_kuestenforschung/kok/icon/co_po_001_00_4_data_policies.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.hereon.de/imperia/md/content/gkss/institut_fuer_kuestenforschung/kok/icon/co_po_001_00_4_data_policies.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.hereon.de/imperia/md/content/gkss/institut_fuer_kuestenforschung/kok/icon/co_po_001_00_4_data_policies.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-07-03</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

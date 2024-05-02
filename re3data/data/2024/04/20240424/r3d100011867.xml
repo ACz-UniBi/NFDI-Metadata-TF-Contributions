@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011867</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SEANOE</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Publication de données scientifiques marines</r3d:additionalName>
+                    <r3d:additionalName language="eng">Sea scientific open data publication</r3d:additionalName>
+                <r3d:repositoryURL>https://www.seanoe.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.bb5rna</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>ISSN 2491-1836</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&quot;Seanoe (SEA scieNtific Open data Edition) is a publisher of scientific data in the field of marine sciences. It is operated by Ifremer (http://wwz.ifremer.fr/). Data published by SEANOE are available free. They can be used in accordance with the terms of the Creative Commons license selected by the author of data. Seance contributes to Open Access / Open Science movement for a free access for everyone to all scientific data financed by public funds for the benefit of research. An embargo limited to 2 years on a set of data is possible; for example to restrict access to data of a publication under scientific review. Each data set published by SEANOE has a DOI which enables it to be cited in a publication in a reliable and sustainable way. The long-term preservation of data filed in SEANOE is ensured by Ifremer infrastructure. &quot;</r3d:description>
+                    <r3d:repositoryContact>data@seanoe.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>frederic.merceur@ifremer.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-10-20">1288</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.seanoe.org/html/about.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>marine sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Ilfremer</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">French Research Institute for Exploitation of the Sea</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Institut français de recherche pour l&#039;exploitation de la mer</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="spa">Instituto Francés de Investigación para la Explotación del Mar</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wwz.ifremer.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ifremer.fr/fr/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Ilfremer, Département Infrastructures de Recherche et Systèmes d’Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Ilfremer, Department of Marine and Digital Infrastructures</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wwz.ifremer.fr/Recherche-Technologie/Departements-scientifiques/Departement-Infrastructures-de-Recherche-et-Systemes-d-Information</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://wwz.ifremer.fr/en/sendform/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>About SEANOE</r3d:policyName>
+                <r3d:policyURL>https://www.seanoe.org/html/about.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Publish your marine data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.seanoe.org/html/publish-your-data.htm</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://www.seanoe.org/oai/</r3d:api>
+                    <r3d:api apiType="REST">https://www.seanoe.org/html/api.htm</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://dx.doi.org/10.17882/39475</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Seanoe is covered by Thomson Reuters Data Citation Index.
+is covered by Elsevier.
+Data published in SEANOE are also automatically duplicated to the EMODnet Data Ingestion portal so that marine data centers of the EMODnet Ingestion network will be informed about the existence and the availability of datasets published in SEANOE.</r3d:remarks>
+        <r3d:entryDate>2015-10-22</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014150</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Canadian Urban Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CUDR</r3d:additionalName>
+                <r3d:repositoryURL>https://data.urbandatacentre.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">The purpose of the Canadian Urban Data Repository (CUDR) is to provide a “home” for urban datasets. While primarily focused on datasets created by academe, it will also contain datasets created by NGOs, governments, citizens, and industry. Datasets stored in the repository will be open-access and will not contain personally identifiable information.
+The purpose of the Canadian Urban Data Catalogue (CUDC) is to enhance the awareness of urban datasets that exist across Canada by providing a catalogue of Canadian and Canadian-created urban datasets.  It will catalogue datasets available in CUDR and external datasets available on other platforms and as web services. These external datasets may be open or closed. CUDC uses a rich metadata model that supports the documentation and search for datasets relevant to a user’s needs. Catalogue entry metadata may be exported and imported from/to CUDC.</r3d:description>
+                    <r3d:repositoryContact>bartg@mie.utoronto.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://urbandatacentre.ca/contact-us</r3d:repositoryContact>
+                    <r3d:repositoryContact>msf@mie.utoronto.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2023-03-21">46 datasets; 2 organizations; 2 groups</r3d:size>
+        <r3d:startDate>2023-01-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10203 Modern and Current History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11202 Economic and Social Policy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">113 Jurisprudence</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://data.urbandatacentre.ca/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>data catalogue</r3d:keyword>
+                    <r3d:keyword>data repository</r3d:keyword>
+                    <r3d:keyword>maturity model</r3d:keyword>
+                    <r3d:keyword>metadata</r3d:keyword>
+                    <r3d:keyword>ontology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Toronto</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.utoronto.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03dbr7087</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011733</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_15536</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Toronto, School of Cities, Urban Data Centre</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://urbandatacentre.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>bartg@mie.utoronto.ca</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://opendefinition.org/licenses/cc-by/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ontario.ca/page/open-government-licence-ontario</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://data.urbandatacentre.ca/about</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://docs.ckan.org/en/latest/api/</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The dataset metadata catalogoued on CUDR is provided under an open license. Each dataset in the repository has its own access license.</r3d:remarks>
+        <r3d:entryDate>2023-03-20</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

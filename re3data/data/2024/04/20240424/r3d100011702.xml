@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011702</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CDAWeb</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Heliophysics Coordinated Data Analysis Web</r3d:additionalName>
+                <r3d:repositoryURL>https://cdaweb.gsfc.nasa.gov/index.html</r3d:repositoryURL>
+                <r3d:description language="eng">The CDAWeb data system enables improved display and coordinated analysis of multi-instrument, multimission data bases of the kind whose analysis is critical to meeting the science objectives of the ISTP program and the InterAgency Consultative Group (IACG) Solar-Terrestrial Science Initiative. The system combines the client-server user interface technology of the World Wide Web with a powerful set of customized IDL routines to leverage the data format standards (CDF) and guidelines for implementation adopted by ISTP and the IACG. The system can be used with any collection of data granules following the extended set of ISTP/IACG standards. CDAWeb is being used both to support coordinated analysis of public and proprietary data and better functional access to specific public data such as the ISTP-precursor CDAW 9 data base that is formatted to the ISTP/IACG standards. 
+Many data sets are available through the Coordinated Data Analysis Web (CDAWeb) service and the data coverage continues to grow. These are largely, but not exclusively, magnetospheric data and nearby solar wind data of the ISTP era (1992-present) at time resolutions of approximately a minute. The CDAWeb service provides graphical browsing, data subsetting, screen listings, file creations and downloads (ASCII or CDF). 
+Public data from current (1992-present) space physics missions (including Cluster, IMAGE, ISTP, FAST, IMP-8, SAMPEX and others). Public data from missions before 1992 (including IMP-8, ISIS1/2, Alouette2, Hawkeye and others).  Public data from all current and past space physics missions.
+CDAWeb ist part of  &quot;Space Physics Data Facility&quot;   (https://www.re3data.org/repository/r3d100010168).</r3d:description>
+                    <r3d:repositoryContact>NASA-SPDF-Support@nasa.onmicrosoft.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>robert.m.candey@nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://cdaweb.gsfc.nasa.gov/help.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>astrophysics</r3d:keyword>
+                    <r3d:keyword>electric and magnetic fields</r3d:keyword>
+                    <r3d:keyword>ephemeris</r3d:keyword>
+                    <r3d:keyword>gamma and X-Rays</r3d:keyword>
+                    <r3d:keyword>particles</r3d:keyword>
+                    <r3d:keyword>plasma and solar wind</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>solar terrestrial physics</r3d:keyword>
+                    <r3d:keyword>standard</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration, Goddard Space Flight Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA, GSFC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/goddard/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0171mag52</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/centers-and-facilities/goddard/contact-goddard/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Space Science Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSSDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nssdc.gsfc.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>nssdc-request@lists.nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Space Physics Data Facility</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SPDF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://spdf.gsfc.nasa.gov</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00ryjtt64</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Robert.E.McGuire@nasa.gov</r3d:institutionContact>
+                                    <r3d:institutionContact>tamara.j.kovalick@nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/privacy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>mirror at: http://cdhf5.bnsc.rl.ac.uk/cdaweb.new/</r3d:remarks>
+        <r3d:entryDate>2015-11-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

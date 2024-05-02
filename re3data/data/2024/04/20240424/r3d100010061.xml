@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010061</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Atmospheric Science Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ASDC</r3d:additionalName>
+                    <r3d:additionalName language="eng">LaRC ASDC</r3d:additionalName>
+                    <r3d:additionalName language="eng">NASA Langley Research Center, Atmospheric Science Data Center</r3d:additionalName>
+                <r3d:repositoryURL>https://eosweb.larc.nasa.gov/</r3d:repositoryURL>
+                <r3d:description language="eng">The Atmospheric Science Data Center (ASDC) at NASA Langley Research Center is responsible for processing, archiving, and distribution of NASA Earth science data in the areas of radiation budget, clouds, aerosols, and tropospheric chemistry.The ASDC specializes in atmospheric data important to understanding the causes and processes of global climate change and the consequences of human activities on the climate.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2019-05-15">61 projects; more than 1000 archived datasets</r3d:size>
+        <r3d:startDate>1991</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://eosweb.larc.nasa.gov/more-about-asdc</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>CALIPSO</r3d:keyword>
+                    <r3d:keyword>CERES</r3d:keyword>
+                    <r3d:keyword>Global climate change</r3d:keyword>
+                    <r3d:keyword>ISCCP</r3d:keyword>
+                    <r3d:keyword>MOPITT</r3d:keyword>
+                    <r3d:keyword>SRB</r3d:keyword>
+                    <r3d:keyword>TES</r3d:keyword>
+                    <r3d:keyword>aerosols</r3d:keyword>
+                    <r3d:keyword>astrophysics</r3d:keyword>
+                    <r3d:keyword>atmospheric chemistry</r3d:keyword>
+                    <r3d:keyword>clouds</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>radiation budget</r3d:keyword>
+                    <r3d:keyword>satellite program</r3d:keyword>
+                    <r3d:keyword>tropospheric chemistry</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Atmospheric Science Data Center at NASA Langley Research Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ASDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://eosweb.larc.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1991</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/centers/langley/about/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NASA&#039;s Earth Observing System Data and Information System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EOSDIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://earthdata.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1991</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policy statement</r3d:policyName>
+                <r3d:policyURL>https://eosweb.larc.nasa.gov/citing-asdc-data</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Rights &amp; related issues</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.earthdata.nasa.gov/engage/open-data-services-and-software/data-information-policy/data-rights-and-related-issues</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api/science-data-processing-software-sdps-apis</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://eosweb.larc.nasa.gov/citing-asdc-data</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The Data Center was established in 1991 to support the Earth Observing System (EOS) as part of NASA&#039;s Earth Science enterprise and the U.S. Global Change Research Program, and is one of several Distributed Active Archive Centers (DAACs) sponsored by NASA as part of the Earth Observing System Data and Information System (EOSDIS). The Data Center specializes in atmospheric data important to understanding the causes and processes of global climate change and the consequences of human activities on the climate.---- NASA ESDIS is a network member of ICSU World Data System.</r3d:remarks>
+        <r3d:entryDate>2013-08-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

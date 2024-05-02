@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012786</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Language Archive Cologne</r3d:repositoryName>
+                    <r3d:additionalName language="eng">KA³ Language Archive Cologne</r3d:additionalName>
+                    <r3d:additionalName language="eng">LAC</r3d:additionalName>
+                <r3d:repositoryURL>https://lac.uni-koeln.de</r3d:repositoryURL>
+                <r3d:description language="eng">The Language Archive Cologne (LAC) is a research data repository for the linguistics and all humanities disciplines working with audiovisual data. The archive forms a cluster of the Data Center for Humanities in cooperation with the Institute of Linguistics of the University of Cologne. The LAC is an archive for language resources, which is freely available via a web-based access. In addition, concrete technical and methodological advice is offered in the research data cycle - from the collection of the data, their preparation and archiving, to publication and reuse.</r3d:description>
+                    <r3d:repositoryContact>https://lac.uni-koeln.de/impressum</r3d:repositoryContact>
+                    <r3d:repositoryContact>lac-helpdesk@uni-koeln.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>lac-manager@uni-koeln.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://dch.phil-fak.uni-koeln.de/bestaende/language-archive-cologne/user-guides</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>language research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - D</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin-d.net/de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>clarin-feedback@sfs.uni-tuebingen.de</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.clarin-d.net/de/kontakt-impressum</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Cologne, Data Center for the Humanities</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dch.phil-fak.uni-koeln.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>lac-manager@uni-koeln.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLARIN Terms of Service</r3d:policyName>
+                <r3d:policyURL>https://dch.phil-fak.uni-koeln.de/bestaende/language-archive-cologne/user-guides/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>LAC Depositor Guidelines</r3d:policyName>
+                <r3d:policyURL>https://dch.phil-fak.uni-koeln.de/bestaende/language-archive-cologne/user-guides/depositor-guidelines</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>LAC User Guide</r3d:policyName>
+                <r3d:policyURL>https://dch.phil-fak.uni-koeln.de/bestaende/language-archive-cologne/user-guides</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Submission Guidelines</r3d:policyName>
+                <r3d:policyURL>https://dch.phil-fak.uni-koeln.de/bestaende/language-archive-cologne/user-guides/submission-guidelines</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dch.phil-fak.uni-koeln.de/bestaende/language-archive-cologne/user-guides/data-user-agreement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>CLARIN Deposition &amp; License Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://lac.uni-koeln.de/docs/depositor-agreement.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://dch.phil-fak.uni-koeln.de/bestaende/daten-schnittstellen</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The metadata is publicly accessible via the CLARIN Virtual Language Observatory (VLO) https://vlo.clarin.eu/</r3d:remarks>
+        <r3d:entryDate>2018-08-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

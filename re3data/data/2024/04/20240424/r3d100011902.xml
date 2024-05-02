@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011902</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">SFB 882 Forschungsdatenzentrum</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CRC 882 RDC</r3d:additionalName>
+                    <r3d:additionalName language="deu">FDZ SFB882 &quot;Von Heterogenitäten zu Ungleichheiten&quot;</r3d:additionalName>
+                    <r3d:additionalName language="eng">Research Data Centre of the Collaborative Research Centre SFB 882 &quot;From heterogeneities to inequalities&quot;</r3d:additionalName>
+                <r3d:repositoryURL>https://sfb882.uni-bielefeld.de/de/fdz-sfb882.html</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;   This is an archived site (as of 30 June 2016)   &gt;&gt;&gt;!!!&gt;&gt;&gt;  The Research Data Center (RDC) of the Collaborative Research Center 882 &quot;From heterogeneities to inequalities&quot; at Bielefeld University provides external scientists access to the research data generated in the CRC 882. It provides access to both qualitative and quantitative data from the field of inequality research. The CRC 882 RDC supports external researchers who are reusing the data, as well as gives advice on data documentation and anonymization procedures to the researchers of the CRC to ensure high data quality.
+
+The datasets include, for example, a panel on youth crime, different series of interviews on ethnicity, paternal life and recalls of employees, as well as other panels, interview data and experimental data. In the further course of the Collaborative Research Center the database will be expanded with the data of future projects. External scientists can make an application for the scientific use of CRC 882 Research Data. In accordance with data privacy requirements, the access will be organized via controlled remote data access or via on-site use. For this purpose, the RDC provides workplaces for guest researchers.</r3d:description>
+                    <r3d:repositoryContact>fdz.sfb882@uni-bielefeld.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>office.sfb882@uni-bielefeld.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>sliebig@uni-bielefeld.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2019-11-04</r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://sfb882.uni-bielefeld.de/de/program.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Interviews on ethnicity</r3d:keyword>
+                    <r3d:keyword>Interviews to Paternal lifestyle</r3d:keyword>
+                    <r3d:keyword>Recalls of employers</r3d:keyword>
+                    <r3d:keyword>inequality research</r3d:keyword>
+                    <r3d:keyword>qualitative data</r3d:keyword>
+                    <r3d:keyword>quantiatitve data</r3d:keyword>
+                    <r3d:keyword>youth crime</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.dfg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.dfg.de/service/kontakt/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Bielefeld, Sonderforschungsbereich 882 &quot;Von Heterogenitäten zu Ungleichheiten&quot;</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University Bielefeld, Collaborative Research Centre SFB 882 “From Heterogeneities to Inequalities”</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sfb882.uni-bielefeld.de/de.1.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://sfb882.uni-bielefeld.de/de/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Impressum</r3d:policyName>
+                <r3d:policyURL>https://sfb882.uni-bielefeld.de/de/imprint.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Qualitätssicherung der vom Rat für Sozial- und Wirtschaftsdaten RatSWD) akkreditierten Forschungsdatenzentren (FDZ)</r3d:policyName>
+                <r3d:policyURL>https://www.ratswd.de/download/publikationen_rat/RatSWD_FDZKriterien.PDF</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.uni-bielefeld.de/%28en%29/Universitaet/impressum.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                    <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="other">https://pub.uni-bielefeld.de/docs/api</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://pub.uni-bielefeld.de/download/2490155/2490156</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-12-22</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

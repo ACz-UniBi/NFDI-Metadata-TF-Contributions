@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011710</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Coriolis</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Operational Oceanography</r3d:additionalName>
+                <r3d:repositoryURL>https://www.coriolis.eu.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2495-8956</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Coriolis Data Centre handles operational oceanography measurements made in situ, complementing the measurement of the ocean surface made using instruments aboard satellites.
+This work is realised through the establishment of permanent networks with data collected by ships or autonomous systems that are either fixed or drifting.
+This data can be used to construct a snapshot of water mass structure and current intensity.</r3d:description>
+                    <r3d:repositoryContact>codac@ifremer.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2001</r3d:startDate>
+        <r3d:endDate>2020</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.coriolis.eu.org/About-Coriolis/Schedule</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>argo</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>in-situ</r3d:keyword>
+                    <r3d:keyword>mersea</r3d:keyword>
+                    <r3d:keyword>ocean circulation</r3d:keyword>
+                    <r3d:keyword>operational oceanography</r3d:keyword>
+                    <r3d:keyword>sea</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">CNES</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Centre National d&#039;Etudes Spatiales</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cnes.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04h1h0y33</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cnes.fr/fr/contactez-nous</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">CNRS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Centre national de la recherche scientifique</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Center for Scientific Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnrs.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02feahw73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">IRD</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">L’Institut de recherche pour le développement</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ird.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05q3vnk25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Ifremer, Sismer</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Institut français de recherche pour l&#039;exploitation de la mer, Systèmes d’informations scientifiques de la Mer</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://data.ifremer.fr/SISMER</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://data.ifremer.fr/SISMER/Contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Institut Polaire Francais</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">IPEV</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Institut Paul Emile Victor</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://institut-polaire.fr/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:011ed2d57</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://institut-polaire.fr/en/directory/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Météo-France</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Organisme de Météorologie Française</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://meteofrance.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0233st365</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">SHOM</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Service Hydrographique &amp; Océanographique de la Marine</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.shom.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01nre9703</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.shom.fr/util/contact-shom/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLIVAR Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.clivar.org/resources/data/data-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data &amp; Products</r3d:policyName>
+                <r3d:policyURL>https://www.coriolis.eu.org/Data-Products</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Overview</r3d:policyName>
+                <r3d:policyURL>https://www.coriolis.eu.org/About-Coriolis/Overview</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.coriolis.eu.org/Documentation/Technical-information-of-Coriolis-Web-Site</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.coriolis.eu.org/Legal-notice-acknowledgements/Acknowledgements/Coriolis-data-acknowledgement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submit data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.coriolis.eu.org/Data-Products/Submit-data</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ifremer.fr/ifremer/argo/</r3d:api>
+                    <r3d:api apiType="OpenDAP">https://www.coriolis.eu.org/Data-Products/Data-services/ERDDAP-Thredds-OpenDAP</r3d:api>
+                    <r3d:api apiType="REST">https://erddap.ifremer.fr/erddap/rest.html</r3d:api>
+                        <r3d:citationGuidelineURL>https://www.coriolis.eu.org/Legal-notice-acknowledgements/Acknowledgements/Coriolis-data-acknowledgement</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The CORIOLIS Data Centre is the Global Data Assembly Center (GDAC) for ARGO, OceanSITES and GOSUD project networks.</r3d:remarks>
+        <r3d:entryDate>2016-01-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

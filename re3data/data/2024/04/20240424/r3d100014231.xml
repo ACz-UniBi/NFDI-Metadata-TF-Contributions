@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014231</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Marine Information Management System (MIMS)</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MIMS</r3d:additionalName>
+                    <r3d:additionalName language="eng">South Africa&#039;s oceans and coastal data archive</r3d:additionalName>
+                <r3d:repositoryURL>https://data.ocean.gov.za/</r3d:repositoryURL>
+                <r3d:description language="eng">The South African Marine Information Management System (MIMS) is an Open Archival Information System (OAIS) repository that plays a multifaceted role in archiving, publishing, and preserving marine-related datasets. As an IODE-accredited Associate Data Unit (ADU), MIMS serves as a national node for the IODE of the IOC of UNESCO. It archives and publishes collections and subsets of marine-related datasets for the National Department of Forestry, Fisheries, and the Environment (DFFE) and its regional partners.
+As an IOC member organization, DFFE is committed to supporting the long-term preservation and archival of marine and coastal data for South Africa and its regional partners, promoting open access to data, and encouraging scientific collaboration. Tasked with the long-term preservation of South Africa&#039;s marine and coastal data, MIMS functions as an institutional data repository. It provides primary access to all data collected by the DFFE Oceans and Coastal Research Directorate and acts as a trusted broker of scientific marine data for a wide range of South African institutions.
+MIMS hosts the IODE AFROBIS Node, an OBIS Node that coordinates and collates data management activities within the sub-Saharan African region. As part of the OBIS Steering Group, MIMS represents sub-Saharan Africa on issues around biological (biodiversity) data standards. It also facilitates data and metadata publishing for the region through the GBIF and OBIS networks. 
+Operating on the Findable, Accessible, Interoperable, and Reusable (FAIR) data principles, MIMS aligns its practices to maximize ocean data exchange and use while respecting the conditions stipulated by the Data Provider. By integrating various functions and commitments, MIMS stands as a vital component in the marine and coastal data landscape, fostering collaboration, standardization, and accessibility in alignment with international standards and regional needs.</r3d:description>
+                    <r3d:repositoryContact>BRasmeni@dffe.gov.za</r3d:repositoryContact>
+                    <r3d:repositoryContact>TRasehlomi@dffe.gov.za</r3d:repositoryContact>
+                        <r3d:size updated="2023-08-23">1.481 datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://data.ocean.gov.za/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>marine species</r3d:keyword>
+                    <r3d:keyword>measurement</r3d:keyword>
+                    <r3d:keyword>meteorological observations</r3d:keyword>
+                    <r3d:keyword>seawater properties</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National  Government of South Africa, Department of Forestry, Fisheries and the Environment</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DFFE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ZAF</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dffe.gov.za/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>BRasmeni@dffe.gov.za</r3d:institutionContact>
+                                    <r3d:institutionContact>TRasehlomi@dffe.gov.za</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://data.ocean.gov.za/terms-of-use/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Policy for MIMS</r3d:policyName>
+                <r3d:policyURL>https://data.ocean.gov.za/documents/data-policy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2023-08-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-08-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

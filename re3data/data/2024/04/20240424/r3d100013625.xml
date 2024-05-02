@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013625</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">OEDI</r3d:repositoryName>
+                    <r3d:additionalName language="eng">OEDI Data Lake</r3d:additionalName>
+                    <r3d:additionalName language="eng">Open Energy Data Initiative</r3d:additionalName>
+                <r3d:repositoryURL>https://data.openei.org/home</r3d:repositoryURL>
+                <r3d:description language="eng">OEDI is a centralized repository of high-value energy research datasets aggregated from the U.S. Department of Energy’s Programs, Offices, and National Laboratories. Built to enable data discoverability, OEDI facilitates access to a broad network of findings, including the data available in technology-specific catalogs like the Geothermal Data Repository and Marine Hydrokinetic Data Repository.</r3d:description>
+                    <r3d:repositoryContact>OpenEI.Webmaster@nrel.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated="2021-08-09">1.456 total files; 1.15 PB of submitted data</r3d:size>
+        <r3d:startDate>2020</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://data.openei.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>OpenEI</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>energy data</r3d:keyword>
+                    <r3d:keyword>energy research</r3d:keyword>
+                    <r3d:keyword>renewable energy research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Renewable Energy Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NREL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nrel.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:036266993</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nrel.gov/about/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">OpenEI</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Open Energy Information</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://openei.org/wiki/Main_Page</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01bj3aw27</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.energy.gov/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>U.S. Department of Energy Public Access Plan</r3d:policyName>
+                <r3d:policyURL>https://www.energy.gov/sites/prod/files/2014/08/f18/DOE_Public_Access%20Plan_FINAL.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://project-open-data.cio.gov/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://www1.eere.energy.gov/geothermal/pdfs/ngds_data_provision_guidelines.pdf</r3d:api>
+                    <r3d:api apiType="REST">https://openei.org/services/</r3d:api>
+                    <r3d:api apiType="SPARQL">https://openei.org/services/doc/sparql/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://openei.org/wiki/Help:Citations</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>OpenEI is growing into a global leader in the energy data realm - specifically analyses on renewable energy and energy efficiency. The platform is a wiki, similar to Wikipedia’s Wiki, with which many people are already familiar. Users can view, edit, and add data – and download data for free. We invite you to join our user community and get involved. With your help, we can provide the most current information needed to make informed decisions on energy, market investment, and technology development. Your data will also help create new businesses, build innovative tools and inspire new analyses. In addition to the Wiki, OpenEI provides a platform for sharing datasets. You can download data or upload your own, as well as rate and provide comments on the usefulness of the datasets.
+
+OEDI is a centralized repository of high-value energy research datasets aggregated from the U.S. Department of Energy’s Programs, Offices, and National Laboratories. Built to enable data discoverability, OEDI facilitates access to a broad network of findings, including the data available in technology-specific catalogs like the Geothermal Data Repository and Marine Hydrokinetic Data Repository.</r3d:remarks>
+        <r3d:entryDate>2021-08-05</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

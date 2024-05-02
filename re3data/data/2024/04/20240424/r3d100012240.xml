@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012240</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Christian Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WCD</r3d:additionalName>
+                <r3d:repositoryURL>https://worldchristiandatabase.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 1874-6551</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The World Christian Database provides comprehensive statistical information on world religions, Christian denominations, and people groups.
+The World Christian Database transforms current religious statistics into a real-time analysis tool that takes just minutes to perform even detailed research. This comprehensive database brings together a fully updated and cohesive religious data set with a world-class database architecture. The result is a simple, yet powerful database tool that enables users to customize reports and download data for in use in charts, tables, and graphs</r3d:description>
+                    <r3d:repositoryContact>info@globalchristianity.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-02-12">9.000 Christian denominations; 13.000 ethnolinguistic peoples; 5.000 cities, 3.000 provinces; 234 countries</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">107 Theology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10701 Protestant Theology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10702 Roman Catholic Theology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://brill.com/view/db/wcdo</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Adventist</r3d:keyword>
+                    <r3d:keyword>Roman Catholic church</r3d:keyword>
+                    <r3d:keyword>Vatican’s Catholic Church</r3d:keyword>
+                    <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>christianity</r3d:keyword>
+                    <r3d:keyword>ethnicity</r3d:keyword>
+                    <r3d:keyword>evangelization</r3d:keyword>
+                    <r3d:keyword>religion</r3d:keyword>
+                    <r3d:keyword>theology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Brill</r3d:institutionName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://brill.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>VIAF:144427345</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Gordon-Conwell, Theological Seminary</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gordonconwell.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:032hvdr57</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Methodology of the World Christian Database</r3d:policyName>
+                <r3d:policyURL>https://worldchristiandatabase.org/wcd/about/WCD_Methodology.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Online User and Order Help</r3d:policyName>
+                <r3d:policyURL>https://brill.com/page/OnlineUserandOrderHelp/online-user-and-order-help</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>https://brill.com/page/Policies/policies</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://worldchristiandatabase.org/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>World Christian Database is covered by Thomson Reuters Data Citation Index.
+The World Religion Database (WRD) complements the WCD with detailed source material of religious affiliation including censuses, surveys and religious freedom data to the Province level.</r3d:remarks>
+        <r3d:entryDate>2016-11-24</r3d:entryDate>
+        <r3d:lastUpdate>2022-05-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

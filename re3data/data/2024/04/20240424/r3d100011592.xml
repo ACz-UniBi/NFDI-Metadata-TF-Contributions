@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011592</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Russian-Ukrainian Geomagnetic Data Center</r3d:repositoryName>
+                <r3d:repositoryURL>http://geomag.gcras.ru/</r3d:repositoryURL>
+                <r3d:description language="eng">The Analytical Geomagnetic Data Center of the Trans-Regional INTERMAGNET Segment is operated by the Geophysical Center of the Russian Academy of Sciences (GC RAS). Geomagnetic data are transmitted from observatories and stations located in Russia and near-abroad countries. The Center also provides access to spaceborne data products. The MAGNUS hardware-software system underlies the operation of the Center. Its particular feature is the automated real-time recognition of artificial (anthropogenic) disturbances in incoming data. Being based on fuzzy logic approach, this quality control service facilitates the preparation of the definitive magnetograms from preliminary records carried out by data experts manually. The MAGNUS system also performs on-the-fly multi-criteria estimation of geomagnetic activity using several indicators and provides online tools for modeling electromagnetic parameters in the near-Earth space.
+The collected geomagnetic data are stored using relational database management system. The geomagnetic database is intended for storing both 1-minute and 1-second data. The results of anthropogenic and natural disturbance recognition are also stored in the database.</r3d:description>
+                    <r3d:repositoryContact>geomag@gcras.ru</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2015-05-27">18 observatories</r3d:size>
+        <r3d:startDate>2012-01-01</r3d:startDate>
+        <r3d:endDate>2015-05-26</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">306 Polymer Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30601 Preparatory and Physical Chemistry of Polymers</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://geomag.gcras.ru/index.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Swarm</r3d:keyword>
+                    <r3d:keyword>geographic information systems GIS</r3d:keyword>
+                    <r3d:keyword>geoinformatics</r3d:keyword>
+                    <r3d:keyword>geomagnetic field</r3d:keyword>
+                    <r3d:keyword>geomagnetism</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>magnetic monitoring</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">INTERMAGNET</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">International Real-time Magnetic Observatory Network</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.intermagnet.org/index-eng.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@intermagnet.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Academy of Sciences of Ukraine, Institute of Geophysics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IGP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Национальная академия наук Украины, Институт геофизики</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.igph.kiev.ua/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.igph.kiev.ua/eng/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian Academy of Sciences, Geophysical Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GC RAS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">ГЕОФИЗИЧЕСКИЙ ЦЕНТР РОССИЙСКОЙ АКАДЕМИИ НАУК</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.gcras.ru/eng/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.gcras.ru/eng/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian-Ukrainian Geomagnetic Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RUGDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://geomag.gcras.ru/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://geomag.gcras.ru/contacts.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Policy</r3d:policyName>
+                <r3d:policyURL>http://geomag.gcras.ru/datapolicy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://geomag.gcras.ru/datapolicy.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">http://geomag.gcras.ru/datapolicy.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://geomag.gcras.ru/datapolicy.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>FTP access to the RUGDC data is available on request. To request this service please send an e-mail to geomag@gcras.ru.</r3d:remarks>
+        <r3d:entryDate>2015-05-27</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

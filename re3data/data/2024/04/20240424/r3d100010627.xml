@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010627</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Glacier Monitoring Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WGMS</r3d:additionalName>
+                <r3d:repositoryURL>https://wgms.ch/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>doi:10.5904/wgms-fog-2018-11</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The World Glacier Monitoring Service (WGMS) collects standardized observations on changes in mass, volume, area and length of glaciers with time (glacier fluctuations), as well as statistical information on the distribution of perennial surface ice in space (glacier inventories). Such glacier fluctuation and inventory data are high priority key variables in climate system monitoring; they form a basis for hydrological modelling with respect to possible effects of atmospheric warming, and provide fundamental information in glaciology, glacial geomorphology and quaternary geology. The highest information density is found for the Alps and Scandinavia, where long and uninterrupted records are available. As a contribution to the Global Terrestrial/Climate Observing System (GTOS, GCOS), the Division of Early Warning and Assessment and the Global Environment Outlook of UNEP, and the International Hydrological Programme of UNESCO, the WGMS collects and publishes worldwide standardized glacier data.</r3d:description>
+                    <r3d:repositoryContact>https://wgms.ch/contact_wgms/</r3d:repositoryContact>
+                    <r3d:repositoryContact>wgms@geo.uzh.ch</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://wgms.ch/about_wgms/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>atmospheric warming</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>geomorphology</r3d:keyword>
+                    <r3d:keyword>glacier fluctuation</r3d:keyword>
+                    <r3d:keyword>glaciology</r3d:keyword>
+                    <r3d:keyword>ice</r3d:keyword>
+                    <r3d:keyword>snow</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Global Terrestrial Network for Glaciers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GTN-G</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gtn-g.ch/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.gtn-g.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Swiss GCOS Office at the Federal Office of Meteorology and Climatology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GCOS at MeteoSwiss</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.meteoswiss.admin.ch/about-us/research-and-cooperation/programmes-gaw-ch-and-gcos-ch.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Zurich, Department of Geography, World Glacier Monitoring Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Universität Zürich, Geographisches Institut, World Glacier Monitoring Service</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">WGMS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.geo.uzh.ch/en/units/wgms.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>admin@geo.uzh.ch</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.geo.uzh.ch/en/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">WGMS National correspondents</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://wgms.ch/contact_wgms/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/08/World-Glacier-Monitoring-Service-Zurich.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Global Terrestrial Network for Glaciers Data policy</r3d:policyName>
+                <r3d:policyURL>https://www.gtn-g.ch/data_policy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>World Data System Bylaws</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/bylaws/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>General guidelines for Data Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://wgms.ch/data_submission/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                    <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Guidelines</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://wgms.ch/data_guidelines/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://wgms.ch/data_databaseversions/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>World Glacier Monitoring Service is covered by Thomson Reuters Data Citation Index. WGMS is part of the ICSU World Data System(WDS). WGMS is in charge of the Global Terrestrial Network for Glaciers (GTN-G) within GTOS/GCOS.
+World Glacier Monitoring Service  isunder the auspices of: ICSU (WDS), IUGG (IACS), UNEP, UNESCO, WMO</r3d:remarks>
+        <r3d:entryDate>2014-02-13</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

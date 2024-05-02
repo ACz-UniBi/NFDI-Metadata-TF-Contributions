@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011612</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">KONECT</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Koblenz Network Collection</r3d:additionalName>
+                <r3d:repositoryURL>http://konect.cc/</r3d:repositoryURL>
+                <r3d:description language="eng">This is the KONECT project, a project in the area of network science with the goal to collect network datasets, analyse them, and make available all analyses online. KONECT stands for Koblenz Network Collection, as the project has roots at the University of Koblenz–Landau in Germany. All source code is made available as Free Software, and includes a network analysis toolbox for GNU Octave, a network extraction library, as well as code to generate these web pages, including all statistics and plots.
+KONECT contains over a hundred network datasets of various types, including directed, undirected, bipartite, weighted, unweighted, signed and rating networks. The networks of KONECT are collected from many diverse areas such as social networks, hyperlink networks, authorship networks, physical networks, interaction networks and communication networks. The KONECT project has developed network analysis tools which are used to compute network statistics, to draw plots and to implement various link prediction algorithms. The result of these analyses are presented on these pages. Whenever we are allowed to do so, we provide a download of the networks.</r3d:description>
+                    <r3d:repositoryContact>jerome.kunegis@unamur.be</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-03-16">1.326 network datasets; computed 57.019 graph statistics;  generated 93.461 plots</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11103 Communication Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>http://konect.cc/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>affilation networks</r3d:keyword>
+                    <r3d:keyword>animal networks</r3d:keyword>
+                    <r3d:keyword>authorship networks</r3d:keyword>
+                    <r3d:keyword>citation networks</r3d:keyword>
+                    <r3d:keyword>communications networks</r3d:keyword>
+                    <r3d:keyword>computer networks</r3d:keyword>
+                    <r3d:keyword>feature networks</r3d:keyword>
+                    <r3d:keyword>folksonomies</r3d:keyword>
+                    <r3d:keyword>human contact networks</r3d:keyword>
+                    <r3d:keyword>human social networks</r3d:keyword>
+                    <r3d:keyword>hyperlink networks</r3d:keyword>
+                    <r3d:keyword>interaction networks</r3d:keyword>
+                    <r3d:keyword>lexical networks</r3d:keyword>
+                    <r3d:keyword>metabolic networks</r3d:keyword>
+                    <r3d:keyword>miscellaneous networks</r3d:keyword>
+                    <r3d:keyword>network analysis</r3d:keyword>
+                    <r3d:keyword>online contact networks</r3d:keyword>
+                    <r3d:keyword>online social networks</r3d:keyword>
+                    <r3d:keyword>physical networks</r3d:keyword>
+                    <r3d:keyword>rating networks</r3d:keyword>
+                    <r3d:keyword>software networks</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                    <r3d:keyword>text networks</r3d:keyword>
+                    <r3d:keyword>trophic networks</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Program</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/project/id/257859</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Hasso Plattner Institut,  Future SOC Lab</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HPI, Future SOC Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://hpi.de/forschung/infrastruktur/future-soc-lab/projekte/projektarchiv.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2012</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>futuresoc-lab-info@hpi.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">ROBUST Project</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://robust-project.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://robust-project.eu/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Namur</r3d:institutionName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unamur.be/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03d1maw17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.unamur.be/en/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Namur, Namur Institute for Complex Systems</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NAXYS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>BEL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.naxys.be/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05ezwr821</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.naxys.be/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Koblenz, Institute for Web Science and Technologies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WeST</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-koblenz.de/de/informatik/west</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2020</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uni-koblenz.de/de/informatik/west</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>KONECT handbook of network analysis</r3d:policyName>
+                <r3d:policyURL>https://github.com/kunegis/konect-handbook/raw/master/konect-handbook.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.gnu.org/licenses/#GPL</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.0/de/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://konect.cc/about/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-08-11</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

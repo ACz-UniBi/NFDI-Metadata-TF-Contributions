@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013504</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">PSI Open Data Provider</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PSI Public Data Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://doi.psi.ch/</r3d:repositoryURL>
+                <r3d:description language="eng">PSI Open Data Provider allows users to consult open data related to experiments carried out at PSI. Data made available includes scientific datasets collected during experiments and publications if any. Users can search for data based on related metadata (both their own data and other people&#039;s public data).</r3d:description>
+                    <r3d:repositoryContact>https://www.psi.ch/en/about/contact-form</r3d:repositoryContact>
+                        <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.psi.ch/en/photon-science-data-services/data-catalog-and-archive</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>diffraction</r3d:keyword>
+                    <r3d:keyword>hdf5</r3d:keyword>
+                    <r3d:keyword>neutron</r3d:keyword>
+                    <r3d:keyword>nexus</r3d:keyword>
+                    <r3d:keyword>psi imaging</r3d:keyword>
+                    <r3d:keyword>reflectometry</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Paul Scherrer Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Institut Paul Scherrer</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">PSI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Paul Scherrer Institut</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.psi.ch/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03eh3y714</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.psi.ch/en/visit/contact-form</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>PSI Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.psi.ch/en/useroffice/psi-data-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>SNSF research policy</r3d:policyName>
+                <r3d:policyURL>https://www.snf.ch/en/dMILj9t4LNk8NwyR/topic/open-research-data</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://www.psi.ch/en/terms-and-conditions</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://doi.psi.ch/oaipmh/oai</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://doi.psi.ch/openaire/oai</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://oai.datacite.org/oai?verb=ListIdentifiers&amp;metadataPrefix=oai_datacite&amp;set=ETHZ.PSI</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2021-02-19</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

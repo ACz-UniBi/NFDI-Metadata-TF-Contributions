@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010300</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Geodynamics and Earth Tide Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Global Geodynamic Project at GFZ Information System and Data Center (GGP ISDC) (formerly)</r3d:additionalName>
+                    <r3d:additionalName language="eng">IGETS</r3d:additionalName>
+                    <r3d:additionalName language="eng">IGETS Data Base at GFZ Potsdam</r3d:additionalName>
+                <r3d:repositoryURL>https://isdc.gfz-potsdam.de/igets-data-base/</r3d:repositoryURL>
+                <r3d:description language="eng">IGETS is the International Geodynamics and Earth Tide Service of the International Association of Geodesy (IAG). The main objective of IGETS is to monitor temporal variations of the Earth gravity field through long‐term records from ground gravimeters, tiltmeters, strainmeters and other geodynamic sensors.
+IGETS continues the activities of the Global Geodynamics Project (GGP) to provide support to geodetic and geophysical research activities using superconducting gravimeter (SG) data within the context of an international network. Furthermore, IGETS continues the activities of the International Center for Earth Tides (ICET), in particular, in collecting, archiving and distributing Earth tide records from long series of gravimeters, tiltmeters, strainmeters and other geodynamic sensors.
+GFZ is the main Data Center and operates the IGETS data base of worldwide high precision SG records. EOST (Ecole et Observatoire des Sciences de la Terre, Strasbourg, France) is the secondary Data Center, The University of French Polynesia (Tahiti) and EOST (Strasbourg, France) are the two current Analysis Centers.</r3d:description>
+                    <r3d:repositoryContact>igets-support@gfz-potsdam.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1997</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://isdc.gfz-potsdam.de/igets-data-base/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>earth tides</r3d:keyword>
+                    <r3d:keyword>geodesy</r3d:keyword>
+                    <r3d:keyword>geodynamics</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>gravimetry</r3d:keyword>
+                    <r3d:keyword>gravitmetry</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsches GeoForschungszentrum GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">GFZ German Research Centre for Geosciences</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam  Deutsches GeoForschungsZentrum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gfz-potsdam.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04z8jg394</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>igets-support@gfz-potsdam.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences, Information System and Data Center</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://isdc.gfz-potsdam.de/igets-data-base/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">École et Observatoire des Sciences de la Terre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EOST</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">GPP (former)</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Global Geodynamic Project (former)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://eost.unistra.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:030qxve40</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>Wikidata:Q3577986</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>jeanpaul.boy@unistra.fr</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Products</r3d:policyName>
+                <r3d:policyURL>http://igets.u-strasbg.fr/data_products.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>GFZ operates the IGETS data base of worldwide high precision SG records. The hosted products are:
+(1) Raw gravity and local pressure records sampled at 1 or 2 seconds, in addition to the same records decimated at 1‐minute samples (Level 1 products).
+(2) Gravity and pressure data corrected for instrumental perturbations, ready for tidal analysis. This product is derived from the previous datasets, and is computed by one or several Analysis Centers (Level 2 products).
+(3) Gravity residuals after particular geophysical corrections (including solid Earth tides, polar motion, tidal and non‐tidal loading effects). This product is also derived from the previous dataset and is computed by one or several Analysis Centers (Level 3 products)
+Detailed information: Report on the Data Base of the International Geodynamics and Earth Tide Service (IGETS) http://isdc.gfz-potsdam.de/igets-data-base/documentation/</r3d:remarks>
+        <r3d:entryDate>2013-05-16</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

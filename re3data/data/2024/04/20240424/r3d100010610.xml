@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010610</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ALEXA</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ALEXA-A</r3d:additionalName>
+                    <r3d:additionalName language="eng">ALEXA-Seq</r3d:additionalName>
+                    <r3d:additionalName language="eng">Alternative expression analysis</r3d:additionalName>
+                <r3d:repositoryURL>http://www.alexaplatform.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_01328</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006700</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ALEXA is a microarray design platform for &#039;alternative expression analysis&#039;. This platform facilitates the design of expression arrays for analysis of mRNA isoforms generated from a single locus by the use of alternative transcription initiation, splicing and polyadenylation sites. We use the term &#039;ALEXA&#039; to describe a collection of novel genomic methods for &#039;alternative expression&#039; analysis. &#039;Alternative expression&#039; refers to the identification and quantification of alternative mRNA transcripts produced by alternative transcript initiation, alternative splicing and alternative polyadenylation. This website provides supplementary materials, source code and other downloads for recent publications describing our studies of alternative expression (AE). Most recently we have developed a method, &#039;ALEXA-Seq&#039; and associated resources for alternative expression analysis by massively parallel RNA sequencing.</r3d:description>
+                    <r3d:repositoryContact>http://www.alexaplatform.org/contact.htm</r3d:repositoryContact>
+                    <r3d:repositoryContact>malachig@bcgsc.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>mgriffit@genome.wustl.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.alexaplatform.org/index.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>RNA sequencing</r3d:keyword>
+                    <r3d:keyword>ape</r3d:keyword>
+                    <r3d:keyword>array design</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>dog</r3d:keyword>
+                    <r3d:keyword>fruit fly</r3d:keyword>
+                    <r3d:keyword>gallus gallus</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>mRNA</r3d:keyword>
+                    <r3d:keyword>mouse</r3d:keyword>
+                    <r3d:keyword>transcript</r3d:keyword>
+                    <r3d:keyword>worm</r3d:keyword>
+                    <r3d:keyword>yeast</r3d:keyword>
+                    <r3d:keyword>zebrafish</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">BC Cancer Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bccancerfoundation.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03gqhbs95</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006428</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://bccancerfoundation.com/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">BC Cancer Research Centre, Canada&#039;s Michael Smith Genome Sciences Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bcgsc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:333j0897</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.alexaplatform.org/contact.htm</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Canadian Cancer Society, Research Institute</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cancer.ca/en/research</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://cancer.ca/en/contact-us/cancer-information-and-support</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Genome British Columbia</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.genomebc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03gne5057</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.genomebc.ca/connect/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Michael Smith Foundation for Health Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MSFHR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.msfhr.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:020x39229</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.msfhr.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Sciences and Engineering Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CRSNG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Conseil de recherches en sciences natruelles et en génie du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NSERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nserc-crsng.gc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01h531d29</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013327</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nserc-crsng.gc.ca/ContactUs-ContactezNous/ContactDirectory-RepertoiredeContact_eng.asp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Terry Fox Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.terryfox.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05vd00053</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005873</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.terryfox.org/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of British Columbia, Faculty of Graduate Studies</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.grad.ubc.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ubc.ca/about/contact.html?utm_campaign=UBC+CLF&amp;utm_medium=CLF+Global+Footer&amp;utm_source=https%3A%2F%2Fwww.grad.ubc.ca%2F</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of British Columbia, Faculty of Medicine</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.med.ubc.ca/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.med.ubc.ca/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Release Policy: Open Access</r3d:policyName>
+                <r3d:policyURL>https://www.bcgsc.ca/services/faq/data-analysis</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/2.5/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gnu.org/licenses/gpl-3.0.txt</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>ALEXA User Manual</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.alexaplatform.org/alexa_arrays/data/ALEXA_User_Manual.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp03.bcgsc.ca/public/ALEXA/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.alexaplatform.org/acknowledge.htm</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>ALEXA platform includes two parts: ALEXA-Arrays (ALEXA-A) and ALEXA-Sequences (ALEXA-Seq)</r3d:remarks>
+        <r3d:entryDate>2014-02-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

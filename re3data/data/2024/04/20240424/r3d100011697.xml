@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011697</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BioVel</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Biodiversity Virtual e-Laboratory</r3d:additionalName>
+                <r3d:repositoryURL>https://www.biovel.eu/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;
+BioVeL is a virtual e-laboratory that supports research on biodiversity issues using large amounts of data from cross-disciplinary sources. BioVeL  supports the development and use of workflows to process data. It offers the possibility to either use already made workflows or create  own.
+BioVeL workflows are stored in MyExperiment - Biovel Group http://www.myexperiment.org/groups/643/content. They are underpinned by a range of analytical and data processing functions (generally provided as Web Services or R scripts) to support common biodiversity analysis tasks. You can find the Web Services catalogued in the BiodiversityCatalogue.</r3d:description>
+                    <r3d:repositoryContact>contact@biovel.eu.</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www.biovel.eu/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@biovel.eu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2016-01-19">MyExperiment Biovel Group: 39 workflows; 18 files; 10 pack.
+BiodiversityCatalogue: 67 services;  50 service providers;  107 contributing members.</r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate>2022</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://www.biovel.eu/about-biovel</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Taverna workflow suite</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>computer programming</r3d:keyword>
+                    <r3d:keyword>data processing tool</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>informatics</r3d:keyword>
+                    <r3d:keyword>metagenomics</r3d:keyword>
+                    <r3d:keyword>phylogenetics</r3d:keyword>
+                    <r3d:keyword>population modelling</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                    <r3d:keyword>workflow</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Biovel International Consortium</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.biovel.eu/about-biovel/history</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Cardiff University, School of Computer Science and Informatics</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cs.cf.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Alex.Hardisty@cs.cardiff.ac.uk</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.cs.cf.ac.uk/newsandevents/biovel.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service,  7th Framework Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU, CORDIS, FP7</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://cordis.europa.eu/project/rcn/100168_en.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://cordis.europa.eu/project/rcn/100168_en.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>BiodiversityCatalogue Terms Of Use</r3d:policyName>
+                <r3d:policyURL>https://www.biodiversitycatalogue.org/termsofuse</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Open Source</r3d:policyName>
+                <r3d:policyURL>https://www.biovel.eu/about-biovel</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>BSD</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://github.com/myGrid/biocatalogue/blob/master/license.txt</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://creativecommons.org/licenses/by-sa/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.biocatalogue.org/wiki/doku.php?id=public:help:general_info_on_web_services</r3d:api>
+                    <r3d:api apiType="SOAP">https://www.biocatalogue.org/wiki/doku.php?id=public:help:general_info_on_web_services</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.biovel.eu/about-biovel/how-to-cite-biovel</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="ATOM">https://www.biodiversitycatalogue.org/index.atom</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.biovel.eu/?format=feed&amp;type=rss</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.biocatalogue.org/wiki/feed.php</r3d:syndication>
+                <r3d:remarks>Description: &quot;BioVeL is a virtual e-laboratory that supports research on biodiversity issues using large amounts of data from cross-disciplinary sources. BioVeL  supports the development and use of workflows to process data. It offers the possibility to either use already made workflows or create  own.
+BioVeL workflows are stored in MyExperiment - Biovel Group http://www.myexperiment.org/groups/643/content. They are underpinned by a range of analytical and data processing functions (generally provided as Web Services or R scripts) to support common biodiversity analysis tasks. You can find the Web Services catalogued in the BiodiversityCatalogue.&quot;
+
+Partners: http://www.biovel.eu/about-biovel/history
+Biovel consists of a Wiki, Biovel Portal, Taverna Workbench, BiodiversityCatalogue and myExperiment.</r3d:remarks>
+        <r3d:entryDate>2016-01-19</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

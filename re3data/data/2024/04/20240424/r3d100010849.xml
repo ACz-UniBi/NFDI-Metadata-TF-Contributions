@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010849</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Atmospheric Deposition Program</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NADP</r3d:additionalName>
+                <r3d:repositoryURL>https://nadp.slh.wisc.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The NADP monitors precipitation chemistry from numerous sites around the United States. The NADP consists of 5 networks: National Trends Network, Mercury Deposition Network, Atmospheric Integrated Research Monitoring Network, Atmospheric Mercury Network, and Ammonia Monitoring Network. Data is provided by each network.</r3d:description>
+                    <r3d:repositoryContact>https://nadp.slh.wisc.edu/contacts/</r3d:repositoryContact>
+                    <r3d:repositoryContact>nadp@slh.wisc.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1977</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://nadp.slh.wisc.edu/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ammonia - environmental aspects</r3d:keyword>
+                    <r3d:keyword>atmospheric chemistry</r3d:keyword>
+                    <r3d:keyword>environmental chemistry</r3d:keyword>
+                    <r3d:keyword>mercury</r3d:keyword>
+                    <r3d:keyword>nitrogen</r3d:keyword>
+                    <r3d:keyword>precipitation (chemistry)</r3d:keyword>
+                    <r3d:keyword>rain</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Illinois State Water Survey</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.isws.illinois.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2018-03</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.isws.illinois.edu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Wisconsin-Madison, Wisconsin State Laboratory of Hygiene</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WSLH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.slh.wisc.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2018-07</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.slh.wisc.edu/about/contact/</r3d:institutionContact>
+                                    <r3d:institutionContact>nadp@slh.wisc.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data and Information Use Conditions</r3d:policyName>
+                <r3d:policyURL>https://nadp.slh.wisc.edu/data-and-information-use-conditions/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.copyright.gov/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nadp.slh.wisc.edu/data-and-information-use-conditions/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://nadp.slh.wisc.edu/data-and-information-use-conditions/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The NADP is National Research Support Project - 3: A Long-Term Monitoring Program in Support of Research on the Effects of Atmospheric Chemical Deposition. More than 250 sponsors support the NADP, including private companies and other nongovernmental organizations, universities, local and state government agencies, State Agricultural Experiment Stations, national laboratories, Native American organizations, Canadian government agencies, the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, the Tennessee Valley Authority, the U.S. Geological Survey, the National Park Service, the U.S. Fish &amp; Wildlife Service, the Bureau of Land Management, the U.S. Department of Agriculture - Forest Service, and the U.S. Department of Agriculture - National Institute of Food and Agriculture, under agreement no. 2008-39134-19508.
+In March 2018, NADP moved their Program Office from their longtime home at the University of Illinois Urbana-Champaign to the Wisconsin State Laboratory of Hygiene at the University of Wisconsin-Madison.
+NADP Networks: https://nadp.slh.wisc.edu/networks/</r3d:remarks>
+        <r3d:entryDate>2014-07-15</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

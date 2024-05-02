@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011664</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Geoportal der BFG</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GEOPORTAL @ BfG</r3d:additionalName>
+                    <r3d:additionalName language="deu">GGInA</r3d:additionalName>
+                    <r3d:additionalName language="eng">Geopaortal der Bundesanstalt für Gewässerkunde</r3d:additionalName>
+                    <r3d:additionalName language="eng">Gewässerkundliches Geografisches Informations- und Analysesystem der BfG</r3d:additionalName>
+                <r3d:repositoryURL>https://geoportal.bafg.de/ggina-portal/</r3d:repositoryURL>
+                <r3d:description language="eng">Through our decades of hydrological and ecological practices and the activities on the waterways of the German Federal a valuable inventory of hydrological information has emerged in the stuck our experience and knowledge base. Almost all environmental information have a direct or indirect spatial reference. This inventory of spatial data continues to grow. He is both the basis and results of our scientific work. With GGInA, the hydrological Geographical Information and Analysis System of BfG, you can research yourself in this inventory. Much of the information and data is accessed directly on the Metadata Catalog Search and specialist applications. The Geoportal also opens up databases of our partners in the transport and environment. At the same selected data can also be integrated into other environmental portals.</r3d:description>
+                    <r3d:repositoryContact>geoportal@bafg.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>will@bafg.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>German lakes</r3d:keyword>
+                    <r3d:keyword>German waterways</r3d:keyword>
+                    <r3d:keyword>WasserBLICK</r3d:keyword>
+                    <r3d:keyword>drinking water</r3d:keyword>
+                    <r3d:keyword>flood</r3d:keyword>
+                    <r3d:keyword>hydrography</r3d:keyword>
+                    <r3d:keyword>hydrologic Atlas</r3d:keyword>
+                    <r3d:keyword>surface water</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bundesanstalt für Gewässerkunde</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BfG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Institute of Hydrology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bafg.de/DE/Home/homepage_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03kdvpr29</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>posteingang@bafg.de</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://geoportal.bafg.de/ggina-portal/html/Impressum_Haftungsausschluss.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://geoportal.bafg.de/ggina-portal/html/Impressum_Haftungsausschluss.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-12-21</r3d:entryDate>
+        <r3d:lastUpdate>2021-06-29</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

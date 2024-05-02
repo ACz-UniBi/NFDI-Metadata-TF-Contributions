@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012864</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">KBase</r3d:repositoryName>
+                    <r3d:additionalName language="eng">KBase: The U.S. Department of Energy Systems Biology Knowledgebase</r3d:additionalName>
+                <r3d:repositoryURL>https://www.kbase.us/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.jsxqrk</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_13621</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Department of Energy Systems Biology Knowledgebase (KBase) is a software and data platform designed to meet the grand challenge of systems biology: predicting and designing biological function. KBase integrates data and tools in a unified graphical interface so users do not need to access them from numerous sources or learn multiple systems in order to create and run sophisticated systems biology workflows. Users can perform large-scale analyses and combine multiple lines of evidence to model plant and microbial physiology and community dynamics.
+KBase is the first large-scale bioinformatics system that enables users to upload their own data, analyze it (along with collaborator and public data), build increasingly realistic models, and share and publish their workflows and conclusions. KBase aims to provide a knowledgebase: an integrated environment where knowledge and insights are created and multiplied.</r3d:description>
+                    <r3d:repositoryContact>engage@kbase.us</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.kbase.us/support/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-09-18">90.279 genomes; 358.269.132 genome geatures; 1.554.540 taxonomy; 27.692 biochemical species; 34.696 Reactions; 20.551  Roles; 522 Media;  75 Metabolic Maps; 1.470 Metabolic Pathways</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.kbase.us/about/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>Sequence reads and assemblies</r3d:keyword>
+                    <r3d:keyword>biochemistry</r3d:keyword>
+                    <r3d:keyword>metabolic modeling</r3d:keyword>
+                    <r3d:keyword>metabolic pathways</r3d:keyword>
+                    <r3d:keyword>metabolite</r3d:keyword>
+                    <r3d:keyword>metabolomes</r3d:keyword>
+                    <r3d:keyword>pangenomes</r3d:keyword>
+                    <r3d:keyword>plant</r3d:keyword>
+                    <r3d:keyword>predictive biology</r3d:keyword>
+                    <r3d:keyword>prokaryotic genomes</r3d:keyword>
+                    <r3d:keyword>species trees</r3d:keyword>
+                    <r3d:keyword>taxonomic profiles</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">United States, Department of Energy</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:org/01bj3aw27</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012841</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_86742</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States, Department of Energy, Office of Science, Biological and Environmental Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BER</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.energy.gov/science/ber/biological-and-environmental-research</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Policy and Sources</r3d:policyName>
+                <r3d:policyURL>https://www.kbase.us/data-policy-and-sources/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.kbase.us/privacy-policy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>https://docs.kbase.us/terms-conditions</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://github.com/kbase/project_guides/blob/master/LICENSE</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.kbase.us/data-policy-and-sources/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.kbase.us/data-policy-and-sources/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.kbase.us/data-policy-and-sources/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.kbase.us/acknowledgements/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2018-09-12</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

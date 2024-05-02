@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013748</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Earth Observational Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">National Earth Observation Science Data Center</r3d:additionalName>
+                    <r3d:additionalName language="zho">国家对地观测科学数据中心</r3d:additionalName>
+                <r3d:repositoryURL>https://www.chinageoss.cn/dsp/home/index.jsp</r3d:repositoryURL>
+                <r3d:description language="eng">The National Earth Observation Science Data Center, whose predecessor was the National Integrated Earth Observation Data Sharing Platform, has formed a sustainable, cross-agency, one-stop data sharing service capability after years of construction, and it is also the main channel for international exchange of remote sensing data in China. In the future, it will manage and coordinate scientific data resources in the field of earth observation on behalf of the country, and build a national-level earth observation big data infrastructure. Coordinate various industry data centers, scientific research institutions and enterprises in the field of Earth observation in China to cooperate in building a national strategic, fundamental, scientific, internationalized, and independent and controllable scientific big data environment in the field of Earth observation. On the basis of the already formed data ecology and cooperation mechanism, data sharing services, and international data cooperation, we will actively expand to the whole life cycle management of data and carry out data management work such as the collection, management, analysis and mining, and sharing services of national scientific data resources for Earth observation. Form a unified technical support system and data sharing service environment for Earth observation data in China. Maintain and enhance its international influence and become a domestic and international first-class scientific data center for Earth observation!</r3d:description>
+                    <r3d:repositoryContact>lijing6@radi.ac.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://earthobservations.org/documents/GEO_Strategic_Plan_2016_2025_Implementing_GEOSS.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>earth observations</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>environment</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Group on Earth Observations</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GEO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://earthobservations.org/geo_community.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>secretariat@geosec.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Science and Technology of the People&#039;s Republic of China</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MOST</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://en.most.gov.cn/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027s68j25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Comprehensive Earth Observation Data Sharing Platform</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://datascience.shanghai.nyu.edu/datasets/national-comprehensive-earth-observation-data-sharing-platform%E5%9B%BD%E5%AE%B6%E7%BB%BC%E5%90%88%E5%9C%B0%E7%90%83%E8%A7%82%E6%B5%8B%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Remote Sensing Center of China</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NRSCC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nrscc.most.cn/en/index.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@nrscc.gov.cn</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>GEOSS Data Sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://earthobservations.org/documents/GEO_Strategic_Plan_2016_2025_Implementing_GEOSS.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://earthobservations.org/documents/GEO_Strategic_Plan_2016_2025_Implementing_GEOSS.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-02-14</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

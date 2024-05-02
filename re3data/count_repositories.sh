@@ -1,4 +1,10 @@
 #!/bin/bash
+#
+# count all re3data repositories.
+#
+# v0.0.1
+#
+#
 set -euo pipefail
 
 today=`date +%Y%m%d`
@@ -11,7 +17,7 @@ fi
 
 year=${date:0:4}
 month=${date:4:2}
-day=${date:5:2}
+day=${date:6:2}
 
 dir=./data/$year/$month
 repos=${dir}/${date}_repositories.xml

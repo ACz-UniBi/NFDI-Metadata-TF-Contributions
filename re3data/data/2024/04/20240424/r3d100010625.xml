@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010625</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ECCAD - the GEIA database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Emissions of atmospheric Compounds &amp; Compilation of Ancillary Data</r3d:additionalName>
+                    <r3d:additionalName language="eng">Global Emission Inventories Activity</r3d:additionalName>
+                <r3d:repositoryURL>http://eccad.aeris-data.fr/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.7f04e5</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The main goal of the ECCAD project is to provide scientific and policy users with datasets of surface emissions of atmospheric compounds, and ancillary data, i.e. data required to estimate or quantify surface emissions.
+The supply of ancillary data - such as maps of population density, maps of fires spots, burnt areas, land cover - could help improve and encourage the development of new emissions datasets.
+ECCAD offers:
+Access to global and regional emission inventories and ancillary data, in a standardized format
+Quick visualization of emission and ancillary data
+Rationalization of the use of input data in algorithms or emission models
+Analysis and comparison of emissions datasets and ancillary data
+Tools for the evaluation of emissions and ancillary data
+ECCAD is a dynamical and interactive database, providing the most up to date datasets including data used within ongoing projects. Users are welcome to add their own datasets, or have their regional masks included in order to use ECCAD tools.</r3d:description>
+                    <r3d:repositoryContact>https://eccad.aeris-data.fr/contact-us-ask-questions/</r3d:repositoryContact>
+                    <r3d:repositoryContact>laurence.fleury@obs-mip.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.aeris-data.fr/en/projects/eccad-2/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>CO map</r3d:keyword>
+                    <r3d:keyword>NOx</r3d:keyword>
+                    <r3d:keyword>ancillary data</r3d:keyword>
+                    <r3d:keyword>biofuel emissions</r3d:keyword>
+                    <r3d:keyword>biogenic emissions</r3d:keyword>
+                    <r3d:keyword>combustion rates</r3d:keyword>
+                    <r3d:keyword>global change</r3d:keyword>
+                    <r3d:keyword>greenhouse gases</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>pyrogenic emissions</r3d:keyword>
+                    <r3d:keyword>radiative emissions</r3d:keyword>
+                    <r3d:keyword>surface emissions</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Agence de l&#039;Environnement et de la Maîtrise de l&#039;Energie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">ADEME</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">French Environment and Energy Management Agency</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ademe.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05rth8x13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Centre National d&#039;Études Spatiales</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNES</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cnes.fr/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04h1h0y33</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">ESPRI Data Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Ensemble de Services Pour la Recherche à l&#039;IPSL data centre</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Ensemble de Services Pour la Recherche à l&#039;Institut Pierre Simon Laplace data centre</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Ether (formerly)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cds-espri.ipsl.upmc.fr/etherTypo/index.php?id=1450&amp;L=1</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://cds-espri.ipsl.fr/etherTypo/index.php?id=1742&amp;L=1</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/research-and-innovation_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Union, Funding Programme FP7, Monitoring atmospheric composition &amp; climate</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">macc</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.copernicus.eu/en/monitoring-atmospheric-composition-and-climate</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Emissions InitiAtive</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GEIA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Improving our understanding of air quality and climate</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.geiacenter.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.geiacenter.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Institut National des Sciences de l&#039;Univers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS INSU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insu.cnrs.fr/fr</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Integrated Land Ecosystem - Atmosphere Processes Study</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">iLEAPS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FIN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ileaps.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ileaps.org/form/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Geosphere-Biosphere Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IGBP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.igbp.net/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Global Atmospheric Chemistry Project</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IGAC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://igacproject.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Observatoire Midi-Pyrénées - OMP, SErvice de DOnnées de L&#039;OMP</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">SEDOO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.omp.eu/missions/appui-a-la-recherche/bases-donnees-omp/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>laurence.fleury@obs-mip.fr</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>ECCAD User Guide</r3d:policyName>
+                <r3d:policyURL>https://eccad.aeris-data.fr/user_guide/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://eccad.aeris-data.fr/user_guide/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://eccad.aeris-data.fr/user_guide/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://eccad.aeris-data.fr/user_guide/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>ECCAD is part of the Ether Pole, the French Center of Atmospheric Products and Service, developed under a partnership between CNES (Centre National d’Etudes Spatiales)and (Institut National des Sciences de l’Univers) to facilitate access and encourage exploitation of all data and expert knowledge in this field.
+The ECCAD database and web application developments have been undertaken by CNRS/INSU and financed thanks to CNES efforts since the beginning of the
+project, and to ADEME on a three year basis. The ECCAD project contributes to French projects (CNRS, CNES and ADEME), projects funded by the European Commission within the 7th framework programs (MACC-II, ACCENT-Plus, CITYZEN, PEGASOS, ACCESS, etc.), and to International programs such as IGAC/IGBP and iLEAPS/IGBP. ECCAD is also the emissions database of the Global Emissions InitiAtive (GEIA)</r3d:remarks>
+        <r3d:entryDate>2014-02-25</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

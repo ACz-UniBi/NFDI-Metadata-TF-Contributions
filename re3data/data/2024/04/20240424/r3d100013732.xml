@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013732</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Biofilms Structural Database</r3d:repositoryName>
+                <r3d:repositoryURL>https://biofilms.biosim.pt</r3d:repositoryURL>
+                <r3d:description language="eng">The Biofilms Structural Database contains information on different protein structures involved in biofilm formation, development, and virulence.</r3d:description>
+                    <r3d:repositoryContact>https://biofilms.biosim.pt/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@biosim.pt</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-02-01">501 entries; 125 ligands; 147 proteins; 48 bacteria</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20104 Structural Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://biofilms.biosim.pt/about.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>ligand</r3d:keyword>
+                    <r3d:keyword>mutagenesis</r3d:keyword>
+                    <r3d:keyword>organism</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Porto, Faculty of Medicine, Biomolecular SIMulations Research Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BioSIM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="por">Universidade do Porto, Faculdade de Medicina, Departamento de Biomedicina</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>PRT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://biosim.pt/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://biofilms.biosim.pt/about.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://biofilms.biosim.pt/about.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>External links to other databases with complementary information are also made available for each entry, namely for ChEMBL, Binding DB, ExPASy, KeGG and UniProt.
+The database is easily searchable and exportable. One can export the entire database or manually selected entries in CSV or PDB format.</r3d:remarks>
+        <r3d:entryDate>2022-02-01</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

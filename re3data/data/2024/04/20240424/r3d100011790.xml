@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011790</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">WATCH</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WATer and Global CHange</r3d:additionalName>
+                <r3d:repositoryURL>http://www.eu-watch.org/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; The repository is no longer available. You can find the data using https://www.re3data.org/repository/r3d100010199 and searching for WATCH.  Further information see: https://catalogue.ceh.ac.uk/documents/ba6e8ddd-22a9-457d-acf4-d63cd34f2dda &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>fulco.ludwig@wur.nl</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www.eu-watch.org/watermip/contacts</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2007-02-01</r3d:startDate>
+        <r3d:endDate>2011-07-31</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.eu-watch.org/data_availability</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>carbon</r3d:keyword>
+                    <r3d:keyword>circulation</r3d:keyword>
+                    <r3d:keyword>earth system</r3d:keyword>
+                    <r3d:keyword>energy cycle</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>sediment</r3d:keyword>
+                    <r3d:keyword>water</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Centre for Ecology and Hydrology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CEH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ceh.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.ceh.ac.uk/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Sixth Framework Programm</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU, 6FP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://cordis.europa.eu/fp6calls/home_en.html?fuseaction=UserSite.FP6HomePage</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2011</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://cordis.europa.eu/news/rcn/33914_en.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Freedom of Information</r3d:policyName>
+                <r3d:policyURL>http://www.ceh.ac.uk/freedom-of-information</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms &amp; Conditions</r3d:policyName>
+                <r3d:policyURL>http://www.ceh.ac.uk/terms-conditions</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.ceh.ac.uk/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.eu-watch.org/data_availability</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">http://www.eu-watch.org/watermip/data-format</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Description: &quot;This Integrated Project Water and Global Change (WATCH) will bring together the hydrological, water resources and climate communities, to analyse, quantify and predict the components of the current and future global water cycles and related water resources states, evaluate their uncertainties and clarify the overall vulnerability of global water resources related to the main societal and economic sectors.&quot;
+
+The WATCH project has produced a large number of data sets which should be of considerable use in regional and global studies of climate and water. Some of these datasets are described in the special collection, particularly Weedon et al. 2011 and Haddeland et al 2011. These data are all hosted by IIASA in Austria on a basic FTP site available to the public. For an introduction to the water cycle with illustrations of decadal averages plus visualisation of available data, see www.waterandclimatechange.eu.
+Included in the data sets are the meteorological data used by global hydrological or land surface models and model outputs for the 20th and 21st Centuries. All the WATCH data is in NetCDF format (Network Common Data Format.  NetCDF is an extremely efficient data format for large volumes of data and is becoming popular with modellers as both an input and output format. Data conforms to the ALMA-data exchange convention; for more information, please see https://www.lmd.jussieu.fr/~polcher/ALMA/. We have introduced a web based system to catalogue these data which can be accessed via the CEH Gateway catalogue (https://gateway.ceh.ac.uk/). Use the search term WATCH in the gateway site to find a list of the available data.
+Participants: http://www.eu-watch.org/about/participants</r3d:remarks>
+        <r3d:entryDate>2016-05-09</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

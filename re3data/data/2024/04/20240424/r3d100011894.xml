@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011894</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Synapse</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.synapse.org</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.dnxzmk</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006307</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_151983</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Synapse is an open source software platform that clinical and biological  data scientists can use to carry out, track, and communicate their research in real time. Synapse enables co-location of scientific content (data, code, results) and narrative descriptions of that work.</r3d:description>
+                    <r3d:repositoryContact>https://sagebionetworks.jira.com/servicedesk/customer/portal/9/group/26/create/162</r3d:repositoryContact>
+                    <r3d:repositoryContact>synapseinfo@sagebase.org</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012-05-22</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20106 Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://sagebionetworks.org/tools_resources/synapse-platform/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>AMP-AD Knowledge Portal</r3d:keyword>
+                    <r3d:keyword>DREAM Challenges</r3d:keyword>
+                    <r3d:keyword>GitHub</r3d:keyword>
+                    <r3d:keyword>NF Data Portal</r3d:keyword>
+                    <r3d:keyword>TCGA Pan-Cancer Working Group</r3d:keyword>
+                    <r3d:keyword>biomedicine</r3d:keyword>
+                    <r3d:keyword>query structured data</r3d:keyword>
+                    <r3d:keyword>record provenance</r3d:keyword>
+                    <r3d:keyword>research communities</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alfred P. Sloan Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sloan.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:052csg198</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005099</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://sloan.org/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Children&#039;s Tumor Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CTF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ctf.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01hx92781</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006280</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ctf.org/contact/</r3d:institutionContact>
+                                    <r3d:institutionContact>info@ctf.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sage Bionetworks</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Sage</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sagebionetworks.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:049ncjx51</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_003384</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://sagebase.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Heart, Lung and Blood Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NHLBI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nhlbi.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:012pb6c26</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011413</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nhlbi.nih.gov/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute of Mental Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NIMH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nimh.nih.gov/index.shtml</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04xeg9z08</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011431</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@ctf.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute on Aging</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NIA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nia.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:049v75w11</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011438</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nia.nih.gov/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Synapse Governance</r3d:policyName>
+                <r3d:policyURL>https://help.synapse.org/docs/Synapse-Governance.2004255211.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Synapse Terms and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://s3.amazonaws.com/static.synapse.org/governance/SageBionetworksSynapseTermsandConditionsofUse.pdf?v=4</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://docs.synapse.org/articles/governance.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://help.synapse.org/docs/API-Clients-and-Documentation.1985446128.html</r3d:api>
+                    <r3d:api apiType="REST">https://docs.synapse.org/rest/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-12-03</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

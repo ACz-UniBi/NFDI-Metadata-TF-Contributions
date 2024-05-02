@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013559</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CORA. Repositori de Dades de Recerca</r3d:repositoryName>
+                <r3d:repositoryURL>https://dataverse.csuc.cat/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.av9fsp</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The CORA. Repositori de dades de Recerca is a repository of open, curated and FAIR data that covers all academic disciplines. CORA. Repositori de dades de Recerca is a shared service provided by participating Catalan institutions (Universities and CERCA Research Centers). The repository is managed by the CSUC and technical infrastructure is based on the Dataverse application, developed by international developers and users led by Harvard University (https://dataverse.org).</r3d:description>
+                    <r3d:repositoryContact>aco@csuc.cat</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2024-03-04">167 dataverses ; 862 datasets; 44.919 files</r3d:size>
+        <r3d:startDate>2020</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>cat</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://dataverse.csuc.cat/about.xhtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>curated</r3d:keyword>
+                    <r3d:keyword>multi-institutional</r3d:keyword>
+                    <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="cat">Centre de Recerca Matemàtica</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">CRM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.crm.cat/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:020s51w82</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>crm@crm.cat</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Centre de Recerca en Agrigenòmica</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">CRAG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Centre for Research in Agricultural Genomics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cragenomica.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04tz2h245</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cragenomica.es/contact-and-location</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Consorci de Serveis Universitaris de Catalunya</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">CSUC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://csuc.cat/ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:007rty190</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://csuc.cat/ca/contacta</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Fundació Centre d&#039;Estudis Demogràfics</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ced.cat/es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02dm87055</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Fundació Privada i2CAT Internet i Innovació Digital a Catalunya</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://i2cat.net</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02rkks755</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut Barcelona d&#039;Estudis Internacionals</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">IBEI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ibei.org/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05rke5d69</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ibei.org/en/location-contact_25152</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut Català d&#039;Arqueologia Clàssica</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">ICAC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.icac.cat/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04nwrc387</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://icac.cat/qui-som/contacte/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut Català de Nanociència i Nanotecnologia</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://icn2.cat/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00k1qja49</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut d&#039;Investigació Biomèdica de Bellvitge</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">IDIBELL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://idibell.cat/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0008xqs48</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://idibell.cat/contacte/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut d&#039;Investigació Biomèdica de Girona Dr. Josep Trueta</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">IDIBGI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://idibgi.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:020yb3m85</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://idibgi.org/contacte/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut de Física d&#039;Altes Energies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IFAE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ifae.es/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01sdrjx85</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ifae.es/about/how-to-reach</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut de Recerca contra la Leucemia Josep Carreras</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">IJC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="spa">Instituto de Investigación contra la Leucemia Josep Carreras</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Josep Carreras Leukaemia Research Institute</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.carrerasresearch.org/ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00btzwk36</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.carrerasresearch.org/ca/contacte</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Institut de Recerca i Tecnologia Agroalimentàries</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">IRTA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Institute of Agrifood Research and Technology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.irta.cat/ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:012zh9h13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.irta.cat/en/irta/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">IrsiCaixa</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Institut de Recerca de la Sida</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.irsicaixa.es/ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:001synm23</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Autònoma de Barcelona</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Autonomous University of Barcelona</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="cat">UAB</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uab.cat/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:052g8jq94</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011104</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uab.cat/web/coneix-la-uab/punt-d-informacio-1345671073930.html</r3d:institutionContact>
+                                    <r3d:institutionContact>informacio@uab.cat</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Internacional de Catalunya</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">UIC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uic.es/ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00tse2b39</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uic.es/en/university/uic-barcelona/contact-details</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Oberta de Catalunya</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uoc.edu/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01f5wp925</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uoc.edu/portal/en/contacte-seus/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Politècnica de Catalunya</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Polytechnic University of Catalonia</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="cat">UPC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.upc.edu/ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mb6wj31</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000252</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.upc.edu/ca/contacte</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Pompeu Fabra</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Pompeu Fabra University</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="cat">UPF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.upf.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04n0g0b29</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000256</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.upf.edu/web/universitat/contacte</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Ramon Llull</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.url.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04p9k2z50</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.url.edu/ca/la-url/ubicacions-i-contacte</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat Rovira i Virgili</r3d:institutionName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.urv.cat/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00g5sqv46</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.urv.cat/ca/universitat/directori/contacteu/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat de Barcelona</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">UB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">University of Barcelona</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://web.ub.edu/ca/inici</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021018s57</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_002575</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://web.ub.edu/en/web/ub/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat de Girona</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">UdG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.udg.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01xdxns91</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.udg.edu/ca/formulari-dinformacio</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Universitat de Lleida</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="cat">UDL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">University of Lleida</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.udl.cat/ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:050c3cw24</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005500</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.udl.cat/ca/serveis/seu/#contacte</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="cat">Vall d’Hebron Institut de Recerca</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">VHIR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://vhir.vallhebron.com/ca</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01d5vx451</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Dataverse Community Norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Drets i llicències per a dades de recerca</r3d:policyName>
+                <r3d:policyURL>https://confluence.csuc.cat/pages/viewpage.action?pageId=97226940</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Recomanacions de formats</r3d:policyName>
+                <r3d:policyURL>https://confluence.csuc.cat/display/RDM/Recomanacions+de+formats</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/about/cclicenses/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://confluence.csuc.cat/pages/viewpage.action?pageId=97226940</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/by/summary/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://confluence.csuc.cat/pages/viewpage.action?pageId=97226940</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://dataverse.csuc.cat/oai</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2021-04-30</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

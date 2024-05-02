@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012060</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Wilson Center Digital Archive</r3d:repositoryName>
+                <r3d:repositoryURL>https://digitalarchive.wilsoncenter.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The Wilson Center Digital Archive contains once-secret documents from governments all across the globe, uncovering new sources and providing fresh insights into the history of international relations and diplomacy. It contains newly declassified historical materials from archives around the world—much of it in translation and including diplomatic cables, high level correspondence, meeting minutes and more. It collects the research of three Wilson Center projects which focus on the interrelated histories of the Cold War, Korea, and Nuclear Proliferation.</r3d:description>
+                    <r3d:repositoryContact>laura.deal@wilsoncenter.org</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10203 Modern and Current History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11104 Political Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11206 Economic and Social History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://digitalarchive.wilsoncenter.org/about-us</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CWIHP</r3d:keyword>
+                    <r3d:keyword>NKIDP</r3d:keyword>
+                    <r3d:keyword>NPIHP</r3d:keyword>
+                    <r3d:keyword>cold war</r3d:keyword>
+                    <r3d:keyword>communism</r3d:keyword>
+                    <r3d:keyword>diplomacy</r3d:keyword>
+                    <r3d:keyword>foreign relations</r3d:keyword>
+                    <r3d:keyword>international history</r3d:keyword>
+                    <r3d:keyword>nuclear proliferation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Woodrow Wilson International Center for Scholars</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Wilson Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wilsoncenter.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00whzh260</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>NKIDP@wilsoncenter.org</r3d:institutionContact>
+                                    <r3d:institutionContact>NPIHP@wilsoncenter.org</r3d:institutionContact>
+                                    <r3d:institutionContact>coldwar@wilsoncenter.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>About us</r3d:policyName>
+                <r3d:policyURL>https://digitalarchive.wilsoncenter.org/about-us</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://digitalarchive.wilsoncenter.org/about-us</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://digitalarchive.wilsoncenter.org/srv/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-07-07</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

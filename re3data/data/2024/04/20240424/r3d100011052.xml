@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011052</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">SABIO-RK</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Biochemical reation kinetics database</r3d:additionalName>
+                    <r3d:additionalName language="eng">System for the Analysis of Biochemical Pathways - Reaction Kinetics</r3d:additionalName>
+                <r3d:repositoryURL>https://sabiork.h-its.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.cwx04e</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002122</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-20912</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The SABIO-RK is a web-based application based on the SABIO relational database that contains information about biochemical reactions, their kinetic equations with their parameters, and the experimental conditions under which these parameters were measured. It aims to support modellers in the setting-up of models of biochemical networks, but it is also useful for experimentalists or researchers with interest in biochemical reactions and their kinetics. All the data are manually curated and annotated by biological experts, supported by automated consistency checks.</r3d:description>
+                    <r3d:repositoryContact>wolfgang.mueller@h-its.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-03-01">74.408 entries in 9.872 reactions</r3d:size>
+        <r3d:startDate>2006</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://sabiork.h-its.org/layouts/content/about.gsp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biochemical reactions</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>enzyme kinetics</r3d:keyword>
+                    <r3d:keyword>kinetic equations</r3d:keyword>
+                    <r3d:keyword>kinetic properties</r3d:keyword>
+                    <r3d:keyword>medicine</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>proteins</r3d:keyword>
+                    <r3d:keyword>systems biology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Heidelberg Institute for Theoretical Studies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HITS gGmbH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Heidelberger Institut für Theoretische Studien</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.h-its.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01f7bcy98</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>sabiork@h-its.org</r3d:institutionContact>
+                                    <r3d:institutionContact>wolfgang.mueller@h-its.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Klaus Tschira Stiftung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">KTS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://klaus-tschira-stiftung.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:052jep661</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://klaus-tschira-stiftung.de/kontakt/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms &amp; Conditions</r3d:policyName>
+                <r3d:policyURL>https://sabiork.h-its.org/layouts/content/termscondition.gsp</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://sabiork.h-its.org/layouts/content/termscondition.gsp</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://sabiork.h-its.org/layouts/content/termscondition.gsp</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://sabiork.h-its.org/layouts/content/docuRESTfulWeb/RESTWebserviceIntro.gsp</r3d:api>
+                            <r3d:pidSystem>URN</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://sabiork.h-its.org/sabioRestWebServices/kineticLaws/123</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Data Export: Reactions with selected kinetic data can be exported in SBML (Systems Biology Markup Language) for exchange with other systems or programs, e.g. allowing its import into simulation and modelling programs supporting SBML like COPASI or CellDesigner. The data is described in SBML together with annotations of entities and expressions to other resources and biological ontologies. These annotations comply with the MIRIAM standard (Minimal Information Requested In the Annotation of biochemical Models). For better tracking the exported SBML also contains
+SABIO-RK specific identifiers (e.g. for a reaction or a kinetic record) that are compliant with MIRIAM.</r3d:remarks>
+        <r3d:entryDate>2014-04-24</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

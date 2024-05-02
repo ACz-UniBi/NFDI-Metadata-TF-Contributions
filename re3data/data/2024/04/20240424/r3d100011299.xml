@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011299</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Plant and Fungal Carbohydrate Structure Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">PFCSDB</r3d:additionalName>
+                    <r3d:additionalName language="eng">Plant &amp; Fungal CSDB</r3d:additionalName>
+                <r3d:repositoryURL>http://csdb.glycoscience.ru/plant_fungal/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  Bacterial (BCSDB) and Plant&amp;Fungal (PFCSDB) carbohydrate structure databases have been merged into a single database, CSDB  &gt;&gt;&gt;!!!&gt;&gt;&gt;
+This database is aimed at provision of structural, bibliographic, taxonomic and related information on plant and fungal carbohydrate structures. The main source of data is a retrospective literature analysis. About 4000 records were imported from CCSD (Carbbank, University of Georgia, Athens, plus NMR data from corresponding publications; structures published before 1995) with subsequent manual curation and approval. 
+The scope is &quot;plant and fungal carbohydrates&quot; and is expected to cover nearly all structures of this class published until 2013. Plant and fungal means that a structure has been found in plants or fungi or obtained by modification of those found in these domains. Carohydrate means a structure composed of any residues linked by glycosidic, ester, amidic, ketal, phospho- or sulpho-diester bonds, in which at least one residue is a sugar or its derivative.</r3d:description>
+                    <r3d:repositoryContact>http://csdb.glycoscience.ru/plant_fungal/core/feedback.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://csdb.glycoscience.ru/plant_fungal/index.html?help=email</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-12-09">7.968 compounds; 2.926 organisms; 2.827 publications</r3d:size>
+        <r3d:startDate>2013</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://csdb.glycoscience.ru/plant_fungal/index.html?help=about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>NMR signals</r3d:keyword>
+                    <r3d:keyword>NMR simulation</r3d:keyword>
+                    <r3d:keyword>life sciences</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">International Science &amp; Technology Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISTC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">МНТЦ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Международный научно-технический центр</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.istc.int/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian Academy of Sciences, N.D. Zelinsky Institute of Organic Chemistry</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ZIOC RAS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">ИОХ РАН</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Институт органической химии им. Н.Д.Зелинского Российской академии наук</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://zioc.ru/?lang=en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>SECRETARY@ioc.ac.ru</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Russian Foundation for Basic Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">RFBR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Российский фонд фундаментальных исследований</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Рффи</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.rfbr.ru/rffi/eng</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The President of the Russian Federation Grants Council</r3d:institutionName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://grants.extech.ru/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Univerity of Georgia, Carbbank</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CCSD Database</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://glycomics.uga.edu/?id=46</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>1997</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://toukach.ru/bcsdb.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="SOAP">http://csdb.glycoscience.ru/plant_fungal/index.html?help=api</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://csdb.glycoscience.ru/help/credits.html#citations</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Plant and Fungal Carbohydrate Structure Database is covered by Thomson Reuters Data Citation Index. PFCSDB is one part of the Russian CSDB, the other part is Bacterial Carbohydrate Structure DataBase (BCSD).</r3d:remarks>
+        <r3d:entryDate>2014-11-27</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

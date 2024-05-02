@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011669</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Illinois State Water Survey</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ISWS</r3d:additionalName>
+                <r3d:repositoryURL>https://www.isws.illinois.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The Water Survey has flourished for more than a century by anticipating and responding to new challenges and opportunities to serve the citizens of Illinois. Today, the ISWS continues to demonstrate flexibility and adaptability by developing new programs, while continuing to provide long-standing services upon which Illinoisans have come to rely. The Scientific Surveys of the University of Illinois at Urbana-Champaign are the primary agencies in Illinois responsible for producing and disseminating scientific and technological information, services, and products related to the environment, economic development, and quality of life. To achieve this mission, the Scientific Surveys conduct state-of-the-art research and collect, analyze, archive, and disseminate high-quality, objective data and technical information. The information, services, and products provide a sound technical basis for the citizens and policymakers of Illinois and the nation to make wise social, economic, and environmental decisions.</r3d:description>
+                    <r3d:repositoryContact>https://www.isws.illinois.edu/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>web@prairie.illinois.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.prairie.illinois.edu/about-inrs.shtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>air chemistry</r3d:keyword>
+                    <r3d:keyword>air quality</r3d:keyword>
+                    <r3d:keyword>atmospheric chemical deposition</r3d:keyword>
+                    <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>foodplain</r3d:keyword>
+                    <r3d:keyword>groundwater</r3d:keyword>
+                    <r3d:keyword>measuring rain</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>storm</r3d:keyword>
+                    <r3d:keyword>water chemistry</r3d:keyword>
+                    <r3d:keyword>water quality</r3d:keyword>
+                    <r3d:keyword>water supply planning</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Illinois at Urbanan-Champaign, Prairie Research Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://prairie.illinois.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>prairie@illinois.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Use License Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.isws.illinois.edu/dat/data-disclaimer/data-use-agreement</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.isws.illinois.edu/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.isws.illinois.edu/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Illinois Water Inventory Program</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.isws.illinois.edu/groundwater-science/illinois-water-inventory-program</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.isws.illinois.edu/terms-of-use</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The Illinois State Water Survey (ISWS) is a Division of the Prairie Research Institute of the University of Illinois at Urbana-Champaign (U of I). 
+In 2013 the Illinois State Water Survey restructured in order to focus on critical research issues that are important to the state of Illinois. The new organizational structure of the Water Survey includes seven sections (Climate and Atmospheric Science, Chemistry and Technology, Groundwater Science, Water Quality, Surface Water Hydrology and Hydraulics, Coordinated Hazard Assessment and Mapping Program (CHAMP), and Water Resources Data and Information), and one national program (National Atmospheric Deposition Program), together with central administration and management functions conducted in the Office of the Director. In addition to its traditional strengths, the Water Survey is enhancing its monitoring, analytical, and mathematical modeling capabilities to address issues with greater efficiency and productivity.</r3d:remarks>
+        <r3d:entryDate>2015-11-02</r3d:entryDate>
+        <r3d:lastUpdate>2021-10-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

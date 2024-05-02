@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011939</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Openresearchdata,  Platform Switzerland</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ORD@CH</r3d:additionalName>
+                <r3d:repositoryURL>https://sis.id.ethz.ch/researchdatamanagement/service-ordch.html</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt; openresearchdata.ch has been discontinued !!! &gt;&gt;&gt; Openresearchdata.ch (ORD@CH) has been developed as a publication platform for open research data in Switzerland. It currently offers a metadata catalogue of the data available at the participating institutions (ETH Zurich Scientific IT Services, FORS Lausanne, Digital Humanities Lab at the University of Basel). In addition, metadata from other institutions is continuously added, with the goal to develop a comprehensive metadata infrastructure for open research data in Switzerland.
+The ORD@CH project is part of the program „Scientific information: access, processing and safeguarding“, initiated by the Rectors’ Conference of Swiss Universities (Program SUC 2013-2016 P-2). The portal is currently hosted and developed by ETH Zurich Scientific IT Services.</r3d:description>
+                    <r3d:repositoryContact>info@openresearchdata.ch</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2016-02-19">7.867 datasets</r3d:size>
+        <r3d:startDate>2015-05-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Switzerland</r3d:keyword>
+                    <r3d:keyword>humanities</r3d:keyword>
+                    <r3d:keyword>life  sciences</r3d:keyword>
+                    <r3d:keyword>metadata</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ETH Zürich Scientific  ID Scientific IT Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ID SIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sis.id.ethz.ch/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>brinn@ethz.ch</r3d:institutionContact>
+                                    <r3d:institutionContact>hluetcke@ethz.ch</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ethz.ch/services/de/it-services.htmlsis-leitung.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">FORS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Swiss Foundation for Research in Social Sciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://forscenter.ch/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://forscenter.ch/en/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Basel, Digital Humanities Lab</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Digital Humanities Lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://dhlab.unibas.ch/#/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://dhlab.unibas.ch/#contact</r3d:institutionContact>
+                                    <r3d:institutionContact>sekretariat-dhlab@unibas.ch</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The ORD@CH project is part of the program „Scientific information: access, processing and safeguarding“, initiated by the Rectors’ Conference of Swiss Universities (Program SUC 2013-2016 P-2), and runs from July 2014 to December 2015. From 2016 onwards, the platform is planned to be continued as a permanent metadata infrastructure for open research data in Switzerland. 
+The legal information on the conditions of use (licenses) is noted directly in the individual datasets. The conditions of use are defined by the authors or researchers individually for each dataset.</r3d:remarks>
+        <r3d:entryDate>2016-02-17</r3d:entryDate>
+        <r3d:lastUpdate>2018-09-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

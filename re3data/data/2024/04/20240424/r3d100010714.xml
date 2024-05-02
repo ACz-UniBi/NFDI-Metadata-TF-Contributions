@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010714</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UK Solar System Data Centre</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UKSSDC</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ukssdc.ac.uk/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.1frnts</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The UK Solar System Data Centre (UKSSDC) provides a STFC and NERC jointly funded central archive and data centre facility for Solar System science in the UK. The facilities include the World Data Centre for Solar-Terrestrial Physics, Chilton and the Cluster Ground-Based Data Centre.
+The UKSSDC supports data archives for the whole UK solar system community encompassing solar, inter-planetary, magnetospheric, ionospheric and geomagnetic science.
+The UKSSDC is part of RAL Space based at the STFC run Rutherford Appleton Laboratory in Oxfordshire.</r3d:description>
+                    <r3d:repositoryContact>https://www.ukssdc.ac.uk/contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@ukssdc.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1995</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.ukssdc.ac.uk/about_us.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>ionosphere</r3d:keyword>
+                    <r3d:keyword>solar geophysics</r3d:keyword>
+                    <r3d:keyword>solar wind</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">STFC Rutherford Appleton Laboratory, Centre for Environmental Data Analysis</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CEDA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">RAL Space</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">STFC Rutherford Appleton Laboratory, Centre for Environmental Data Archival (formerly)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ceda.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04j4kad11</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>support@ceda.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UKRI, Natural Envionment Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/nerc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02b5d8509</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012850</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_27406</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ukri.org/who-we-are/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UKRI, Science and Technology Facilities Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">STFC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/stfc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:057g20z61</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_016713</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ukri.org/who-we-are/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Service Policy</r3d:policyName>
+                <r3d:policyURL>https://www.ukssdc.ac.uk/Help/General/Policy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NERC Policies, standards and data</r3d:policyName>
+                <r3d:policyURL>https://www.ukri.org/who-we-are/policies-standards-and-data/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ukri.org/who-we-are/policies-standards-and-data/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>OGL</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The British Atmospheric Data Centre (BADC), NERC Earth Observation Data Centre (NEODC) and the UK Solar System Data Centre (UKSSDC) are the designated NERC data centres for the UK atmospheric, earth observation and near-Earth environment communities. As such they are responsible for the long term archiving of research data produced by NERC funded atmospheric, earth observation and near-Earth environment academic research.
+The BADC, NEODC and UKSSDC are operated by CEDA.</r3d:remarks>
+        <r3d:entryDate>2013-08-30</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

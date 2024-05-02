@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010193</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">BRC</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Biological Records Centre</r3d:additionalName>
+                <r3d:repositoryURL>https://www.brc.ac.uk/</r3d:repositoryURL>
+                <r3d:description language="eng">The Biological Records Centre (BRC), established in 1964, is a national focus in the UK for terrestrial and freshwater species recording. BRC works closely with the voluntary recording community, principally through support of national recording schemes and societies. It provides an application, IRecord, for people to use to record and submit their own wildlife observations to the repository. Map and access datasets via the NBN Gateway, an Internet based data delivery service.</r3d:description>
+                    <r3d:repositoryContact>brc@ceh.ac.uk</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.brc.ac.uk/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-05-21">12 Mio records of more than 12.000 species</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.brc.ac.uk/research-publications</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Britain</r3d:keyword>
+                    <r3d:keyword>beetles</r3d:keyword>
+                    <r3d:keyword>biological recording</r3d:keyword>
+                    <r3d:keyword>birds</r3d:keyword>
+                    <r3d:keyword>botany</r3d:keyword>
+                    <r3d:keyword>fishes</r3d:keyword>
+                    <r3d:keyword>flies</r3d:keyword>
+                    <r3d:keyword>insects</r3d:keyword>
+                    <r3d:keyword>invertebrate zoology</r3d:keyword>
+                    <r3d:keyword>lichens</r3d:keyword>
+                    <r3d:keyword>liverworts</r3d:keyword>
+                    <r3d:keyword>mosses</r3d:keyword>
+                    <r3d:keyword>vertebrate zoology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">BRC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Biological Records Centre</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.brc.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1964</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>brc@ceh.ac.uk</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.brc.ac.uk/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Joint Nature Conservation Committee</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JNCC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://jncc.gov.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05tzsrw37</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Biodiversity Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NBN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nbn.org.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00mcxye41</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Environment Research Council,  Centre for Ecology &amp; Hydrology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CEH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ceh.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00pggkr55</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NBN Atlas terms of use</r3d:policyName>
+                <r3d:policyURL>https://docs.nbnatlas.org/nbn-atlas-terms-of-use/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Recording</r3d:policyName>
+                <r3d:policyURL>https://www.brc.ac.uk/recording</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.brc.ac.uk/legal</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>iRecord userguide</r3d:policyName>
+                <r3d:policyURL>https://irecord.org.uk/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://www.brc.ac.uk/rss</r3d:syndication>
+                <r3d:remarks>The work of BRC is a major component of the National Biodiversity Network (NBN)</r3d:remarks>
+        <r3d:entryDate>2013-02-04</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

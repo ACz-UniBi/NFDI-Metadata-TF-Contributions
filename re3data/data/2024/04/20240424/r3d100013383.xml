@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013383</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IsoArcH</r3d:repositoryName>
+                <r3d:repositoryURL>https://isoarch.eu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.a79fcf</r3d:repositoryIdentifier>
+                <r3d:description language="eng">IsoArcH is an open access isotope web-database for bioarchaeological samples from prehistoric and historical periods all over the world. With 40,000+ isotope related data obtained on 13,000+ specimens (i.e., humans, animals, plants and organic residues) coming from 500+ archaeological sites, IsoArcH is now one of the world&#039;s largest repositories for isotopic data and metadata deriving from archaeological contexts. IsoArcH allows to initiate big data initiatives but also highlights research lacks in certain regions or time periods. Among others, it supports the creation of sound baselines, the undertaking of multi-scale analysis, and the realization of extensive studies and syntheses on various research issues such as paleodiet, food production, resource management, migrations, paleoclimate and paleoenvironmental changes.</r3d:description>
+                    <r3d:repositoryContact>contact@isoarch.eu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://isoarch.eu/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-03-28">50000+ standardized isotopic data</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10101 Prehistory</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10104 Classical Archaeology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10105 Egyptology and Ancient Near Eastern Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30502 Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://isoarch.eu/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>animal</r3d:keyword>
+                    <r3d:keyword>anthropology</r3d:keyword>
+                    <r3d:keyword>archaeobotany</r3d:keyword>
+                    <r3d:keyword>archaeology</r3d:keyword>
+                    <r3d:keyword>bioarchaeology</r3d:keyword>
+                    <r3d:keyword>diet</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>isotope</r3d:keyword>
+                    <r3d:keyword>mobility</r3d:keyword>
+                    <r3d:keyword>organic residue</r3d:keyword>
+                    <r3d:keyword>paleoclimate</r3d:keyword>
+                    <r3d:keyword>paleoenvironmental changes</r3d:keyword>
+                    <r3d:keyword>plant</r3d:keyword>
+                    <r3d:keyword>zooarchaeology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">IsoArcH Association</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://isoarch.eu/non-profit-organisation/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">IsoArch Initiative</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://isoarch.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data licence</r3d:policyName>
+                <r3d:policyURL>https://isoarch.eu/data-licence/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://isoarch.eu/data-licence/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Sharing</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://isoarch.eu/contribute/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://isoarch.eu/how-to-cite/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>is covered by Elsevier.</r3d:remarks>
+        <r3d:entryDate>2020-07-28</r3d:entryDate>
+        <r3d:lastUpdate>2023-03-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

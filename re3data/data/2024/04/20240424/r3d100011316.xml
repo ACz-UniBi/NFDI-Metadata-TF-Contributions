@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011316</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">UNITE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UNITE database for molecular identification and taxonomic communication of fungi and other eukaryotes</r3d:additionalName>
+                    <r3d:additionalName language="eng">Unified system for the DNA based fungal species linked to the classification</r3d:additionalName>
+                <r3d:repositoryURL>https://unite.ut.ee</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.cnwx8c</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>Omics_23522</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006518</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_61947</r3d:repositoryIdentifier>
+                <r3d:description language="eng">UNITE provides unified way how you delimit, identify, communicate and work with DNA based Species Hypotheses (SH).</r3d:description>
+                    <r3d:repositoryContact>https://unite.ut.ee/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@plutof.ut.ee</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-11-29">8.395.383 ITS sequences</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://unite.ut.ee/static/unite_poster_KoljalgAbarenkovNilsson_2022.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>life sciences</r3d:keyword>
+                    <r3d:keyword>mycology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Estonian Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="est">Sihtasutus Eesti Teadusagentuur</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EST</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.etag.ee/en/estonian-research-council/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00jjeja18</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>etag@etag.ee</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">PlutoF</r3d:institutionName>
+                                <r3d:institutionCountry>EST</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://plutof.ut.ee/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@plutof.ut.ee</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Tartu</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="est">Tartu Ülikool</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EST</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ut.ee/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03z77qz90</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011710</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ut.ee/en/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://unite.ut.ee/terms.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://plutof.docs.apiary.io/#introduction/basic-api-policy</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://unite.ut.ee/cite.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>UNITE is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2015-01-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

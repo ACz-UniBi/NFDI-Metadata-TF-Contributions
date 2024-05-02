@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010367</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">World Ozone and Ultraviolet Radiation Data Centre</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Centre Mondial des Données sur l&#039;Ozone et le Rayonnment Ultraviolet</r3d:additionalName>
+                    <r3d:additionalName language="fra">Centre mondial des données sur l&#039;ozone et le rayonnement ultraviolet</r3d:additionalName>
+                    <r3d:additionalName language="eng">WODC</r3d:additionalName>
+                    <r3d:additionalName language="eng">WOUDC</r3d:additionalName>
+                    <r3d:additionalName language="eng">WUDC</r3d:additionalName>
+                <r3d:repositoryURL>https://woudc.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The WOUDC processes, archives and publishes world ozone and UV data reported by over 400 stations comprising over 100 international agencies and universities. The  World Ozone and Ultraviolet Radiation Data Centre (WOUDC) has the two component parts: the World Ozone Data Centre (WODC) and the World Ultraviolet Radiation Data Centre (WUDC). These data are available on-line with updates occuring every week and in addition to the on-line archive, data are published annually on CD-ROM, now DVD.</r3d:description>
+                    <r3d:repositoryContact>https://woudc.org/contact.php?lang=en</r3d:repositoryContact>
+                    <r3d:repositoryContact>woudc@ec.gc.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1992</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://woudc.org/about/index.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>ozone</r3d:keyword>
+                    <r3d:keyword>radiation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Environment and Climate Change Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ECCC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/en/environment-climate-change.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:026ny0e17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>enviroinfo@ec.gc.ca</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Meteorological Organization, Global Atmosphere Watch</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">GAW</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://public.wmo.int/en/programmes/global-atmosphere-watch-programme</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>How is the use of GAW data regulated?</r3d:policyName>
+                <r3d:policyURL>https://gawsis.meteoswiss.ch/GAWSIS//index.html#/faq/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WOUDC Data Use Policy</r3d:policyName>
+                <r3d:policyURL>https://woudc.org/about/data-policy.php?lang=en</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://woudc.org/about/data-policy.php?lang=en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://woudc.org/contributors/data-submission.php</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="other">https://woudc.org/about/data-access.php#web-services</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://woudc.org/about/data-policy.php?lang=en</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://woudc.org/news/feed/?lang=en</r3d:syndication>
+                <r3d:remarks>The World Ozone and Ultraviolet Radiation Data Centre (WOUDC) is one of the World Data Centres which are part of the Global Atmosphere Watch (GAW) programme of the World Meteorological Organization (WMO). Access to the data is through FTP: https://woudc.org/data/explore.php?lang=en</r3d:remarks>
+        <r3d:entryDate>2013-03-13</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

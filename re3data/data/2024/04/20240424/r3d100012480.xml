@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012480</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NASA Life Sciences Portal</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NLSP</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: LSDA</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: NASA Life Sciences Data Archive</r3d:additionalName>
+                <r3d:repositoryURL>https://nlsp.nasa.gov</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.581df9</r3d:repositoryIdentifier>
+                <r3d:description language="eng">NASA Life Sciences Portal is the next generation of the Life Sciences Data Archive for Human, Animal and Plant Research
+NASA&#039;s Human Research Program (HRP) conducts research and develops technologies that allow humans to travel safely and productively in space. The Program uses evidence from data collected on astronauts, as well as other supporting studies. These data are stored in the research data repository, Life Sciences Data Archive (LSDA).</r3d:description>
+                    <r3d:repositoryContact>daniel.c.berrios@nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://nlsp.nasa.gov</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Human Health and Performance Directorate - HH&amp;P</r3d:keyword>
+                    <r3d:keyword>Human Research Program - HRP</r3d:keyword>
+                    <r3d:keyword>Lifetime Surveillance of Astronaut Health - LSAH</r3d:keyword>
+                    <r3d:keyword>Space Biology Program - SP</r3d:keyword>
+                    <r3d:keyword>aerospace engineering</r3d:keyword>
+                    <r3d:keyword>bioengineering</r3d:keyword>
+                    <r3d:keyword>international space station</r3d:keyword>
+                    <r3d:keyword>medical capability</r3d:keyword>
+                    <r3d:keyword>psychosocial and behavioral health</r3d:keyword>
+                    <r3d:keyword>space biology</r3d:keyword>
+                    <r3d:keyword>space physics</r3d:keyword>
+                    <r3d:keyword>space radiation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nasa.gov/about/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Best Practices</r3d:policyName>
+                <r3d:policyURL>https://nlsp.nasa.gov/explore/lsdahome/datasubmit#readme</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Submission Guidelines</r3d:policyName>
+                <r3d:policyURL>https://nlsp.nasa.gov/explore/lsdahome/datasubmit</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NASA IRB - Submission Guidance</r3d:policyName>
+                <r3d:policyURL>https://irb.nasa.gov/Guidance/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>User’s Guide for Requesting NASA Life Sciences Data and Biospecimens</r3d:policyName>
+                <r3d:policyURL>https://lsda.jsc.nasa.gov/Request/dataRequestFAQ</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nasa.gov/offices/ogc/ip/1210.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>IMPORTANT: Life Sciences Data Archive (LSDA) is transitioning to a new home. During this transition period, beginning July 18, 2022, LSDA users will be able to access existing information but will not be able to enter data requests. Formerly url:https://lsda.jsc.nasa.gov/</r3d:remarks>
+        <r3d:entryDate>2017-09-29</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

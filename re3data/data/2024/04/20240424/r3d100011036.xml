@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011036</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Data Archive on Child Abuse and Neglect</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NDACAN</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ndacan.acf.hhs.gov/</r3d:repositoryURL>
+                <r3d:description language="eng">The National Data Archive on Child Abuse and Neglect (NDACAN) promotes scholarly exchange among researchers in the child maltreatment field. NDACAN acquires microdata from leading researchers and national data collection efforts and makes these datasets available to the research community for secondary analysis.</r3d:description>
+                    <r3d:repositoryContact>https://www.ndacan.acf.hhs.gov/about/about-contact-us.cfm</r3d:repositoryContact>
+                    <r3d:repositoryContact>ndacansupport@cornell.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1988</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">110 Psychology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.ndacan.acf.hhs.gov/about/about-mission.cfm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>child abuse</r3d:keyword>
+                    <r3d:keyword>child maltreatment</r3d:keyword>
+                    <r3d:keyword>developmental psychology</r3d:keyword>
+                    <r3d:keyword>neglection</r3d:keyword>
+                    <r3d:keyword>psychology</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                    <r3d:keyword>violence</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Cornell University, College of Human Ecology, Bronfenbrenner Center for Translational Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BCTR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://bctr.cornell.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1998</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://bctr.cornell.edu/about-us/contact-bctr/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">United States Department of Health and Human Services, Children&#039;s Bureau</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Children&#039;s Bureau</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.acf.hhs.gov/cb</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.acf.hhs.gov/cb/training-technical-assistance/childrens-bureau-regional-program-managers</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Laws and Policies</r3d:policyName>
+                <r3d:policyURL>https://www.acf.hhs.gov/cb/laws-policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NCANDS Child File User&#039;s Guide</r3d:policyName>
+                <r3d:policyURL>https://www.ndacan.acf.hhs.gov/datasets/pdfs_user_guides/dataset233usersguide.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.acf.hhs.gov/cb/laws-policies/policy-program-issuances</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ndacan.acf.hhs.gov/contribute-data/Data-sharing-resources.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.acf.hhs.gov/freedom-information-act</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Guide to Social Science Data Preparation and Archiving</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/index.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                    <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>NSF Dissemination and Sharing of Research Results</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.nsf.gov/bfa/dias/policy/dmp.jsp</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ndacan.acf.hhs.gov/datasets/pdfs_user_guides/dataset233usersguide.pdf</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>NDACAN is covered by Thomson Reuters Data Citation Index. Two different versions of the NSCAW data are available to members of the research community who meet eligibility criteria and agree to the requirements of the data license. The least restrictive version is known as the General Use Data. Identifying information and geographic detail have been removed from this version and variables posing a risk of respondent disclosure have been recoded to make identification of individuals unlikely. NDACAN recommends that researchers initially obtain the General Use Data when they are learning to use the NSCAW data.
+If you plan to move forward with working on NSCAW data, NDACAN highly recommends that researchers obtain the NSCAW Restricted version for publication-level research, not the General version. The General Release version is suitable for gaining an understanding of the study structure and the required statistical methods, but the Restricted Release version has more data and greater research utility because geographic detail is present and fewer variables have been recoded. For more information about why the Restricted Release is recommended over than the General Release, please contact one of these NDACAN analysts: Holly Larrabee 607-254-4677 or Elliott Smith 607-255-8104.</r3d:remarks>
+        <r3d:entryDate>2014-07-22</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

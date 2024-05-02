@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012588</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Frozen Zoo®</r3d:repositoryName>
+                <r3d:repositoryURL>https://science.sandiegozoo.org/resources/frozen-zoo%C2%AE</r3d:repositoryURL>
+                <r3d:description language="eng">Our Frozen Zoo® is the largest and most diverse collection of its kind in the world. It contains over 10,000 living cell cultures, oocytes, sperm, and embryos representing nearly 1,000 taxa, including one extinct species, the po’ouli. Located at the Beckman Center for Conservation Research, the collection is also duplicated for safekeeping at a second site. The irreplaceable living cell lines, gametes, and embryos stored in the Frozen Zoo® provide an invaluable resource for conservation, assisted reproduction, evolutionary biology, and wildlife medicine.</r3d:description>
+                    <r3d:repositoryContact>https://zoo.sandiegozoo.org/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2018-01-09">over 10.000 living cell cultures</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://science.sandiegozoo.org/who-we-are/mission-purpose</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>amphibian</r3d:keyword>
+                    <r3d:keyword>birds</r3d:keyword>
+                    <r3d:keyword>cell cultures</r3d:keyword>
+                    <r3d:keyword>conservation genetics</r3d:keyword>
+                    <r3d:keyword>cryobiology</r3d:keyword>
+                    <r3d:keyword>endangered species</r3d:keyword>
+                    <r3d:keyword>genetic materials</r3d:keyword>
+                    <r3d:keyword>germplasm</r3d:keyword>
+                    <r3d:keyword>in vitro fertilization IVF</r3d:keyword>
+                    <r3d:keyword>mammals</r3d:keyword>
+                    <r3d:keyword>plants</r3d:keyword>
+                    <r3d:keyword>reptiles</r3d:keyword>
+                    <r3d:keyword>tissues</r3d:keyword>
+                    <r3d:keyword>white rhina</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">San Diego Zoo Global</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sandiegozoowildlifealliance.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">San Diego Zoo, Institute for Conservation Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Beckmann Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://science.sandiegozoo.org/who-we-are/beckman-center</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Mission and purpose</r3d:policyName>
+                <r3d:policyURL>https://science.sandiegozoo.org/who-we-are/mission-purpose</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>closed</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://sandiegozoowildlifealliance.org/terms-of-use</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Other goals of the Science Team at San Diego Zoo are: Native Plant Seed Bank, Pathology Archives  - BiomaterialsReviewGroup@sandiegozoo.org , Amphibian Disease Laboratory amphibianlab@sandiegozoo.org .
+Worthwhile information: hhttps://www.sandiegouniontribune.com/news/zoo/sd-me-frozen-zoo-20160921-story.html</r3d:remarks>
+        <r3d:entryDate>2018-01-09</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

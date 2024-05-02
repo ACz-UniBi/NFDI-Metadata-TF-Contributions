@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011997</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Earthquake DataBase</r3d:repositoryName>
+                    <r3d:additionalName language="fra">BNDS</r3d:additionalName>
+                    <r3d:additionalName language="fra">Base Nationale de Données Sismologiques</r3d:additionalName>
+                    <r3d:additionalName language="eng">NEDB</r3d:additionalName>
+                <r3d:repositoryURL>https://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/index-en.php</r3d:repositoryURL>
+                <r3d:description language="eng">The National Earthquake Database (NEDB) comprises a number of separate databases that together act as the national repository for all raw seismograph data, measurements, and derived parameters arising from the Canadian National Seismograph Network (CNSN), the Yellowknife Seismological Array (YKA), previous regional telemetered networks in eastern and western Canada (ECTN, WCTN), local telemetered networks (CLTN, SLTN), the Regional Analogue Network, and the former Standard Seismograph Network (CSN). It supports the efforts of Earthquakes Canada in Canadian seismicity monitoring, global seismic monitoring, verification of the Comprehensive nuclear Test Ban Treaty, and international data exchange. It also supports the Nuclear Explosion Monitoring project.</r3d:description>
+                    <r3d:repositoryContact>EarthquakeInfo@NRCan.gc.ca</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/index-en.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>epicentral solutions</r3d:keyword>
+                    <r3d:keyword>geosciences</r3d:keyword>
+                    <r3d:keyword>hazard</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                    <r3d:keyword>waveform</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of Canada</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/en.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:010q4q527</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.canada.ca/en/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Resources Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NRCan</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">RNCan</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Ressources naturelles Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nrcan.gc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05hepy730</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://contact-contactez.nrcan-rncan.gc.ca/index.cfm?st=-1&amp;cat=-1&amp;scat=-1&amp;lang=fra</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Access to Information and Privacy</r3d:policyName>
+                <r3d:policyURL>https://www.nrcan.gc.ca/transparency/access-information-and-privacy/21403</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.nrcan.gc.ca/terms-and-conditions/10847</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nrcan.gc.ca/terms-and-conditions/10847</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.earthquakescanada.nrcan.gc.ca/stndon/licence-en.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.earthquakescanada.nrcan.gc.ca/cite-en.php</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.earthquakescanada.nrcan.gc.ca/index-en.php?tpl_region=canada&amp;tpl_output=rss</r3d:syndication>
+                <r3d:remarks>The National Earthquake DataBase contains all Canadian earthquake locations and derived parameters since the 1600&#039;s .  
+The National WaveForm Archive (https://www.earthquakescanada.nrcan.gc.ca/stndon/NWFA-ANFO/index-en.php) contains digital waveform data acquired since 1975.
+The National Earthquake Database (NEDB) comprises a number of separate databases.</r3d:remarks>
+        <r3d:entryDate>2016-05-10</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

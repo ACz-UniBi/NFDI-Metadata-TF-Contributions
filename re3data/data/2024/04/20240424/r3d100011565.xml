@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011565</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">1000 Functional Connectomes Project</r3d:repositoryName>
+                <r3d:repositoryURL>http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_13923</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_005361</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_015771</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_144428</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The FCP entailed the aggregation and public release (via www.nitrc.org) of over 1200 resting state fMRI (R-fMRI) datasets collected from 33 sites around the world.</r3d:description>
+                    <r3d:repositoryContact>moderator@nitrc.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20604 Systemic Neuroscience, Computational Neuroscience, Behaviour</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20606 Cognitive Neuroscience and Neuroimaging</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://fcon_1000.projects.nitrc.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ABIDE - Autism Brain Imaging Data Exchange</r3d:keyword>
+                    <r3d:keyword>ADHD-200</r3d:keyword>
+                    <r3d:keyword>NKI-RS Nathan Kline Institute-Rockland Sample</r3d:keyword>
+                    <r3d:keyword>mental health</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Child Mind Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://childmind.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01bfgxw09</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://childmind.org/about-us/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Neuroimaging Informatics Tools and Resources Clearinghouse</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NITRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.nitrc.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>moderator@nitrc.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>http://fcon1000.projects.nitrc.org/fcpClassic/FcpTable.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>How to</r3d:policyName>
+                <r3d:policyURL>https://www.nitrc.org/plugins/mwiki/index.php/fcon_1000:MainPage</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.apache.org/licenses/LICENSE-2.0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>BSD</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opensource.org/licenses/Artistic-2.0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nitrc.org/include/glossary.php#546</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/odbl/#sthash.SJBlh7SV.dpuf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/pddl/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.nitrc.org/export/rss20_newreleases.php?group_id=296</r3d:syndication>
+                <r3d:remarks>Disclaimer: http://fcon_1000.projects.nitrc.org/</r3d:remarks>
+        <r3d:entryDate>2015-02-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

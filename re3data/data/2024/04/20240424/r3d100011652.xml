@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011652</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Boundary Layer Late Afternoon and Sunset Turbulence</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BLLAST</r3d:additionalName>
+                <r3d:repositoryURL>https://bllast.aeris-data.fr/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2430-3518</r3d:repositoryIdentifier>
+                <r3d:description language="eng">BLLAST is a research programme aimed at exploring the late afternoon transition of the atmospheric boundary layer.
+The late afternoon period of the diurnal cycle of the boundary layer is poorly understood. This is yet an important transition period that impacts the transport and dillution of water vapour and trace species. The main questions adressed by the project are:
+- How the turbulence activity fades when heating by the surface decreases?
+- What is the impact on the transport of chemical species?
+- How relevant processes can be represented in numerical models?
+To answer all these questions, a field campaign was carried out during the summer of 2011 (from June 14 to July 8). Many observation systems were then deployed and operated by research teams coming from France and abroad. They were spanning a large spectrum of space and time scales in order to achieve a comprehensive description of the boundary layer processes. The observation strategy consisted in intensifying the operations in the late afternoon with tethered balloons, resarch aircrafts and UAVs.</r3d:description>
+                    <r3d:repositoryContact>bllast@aero.obs-mip.fr</r3d:repositoryContact>
+                    <r3d:repositoryContact>bllastAdmins@sedoo.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011-06-14</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://bllast.aeris-data.fr/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Southern France</r3d:keyword>
+                    <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>atmospheric boundary layer</r3d:keyword>
+                    <r3d:keyword>clouds</r3d:keyword>
+                    <r3d:keyword>cosmic physics</r3d:keyword>
+                    <r3d:keyword>earth&#039;s surface</r3d:keyword>
+                    <r3d:keyword>geography</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>heating</r3d:keyword>
+                    <r3d:keyword>precipitation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Agence Nationale de la Recherche</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">ANR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://anr.fr//</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://anr.fr/en/contact/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Observatoire Midi-Pyrénées</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">OMP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.omp.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>bllast@aero.obs-mip.fr</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Observatoire Midi-Pyrénées, Service de Donnés de l&#039;OMP</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">SEDOO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sedoo.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sedoo.fr/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data and Publication Policy</r3d:policyName>
+                <r3d:policyURL>https://bllast.aeris-data.fr/data-and-publication-policy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://bllast.aeris-data.fr/data-and-publication-policy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://bllast.aeris-data.fr/data-and-publication-policy/</r3d:api>
+                    <r3d:api apiType="REST">http://prod/swagger-ui/index.html</r3d:api>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Only metadata and BLLAST Operational Center (BOC) website can be accessed by non-registered users. Users wishing to get access to the BLLAST database are required to fill in an on line registration form including an abstract about the intended work, and to sign the data use rules.
+BLLAST Participants: https://bllast.aeris-data.fr/bllast-participants/
+BLLAST supports: https://bllast.aeris-data.fr/bllast-supports/</r3d:remarks>
+        <r3d:entryDate>2015-09-07</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-26</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

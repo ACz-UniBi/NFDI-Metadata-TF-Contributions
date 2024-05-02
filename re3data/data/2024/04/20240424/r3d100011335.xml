@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011335</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DHS Data Access</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DNB Household Survey</r3d:additionalName>
+                <r3d:repositoryURL>https://www.dhsdata.nl/site/users/login</r3d:repositoryURL>
+                <r3d:description language="eng">The DNB Household Survey (DHS) supplies longitudinal data to the international academic community, with a focus on the psychological and economic aspects of financial behavior. The study comprises information on work, pensions, housing, mortgages, income, assets, loans, health, economic and psychological concepts, and personal characteristics. The DHS data are collected from 2,000 households participating in the CentERpanel. The CentERpanel is an Internet panel that reflects the composition of the Dutch-speaking population in the Netherlands. Both the DHS as well as the CentERpanel, in which the study in conducted, are run by CentERdata</r3d:description>
+                    <r3d:repositoryContact>info@centerdata.nl</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1993</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11102 Empirical Social Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Economic and Psychological Concepts</r3d:keyword>
+                    <r3d:keyword>accomodation</r3d:keyword>
+                    <r3d:keyword>assets</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>income</r3d:keyword>
+                    <r3d:keyword>liabilities</r3d:keyword>
+                    <r3d:keyword>mortages</r3d:keyword>
+                    <r3d:keyword>survey data</r3d:keyword>
+                    <r3d:keyword>work</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CentERdata - Institute for data collection and research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nld">CentERdata - Instituut voor dataverzameling en onderzoek</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.centerdata.nl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@centerdata.nl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">DANS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Data Archiving and Networked Services</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NLD</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dans.knaw.nl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:008pnp284</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000904</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156902</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CentERdata General Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.centerdata.nl/en/wp-content/uploads/sites/3/2021/11/Centerdata-Algemene-voorwaarden-EN.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CoreTrustSeal assessment DHS Data Access</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/10/DHS-Data-Access.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>DANS EASY General Terms and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://dans.knaw.nl/wp-content/uploads/2022/01/EASYGeneralTermsandConditionsofUse-1.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Management and Preservation Policy of the DNB Household Survey</r3d:policyName>
+                <r3d:policyURL>https://www.dhsdata.nl/site/files/Data_Management_and_Preservation_DHS_3.0.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>data deposit license agreements of DANS</r3d:policyName>
+                <r3d:policyURL>https://dans.knaw.nl/en/legal-information/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dhsdata.nl/site/files/Data_Management_and_Preservation_DHS_3.0.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://www.dhsdata.nl/oai/</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://www.dhsdata.nl/oai/oai2.php</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                    <r3d:pidSystem>URN</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>In addition DHS data are archived in EASY, the online archiving system of the Dutch Data Archiving and Networked Services (DANS). DHS data, can be accessed through NARCIS https://www.narcis.nl/</r3d:remarks>
+        <r3d:entryDate>2014-12-19</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

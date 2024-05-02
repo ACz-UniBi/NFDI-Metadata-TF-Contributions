@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010407</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Der Karlsruher Wolkenatlas</r3d:repositoryName>
+                    <r3d:additionalName language="deu">Wolken- und Wetterfotografie</r3d:additionalName>
+                <r3d:repositoryURL>https://www.wolkenatlas.de/</r3d:repositoryURL>
+                <r3d:description language="eng">The Karlsruher Wolkenatlas includes images of different cloud species and of  some optical effects like circumzenithal arc, glories, and halos. Beside that phenomena like inversion or dust devil are shown. Another focus is on images of precipitation, different manifestations of precipation at earthground, rainbows and lightnings.</r3d:description>
+                    <r3d:repositoryContact>https://www.wolkenatlas.de/wolken/kontakt.htm</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@wolkenatlas.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-11-16">2.375 Wolken- und Wetterfotografien, 117 Galerien</r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.wolkenatlas.de/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>circumzenithal arc</r3d:keyword>
+                    <r3d:keyword>clouds</r3d:keyword>
+                    <r3d:keyword>dust devil</r3d:keyword>
+                    <r3d:keyword>glories</r3d:keyword>
+                    <r3d:keyword>halos</r3d:keyword>
+                    <r3d:keyword>inversion</r3d:keyword>
+                    <r3d:keyword>lightning</r3d:keyword>
+                    <r3d:keyword>rainbow</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.kit.edu/english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001552</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.kit.edu/kit/english/directions.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Karlsruher Institut für Technologie, Institut für Meteorologie und Klimaforschung - Forschungsbereich Troposphäre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IMK-TRO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruhe Institute of Technology, Institute for Meteorology and Climate Research - Troposphere Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imk-tro.kit.edu/english/index.php</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1998</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.wolkenatlas.de/wolken/impress.htm</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Karlsruher Wolkenatlas</r3d:policyName>
+                <r3d:policyURL>https://www.wolkenatlas.de/wolken/daten.htm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.wolkenatlas.de/wolken/best.htm</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.wolkenatlas.de/wolken/best.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.wolkenatlas.de/wolken/info.htm</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                <r3d:remarks>Karlsruher Wolkenatlas ist part of the portal &#039;Wetter, Wolken, Klima&#039; https://www.imk-tro.kit.edu/19.php</r3d:remarks>
+        <r3d:entryDate>2012-10-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

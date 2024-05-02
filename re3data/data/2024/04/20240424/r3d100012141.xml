@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012141</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">climate4impact</r3d:repositoryName>
+                <r3d:repositoryURL>https://climate4impact.eu/impactportal/general/index.jsp</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.30f068</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Climate4impact: a dedicated interface to ESGF for the climate impact community
+The portal Climate4impact, part of the ENES Data Infrastructure, provides access to data and quick looks of global and regional climate models and downscaled higher resolution climate data. The portal provides data transformation tooling and mapping &amp; plotting capabilities, guidance, documentation, FAQ and examples.
+The Climate4Impact portal will be further developed during the IS-ENES3 project (2019-2023)and moved to a different    environment. Meanwhile the portal at https://climate4impact.eu will remain available, but  no  new  information  or  processing options  will  be  included. When  the  new  portal  will  become available this  will  be announced on https://is.enes.org/.</r3d:description>
+                    <r3d:repositoryContact>https://climate4impact.eu/impactportal/help/contactexpert.jsp</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://climate4impact.eu/impactportal/general/about.jsp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CLIPC</r3d:keyword>
+                    <r3d:keyword>CMIP5</r3d:keyword>
+                    <r3d:keyword>CORDEX</r3d:keyword>
+                    <r3d:keyword>SPECS</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>energy</r3d:keyword>
+                    <r3d:keyword>marine coastal</r3d:keyword>
+                    <r3d:keyword>nature biodiversity</r3d:keyword>
+                    <r3d:keyword>tourism</r3d:keyword>
+                    <r3d:keyword>urban infrastructure</r3d:keyword>
+                    <r3d:keyword>water management</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme - FP7, IS-ENES 2</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/project/id/312979</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Infrastructure for the European Network for Earth System Modelling</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IS-ENES</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://is.enes.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Disclaimer</r3d:policyName>
+                <r3d:policyURL>https://climate4impact.eu/impactportal/general/index.jsp?q=disclaimer</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of use agreement for CMIP5 model output</r3d:policyName>
+                <r3d:policyURL>https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://climate4impact.eu/impactportal/general/index.jsp?q=disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://climate4impact.eu/impactportal/help/faq.jsp?q=climate_data_format</r3d:api>
+                    <r3d:api apiType="OpenDAP">https://climate4impact.eu/impactportal/data/catalogs.jsp</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://pcmdi.llnl.gov/mips/cmip5/citation.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CIM - Common Information Model</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cim-common-information-model</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Partners supporting climate4impact: https://climate4impact.eu/impactportal/general/about.jsp</r3d:remarks>
+        <r3d:entryDate>2016-08-24</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

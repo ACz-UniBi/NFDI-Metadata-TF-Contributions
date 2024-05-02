@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010218</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DNA Data Bank of Japan</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DDBJ</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ddbj.nig.ac.jp/index-e.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.k337f0</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_01644</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002359</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>nif-0000-02740</r3d:repositoryIdentifier>
+                <r3d:description language="eng">DDBJ; DNA Data Bank of Japan is the sole nucleotide sequence data bank in Asia, which is officially certified to collect nucleotide sequences from researchers and to issue the internationally recognized accession number to data submitters.Since we exchange the collected data with EMBL-Bank/EBI; European Bioinformatics Institute and GenBank/NCBI; National Center for Biotechnology Information on a daily basis, the three data banks share virtually the same data at any given time. The virtually unified database is called &quot;INSD; International Nucleotide Sequence Database DDBJ collects sequence data mainly from Japanese researchers, but of course accepts data and issue the accession number to researchers in any other countries.</r3d:description>
+                    <r3d:repositoryContact>https://www.ddbj.nig.ac.jp/contact-ddbj-e.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1986</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.ddbj.nig.ac.jp/about/index-e.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>gene technology</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>nucleotide sequence</r3d:keyword>
+                    <r3d:keyword>phylogenetics</r3d:keyword>
+                    <r3d:keyword>protein binding</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">International Nucleotide Sequence Database Collaboration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">INSDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insdc.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011967</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Japanese Ministry of Education, Culture, Sports, Science &amp; Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MEXT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mext.go.jp/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:048rj2z13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Genetics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="jpn">国立遺伝学研究所</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nig.ac.jp/nig/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02xg1m795</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011325</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@nig.ac.jp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institute of Genetics, Supercomputer System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIG Supercomputer</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">国立遺伝学研究所スーパーコンピュータシステム</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>JPN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://sc.ddbj.nig.ac.jp/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1986</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data usage policies</r3d:policyName>
+                <r3d:policyURL>https://www.ddbj.nig.ac.jp/policies-e.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>International Nucleotide Sequence Databases Policies</r3d:policyName>
+                <r3d:policyURL>https://www.ddbj.nig.ac.jp/about/insdc-e.html#policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.en</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.en</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ddbj.nig.ac.jp/policies-e.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ddbj.nig.ac.jp/about/insdc-e.html#policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>International Nucleotide Sequence Databases Policies</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ddbj.nig.ac.jp/about/insdc-e.html#policy</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://ddbj.nig.ac.jp/public/</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.ddbj.nig.ac.jp/faq/en/ddbj-cited-article-e.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.ddbj.nig.ac.jp/data-feed-e.html</r3d:syndication>
+                <r3d:remarks>is covered by Elsevier. DNA Data Bank of Japan (DDBJ) is one of the members of International Nucleotide Sequence Database Collaboration (INSDC); the collaborative database  &#039;European Nucleotide Archive&#039; (ENA) is hosted at European Molecular Biology Laboratory, European Bioinformatics Institute (EML-EBI)</r3d:remarks>
+        <r3d:entryDate>2013-02-27</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

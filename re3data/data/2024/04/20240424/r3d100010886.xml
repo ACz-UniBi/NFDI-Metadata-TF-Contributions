@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010886</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Demographic and Health Surveys</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MEASURE DHS</r3d:additionalName>
+                    <r3d:additionalName language="eng">The DHS Program</r3d:additionalName>
+                <r3d:repositoryURL>https://dhsprogram.com/</r3d:repositoryURL>
+                <r3d:description language="eng">MEASURE DHS is advancing global understanding of health and population trends in developing countries through nationally-representative household surveys that provide data for a wide range of monitoring and impact evaluation indicators in the areas of population, health, HIV, and nutrition.  The database collects, analyzes, and disseminates data from more than 300 surveys in over 90 countries.   MEASURE DHS distributes, at no cost, survey data files for legitimate academic research.</r3d:description>
+                    <r3d:repositoryContact>archive@dhsprogram.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://dhsprogram.com/Who-We-Are/Contact-Us.cfm</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1984</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20505 Nutritional Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://dhsprogram.com/Who-We-Are/About-Us.cfm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>AIDS (disease)</r3d:keyword>
+                    <r3d:keyword>HIV infections</r3d:keyword>
+                    <r3d:keyword>anemia</r3d:keyword>
+                    <r3d:keyword>anthropometry</r3d:keyword>
+                    <r3d:keyword>contraception</r3d:keyword>
+                    <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>family planning</r3d:keyword>
+                    <r3d:keyword>female circumcision</r3d:keyword>
+                    <r3d:keyword>fertility</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>immunization</r3d:keyword>
+                    <r3d:keyword>malaria</r3d:keyword>
+                    <r3d:keyword>mortality</r3d:keyword>
+                    <r3d:keyword>nutrition</r3d:keyword>
+                    <r3d:keyword>surveys</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ICF International</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICFI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.icf.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0156f0c06</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.icf.com/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">US Agency for International Development</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">USAID</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.usaid.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01n6e6j62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.usaid.gov/comment</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Using Datasets for Analysis</r3d:policyName>
+                <r3d:policyURL>https://dhsprogram.com/data/Using-Datasets-for-Analysis.cfm</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dhsprogram.com/data/Using-DataSets-for-Analysis.cfm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">http://api.dhsprogram.com/#/introapi.cfm</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dhsprogram.com/publications/Recommended-Citations.cfm</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-08-13</r3d:entryDate>
+        <r3d:lastUpdate>2021-08-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

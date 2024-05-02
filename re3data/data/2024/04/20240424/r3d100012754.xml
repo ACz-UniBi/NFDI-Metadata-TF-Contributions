@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012754</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Health Canada Drug Product Database</r3d:repositoryName>
+                    <r3d:additionalName language="fra">BDPP</r3d:additionalName>
+                    <r3d:additionalName language="fra">Base de données sur les produits pharmaceutiques</r3d:additionalName>
+                    <r3d:additionalName language="eng">DPD</r3d:additionalName>
+                    <r3d:additionalName language="eng">Drug Product Database</r3d:additionalName>
+                    <r3d:additionalName language="eng">HC DPD</r3d:additionalName>
+                <r3d:repositoryURL>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.tyyn81</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100351</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Health Canada Drug Product Database contains product specific information on drugs approved for use in Canada. The database is managed by Health Canada and includes human pharmaceutical and biological drugs, veterinary drugs and disinfectant products. It contains approximately 15,000 products which companies have notified Health Canada as being marketed.</r3d:description>
+                    <r3d:repositoryContact>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/contact-us.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-06-22">54.961 entries</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20508 Pharmacy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/more-info.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>animals</r3d:keyword>
+                    <r3d:keyword>biological drugs</r3d:keyword>
+                    <r3d:keyword>disinfectants</r3d:keyword>
+                    <r3d:keyword>humans</r3d:keyword>
+                    <r3d:keyword>product monograph - PM</r3d:keyword>
+                    <r3d:keyword>radiopharmaceutical drugs</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Government of Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Gouvernement du Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.canada.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:010q4q527</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Health Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Santé Canada</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hc-sc.gc.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05p8nb362</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011274</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_152114</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Government of Canada Treaties, laws and regulations</r3d:policyName>
+                <r3d:policyURL>https://www.canada.ca/en/government/system/laws.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Health Canada Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://healthycanadians.gc.ca/important-eng.php</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Notice of Compliance - Drug Products</r3d:policyName>
+                <r3d:policyURL>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/notice-compliance.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://healthycanadians.gc.ca/important-eng.php#a6</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://open.canada.ca/en/open-government-licence-canada</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/rss/dhp-mps/cesg-pcde-eng.xml</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/rss/dhp-mps/drugs-drogues-eng.xml</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/rss/dhp-mps/prod-eng.xml</r3d:syndication>
+                <r3d:remarks>A DIN (Drug Identification Number) lets the user know that the product has undergone and passed a review of its formulation, labeling and instructions for use. Drug Product Database (DPD) Data Extract - Health Canada: The data extract is a series of compressed UTF-8 text files of the database https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/what-data-extract-drug-product-database.html</r3d:remarks>
+        <r3d:entryDate>2018-07-05</r3d:entryDate>
+        <r3d:lastUpdate>2022-06-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

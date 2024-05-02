@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010168</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Space Physics Data Facility</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NASA&#039;s Space Physics Data Facility</r3d:additionalName>
+                    <r3d:additionalName language="eng">SPDF</r3d:additionalName>
+                <r3d:repositoryURL>https://spdf.gsfc.nasa.gov/</r3d:repositoryURL>
+                <r3d:description language="eng">The Space Physics Data Facility (SPDF) leads in the design and implementation of unique multi-mission and multi-disciplinary data services and software to strategically advance NASA&#039;s solar-terrestrial program, to extend our science understanding of the structure, physics and dynamics of the Heliosphere of our Sun and to support the science missions of NASA&#039;s Heliophysics Great Observatory.
+Major SPDF efforts include multi-mission data services such as Heliophysics Data Portal (formerly VSPO), CDAWeb and CDAWeb Inside IDL,and OMNIWeb Plus (including COHOWeb, ATMOWeb, HelioWeb and CGM) , science planning and orbit services such as SSCWeb, data tools such as the CDF software and tools, and a range of other science and technology research efforts. The staff supporting SPDF includes scientists and information technology experts.</r3d:description>
+                    <r3d:repositoryContact>NASA-SPDF-Support@nasa.onmicrosoft.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>Robert.M.Candey@nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1992</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://spdf.gsfc.nasa.gov/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>aurora</r3d:keyword>
+                    <r3d:keyword>cosmic ray acceleration</r3d:keyword>
+                    <r3d:keyword>electromagnetic field</r3d:keyword>
+                    <r3d:keyword>geomagnetic storm</r3d:keyword>
+                    <r3d:keyword>heliosphere</r3d:keyword>
+                    <r3d:keyword>magnetosphere</r3d:keyword>
+                    <r3d:keyword>planetary space</r3d:keyword>
+                    <r3d:keyword>solar space</r3d:keyword>
+                    <r3d:keyword>space plasma</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1992</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration, Goddard Space Flight Center, Sciences and Exploration Directorate, Heliospheric Physics Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HSD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://science.gsfc.nasa.gov/heliophysics/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1992</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>NASA-SPDF-Support@nasa.onmicrosoft.com</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/privacy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policy for Preservation and Dissemination of Data Deposited with SPDF</r3d:policyName>
+                <r3d:policyURL>https://spdf.gsfc.nasa.gov/data_use_policy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://spdf.gsfc.nasa.gov/data_use_policy.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nasa.gov/privacy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://cdaweb.gsfc.nasa.gov/WebServices/REST/</r3d:api>
+                    <r3d:api apiType="REST">https://cdaweb.gsfc.nasa.gov/alternative_access_methods.html</r3d:api>
+                    <r3d:api apiType="SOAP">https://cdaweb.gsfc.nasa.gov/WebServices/SOAP/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://spdf.gsfc.nasa.gov/data_use_policy.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">SPASE Data Model</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/spase-data-model</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>NASA’s Heliophysics Science Division at NASA Headquarters issued a revised Heliophysics Science Data Management Policy (see https://smd-cms.nasa.gov/wp-content/uploads/2023/10/hpd-data-policy-final-20230202.pdf). This revised policy redefined the Heliophysics role of the National Space Science Data Center (NSSDC) at Goddard to be solely that of a “deep archive” and defined a new role for the Space Physics Data Facility (SPDF) to be one of two “active Final Archives” charged to work with NASA Headquarters to ensure the long-term accessibility and availability of all important NASA heliophysics data. The SPDF service gateway allows users to access data through a number of different data services while also providing information on which spacecraft are accessible through which services and to which space physics disciplines data services and spacecraft belong.</r3d:remarks>
+        <r3d:entryDate>2012-12-14</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

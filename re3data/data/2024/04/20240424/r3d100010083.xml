@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010083</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HubbleSite</r3d:repositoryName>
+                <r3d:repositoryURL>https://hubblesite.org/resource-gallery</r3d:repositoryURL>
+                <r3d:description language="eng">STScI&#039;s innovative ways to share Hubble&#039;s remarkable discoveries with the public.HubbleSite prepares and disseminates the photographs and animations seen in the news... as well as posters, slide shows, exhibits, and educational products in print and electronic formats</r3d:description>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://hubblesite.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Hubble telescope</r3d:keyword>
+                    <r3d:keyword>astronomy</r3d:keyword>
+                    <r3d:keyword>galaxy</r3d:keyword>
+                    <r3d:keyword>nebulae</r3d:keyword>
+                    <r3d:keyword>planet</r3d:keyword>
+                    <r3d:keyword>space missions</r3d:keyword>
+                    <r3d:keyword>spacecraft</r3d:keyword>
+                    <r3d:keyword>stars</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Space Telescope Science Institute, Office of Public Outreach</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">OPO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">STScI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.stsci.edu/communications-and-outreach</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Content Use Policy</r3d:policyName>
+                <r3d:policyURL>https://hubblesite.org/copyright</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://hubblesite.org/copyright</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://hubblesite.org/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://hubblesite.org/copyright</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Hubble does not travel to stars, planets, and galaxies. It takes pictures of them as it whirls around Earth at 17,500 miles an hour.
+In its 20 years of viewing the heavens, NASA&#039;s Hubble Space Telescope has made more than 930,000 observations and snapped over 570,000 images of 30,000 celestial objects.
+In its 20-year lifetime the telescope has made more than 110,000 trips around our planet.
+With those trips, Hubble has racked up plenty of frequent-flier miles, about 2.8 billion, which is Neptune&#039;s average distance from the Sun.
+The 20 years&#039; worth of observations has produced more than 45 terabytes of data, enough information to fill nearly 5,800 DVDs.
+Each month the orbiting observatory generates more than 360 gigabytes of data, which could fill the storage space of an average home computer.
+About 4,000 astronomers from all over the world have used the telescope to probe the universe.
+Astronomers using Hubble data have published more than 8,700 scientific papers, making it one of the most productive scientific instruments ever built. In 2009 scientists published 648 journal articles on Hubble telescope data.
+Hubble weighs 24,500 pounds -- as much as two full-grown elephants.
+Hubble&#039;s primary mirror is 2.4 meters (7 feet, 10.5 inches) across -- taller than retired NBA player Gheorghe Muresan, who is 2.3 meters (7 feet, 7 inches) tall. Muresan is the tallest man ever to play in the NBA.
+Hubble is 13.3 meters (43.5 feet) long -- the length of a large school bus.</r3d:remarks>
+        <r3d:entryDate>2012-11-26</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

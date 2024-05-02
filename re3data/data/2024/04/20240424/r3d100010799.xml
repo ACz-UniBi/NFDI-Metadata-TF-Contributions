@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010799</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Classification of Diseases</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ICD</r3d:additionalName>
+                <r3d:repositoryURL>https://www.who.int/classifications/classification-of-diseases</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.97805c</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ICD serves as the international standard for diagnostic classification for all general epidemiological, many health management purposes and clinical use. The ICD&#039;s resources include the analysis of different population groups&#039; general health situations, monitoring of the incidence and prevalence of diseases in relation to the characteristics of the individuals affected, reimbursement, resource allocation, quality, and guidelines. The records provide the basis for the compilation of national mortality and morbidity statistics, and enable the storage and retrieval of diagnostic information for clinical epidemiological and quality purposes.</r3d:description>
+                    <r3d:repositoryContact>https://www.who.int/about/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-07-23">11th revision</r3d:size>
+        <r3d:startDate>1992</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>ara</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://icd.who.int/en/docs/icd11factsheet_en.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>classification system</r3d:keyword>
+                    <r3d:keyword>clinical purposes</r3d:keyword>
+                    <r3d:keyword>diagnostics</r3d:keyword>
+                    <r3d:keyword>epidemiology</r3d:keyword>
+                    <r3d:keyword>health management</r3d:keyword>
+                    <r3d:keyword>health standards</r3d:keyword>
+                    <r3d:keyword>medicine</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">World Health Organization</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WHO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.who.int/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01f80g185</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008505</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.who.int/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use and License Agreement</r3d:policyName>
+                <r3d:policyURL>https://icd.who.int/en/docs/ICD11-license.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.who.int/about/policies/publishing/copyright</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.who.int/about/policies/publishing/copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://icd.who.int/en/docs/ICD11-license.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.who.int/about/policies/publishing/copyright</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-06-16</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010089</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NASA/IPAC InfraRed Science Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IRSA</r3d:additionalName>
+                <r3d:repositoryURL>https://irsa.ipac.caltech.edu/frontpage/</r3d:repositoryURL>
+                <r3d:description language="eng">IRSA is chartered to curate the calibrated science products from NASAs infrared and sub-millimeter missions, including five major large-area/all-sky surveys. IRSA exploits a re-useable architecture to deploy cost-effective archives for customers, including: the Spitzer Space Telescope; the 2MASS and IRAS all-sky surveys; and multi-mission datasets such as COSMOS, WISE and Planck mission</r3d:description>
+                    <r3d:repositoryContact>https://irsa.ipac.caltech.edu/docs/help_desk.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>irsasupport@ipac.caltech.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2019-05-15">all-sky surveys in 20 bands; 88 billion rows of catalog data; 100 million images; and over 100,000 spectra.</r3d:size>
+        <r3d:startDate>1986</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://irsa.ipac.caltech.edu/charter.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>2MASS</r3d:keyword>
+                    <r3d:keyword>AKARI</r3d:keyword>
+                    <r3d:keyword>BLAST</r3d:keyword>
+                    <r3d:keyword>BOLOCAM</r3d:keyword>
+                    <r3d:keyword>COSMOS</r3d:keyword>
+                    <r3d:keyword>DENIS</r3d:keyword>
+                    <r3d:keyword>Herschel</r3d:keyword>
+                    <r3d:keyword>IRAS</r3d:keyword>
+                    <r3d:keyword>IRTS</r3d:keyword>
+                    <r3d:keyword>ISO</r3d:keyword>
+                    <r3d:keyword>MSX</r3d:keyword>
+                    <r3d:keyword>PPXML</r3d:keyword>
+                    <r3d:keyword>Planck</r3d:keyword>
+                    <r3d:keyword>SDSS</r3d:keyword>
+                    <r3d:keyword>SWAS</r3d:keyword>
+                    <r3d:keyword>Spitzer Space Telescope</r3d:keyword>
+                    <r3d:keyword>USNO</r3d:keyword>
+                    <r3d:keyword>WISE</r3d:keyword>
+                    <r3d:keyword>infrared missions</r3d:keyword>
+                    <r3d:keyword>mapping</r3d:keyword>
+                    <r3d:keyword>satellite missions</r3d:keyword>
+                    <r3d:keyword>sub-millimeter missions</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">California Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CALTECH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.caltech.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05dxps055</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_017603</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1986</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Infrared Processing and Analysis Center, Science and Data Center for Infrared Astronomy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IPAC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ipac.caltech.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05q79g396</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1986</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://irsa.ipac.caltech.edu/docs/help_desk.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Jet Propulsion Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JPL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jpl.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027k65916</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1986</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nasa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027ka1x80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1986</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA web privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/privacy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices#copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nasa.gov/foia/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>How to Contribute Data</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://irsa.ipac.caltech.edu/irsa-dataQA.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://irsa.ipac.caltech.edu/voapi.html</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://irsa.ipac.caltech.edu/ack.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>NASA/IPAC Infrared Science Archive is covered by Thomson Reuters Data Citation Index.  IRSA is part of the Infrared Processing and Analysis Center (IPAC)</r3d:remarks>
+        <r3d:entryDate>2012-10-02</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

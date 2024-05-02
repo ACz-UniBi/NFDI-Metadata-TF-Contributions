@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010550</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MiCroKitS</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Midbody, Centrosome, Kinetochore and Spindle</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: MiCroKit</r3d:additionalName>
+                <r3d:repositoryURL>http://microkit.biocuckoo.org/index.php</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.3cswbc</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_007052</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03126</r3d:repositoryIdentifier>
+                <r3d:description language="eng">During cell cycle, numerous proteins temporally and spatially localized in distinct sub-cellular regions including centrosome (spindle pole in budding yeast), kinetochore/centromere, cleavage furrow/midbody (related or homolog structures in plants and budding yeast called as phragmoplast and bud neck, respectively), telomere and spindle spatially and temporally. These sub-cellular regions play important roles in various biological processes. In this work, we have collected all proteins identified to be localized on kinetochore, centrosome, midbody, telomere and spindle from two fungi (S. cerevisiae and S. pombe) and five animals, including C. elegans, D. melanogaster, X. laevis, M. musculus and H. sapiens based on the rationale of &quot;Seeing is believing&quot; (Bloom K et al., 2005). Through ortholog searches, the proteins potentially localized at these sub-cellular regions were detected in 144 eukaryotes. Then the integrated and searchable database MiCroKiTS - Midbody, Centrosome, Kinetochore, Telomere and Spindle has been established.</r3d:description>
+                    <r3d:repositoryContact>http://microkit.biocuckoo.org/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>lzx.bioinfo@gmail.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>xueyu@hust.edu.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-12-04">87.983 unique protein entries</r3d:size>
+        <r3d:startDate>2009-07-09</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>chromosome</r3d:keyword>
+                    <r3d:keyword>genetics</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>protein</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">The Cuckoo Workgroup</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.biocuckoo.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>renjian.sysu@gmail.com</r3d:institutionContact>
+                                    <r3d:institutionContact>xueyu@mail.hust.edu.cn</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Science &amp; Technology of China, Hefei National Laboratory for Physical Sciences at Microscale</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://en.hfnl.ustc.edu.cn</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>renjian.sysu@gmail.com</r3d:institutionContact>
+                                    <r3d:institutionContact>xueyu@mail.hust.edu.cn</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Science &amp; Technology of China, School of Life Sciences</r3d:institutionName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://en.biox.ustc.edu.cn</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>User Guide</r3d:policyName>
+                <r3d:policyURL>http://microkit.biocuckoo.org/userguide.php</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://microkit.biocuckoo.org/index.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://microkit.biocuckoo.org/download.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://microkit.biocuckoo.org/index.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>MiCroKitS is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2013-11-18</r3d:entryDate>
+        <r3d:lastUpdate>2021-12-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

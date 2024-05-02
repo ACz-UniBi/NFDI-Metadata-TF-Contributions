@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011174</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Cancer Genomics Hub</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CGHub</r3d:additionalName>
+                <r3d:repositoryURL>https://cghub.ucsc.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_002657</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_156095</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&gt;&gt;&gt;&gt;!!!!&lt;&lt;&lt;&lt; The Cancer Genomics Hub mission is now completed.
+
+The Cancer Genomics Hub was established in August 2011 to provide a repository to The Cancer Genome Atlas, the childhood cancer initiative Therapeutically Applicable Research to Generate Effective Treatments and the Cancer Genome Characterization Initiative.
+
+CGHub rapidly grew to be the largest database of cancer genomes in the world, storing more than 2.5 petabytes of data and serving downloads of nearly 3 petabytes per month.
+
+As the central repository for the foundational genome files, CGHub streamlined team science efforts as data became as easy to obtain as downloading from a hard drive.
+
+The convenient access to Big Data, and the collaborations that CGHub made possible, are now essential to cancer research. That work continues at the NCI&#039;s Genomic Data Commons. All files previously stored at CGHub can be found there.
+The Website for the Genomic Data Commons is here: https://gdc.nci.nih.gov/ &gt;&gt;&gt;&gt;!!!!&lt;&lt;&lt;&lt;
+The Cancer Genomics Hub (CGHub) is a secure repository for storing, cataloging, and accessing cancer genome sequences, alignments, and mutation information from the Cancer Genome Atlas (TCGA) consortium and related projects.
+Access to CGHub Data: All researchers using CGHub must meet the access and use criteria established by the National Institutes of Health (NIH) to ensure the privacy, security, and integrity of participant data. CGHub also hosts some publicly available data, in particular data from the Cancer Cell Line Encyclopedia. All metadata is publicly available and the catalog of metadata and associated BAMs can be explored using the CGHub Data Browser.</r3d:description>
+                    <r3d:repositoryContact>support@cghub.ucsc.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate>2018</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://wiki.nci.nih.gov/display/TCGA/Cancer+Genomics+Hub</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>cancer cell line</r3d:keyword>
+                    <r3d:keyword>cancer detection</r3d:keyword>
+                    <r3d:keyword>cancer prevention</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>tissue</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Cancer Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cancer.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cancer.gov/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nih.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nih.gov/about-nih/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California, Santa Cruz, Genomics Institute</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ucscgenomics.soe.ucsc.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ucscgenomics.soe.ucsc.edu/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>https://cancergenome.nih.gov/abouttcga/policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies and guidelines</r3d:policyName>
+                <r3d:policyURL>https://cancergenome.nih.gov/abouttcga/policies/policiesguidelines</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Publication Guidelines</r3d:policyName>
+                <r3d:policyURL>https://cancergenome.nih.gov/publications/publicationguidelines</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cancergenome.nih.gov/abouttcga/policies/responsibleuse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>see also TCGA Data Portal. To download or upload TCGA data (BAM files)  from CGHub, you must be granted authorization from the Data Access Committee (DAC).</r3d:remarks>
+        <r3d:entryDate>2014-10-15</r3d:entryDate>
+        <r3d:lastUpdate>2018-01-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010657</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">INTEGRAL data archives</r3d:repositoryName>
+                    <r3d:additionalName language="eng">International Gamma-Ray Astrophysics Laboratory data Archives</r3d:additionalName>
+                <r3d:repositoryURL>https://www.cosmos.esa.int/web/integral/home</r3d:repositoryURL>
+                <r3d:description language="eng">This website aggregates several services that provide access to data of the INTEGRAL Mission.
+ESA&#039;s INTErnational Gamma-Ray Astrophysics Laboratory is detecting some of the most energetic radiation that comes from space. It is the most sensitive gamma-ray observatory ever launched. INTEGRAL is an ESA mission in cooperation with Russia and the United States</r3d:description>
+                    <r3d:repositoryContact>https://www.cosmos.esa.int/web/guest/contact-details</r3d:repositoryContact>
+                    <r3d:repositoryContact>inthelp@sciops.esa.int</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2008-05-08</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.cosmos.esa.int/web/integral/mission-overview</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>IBIS</r3d:keyword>
+                    <r3d:keyword>JEM-X</r3d:keyword>
+                    <r3d:keyword>OMC</r3d:keyword>
+                    <r3d:keyword>PROTON</r3d:keyword>
+                    <r3d:keyword>SPI</r3d:keyword>
+                    <r3d:keyword>fundamental physics</r3d:keyword>
+                    <r3d:keyword>planetary exploration</r3d:keyword>
+                    <r3d:keyword>solar terrestrial science</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Space Agency</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.esa.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wd9za21</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.esa.int/Services/Contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Space Astronomy Centre, INTEGRAL Science Operations Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESAC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">ISOC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cosmos.esa.int/web/integral/about-isoc</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">High Energy Astrophysics Department, Space Research Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IKI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://hea.iki.rssi.ru/en/index.php?page=integral</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://hea.iki.rssi.ru/en/index.php?page=contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">INTEGRAL Science Data Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ISDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.isdc.unige.ch/integral/archive</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://isdc.unige.ch/integral/support/helpdesk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data rights (p 35ff.) in document 12th Announcement of Opportunity</r3d:policyName>
+                <r3d:policyURL>https://www.cosmos.esa.int/web/integral/ao12</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://integral.esac.esa.int/AO15/AO-15_Overview_Policies_Procedures.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.cosmos.esa.int/web/integral/data-publication-credits</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>INTEGRAL (The International Gamma-Ray Astrophysics Laboratory) is the second medium-sized mission of ESA&#039;s Horizon 2000 Science Programme. INTEGRAL is dedicated to the fine spectroscopy (E/deltaE = 500) and fine imaging (angular resolution: 12 arcmin FWHM) of celestial gamma-ray sources in the energy range 15 keV to 10 MeV with concurrent source monitoring in the X-ray (3-35 keV) and optical (V-band, 550 nm) energy ranges.</r3d:remarks>
+        <r3d:entryDate>2014-03-12</r3d:entryDate>
+        <r3d:lastUpdate>2022-09-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013358</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Infectious Diseases Data Observatory</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IDDO</r3d:additionalName>
+                <r3d:repositoryURL>https://www.iddo.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.cF5x1V</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>ROR:04tp3cz81</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Infectious Diseases Data Observatory (IDDO) assembles clinical, laboratory and epidemiological data on a collaborative platform to be shared with the research and humanitarian communities. The data are analysed to generate reliable evidence and innovative resources that enable research-driven responses to the major challenges of emerging and neglected infections. Access is available to individual patient data held for malaria and Ebola virus disease. Resources for visceral leishmaniasis, schistosomiasis and soil transmitted helminths, Chagas disease and COVID-19 are under development.
+IDDO contains the following repositories : COVID-19 Data Platform, Chagas Data Platform, Schistosomiasis &amp; Soil Transmitted Helminths Data Platform, Visceral Leishmaniasis Data Platform, Ebola Data Platform, WorldWide Antimalarial Resistance Network (WWARN)</r3d:description>
+                    <r3d:repositoryContact>https://www.iddo.org/about-us/contact-us</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@iddo.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-06-22">400 malaria studies; 22 Ebola datasets</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20509 Pharmacology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.iddo.org/about-us/our-work</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>Chagas disease</r3d:keyword>
+                    <r3d:keyword>Ebola virus disease</r3d:keyword>
+                    <r3d:keyword>clinical trials</r3d:keyword>
+                    <r3d:keyword>data discovery methods</r3d:keyword>
+                    <r3d:keyword>health care</r3d:keyword>
+                    <r3d:keyword>individual participant-level data (IPD)</r3d:keyword>
+                    <r3d:keyword>malaria</r3d:keyword>
+                    <r3d:keyword>medical treatments</r3d:keyword>
+                    <r3d:keyword>medicine quality</r3d:keyword>
+                    <r3d:keyword>schistosomiasis</r3d:keyword>
+                    <r3d:keyword>soil-transmitted helminths</r3d:keyword>
+                    <r3d:keyword>visceral leishmaniasis</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Oxford, Centre for Tropical Medicine and Global Health</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tropicalmedicine.ox.ac.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.tropicalmedicine.ox.ac.uk/about/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">WorldWide Antimalarial Resistance Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WWARN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iddo.org/wwarn</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.iddo.org/wwarn/about-us/wwarn-team</r3d:institutionContact>
+                                    <r3d:institutionContact>info@wwarn.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Ebola Data Platform Data Access Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.iddo.org/ebola/data-access-guidelines</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Ebola Data Platform Data Transfer Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.iddo.org/ebola/data-transfer-agreement</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>IDDO Data Access Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.iddo.org/document/iddo-data-access-guidelines</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>IDDO Data Transfer Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.iddo.org/document/iddo-data-use-agreement</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.iddo.org/data-sharing/contributing-data</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Ebola Data Platform Terms of Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.iddo.org/ebola/terms-of-submission</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                    <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>IDDO Terms of Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.iddo.org/data-sharing/contributing-data</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.iddo.org/document/iddo-data-use-agreement</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>IDDO data curation standards follow the Clinical Data Interchange Standards Consortium (CDISC) https://www.cdisc.org/</r3d:remarks>
+        <r3d:entryDate>2020-06-17</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

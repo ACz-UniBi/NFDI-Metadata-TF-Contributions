@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011015</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Internet Archive</r3d:repositoryName>
+                <r3d:repositoryURL>https://archive.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_001682</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-10172</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Internet Archive includes texts, audio, moving images, software, and archived web pages.</r3d:description>
+                    <r3d:repositoryContact>https://archive.org/about/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@archive.org</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2023-09-06">735 billion web pages; 41 million books and texts; 14.7 million audio recordings (including 240.000 live concerts); 8.4 million videos (including 2.4 million Television News programs); 4.4 million images; 890.000 software programs</r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://archive.org/about/faqs.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>audio-visual archives</r3d:keyword>
+                    <r3d:keyword>digital library</r3d:keyword>
+                    <r3d:keyword>internet archive</r3d:keyword>
+                    <r3d:keyword>software documentation</r3d:keyword>
+                    <r3d:keyword>wayback machine</r3d:keyword>
+                    <r3d:keyword>web archives</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ALEXA Internet</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">an amazon company</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.alexa.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02z468g17</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.alexa.com/about/management</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Alfred P. Sloan Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sloan.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:052csg198</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005099</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.sloan.org/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Kahle-Austin Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KAHL009</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KAHL009#contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">William and Flora Hewlett Foundation</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hewlett.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04hd1y677</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.hewlett.org/about-us/contact</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>INTERNET ARCHIVE ACCESS POLICY</r3d:policyName>
+                <r3d:policyURL>https://help.archive.org/help/internet-archive-access-policy/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://archive.org/about/terms.php</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>The Oakland Archive Policy</r3d:policyName>
+                <r3d:policyURL>https://groups.ischool.berkeley.edu/archive/aps/removal-policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/choose/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://archive.org/about/terms.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Terms of Use</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://archive.org/about/terms.php</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://archive.org/services/docs/api/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://archive.org/iathreads/posts-display-new.php?forum=faqs&amp;mode=rss</r3d:syndication>
+                    <r3d:syndication syndicationType="RSS">https://archive.org/services/collection-rss.php</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-09-15</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

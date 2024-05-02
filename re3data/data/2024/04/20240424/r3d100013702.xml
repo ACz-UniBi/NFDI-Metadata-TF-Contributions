@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013702</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">OCTOPUS database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">An open cosmogenic isotope and luminescence database</r3d:additionalName>
+                <r3d:repositoryURL>https://octopusdata.org</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The CRN Denudation Australian collection doi:10.25900/mpr9-yn15</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The CRN Denudation Global collection doi:10.25900/g76f-0h45</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulArch OSL collection (v.2) doi:10.25900/9y07-4j77</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulArch Radiocarbon collection (v.2) doi:10.25900/gpvr-ay04</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulArch TL collection (v.2) doi:10.25900/af67-kh16</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulSed Aeolian OSL collection doi:10.25900/5jcw-tn50</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulSed Aeolian TL collection doi:10.25900/a2k9-kj43</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulSed Fluvial OSL collection doi:10.25900/p5ye-rn35</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulSed Fluvial TL collection doi:10.25900/2a76-vw55</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulSed Lacustrine OSL collection doi:10.25900/6hmv-zz61</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OCTOPUS Database v.2: The SahulSed Lacustrine TL collection doi:10.25900/32de-mj32</r3d:repositoryIdentifier>
+                <r3d:description language="eng">OCTOPUS is an Open Geospatial Consortium (OGC) compliant web-enabled database that allows users to visualise, query, and download cosmogenic 10Be and 26Al, luminescence, and radiocarbon ages and denudation rates associated with erosional landscapes, Quaternary depositional landforms and archaeological records, along with associated geospatial (vector and raster) data layers.</r3d:description>
+                    <r3d:repositoryContact>codilean@uow.edu.au</r3d:repositoryContact>
+                    <r3d:repositoryContact>hmunack@uow.edu.au</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2021-12-01</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10104 Classical Archaeology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10603 African, American and Oceania Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20302 Evolution, Anthropology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://octopus-db.github.io/documentation/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>10Be</r3d:keyword>
+                    <r3d:keyword>14C</r3d:keyword>
+                    <r3d:keyword>26Al</r3d:keyword>
+                    <r3d:keyword>Australia</r3d:keyword>
+                    <r3d:keyword>CARE</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>Sahul</r3d:keyword>
+                    <r3d:keyword>Sahul megafauna</r3d:keyword>
+                    <r3d:keyword>Sahul sedimentary archives</r3d:keyword>
+                    <r3d:keyword>catchment-averaged denudation rates</r3d:keyword>
+                    <r3d:keyword>cosmogenic nuclides</r3d:keyword>
+                    <r3d:keyword>glacial exposure ages</r3d:keyword>
+                    <r3d:keyword>indo-pacific</r3d:keyword>
+                    <r3d:keyword>optically stimulated luminescence</r3d:keyword>
+                    <r3d:keyword>radiocarbon</r3d:keyword>
+                    <r3d:keyword>thermoluminescence</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian Research Council Centre of Excellence for Biodiversity and Heritage</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CABAH</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://epicaustralia.org.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2024-06</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Australian Research Data Commons</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARDC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ardc.edu.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:038sjwq14</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Wollongong</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UOW</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uow.edu.au</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00jtmb277</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008322</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">https://www.ogc.org/standards/wms</r3d:api>
+                    <r3d:api apiType="other">https://www.ogc.org/standards/wfs</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Database documentation -- https://octopus-db.github.io/documentation/ || GeoServer -- http://geoserver.octopusdata.org/geoserver/ || Zenodo community -- https://zenodo.org/communities/octopus-database/</r3d:remarks>
+        <r3d:entryDate>2021-12-29</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

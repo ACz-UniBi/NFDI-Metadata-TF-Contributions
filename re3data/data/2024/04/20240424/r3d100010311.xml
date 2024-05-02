@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010311</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NOAA National Centers for Environmental Information -  Paleoclimatology Data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Paleoclimatology Data</r3d:additionalName>
+                    <r3d:additionalName language="eng">World Data Service for Paleoclimatology</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ncei.noaa.gov/access/paleo-search/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_012149</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:rid_000059</r3d:repositoryIdentifier>
+                <r3d:description language="eng">Paleoclimatology data are derived from natural sources such as tree rings, ice cores, corals, and ocean and lake sediments. These proxy climate data extend the archive of weather and climate information hundreds to millions of years. The data include geophysical or biological measurement time series and some reconstructed climate variables such as temperature and precipitation.
+NCEI provides the paleoclimatology data and information scientists need to understand natural climate variability and future climate change. We also operate the World Data Center for Paleoclimatology, which archives and distributes data contributed by scientists around the world.</r3d:description>
+                    <r3d:repositoryContact>paleo@noaa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.ncei.noaa.gov/products/paleoclimatology</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>borehole</r3d:keyword>
+                    <r3d:keyword>climate change</r3d:keyword>
+                    <r3d:keyword>climate forcing</r3d:keyword>
+                    <r3d:keyword>climate reconstruction</r3d:keyword>
+                    <r3d:keyword>coral and sclerosponge</r3d:keyword>
+                    <r3d:keyword>fauna</r3d:keyword>
+                    <r3d:keyword>fire history</r3d:keyword>
+                    <r3d:keyword>global warming</r3d:keyword>
+                    <r3d:keyword>ice core</r3d:keyword>
+                    <r3d:keyword>insect</r3d:keyword>
+                    <r3d:keyword>lake</r3d:keyword>
+                    <r3d:keyword>lake level reconstruction</r3d:keyword>
+                    <r3d:keyword>loess and eolian dust</r3d:keyword>
+                    <r3d:keyword>paleclimate modelling</r3d:keyword>
+                    <r3d:keyword>paleoceanography</r3d:keyword>
+                    <r3d:keyword>paleoclimatology</r3d:keyword>
+                    <r3d:keyword>plant macrofossil</r3d:keyword>
+                    <r3d:keyword>pollen</r3d:keyword>
+                    <r3d:keyword>speleothem</r3d:keyword>
+                    <r3d:keyword>tree ring</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Centers for Environmental Information</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NCEI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ncei.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04r0wrp59</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ncei.noaa.gov/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Oceanic and Atmospheric Administration</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.noaa.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02z5nhe81</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@noaa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Archive collecting policy</r3d:policyName>
+                <r3d:policyURL>https://www.ncei.noaa.gov/sites/default/files/2019-10/NCEI%20Archive%20Collecting%20Policy.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.noaa.gov/information-technology/foia</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nosc.noaa.gov/EDMC/PD.DA.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nesdis.noaa.gov/about/documents-reports/nesdis-policies-procedures-and-plans</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.ncdc.noaa.gov/pub/data/paleo/</r3d:api>
+                    <r3d:api apiType="REST">https://www.ncei.noaa.gov/access/paleo-search/api</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>NOAA National Centers for Environmental Information -  Paleoclimatology Data is a regular member of the World Data System - WDS. NOAA Paleoclimatology Data is covered by Clarivate Data Citation Index.
+former version of the page see: 
+The National Climatic Data Center, the National Geophysical Data Center, and the National Oceanographic Data Center, which includes the National Coastal Data Development Center have merged into the National Centers for Environmental Information (NCEI)</r3d:remarks>
+        <r3d:entryDate>2013-05-11</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

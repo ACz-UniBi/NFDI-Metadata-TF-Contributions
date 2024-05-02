@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012622</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The European Database of Seismogenic Faults</r3d:repositoryName>
+                    <r3d:additionalName language="eng">EDSF</r3d:additionalName>
+                <r3d:repositoryURL>https://edsf13.ingv.it/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.a1c2cd</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>doi:10.6092/ingv.it-share-edsf</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The European Database of Seismogenic Faults (EDSF) was compiled in the framework of the EU Project SHARE, Work Package 3, Task 3.2. EDSF includes only faults that are deemed to be capable of generating earthquakes of magnitude equal to or larger than 5.5 and aims at ensuring a homogeneous input for use in ground-shaking hazard assessment in the Euro-Mediterranean area. Several research institutions participated in this effort with the contribution of many scientists (see the Database section for a full list). The EDSF database and website are hosted and maintained by INGV.</r3d:description>
+                    <r3d:repositoryContact>gabriele.tarabusi@ingv.it</r3d:repositoryContact>
+                    <r3d:repositoryContact>gianluca.valensise@ingv.it</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://edsf13.ingv.it/SHARE_WP3.2_Contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>roberto.basili@ingv.it</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009-06-01</r3d:startDate>
+        <r3d:endDate>2012-05-31</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.share-eu.org/node/12.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>earth environment</r3d:keyword>
+                    <r3d:keyword>geophysics</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                    <r3d:keyword>tectonics</r3d:keyword>
+                    <r3d:keyword>volcanology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm, FP7</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/research-and-innovation_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/research-and-innovation_en#contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="ita">Istituto Nazionale di Geofisica e Vulcanologia</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">INGV</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Institute of Geophysics and Volcanology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ingv.it/it/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00qps9a02</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://istituto.ingv.it/it/personale-ingv</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://edsf13.ingv.it/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Contributors: https://edsf13.ingv.it/SHARE_WP3.2_Database.html; The European Database of Seismogenic Faults (EDSF) was compiled in the framework of the EU Project SHARE, Work Package 3, Task 3.2.</r3d:remarks>
+        <r3d:entryDate>2018-03-12</r3d:entryDate>
+        <r3d:lastUpdate>2023-05-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

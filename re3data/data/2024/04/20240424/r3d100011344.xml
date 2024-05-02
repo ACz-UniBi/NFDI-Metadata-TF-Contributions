@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011344</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Collaborative Climate Community Data and Processing Grid</r3d:repositoryName>
+                    <r3d:additionalName language="eng">C3Grid</r3d:additionalName>
+                <r3d:repositoryURL>https://www.dkrz.de/en/projects-and-partners/projects-1/c3-inad?set_language=en</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>biodbcore-001538</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; The repository is no longer available. &gt;&gt;&gt;!!!&lt;&lt;&lt;   C3-Grid is an ALREADY FINISHED project within D-Grid, the initiative to promote a grid-based e-Science framework in Germany. The goal of C3-Grid is to support the workflow of Earth system researchers. A grid infrastructure will be implemented that allows efficient distributed data processing and inter-institutional data exchange. Aim of the effort was to develop an infrastructure for uniform access to heterogeneous data and distributed data processing. The work was structured in two projects funded by the Federal Ministry of Education and Research. The first project was part of the D-Grid initiative and explored the potential of grid technology for climate research and developed a prototype infrastructure. Details about the C3Grid architecture are described in “Earth System Modelling – Volume 6”. In the second phase &quot;C3Grid - INAD: Towards an Infrastructure for General Access to Climate Data&quot; this infrastructure was improved especially with respect to interoperability to Earth System Grid Federation (ESGF). Further the portfolio of available diagnostic workflows was expanded.
+These workflows can be re-used now in adjacent infrastructures MiKlip Evaluation Tool (http://www.fona-miklip.de/en/index.php) and as Web Processes within the Birdhouse Framework (http://bird-house.github.io/).
+The Birdhouse Framework is now funded as part of the European Copernicus Climate Change Service (https://climate.copernicus.eu/) managed by ECMWF and will be extended to provide scalable processing services for ESGF hosted data at DKRZ as well as IPSL and BADC.</r3d:description>
+                    <r3d:repositoryContact>data@dkrz.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate>2016</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>climate research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alfred Wegener Institute - Helmholtz Centre for Polar and Marine Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">AWI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.awi.de/en.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:032e6b942</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.awi.de/en/about-us/service/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Klimarechenzentrum</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DKRZ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dkrz.de/?set_language=en&amp;cl=en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03ztgj037</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dkrz.de/about-en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry of Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143994</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.foerderinfo.bund.de/en/contact-44.php</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                                    <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The C3Grid is the predecessor of C3GRID-INAD project. It provided an infrastructure of data search, some workflows, data fetch facilities to the climate researchers.
+C3Grid-INAD is a step further to the C3Grid project, thus integrating all the services provided in C3Grid and extending additional features e.g. workflows, data archives etc. in addition to the former ones. Moreover, C3Grid-INAD provides a common platform to the climate researchers (users) to access climate data.
+Partners: https://portal.enes.org/c3web/about-c3grid/c3-inad/partner</r3d:remarks>
+        <r3d:entryDate>2015-01-19</r3d:entryDate>
+        <r3d:lastUpdate>2021-11-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

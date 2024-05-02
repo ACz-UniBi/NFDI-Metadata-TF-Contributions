@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011291</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Manitoba Population Research Data Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MCHP Data Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">formerly: Population Health Research Data Repository</r3d:additionalName>
+                <r3d:repositoryURL>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/resources/repository/index.html</r3d:repositoryURL>
+                <r3d:description language="eng">The Population Health Research Data Repository housed at MCHP is a comprehensive collection of administrative, registry, survey, and other data primarily relating to residents of Manitoba. It was developed to describe and explain patterns of health care and profiles of health and illness, facilitating inter-sectoral research in areas such as health care, education, and social services.</r3d:description>
+                    <r3d:repositoryContact>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/contact.html</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@cpe.umanitoba.ca</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">109 Education Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://mchp-appserv.cpe.umanitoba.ca/viewConcept.php?conceptID=1419</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>social sciences</r3d:keyword>
+                    <r3d:keyword>social services</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Manitoba, Manitoba Centre for Health Policy</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MCHP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Acknowledgments and Disclaimers</r3d:policyName>
+                <r3d:policyURL>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/resources/access_acknowledgments.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies on Use and Disclosure</r3d:policyName>
+                <r3d:policyURL>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/resources/access_policies.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://umanitoba.ca/faculties/health_sciences/medicine/units/chs/departmental_units/mchp/resources/access_acknowledgments.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://umanitoba.ca/faculties/medicine/units/community_health_sciences/departmental_units/mchp/resources/access_policies.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Manitoba Centre for Health Policy Population Health Research Data Repository is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2014-12-15</r3d:entryDate>
+        <r3d:lastUpdate>2021-01-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

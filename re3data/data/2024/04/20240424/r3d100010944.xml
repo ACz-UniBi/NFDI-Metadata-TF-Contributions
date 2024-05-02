@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010944</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IRI/LDEO Climate Data Library</r3d:repositoryName>
+                <r3d:repositoryURL>https://iridl.ldeo.columbia.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">The IRI/LDEO Climate Data Library is a collection of climate data sets with the focus of climate change monitoring and mitigation. Browse data by category and source, navigate and analyze datasets using maps, and the Ingrid Data Analysis Language. The IRI/LDEO also includes web tutorials.</r3d:description>
+                    <r3d:repositoryContact>help@iri.columbia.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2014-08-26">more than 300 datasets</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://iridl.ldeo.columbia.edu/dochelp/Tutorial/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>climate change mitigation</r3d:keyword>
+                    <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>environmental sciences</r3d:keyword>
+                    <r3d:keyword>fisheries</r3d:keyword>
+                    <r3d:keyword>global weather experiment project</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                    <r3d:keyword>topoclimatology</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Earth Institute, International Research Institute for Climate and Society</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://iri.columbia.edu/resources/data-library/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@iri.columbia.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Earth Institute, Lamont-Doherty Earth Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LDEO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://lamont.columbia.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02e2tgs60</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>benno@iri.columbia.edu</r3d:institutionContact>
+                                    <r3d:institutionContact>https://ebiquity.umbc.edu/person/html/Beno/Blumenthal</r3d:institutionContact>
+                                    <r3d:institutionContact>https://lamont.columbia.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Research Policies and Handbooks</r3d:policyName>
+                <r3d:policyURL>https://research.columbia.edu/research-policies-and-handbooks</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://iridl.ldeo.columbia.edu/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>CKAN</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://iridl.ldeo.columbia.edu/dochelp/Tutorial/MVD/Download/index.html?Set-Language=en#Formats</r3d:api>
+                    <r3d:api apiType="OpenDAP">https://iridl.ldeo.columbia.edu/dochelp/Tutorial/MVD/Download/index.html?Set-Language=en#Formats</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-08-25</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

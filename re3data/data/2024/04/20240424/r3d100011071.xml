@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011071</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">studyforrest</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.studyforrest.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_003112</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_156710</r3d:repositoryIdentifier>
+                <r3d:description language="eng">This project is an open invitation to anyone and everyone to participate in a decentralized effort to explore the opportunities of open science in neuroimaging. We aim to document how much (scientific) value can be generated from a data release — from the publication of scientific findings derived from this dataset, algorithms and methods evaluated on this dataset, and/or extensions of this dataset by acquisition and incorporation of new data.
+The project involves the processing of acoustic stimuli. In this study, the scientists  have demonstrated an audiodescription of classic &quot;Forrest Gump&quot; to subjects, while researchers using functional magnetic resonance imaging (fMRI) have captured the brain activity of test candidates in the processing of language, music, emotions, memories and pictorial representations.In collaboration with various labs in Magdeburg we acquired and published what is probably the most comprehensive sample of brain activation patterns of natural language processing.
+Volunteers listened to a two-hour audio movie version of the Hollywood feature film &quot;Forrest Gump&quot; in a 7T MRI scanner. High-resolution brain activation patterns and physiological measurements were recorded continuously. These data have been placed into the public domain, and are freely available to the scientific community and the general public.</r3d:description>
+                    <r3d:repositoryContact>info@studyforrest.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2015-02-04">over 350 GB</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20504 Physiology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.studyforrest.org/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Forrest Gump</r3d:keyword>
+                    <r3d:keyword>audio movie</r3d:keyword>
+                    <r3d:keyword>brain activation patterns</r3d:keyword>
+                    <r3d:keyword>cognitive process</r3d:keyword>
+                    <r3d:keyword>information sciences</r3d:keyword>
+                    <r3d:keyword>neurobiology</r3d:keyword>
+                    <r3d:keyword>neuroimaging</r3d:keyword>
+                    <r3d:keyword>neuroscience</r3d:keyword>
+                    <r3d:keyword>psychoinformatics</r3d:keyword>
+                    <r3d:keyword>psychology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bmbf.de/bmbf/en/services/contact/contact_node.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Center for Behavioral Brain Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CBBS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cbbs.eu/das-cbbs</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03d1zwe41</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.cbbs.eu/kontakt</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Neurobiologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">LIN</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Leibniz Institute for Neurobiology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lin-magdeburg.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01zwmgk08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.lin-magdeburg.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://new.nsf.gov/about/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Otto von Guericke Universität Magdeburg, Institut  für Psychologie, Arbeitsgruppe Psychoinformatik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Otto von Guericke University Magdeburg, Institute of Psychology, Psychoinformatics lab</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ipsy.ovgu.de/psychoinformatik.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.psychoinformatics.de/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access</r3d:policyName>
+                <r3d:policyURL>https://www.studyforrest.org/access.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opendatacommons.org/licenses/pddl/1.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/pddl/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.studyforrest.org/access.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The project is part of the German-American research project &quot;Development of universal, high-dimensional models of neural representational spaces&quot;. Scientists from the Otto-von-Guericke-University Magdeburg, Dartmouth College (USA) and Princeton University (USA) are involved. This in turn is part of the National Bernstein Network. Since 2004, the Federal Ministry of Education and Research (BMBF) is funding this initiative with the new scientific discipline of computational neuroscience, with over 180 million euros. The network is named after the German physiologist Julius Bernstein (1839-1917).
+Part of the data can be found on GitHub</r3d:remarks>
+        <r3d:entryDate>2014-06-03</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

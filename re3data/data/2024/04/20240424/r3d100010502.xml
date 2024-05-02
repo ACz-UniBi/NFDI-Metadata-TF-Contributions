@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010502</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GHRC</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Global Hydrology Resource Center</r3d:additionalName>
+                    <r3d:additionalName language="eng">Marshall Distributed Active Archive Center (formerly)</r3d:additionalName>
+                    <r3d:additionalName language="eng">NASA Earth Science Data Center</r3d:additionalName>
+                <r3d:repositoryURL>https://ghrc.nsstc.nasa.gov/home/</r3d:repositoryURL>
+                <r3d:description language="eng">The Global Hydrology Resource Center (GHRC) provides both historical and current Earth science data, information, and products from satellite, airborne, and surface-based instruments. GHRC acquires basic data streams and produces derived products from many instruments spread across a variety of instrument platforms.</r3d:description>
+                    <r3d:repositoryContact>https://ghrc.nsstc.nasa.gov/home/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1997</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://ghrc.nsstc.nasa.gov/home/about-ghrc</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>earth observing system</r3d:keyword>
+                    <r3d:keyword>earth sciences</r3d:keyword>
+                    <r3d:keyword>forecasting</r3d:keyword>
+                    <r3d:keyword>global atmospheric temperature</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>lightning</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>soil moisture</r3d:keyword>
+                    <r3d:keyword>tropical storms</r3d:keyword>
+                    <r3d:keyword>water management</r3d:keyword>
+                    <r3d:keyword>weather</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Global Hydrology Resource Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GHRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ghrc.nsstc.nasa.gov/home/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ghrc.nsstc.nasa.gov/home/contact-us</r3d:institutionContact>
+                                    <r3d:institutionContact>support-ghrc@earthdata.nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NASA Marshall Space Flight Center Earth Science Office</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ESO</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NASA MSFC ESO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://weather.ndc.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Alabama in Huntsville, Information technology and Systems Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">itsc</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.itsc.uah.edu/home/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.itsc.uah.edu/home/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>webteam@itsc.uah.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>WDS Bylaws</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/bylaws/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>World Data System Constitution</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/constitution/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>World Data sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ghrc.nsstc.nasa.gov/home/access-data/earthdata-login-recipe</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.earthdata.nasa.gov/engage/open-data-services-and-software/data-and-information-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Rights &amp; Related Issues</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/data-rights-related-issues</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ghrc.nsstc.nasa.gov/</r3d:api>
+                    <r3d:api apiType="NetCDF">https://ghrc.nsstc.nasa.gov/home/news/ghrc-staff-working-hs3-science-team-data-and-metadata-formats-and-structures</r3d:api>
+                    <r3d:api apiType="OpenDAP">https://ghrc.nsstc.nasa.gov/home/content/opendap</r3d:api>
+                    <r3d:api apiType="REST">https://urs.earthdata.nasa.gov/urs4_faqs</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ghrc.nsstc.nasa.gov/home/about-ghrc/citing-ghrc-daac-data</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>GHRC is covered by Thomson Reuters Data Citation Index. GHRC is a member of ICSU World Data System. GHRC is one of the NASA&#039;s Earth Science Data Centers.The entire database can be viewed through HyDRO, the Hydrologic Data search, Retrieval, and Order system. Note that some data is restricted to Earth Observing System (EOS) affiliated investigators.</r3d:remarks>
+        <r3d:entryDate>2013-09-18</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

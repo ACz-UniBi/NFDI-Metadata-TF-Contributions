@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011545</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Deutsches BioBanken-Register</r3d:repositoryName>
+                    <r3d:additionalName language="eng">German Biobank Registry</r3d:additionalName>
+                <r3d:repositoryURL>https://www.toolpool-gesundheitsforschung.de/produkte/deutsches-biobanken-register</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_004991</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_143997</r3d:repositoryIdentifier>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This product is in the archive and is no longer current.  &gt;&gt;&gt;!!!&gt;&gt;&gt;
+Biobanks are a key prerequisite for modern medical research. By linking samples and clinical data they make it possible to clarify the causes and the course of diseases. The German Biobank Registry pools the medically relevant biobanks in Germany. The German Biobank Registry provides an overview of the medical biobanks in Germany; increases the international visibility of German biobanks; facilitates the networking of biobanks; promotes an exchange of information and samples between research teams; supports the use of existing resources; provides information for investments in biobanks and promotes transparency and trust in research where human samples are used. Searching for samples in all biobanks is possible at the project portal (P2B2) https://p2b2.fraunhofer.de/ after registration.</r3d:description>
+                    <r3d:repositoryContact>info@biobanken.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-12-18">130 biobanks</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate>2019</r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.biobanken.de/en-gb/aboutus.aspx</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>biotechnology</r3d:keyword>
+                    <r3d:keyword>clinical research</r3d:keyword>
+                    <r3d:keyword>diagnostics</r3d:keyword>
+                    <r3d:keyword>diseases</r3d:keyword>
+                    <r3d:keyword>health</r3d:keyword>
+                    <r3d:keyword>human samples with associated data</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005066</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143994</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Fraunhofer-Institut für Biomedizinische Technik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Fraunhofer IBMT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ibmt.fraunhofer.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05tpsgh61</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011236</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158601</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2014</r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Fraunhofer-Institut für Zelltherapie und Immunologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Fraunhofer IZI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Fraunhofer Institute for Cell Therapy and Immunology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.izi.fraunhofer.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04x45f476</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>p2b2@izi-bb.fraunhofer.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">TMF – Technologie- und Methodenplattform für die vernetzte medizinische Forschung e.V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">TMF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Technology, Methods, and Infrastructure for Networked Medical Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tmf-ev.de/EnglishSite/Home.aspx</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_004993</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_143998</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.tmf-ev.de/EnglishSite/AboutUs/Contact.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Datenschutz</r3d:policyName>
+                <r3d:policyURL>https://www.tmf-ev.de/Home/Datenschutzhinweis.aspx</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.tmf-ev.de/Home/Datenschutzhinweis.aspx</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>see also: https://www.tmf-ev.de/BiobankenRegister_Alt/Register.aspx</r3d:remarks>
+        <r3d:entryDate>2015-01-29</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-12</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

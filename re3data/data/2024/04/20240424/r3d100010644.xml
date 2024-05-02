@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010644</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Academic Seismic Portal at LDEO</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ASP at LDEO</r3d:additionalName>
+                    <r3d:additionalName language="eng">Academic Seismic Portal at Lamont-Doherty Earth Observatory</r3d:additionalName>
+                <r3d:repositoryURL>https://www.marine-geo.org/collections/#!/collection/Seismic#summary</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_002194</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_154704</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The MGDS Academic Seismic Portal at Lamont-Doherty Earth Observatory (ASP-LDEO), now part of the IEDA Data Facility, was initiated in 2003 to preserve and provide open access to multi-channel seismic (MCS) and single channel seismic (SCS) field data collected for academic research supported by the US National Science Foundation. Multi-channel data are primarily from the marine seismic vessels operated by Lamont-Doherty Earth Observatory of Columbia University. Modern single channel seismic data from other vessels including the R/V Palmer and USCG Healy, as well as data from portable seismic systems, are also served. 
+The development of the Academic Seismic Portal has focused on the need to recover high value MCS data from older surveys as well as to establish sustainable procedures for preservation of data from modern programs. During the final two years of R/V Ewing operations, procedures were established for routine transfer of MCS data along with navigation and acquisition parameters, and other needed documentation to the ASP. Transfer of seismic data and acquisition information is now routine for the National Marine Seismic Facility, the R/V Marcus G. Langseth, which began science operations in February 2008. Data are documented and incorporated into the data system with full access restrictions protecting the scientists&#039; rights to exclusive access during the proprietary hold period. Submission of data to the ASP helps ensure that NSF requirements for data sharing as outlined in the NSF OCE Data Policy are satisfied.
+Data from the Academic Seismic Portal at UTIG has been migrated to LDEO. As we continue to verify the accuracy and completeness of this data, there may be temporary issues with some seismic metadata and web services.</r3d:description>
+                    <r3d:repositoryContact>https://www.marine-geo.org/about/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@marine-geo.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-10-11">2.678 data sets at MGDS</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.marine-geo.org/collections/#!/collection/Seismic#summary</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>R/V Palmer</r3d:keyword>
+                    <r3d:keyword>biosphere</r3d:keyword>
+                    <r3d:keyword>crustal composition</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>hydrothermy</r3d:keyword>
+                    <r3d:keyword>ocean circulation</r3d:keyword>
+                    <r3d:keyword>seafloor topography</r3d:keyword>
+                    <r3d:keyword>tectronic activity</r3d:keyword>
+                    <r3d:keyword>volcanic activity</r3d:keyword>
+                    <r3d:keyword>water</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Lamont-Doherty Earth Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LDEO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://lamont.columbia.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02e2tgs60</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://lamont.columbia.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Integrated Earth Data Applications</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IEDA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iedadata.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02fjjnc15</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006739</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156096</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>OCE General Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17037</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/us/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.marine-geo.org/about/legal.php#copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Division of Ócean Sciences Sample and Data Policy</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17037</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.marine-geo.org/about/terms_of_use.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The Academic Seismic Portal at Lamont-Doherty is also an official branch of the Antarctic Seismic Data Library System (SDLS), working under the auspices of the Scientific Committee on Antarctic Research (SCAR) and the Antarctic Treaty (ATCM XVI-12) to provide open access to all multichannel seismic reflection data collected south of 60° S for study of the structure of the earth&#039;s crust. SDLS libraries maintain DVD copies of and provide access to processed seismic data, including that not yet publicly available from the main SDLS web portal . The libraries also enhance collaboration among originators of data and potential users. In addition to the library function, the Academic Seismic Portal offers an ever-increasing number of seismic lines for viewing in GeoMapApp .</r3d:remarks>
+        <r3d:entryDate>2014-01-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011827</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">DSPR</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The Drosophila Synthetic Population Resource</r3d:additionalName>
+                <r3d:repositoryURL>https://wfitch.bio.uci.edu/~dspr/index.html</r3d:repositoryURL>
+                <r3d:description language="eng">The Drosophila Synthetic Population Resource (DSPR) consists of a new panel of over 1700 recombinant inbred lines (RILs) of Drosophila melanogaster, derived from two highly recombined synthetic populations, each created by intercrossing a different set of 8 inbred founder lines (with one founder line common to both populations). Complete genome sequence data for the founder lines are available, and in addition, there is a high resolution genetic map for each RIL. The DSPR has been developed as a community resource for high-resolution QTL mapping and is intended to be used widely by the Drosophila community.</r3d:description>
+                    <r3d:repositoryContact>flyrils@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://wfitch.bio.uci.edu/~dspr/index.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Drosophila melanogaster</r3d:keyword>
+                    <r3d:keyword>chemotherapy</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genome</r3d:keyword>
+                    <r3d:keyword>genotype</r3d:keyword>
+                    <r3d:keyword>local interval</r3d:keyword>
+                    <r3d:keyword>nicotine resistance</r3d:keyword>
+                    <r3d:keyword>permutation</r3d:keyword>
+                    <r3d:keyword>phenotype</r3d:keyword>
+                    <r3d:keyword>toxicity</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of California at Irvine, Department of Ecology and Evolutionary Biology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ecoevo.bio.uci.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>tdlong@uci.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Kansas, Department of Molecular Biosciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KU, Department of Molecular Biosciences</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://molecularbiosciences.ku.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>sjmac@ku.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>A Data Analysis Tutorial for DSPR data</r3d:policyName>
+                <r3d:policyURL>https://wfitch.bio.uci.edu/~dspr/DatFILES/DSPRqtl-intro.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://wfitch.bio.uci.edu/~dspr/Tools/Tutorial/index.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>DSPR - Drosophila Synthetic Population Resource is covered by Thomson Reuters Data Citation Index.
+Flies can be requested from the RILs and founder lines.</r3d:remarks>
+        <r3d:entryDate>2016-03-30</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

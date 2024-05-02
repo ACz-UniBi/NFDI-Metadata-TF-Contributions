@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013708</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NORPERM</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Norwegian Permafrost Database</r3d:additionalName>
+                <r3d:repositoryURL>https://geo.ngu.no/kart/permafrost_mobil/</r3d:repositoryURL>
+                <r3d:description language="eng">The NORPERM permafrost database provides information on ground temperatures from boreholes and from the near-surface using miniloggers (MTDs). The database was established during the International Polar Year as one of the main goals of the project TSP Norway - &quot;A Contribution to the Thermal State of Permafrost in Norway and Svalbard&quot;.</r3d:description>
+                    <r3d:repositoryContact>Hanne.Christiansen@unis.no</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>nor</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31501 Geophysics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31601 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.tspnorway.com/20090301%20NEWS%20NORPERM%20DATABASE%20open.htm</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>boreholes</r3d:keyword>
+                    <r3d:keyword>geological survey of Norway</r3d:keyword>
+                    <r3d:keyword>groundtemperatures</r3d:keyword>
+                    <r3d:keyword>miniloggers</r3d:keyword>
+                    <r3d:keyword>permafrost landscape</r3d:keyword>
+                    <r3d:keyword>temperature data in boreholes</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Geological Survey of Norway</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="nor">NGU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="nor">Norges Geologiske Undersøkelse</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ngu.no/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:036dwbr90</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ngu.no/en/page/contact-ngu</r3d:institutionContact>
+                                    <r3d:institutionContact>ngu@ngu.no</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The University Centre in Svalbard</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UNIS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>NOR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unis.no/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03cyjf656</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IPY</r3d:policyName>
+                <r3d:policyURL>https://www.atlantapremiere.com/data/access.html#topofpage</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Interagency Data Stewardship/Citations/ipy guidelines</r3d:policyName>
+                <r3d:policyURL>https://wiki.esipfed.org/Interagency_Data_Stewardship/Citations/ipy_guidelines</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.tspnorway.com/20090301%20NEWS%20NORPERM%20DATABASE%20open.htm</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://geo.ngu.no/mapserver/PermafrostWMS</r3d:api>
+                        <r3d:citationGuidelineURL>https://geo.ngu.no/kart/permafrost_mobil/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-01-05</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

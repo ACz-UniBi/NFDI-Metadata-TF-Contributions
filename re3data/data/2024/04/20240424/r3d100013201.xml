@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013201</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Reanalysis Tropopause Data Repository</r3d:repositoryName>
+                <r3d:repositoryURL>https://datapub.fz-juelich.de/slcs/tropopause</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.c7bf1b</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>biodbcore-001613</r3d:repositoryIdentifier>
+                <r3d:description language="eng">This data repository provides access to tropopause parameters estimated from meteorological reanalyses. The tropopause data sets provided on this web site have been created using meteorological reanalyses distributed by the European Centre for Medium-Range Weather Forecasts (ECMWF), the National Aeronautics and Space Administration (NASA), the National Center for Atmospheric Research (NCAR), and the National Centers for Atmospheric Prediction (NCEP). Currently, the repository covers ERA-Interim, MERRA-2, and the NCEP/NCAR Reanalysis 1 for the time period from 2000 to 2018 and ERA5 from 2009 to 2018. The tropopause data files provide geopotential height, pressure, temperature, and water vapor volume mixing ratio for the WMO 1st and 2nd tropopause, the cold point, and the dynamical tropopause.</r3d:description>
+                    <r3d:repositoryContact>https://datapub.fz-juelich.de/slcs/tropopause/index.html#contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>l.hoffmann@fz-juelich.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://datapub.fz-juelich.de/slcs/tropopause/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>atmospheric science</r3d:keyword>
+                    <r3d:keyword>climate science</r3d:keyword>
+                    <r3d:keyword>meteorological reanalyses</r3d:keyword>
+                    <r3d:keyword>tropopause</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Forschungszentrum Jülich GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FZJ</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fz-juelich.de/de</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nv7yv05</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Jülich Supercomputing Centre, Institute for Advanced Simulation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JSC, IAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.fz-juelich.de/jsc</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q55342974</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Leitlinie zum Umgang mit Forschungsdaten am Forschungszentrum Jülich</r3d:policyName>
+                <r3d:policyURL>https://www.fz-juelich.de/de/zb/open-science/forschungsdatenmanagement/fdm-leitlinie-forschungsdaten-fzj-2019-02-12.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://datapub.fz-juelich.de/slcs/tropopause/index.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Access to other research data sets created by team members of the Simulation Laboratory &#039;Climate Science&#039; at the Jülich Supercomputing Centre, Forschungszentrum Jülich, in Germany and collaboration partners: https://datapub.fz-juelich.de/slcs/</r3d:remarks>
+        <r3d:entryDate>2020-01-06</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

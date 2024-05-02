@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010111</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NASA Space Science Data Coordinated Archive</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NASA&#039;s archive for space science mission data</r3d:additionalName>
+                    <r3d:additionalName language="eng">NSSDCA</r3d:additionalName>
+                <r3d:repositoryURL>https://nssdc.gsfc.nasa.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>PSSB-00666</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The NASA Space Science Data Coordinated Archive serves as the permanent archive for NASA space science mission data. &quot;Space science&quot; means astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As permanent archive, NSSDCA teams with NASA&#039;s discipline-specific space science &quot;active archives&quot; which provide access to data to researchers and, in some cases, to the general public.
+NSSDCA also serves as NASA&#039;s permanent archive for space physics mission data. It provides access to several geophysical models and to data from some non-NASA mission data.
+In addition to supporting active space physics and astrophysics researchers, NSSDCA also supports the general public both via several public-interest web-based services (e.g., the Photo Gallery) and via the offline mailing of CD-ROMs, photoprints, and other items.</r3d:description>
+                    <r3d:repositoryContact>gsfc-dl-nssdca-request@mail.nasa.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-10-31">NSSDCA archives more than 400 TB of digital data from about 550 mostly-NASA space science spacecraft, of which the most important 7 TB are electronically accessible</r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">407 Systems Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://nssdc.gsfc.nasa.gov/about/charter.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>asteroids</r3d:keyword>
+                    <r3d:keyword>astrophysics</r3d:keyword>
+                    <r3d:keyword>comets</r3d:keyword>
+                    <r3d:keyword>lunar and planetary science</r3d:keyword>
+                    <r3d:keyword>planets</r3d:keyword>
+                    <r3d:keyword>solar and space plasma physics</r3d:keyword>
+                    <r3d:keyword>space missions</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Aeronautics and Space Administration, NASA Space Science Data Coordinated Archive</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSSDCA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://nssdc.gsfc.nasa.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2002</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>nate.james@gsfc.nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NASA Web Privacy Policy and Important Notices</r3d:policyName>
+                <r3d:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policy for Preservation and Dissemination of Data Deposited with NSSDCA</r3d:policyName>
+                <r3d:policyURL>https://nssdc.gsfc.nasa.gov/nssdc/preservation_policy.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://nssdc.gsfc.nasa.gov/publication/DataAccessPolicy.pdf</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nssdc.gsfc.nasa.gov/archive/mou/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nssdc.gsfc.nasa.gov/nssdc/PDS_Data_Policies_110330.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submitting data to the NSSDCA</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://nssdc.gsfc.nasa.gov/nssdc/submitting_data.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://spdf.gsfc.nasa.gov/pub/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FITS - Flexible Image Transport System</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fits-flexible-image-transport-system</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>NASA’s Heliophysics Science Division at NASA HQs issued a revised Heliophysics Science Data Management Policy in 2009 (see https://hdrl.gsfc.nasa.gov/Heliophysics_Data_Policy_2009Apr12.html). This revised policy redefined the Heliophysics role of the NASA Space Science Data Coordinated Archive (NSSDCA) at Goddard to be solely that of a “deep archive” and defined a new role for the Space Physics Data Facility (SPDF)(https://www.re3data.org/repository/r3d100010168) to be one of two “active Final Archives” charged to work with NASA HQs to ensure the long-term accessibility and availability of all important NASA heliophysics data.</r3d:remarks>
+        <r3d:entryDate>2012-10-12</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

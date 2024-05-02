@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011034</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">International Forestry Resources and Institutions</r3d:repositoryName>
+                    <r3d:additionalName language="eng">IFRI</r3d:additionalName>
+                <r3d:repositoryURL>http://ifri.forgov.org/</r3d:repositoryURL>
+                <r3d:description language="eng">The IFRI research network examines how governance arrangements affect forests and the people who depend on them. It is comprised of 14 Collaborating Research Centers located around the globe. Researchers use a common data collection method to ensure that sites can be compared across space and time. The IFRI database contains information about biodiversity, livelihoods, institutions, and forest carbon for over 250 sites in 15 countries between 1992 and the present.</r3d:description>
+                    <r3d:repositoryContact>http://ifri.forgov.org/?s=contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>ifri@isb.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1992</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20710 Basic Forest Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://ifri.forgov.org/about-us/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>forest cabon</r3d:keyword>
+                    <r3d:keyword>forests and forestry</r3d:keyword>
+                    <r3d:keyword>resource management</r3d:keyword>
+                    <r3d:keyword>sociology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University of Michigan, School for Environment and Sustainability</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SEAS</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: SNRE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: School of Natural Resources and Environment</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://seas.umich.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>arunagra@umich.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data</r3d:policyName>
+                <r3d:policyURL>http://ifri.forgov.org/data/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://ifri.forgov.org/resources/data/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://ifri.forgov.org/resources/data/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Funders and Partners: http://ifri.forgov.org/about-us/funders/</r3d:remarks>
+        <r3d:entryDate>2014-09-02</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

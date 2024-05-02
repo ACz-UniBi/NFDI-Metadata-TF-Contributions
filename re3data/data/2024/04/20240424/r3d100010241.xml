@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010241</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">RES³T</r3d:repositoryName>
+                    <r3d:additionalName language="deu">RES[drei]T</r3d:additionalName>
+                    <r3d:additionalName language="eng">RES[three]T</r3d:additionalName>
+                    <r3d:additionalName language="eng">Rossendorf Expert System for Surface and Sorption Thermodynamics</r3d:additionalName>
+                <r3d:repositoryURL>https://www.hzdr.de/res3t</r3d:repositoryURL>
+                <r3d:description language="eng">RES³T is a digitized version of a thermodynamic sorption database as required for the parametrization of Surface Complexation Models (SCM). It is mineral-specific and can therefore also be used for additive models of more complex solid phases such as rocks or soils. A user interface helps to access selected mineral and sorption data, to convert parameter units, to extract internally consistent data sets for sorption modeling. Data records comprise of mineral properties, specific surface area values, characteristics of surface binding sites and their protolysis, sorption ligand information, and surface complexation reactions</r3d:description>
+                    <r3d:repositoryContact>https://www.hzdr.de/db/RES3T.CONTACT</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-03-20">149 minerals; 148 sorbing ligands; 2.425 specific surface area measurements; 2.105 surface site data records; 7.641 surface complexation reactions; 3.518 literature references</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30201 Solid State and Surface Chemistry, Material Synthesis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">30202 Physical Chemistry of Solids and Surfaces, Material Characterisation</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.hzdr.de/db/res3t.introduction</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ion exchange</r3d:keyword>
+                    <r3d:keyword>minerals</r3d:keyword>
+                    <r3d:keyword>sorption</r3d:keyword>
+                    <r3d:keyword>specific surface areas</r3d:keyword>
+                    <r3d:keyword>surface complexation</r3d:keyword>
+                    <r3d:keyword>surface site densities</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesministerium für Wirtschaft und Klimaschutz</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMWi</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Federal Ministry for Economic Affairs and Energy</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">formerly: BMWA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">formerly: Bundesministerium für Wirschaft und Energie</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">formerly: Bundesministerium für Wirtschaft und Arbeit</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Federal Ministry of Economics and Labour</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmwk.de/Navigation/DE/Home/home.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02vgg2808</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.bmwk.de/Navigation/DE/Service/Kontakt/kontakt.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Helmholtz Zentrum Dresden-Rossendorf</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HZDR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hzdr.de</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01zy2cs03</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>c.ruecker hzdr.de</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.hzdr.de/db/RES3T.CONTACT</r3d:institutionContact>
+                                    <r3d:institutionContact>res3t@hzdr.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Protection and Privacy Policy</r3d:policyName>
+                <r3d:policyURL>https://www.hzdr.de/db/Cms?pOid=50772&amp;pNid=0</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.hzdr.de/db/Cms?pOid=10115&amp;pNid=0</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.hzdr.de/db/Cms?pOid=10115&amp;pNid=0</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.hzdr.de/db/RES3T.disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>https://www.hzdr.de/db/res3t.PAPERMEMO?paperID=985</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2013-04-16</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

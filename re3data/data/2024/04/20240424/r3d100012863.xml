@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012863</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">hPSCreg</r3d:repositoryName>
+                    <r3d:additionalName language="eng">human Pluripotent Stem Cell registry</r3d:additionalName>
+                <r3d:repositoryURL>https://hpscreg.eu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.7C0aVE</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100898</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>https://bio.tools/hpscreg</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The human pluripotent stem cell registry (hPSCreg) is a public registry and data portal for human embryonic and induced pluripotent stem cell lines (hESC and hiPSC). The Registry provides comprehensive and standardized biological and legal information as well as tools to search and compare information from multiple hPSC sources and hence addresses a translational research need. To facilitate unambiguous identification over different resources, hPSCreg automatically creates a unique standardized name (identifier) for each cell line registered. In addition to biological information, hPSCreg stores extensive data about ethical standards regarding cell sourcing and conditions for application and privacy protection. hPSCreg is the first global registry that holds both, manually validated scientific and ethical information on hPSC lines, and provides access by means of a user-friendly, mobile-ready web application.</r3d:description>
+                    <r3d:repositoryContact>https://hpscreg.eu/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-03-19">6.832 cell lines, 967 validated hESC lines; 5.572 validated hiPSC lines; 136 clinical studies, 1.934 certificates</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://hpscreg.eu/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>cell data referencing</r3d:keyword>
+                    <r3d:keyword>cell line</r3d:keyword>
+                    <r3d:keyword>cell line authentication</r3d:keyword>
+                    <r3d:keyword>cell line nomenclature</r3d:keyword>
+                    <r3d:keyword>clinical studies</r3d:keyword>
+                    <r3d:keyword>embryonic stem cell</r3d:keyword>
+                    <r3d:keyword>induced pluripotent stem cell</r3d:keyword>
+                    <r3d:keyword>pluripotent stem cell</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Comission, Horizon 2020</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Horizon 2020</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Union</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Europäische Union</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">UE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Union Européen</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://europa.eu/european-union/index_en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:019w4f821</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011219</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_67420</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://european-union.europa.eu/contact-eu_en</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Fraunhofer-Institut für Biomedizinische Technik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Fraunhofer IBMT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Fraunhofer Institute for Biomedical Engineering</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ibmt.fraunhofer.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05tpsgh61</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011236</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158601</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158601</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ibmt.fraunhofer.de/en/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://hpscreg.eu/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://hpscreg.eu/about/documents-and-governance</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://hpscreg.eu/terms</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Cell Line Registration Quick-Start Guide</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://hpscreg.eu/docs/downloads/QuickStartGuideCellLineRegistration.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://hpscreg.eu/about/api</r3d:api>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Partners and Collaborators: https://hpscreg.eu/about/structures-and-partners -- 
+Grant: EU grant agreement No. 726320 --
+European Bank of induced pluripotent Stem Cells (EBiSC) is a not-for-profit iPSC banking initiative to store and distribute iPSC lines (https://ebisc.org/).  If you chose to register your lines in EBiSC, they will also automatically be registered in hPSCreg.</r3d:remarks>
+        <r3d:entryDate>2018-09-12</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

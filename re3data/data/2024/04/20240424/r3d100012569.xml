@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012569</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IEEE DataPort</r3d:repositoryName>
+                    <r3d:additionalName language="eng">DataPort</r3d:additionalName>
+                <r3d:repositoryURL>https://ieee-dataport.org</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.0f24d5</r3d:repositoryIdentifier>
+                <r3d:description language="eng">IEEE DataPort™ is a universally accessible online data repository created, owned, and supported by IEEE, the world’s largest technical professional organization.  It enables all researchers and data owners to upload their dataset without cost. IEEE DataPort makes data available in three ways: standard datasets, open access datasets, and data competition datasets. By default, all &quot;standard&quot; datasets that are uploaded are accessible to paid IEEE DataPort subscribers. Data owners have an option to pay a fee to make their dataset “open access”, so it is available to all IEEE DataPort users (no subscription required). The third option is to host a &quot;data competition&quot; and make a dataset accessible for free for a specific duration with instructions for the data competition and how to participate. IEEE DataPort provides workflows for uploading data, searching, and accessing data, and initiating or participating in data competitions. All datasets are stored on Amazon AWS S3, and each dataset uploaded by an individual can be up to 2TB in size.  Institutional subscriptions are available to the platform to make it easy for all members of a given institution to utilize the platform and upload datasets.</r3d:description>
+                    <r3d:repositoryContact>dataport@ieee.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://ieee-dataport.org/contact</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2017</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://ieee-dataport.org/about-ieee-dataport</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>big data</r3d:keyword>
+                    <r3d:keyword>biological sciences</r3d:keyword>
+                    <r3d:keyword>communications</r3d:keyword>
+                    <r3d:keyword>environmental</r3d:keyword>
+                    <r3d:keyword>financial</r3d:keyword>
+                    <r3d:keyword>geoscience</r3d:keyword>
+                    <r3d:keyword>power and energy</r3d:keyword>
+                    <r3d:keyword>remote sensing</r3d:keyword>
+                    <r3d:keyword>sensors</r3d:keyword>
+                    <r3d:keyword>signal processing</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                    <r3d:keyword>transportation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">IEEE</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Institute of Electrical and Electronics Engineers</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ieee.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01n002310</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_008314</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-24668</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2017</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ieee.org/about/contact.html</r3d:institutionContact>
+                                    <r3d:institutionContact>melissa.handa@ieee.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IEEE Copyright Policy</r3d:policyName>
+                <r3d:policyURL>https://www.ieee.org/publications_standards/publications/rights/copyrightpolicy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms &amp; conditions</r3d:policyName>
+                <r3d:policyURL>https://www.ieee.org/about/help/site-terms-conditions.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of service</r3d:policyName>
+                <r3d:policyURL>https://ieee-dataport.org/terms-service</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submit a Dataset</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://ieee-dataport.org/submit-dataset</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ieee-dataport.org/faq/are-users-ieee-dataport-datasets-required-cite-datasets-their-works</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://ieee-dataport.org/rss.xml</r3d:syndication>
+                <r3d:remarks>IEEE DataPort is covered by Clarivate Data Citation Index</r3d:remarks>
+        <r3d:entryDate>2017-12-05</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

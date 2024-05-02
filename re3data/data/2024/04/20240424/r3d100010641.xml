@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010641</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">MARGINS Data Portal</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.marine-geo.org/collections/#!/collection/MARGINS#summary</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; Margin is now Geoprism  see: https://www.re3data.org/repository/r3d100010639 &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>https://www.marine-geo.org/about/contact.php</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@marine-geo.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-08-24">432 at MGDS</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate>2010</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.marine-geo.org/collections/#!/collection/MARGINS#summary</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>bathymetry</r3d:keyword>
+                    <r3d:keyword>cruises</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>gravity</r3d:keyword>
+                    <r3d:keyword>magnetics</r3d:keyword>
+                    <r3d:keyword>rock samples</r3d:keyword>
+                    <r3d:keyword>sediment samples</r3d:keyword>
+                    <r3d:keyword>seismic reflection data</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                    <r3d:keyword>seismometer studies</r3d:keyword>
+                    <r3d:keyword>sidescan sonar</r3d:keyword>
+                    <r3d:keyword>sound velocity data</r3d:keyword>
+                    <r3d:keyword>tectonophysics</r3d:keyword>
+                    <r3d:keyword>water column XBT</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Lamont-Doherty Earth Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LDEO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://lamont.columbia.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02e2tgs60</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://lamont.columbia.edu/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">GeoPRISMS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Geodynamic Processes at Rifting and Subducting Margins</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: MARGINS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.geoprisms.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2010</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@geoprisms.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Interdisciplinary Earth Data Alliance</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IEDA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iedadata.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02fjjnc15</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006739</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156096</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.iedadata.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Marine Geoscience Data System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MGDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.marine-geo.org/index.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_002164</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_154713</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.marine-geo.org/about/contact.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>MARGINS Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nsf-margins.org/DataPolicy.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>MGDS Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.marine-geo.org/about/terms_of_use.php</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NSF Division of Ocean Sciences (OCE) Sample and Data Policy</r3d:policyName>
+                <r3d:policyURL>https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17037&amp;org=NSF</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/us/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://www.marine-geo.org/tools/web_services.php</r3d:api>
+                    <r3d:api apiType="other">https://www.ogc.org/standards/wms</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.marine-geo.org/about/terms_of_use.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">other</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Description: The MARGINS Data Portal was established in fall 2003 in response to a program call for a dedicated data system to facilitate open and timely exchange of data in support of the interdisciplinary science goals of the program. The Data Portal has been built with the primary goal of providing full cataloging, open access, and long-term preservation of data collected during MARGINS/GeoPRISMS programs. The backbone of the system is an expedition metadata catalog, which provides information on field programs (who, what, when and where), inventories of sensor data and samples, relevant metadata and the links to associated data files which reside either within the Data Portal or at distributed repositories. The system is designed to leverage all relevant existing data resources and provides a framework for a broader distributed data system.</r3d:remarks>
+        <r3d:entryDate>2014-01-13</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

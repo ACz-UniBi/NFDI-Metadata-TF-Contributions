@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010585</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">E. coli Genetic Resources at Yale</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CGSC</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Coli Genetic Stock Center</r3d:additionalName>
+                <r3d:repositoryURL>https://cgsc2.biology.yale.edu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.1tbrdz</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00100377</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_002303</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-21083</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The CGSC Database of E. coli genetic information includes genotypes and reference information for the strains in the CGSC collection, the names, synonyms, properties, and map position for genes, gene product information, and information on specific mutations and references to primary literature. The public version of the database includes this information and can be queried directly via this CGSC DB WebServer</r3d:description>
+                    <r3d:repositoryContact>cgsc@yale.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://cgsc2.biology.yale.edu/ContactInfo.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1989</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://cgsc2.biology.yale.edu/DatabaseInfo.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Escherichia coli</r3d:keyword>
+                    <r3d:keyword>gene product information</r3d:keyword>
+                    <r3d:keyword>genotypes</r3d:keyword>
+                    <r3d:keyword>mutation</r3d:keyword>
+                    <r3d:keyword>non-pathogenic strains</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California at Los Angeles, Department of Molecular, Cellular, and Developmental Biology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCLA mcdb</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mcdb.ucla.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Yale University, Coli Genetic Stock Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CGSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://biology.yale.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_002303</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cgsc2.biology.yale.edu/AcadCharges.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Notice 7/1/2023-- Unfortunately due to limited resources, the CGSC has had to suspend the distribution of strains indefinetely. The collection is still being maintaned, and the web database will remain up as a resource to the bacterial genetics community. We hope to be able to resume strain distributions at some future date.</r3d:remarks>
+        <r3d:entryDate>2014-01-13</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

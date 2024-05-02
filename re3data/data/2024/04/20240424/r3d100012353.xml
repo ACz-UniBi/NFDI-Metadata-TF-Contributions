@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012353</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Centre for Astronomical Data of the Institute of Astronomy of the Russian Academy of Sciences</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CAD INASAN</r3d:additionalName>
+                <r3d:repositoryURL>http://www.inasan.ru/en/divisions/dpss/cad/</r3d:repositoryURL>
+                <r3d:description language="eng">CAD INASAN was established in 1980 as a branch regional center of the Centre de Donnes Stellaire (CDS). Since that time, the CAD has been working to distribute, create and store astronomical data according to the requirements of time, specifics of techniques and requests of the Russian astronomical community. At present, the staff of the CAD is maintaining mirrors of several major astronomical data resources, keeping a record of Russian astronomical data resources, and is working to create new astronomical data resources. Since 2002, we are the important part of the Russian Virtual Observatory project (member of the International Virtual Observatory Alliance - IVOA). The CAD archive is based on astronomical catalogues received from Strasbourg since 1980. Several well known astronomical archives and databases are also stored at INASAN (e.g. VizieR, ADS, INES, VALD). At present CAD coordinates work on the Russian Virtual Observatory (RVO) project</r3d:description>
+                    <r3d:repositoryContact>http://www.inasan.ru/en/staff/</r3d:repositoryContact>
+                    <r3d:repositoryContact>olgad@inasan.ru</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>http://www.inasan.ru/en/divisions/dpss/cad/#napravlenie</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Astrophysics Data System - ADS</r3d:keyword>
+                    <r3d:keyword>Binary and multiple stars DataBase - BDB</r3d:keyword>
+                    <r3d:keyword>Catalogue of Eclipsing Variables - CEV</r3d:keyword>
+                    <r3d:keyword>GCVS</r3d:keyword>
+                    <r3d:keyword>INASAN Zvenigorod observatory photoplates database</r3d:keyword>
+                    <r3d:keyword>Russian Virtual Observatory</r3d:keyword>
+                    <r3d:keyword>VALD</r3d:keyword>
+                    <r3d:keyword>VizieR</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Institute of Astronomy of the Russian Academy of Sciences</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">INASAN</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="rus">Институт астрономии Академии наук CCCP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>RUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.inasan.ru/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.inasan.ru/en/main/contacts/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>World Data System Data Sharing Principles</r3d:policyName>
+                <r3d:policyURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2017-04-24</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

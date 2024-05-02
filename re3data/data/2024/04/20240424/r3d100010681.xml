@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010681</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Italian Centre for Astronomical Archive</r3d:repositoryName>
+                    <r3d:additionalName language="ita">Centro Italiano Archivi Astronomici</r3d:additionalName>
+                    <r3d:additionalName language="eng">IA2</r3d:additionalName>
+                <r3d:repositoryURL>https://www.ia2.inaf.it/</r3d:repositoryURL>
+                <r3d:description language="eng">The long-term goal of this project is to implement a new strategy for preserving and providing access to the Astrophysical data heritage.
+IA2 is an ambitious Italian Astrophysical research infrastructure project that aims at co-ordinating different national initiatives to improve the quality of astrophysical data services. It aims at co-ordinating these developments and facilitating access to this data for research purposes.
+The first working target, is the implementation of the TNG Long-Term Archive (LTA). Its feasibility was demonstrated by the LTA pilot project prototype, funded by CNAA in 2001 and completed successfully in July 2002. The implementation of the TNG archive implies:
+− interfacing with the Centro &quot;Galileo Galilei&quot; (CGG) for the acquisition of TNG data;
+− long-term storage of scientific, technical and auxiliary data from the TNG;
+− providing accessibility by the CGG staff and by the scientific community to original and derived data;
+− providing tools to support the life cycle of observing proposals.
+The second target of the proposal aims at ensuring harmonization with other projects related to archiving of data of astrophysical interest, with particular reference to projects involving the Italian astronomical community (LBT, VST, GSC-II, DPOSS, …), to the Italian Solar and Solar System Physics community (SOLAR, SOLRA, ARTHEMIS which form SOLARNET – a future node of EGSO) and to the national and international coordination efforts fostering the idea of a multiwavelength Virtual Astronomical Observatory, and the use of the archived data through the Italian Astronomical Grid.</r3d:description>
+                    <r3d:repositoryContact>ia2@inaf.it</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>ita</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                <r3d:missionStatementURL>https://www.ia2.inaf.it/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>ASIAGO</r3d:keyword>
+                    <r3d:keyword>BaSTI</r3d:keyword>
+                    <r3d:keyword>EGSO</r3d:keyword>
+                    <r3d:keyword>ITVO</r3d:keyword>
+                    <r3d:keyword>LBT</r3d:keyword>
+                    <r3d:keyword>Molaro ULP</r3d:keyword>
+                    <r3d:keyword>Nonino ATGC</r3d:keyword>
+                    <r3d:keyword>REM</r3d:keyword>
+                    <r3d:keyword>SOLAR</r3d:keyword>
+                    <r3d:keyword>SOLARNET</r3d:keyword>
+                    <r3d:keyword>SOLRA</r3d:keyword>
+                    <r3d:keyword>TNG</r3d:keyword>
+                    <r3d:keyword>Telescopio Natzionale Galileo</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Fundacion Galileo Galilei - INAF, Telescopio Nazionale Galileo, Fundacion Canaria</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FGG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ESP</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tng.iac.es/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>secretary_at_tng.iac.es</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="ita">Istituto Nazionale di Astrofisica</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">INAF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ita">National Institute for Astrophysics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.inaf.it/it</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>IA2@oats.inaf.it</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Sharing &amp; Preservation</r3d:policyName>
+                <r3d:policyURL>https://www.ia2.inaf.it/index.php/ia2-services/data-sharing-preservation</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.tng.iac.es/news/2009/02/01/data_policy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                    <r3d:certificate>WDS</r3d:certificate>
+                                <r3d:remarks>IA2 is aiming for regular ICSU-WDS membership . The Letter of Agreement (LoA) is Pending (08.01.2019) . 
+IA2, through the VObs.it project, is partner  of the International Virtual Observatory Alliance (IVOA).</r3d:remarks>
+        <r3d:entryDate>2014-02-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011065</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Global Terrestrial Network for Permafrost</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GTN-P Database</r3d:additionalName>
+                <r3d:repositoryURL>http://gtnpdatabase.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2410-2385</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The GTN-P database is an object-related database open for a diverse range of data. Because of the complexity of the PAGE21 project, data provided in the GTN-P management system are extremely diverse, ranging from active-layer thickness measurements once per year to flux measurement every second and everthing else in between. The data can be assigned to two broad categories: Quantitative data which is all data that can be measured numerically. Quantitative data comprise all in situ measurements, i.e. permafrost temperatures and active layer thickness (mechanical probing, frost/thaw tubes, soil temperature profiles). Qualitative data (knowledge products) are observations not based on measurements, such as observations on soils, vegetation, relief, etc.</r3d:description>
+                    <r3d:repositoryContact>gtnpdatabase@arcticportal.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@articportal.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-06-05">1.386 boreholes; 255 active layers</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://gtnp.arcticportal.org/about-the-gtnp</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>climate variables</r3d:keyword>
+                    <r3d:keyword>earth climate system</r3d:keyword>
+                    <r3d:keyword>earth observation data</r3d:keyword>
+                    <r3d:keyword>ice</r3d:keyword>
+                    <r3d:keyword>land management</r3d:keyword>
+                    <r3d:keyword>permafrost</r3d:keyword>
+                    <r3d:keyword>temperature</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">AWI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Alfred Wegener Institute - Helmholtz Centre for Polar and Marine Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.awi.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:032e6b942</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.awi.de/ueber-uns/service/kontakt.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Arctic Portal</r3d:institutionName>
+                                <r3d:institutionCountry>ISL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://arcticportal.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00zpk0t94</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@articportal.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission,  Community Research and Development Information Service, Seventh Framework Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Changing permafrost in the Arctic and its Global Effects in the 21st Century</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Page 21</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.page21.eu/about</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate>2013</r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>hans-wolfgang.hubberten@awi.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Terrestrial Network for Permafrost</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GTN-P</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ISL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://gtnp.arcticportal.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://gtnp.arcticportal.org/about-the-gtnp/staff</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Terrestrial Observing System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GTOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fao.org/geospatial/projects/detail/en/c/1035185/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Permafrost Association</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IPA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.permafrost.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact@ipa-permafrost.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Meteorological Organization, Global Climate Observing System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GCOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>sponsoring</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://public.wmo.int/en/programmes/global-climate-observing-system</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2014</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>gcos@wmo.int</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data policies</r3d:policyName>
+                <r3d:policyURL>https://gtnp.arcticportal.org/index.php/help/15-database/15-data-policies</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://gtnp.arcticportal.org/index.php/component/content/article/15-data/database/15-data-policies</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>EPrints</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://gtnp.arcticportal.org/data/database-management-system</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://gtnp.arcticportal.org/index.php/component/content/article/19-data/mining/87-tutorial-citations</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">http://gtnpdatabase.org/boreholes</r3d:syndication>
+                <r3d:remarks>All participant organizations of the GTN-P Database: https://gtnp.arcticportal.org/index.php/about-the-gtnp/organizations</r3d:remarks>
+        <r3d:entryDate>2014-06-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013011</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Town of Ajax Open Data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Ajax Open Data</r3d:additionalName>
+                <r3d:repositoryURL>https://opendata.ajax.ca/</r3d:repositoryURL>
+                <r3d:description language="eng">Free and open access to data from the Town of Ajax. This website includes downloadable data, interactive maps, and more.</r3d:description>
+                    <r3d:repositoryContact>GISServices@ajax.ca</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2024-02-13">20 datasets; 2 documents</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>community services</r3d:keyword>
+                    <r3d:keyword>education</r3d:keyword>
+                    <r3d:keyword>housing</r3d:keyword>
+                    <r3d:keyword>planning and development</r3d:keyword>
+                    <r3d:keyword>recreation</r3d:keyword>
+                    <r3d:keyword>transportation</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Town of Ajax</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ajax.ca/en/index.aspx</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ago-item-storage.s3.amazonaws.com/22e2d8e248724d7cb0310dc2db675abd/OpenDataLicenceAgreement.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCO7nVITHcgd1TJ%2BOg99latg8rdHrWKLqEDjILZZ1GLmQIhANvnTrBgz7VZY5xX0nDv0KfgwGlba6bjvz5X4yGZkODJKrMFCG4QABoMNjA0NzU4MTAyNjY1IgzH%2FjP5wtcKVmIZ2GEqkAXt5dkO%2BZ04Vx1yFI1IwBPHeFdvms9nl1Y1Z%2BHUwIw0KFCCMOGR5cSyK99JbLVYnW0JCsqn2vlGIGRDFrVcIH9PtAcWKHSnqfl2GX0308uZk4A%2FJKvBaH5f8txnK0fsIDKQLmVdylcQY0u3tThXLTZBpIVEyqpLJejcRQ9hQFe%2F11OBHrXTz2RyXMZxsqI6n%2FTgjO2DSFWQhfidWiec08jyDnfVA7HtE2AqjMqZTfc4VxYRrafAOylwGG%2Fmaor93e5j7r%2F5Cfg%2Fphxb59GNdBHPX9fxhqjFSiRVb6nHIKXBkl%2BBCSEgtT1CNgm460nMuNtvA%2FMCzydpSH8e7rAMZy7knzAxceNTVYenYWxvulS6l8TkvDker%2Fb6T1zK4DHFhzr0xzC1yOluhChLjXXH5vFuKLOkJAs%2FCA44HDmarRb%2FxcDVqTHgmP8sa2a4d8e8Z0nE0g%2Bw6IKcA0rR9d%2F%2BGin6pmlon%2FnVx9jEiAeZLXqG6fQd9hsOKUiu%2B%2FoXI9AKrDXdl%2BQ370djsmA9%2FTqq6Z0ClhynxSU3Uqhi1owxQGMT8dzm%2FLomFGWYImvICiLkJooqtCbrRC3wYBP1foTD9aphP0W8ViGQ%2Bb8nmC%2B2KlPFoZbTyuYzTYtAUKMDA5jXJyR%2FYqt6w6JaZpjNkvhTVJSS4XgH1ktPzIZNAoK8lO62qJ8jbUaGzE7AsdyaYhV%2B%2FT19YzPZ0sPFL8IlBobq4eaQK2SoNhRqSfd4EXJJJ0ooDIYBTQj%2BZVK82RKeVpzKqcSapT7mMtxOs7tLJuWpnbBH%2FOK7NdlZWVOp2zMP3dEXWZ7tYs%2BeqhDcZaq1c%2F47F2Rhi7bk547vrexyK%2F%2Bc7QTviFQ56%2B1QgjU4euZzvwTkJTD186uuBjqwASAHoAU%2FlnuQTve510tjnP%2BWLt1%2B%2FZk95rV4QRMeTLLBWhWirNnpREpbkzvC7Sh0zaCU9UayJZXbq86HArH4jve8bvW%2BkK6pUwMi1L5aVLBmpV33qUT%2B8hYExmUIIi9%2Bk32NymVYo8rBwy6z0nAVbC6DDQ1Yzd7XJBxqjXBAxPsjpZfKuu6gzf%2FA6Q2QRRc%2FlMCxFySwmQOTdiug6gMccE%2BM%2BkdrjrEVfMqhrtI1pS98&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20240213T061138Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAYZTTEKKEVZWYKUSQ%2F20240213%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=cade8d0eac7dd211851a97a07a351eb426f8a0d17cac48e2b321b81ed34191fe</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://github.com/Esri/hub-py</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2019-03-21</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

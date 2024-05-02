@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012234</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Worldpop</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.worldpop.org/</r3d:repositoryURL>
+                <r3d:description language="eng">High spatial resolution, contemporary data on human population distributions are a prerequisite for the accurate measurement of the impacts of population growth, for monitoring changes and for planning interventions. The WorldPop project aims to meet these needs through the provision of detailed and open access population distribution datasets built using transparent approaches.
+The WorldPop project was initiated in October 2013 to combine the AfriPop, AsiaPop and AmeriPop population mapping projects. It aims to provide an open access archive of spatial demographic datasets for Central and South America, Africa and Asia to support development, disaster response and health applications. The methods used are designed with full open access and operational application in mind, using transparent, fully documented and peer-reviewed methods to produce easily updatable maps with accompanying metadata and measures of uncertainty.</r3d:description>
+                    <r3d:repositoryContact>https://www.worldpop.org/contactus</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@worldpop.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2013-10</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.worldpop.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Africa</r3d:keyword>
+                    <r3d:keyword>Asia</r3d:keyword>
+                    <r3d:keyword>South America</r3d:keyword>
+                    <r3d:keyword>census</r3d:keyword>
+                    <r3d:keyword>demography</r3d:keyword>
+                    <r3d:keyword>population dynamics</r3d:keyword>
+                    <r3d:keyword>satellite data</r3d:keyword>
+                    <r3d:keyword>socioeconomics</r3d:keyword>
+                    <r3d:keyword>world events</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">University Southhamption, GeoData Institute</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.geodata.soton.ac.uk/geodata/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.geodata.soton.ac.uk/geodata/contacts/</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://www.worldpop.org/rest/data</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.worldpop.org/faq</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>WorldPop datasets have been downloaded by researchers and policy makers from countries across the World, including 95% of the countries mapped by the project, resulting in valuable feedback and improvements to products. The data have been downloaded and used by a wide range of governments agencies, including for example, the Zimbabwe Parks and Wildlife Management Authority (Zimbabwe), SNLS (Guinea Bissau), The Regional Center for Mapping of Resources for Development (Kenya), Programme National de Développement Participatif (Cameroon), National Emergency Management Agency (Nigeria), Ministère des travaux public (Benin), Somaliland National Aids Commission (Somalia), Kerala Sustainable Urban Development Programme (India), Central Agency for Public Mobilization and Statistics (Egypt), and the Ministère de l&#039;Environnement et des ressources forestières (Togo). Many international organizations, foundations and agencies have obtained and utilized WorldPop outputs, including: UNDP, UNEP, FAO, WHO, The World Bank, WFP, WWF, CDC, MSF, Population Council, Bill &amp; Melinda Gates Foundation, Clinton Health Access Initiative, DFID, USGS, Red Cross International, UNOCHA and MapAction   //  WorldPop datasets are contributed to the Global Earth Observation Sistema of Systems (GEOSS) as  GEOSS Data Collection of Open resources for Everyone(GEOSS Data CORE).  //  Funders:  https://www.worldpop.org/acknowledgements  //   
+Information to API: https://www.worldpop.org/sdi/introapi  //
+Worldpop is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2016-11-23</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

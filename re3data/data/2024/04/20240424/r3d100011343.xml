@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011343</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Biological Collection Access Service for Europe</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BioCASe</r3d:additionalName>
+                <r3d:repositoryURL>https://www.biocase.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>https://fairsharing.org/4209</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Biological Collection Access Service for Europe, BioCASE, is a transnational network of biological collections of all kinds. BioCASE enables widespread unified access to distributed and heterogeneous European collection and observational databases using open-source, system-independent software and open data standards and protocols.</r3d:description>
+                    <r3d:repositoryContact>support@biocase.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.biocase.org/whats_biocase/index.shtml</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>botany</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Freie Universität Berlin, Botanischer Garten und Botanisches Museum Berlin-Dahlem</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BGBM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bgbm.org/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00bv4cx53</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.biocase.org/help_desk/index.shtml</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>GBIF Data publisher agreement</r3d:policyName>
+                <r3d:policyURL>https://www.gbif.org/terms/data-publisher</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>GBIF Terms of use</r3d:policyName>
+                <r3d:policyURL>https://www.gbif.org/terms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Imprint BGBM</r3d:policyName>
+                <r3d:policyURL>https://www.bgbm.org/en/imprint</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.gbif.org/terms/data-user</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>open</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Code of Conduct for Data and Portal Nodes</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://search.biocase.org/edit/search/units/gbifAgreement/</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                    <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>GBIF Data Sharing Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.gbif.org/terms/data-publisher</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.gbif.org/terms/data-user</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ABCD - Access to Biological Collection Data</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.biocase.org/rss.xml</r3d:syndication>
+                <r3d:remarks>is covered by Elsevier. BioCASE builds on the predecessor projects CDEFD, BioCISE, and ENHSIN. These laid the groundwork for implementing a fully functional service unlocking the immense biological knowledge base formed by biological collections. 
+BioCASE and GBIF have overlapping objectives. Both cover collection data, but GBIF concentrates on digitised unit-level resources, whereas BioCASE includes also metadata on non-databased collections. Projects and Initiatives related to BioCASE are: https://www.biocase.org/partners_links/index.shtml
+BioCASe is the GBIF Participant Node for the Consortium of European Taxonomic Facilities , so the secretariat in Berlin is able to endorse data publishers for the GBIF network</r3d:remarks>
+        <r3d:entryDate>2015-01-19</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

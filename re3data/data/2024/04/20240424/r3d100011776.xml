@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011776</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Swedish Meteorological and Hydrological Institute  open data</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SMHI  open data</r3d:additionalName>
+                    <r3d:additionalName language="swe">SMHI Öppna data</r3d:additionalName>
+                <r3d:repositoryURL>https://www.smhi.se/data/utforskaren-oppna-data/</r3d:repositoryURL>
+                <r3d:description language="eng">SMHI&#039;s observation stations collect large quantities of data, including temperature, precipitation, wind, air pressure, lightning, solar radiation and ozone. Satellites and radar installations are also important sources. Data is presented continuously on smhi.se and used in SMHI&#039;s various weather services.
+In the Explorer SMHI’s data ( http://opendata-catalog.smhi.se/explore/ ) you find data available with open access (in Swedish). Information in English on Oceanographic observations, Model data (HIROMB BS01), Machine to machine – feeds, and Conditions of use.</r3d:description>
+                    <r3d:repositoryContact>http://www.smhi.se/en/contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>smhi@smhi.se</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.smhi.se/en/about-smhi/what-we-do/observations-and-data-air-lakes-waterways-and-seas-1.83759</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Arome</r3d:keyword>
+                    <r3d:keyword>Besan</r3d:keyword>
+                    <r3d:keyword>HIRLAM</r3d:keyword>
+                    <r3d:keyword>HIROMB BS01</r3d:keyword>
+                    <r3d:keyword>climatology</r3d:keyword>
+                    <r3d:keyword>hydrology</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Swedish Meteorological and Hydrological Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SMHI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="swe">Sveriges meteorologiska och hydrologiska institut</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SWE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.smhi.se/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Conditions of use</r3d:policyName>
+                <r3d:policyURL>http://www.smhi.se/en/services/open-data/conditions-of-use-1.33347</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Mer och mer öppna data</r3d:policyName>
+                <r3d:policyURL>http://www.smhi.se/omsmhi/policys/datapolicy/mer-och-mer-oppna-data-1.8138</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Villkor för användning</r3d:policyName>
+                <r3d:policyURL>https://www.smhi.se/data/oppna-data/villkor-for-anvandning-1.30622</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>code of conduct of SMHI</r3d:policyName>
+                <r3d:policyURL>http://www.smhi.se/polopoly_fs/1.98502!/Menu/general/extGroup/attachmentColHold/mainCol1/file/The%20Code%20of%20Conduct%20of%20SMHI.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.smhi.se/en/services/open-data/conditions-of-use-1.33347</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">http://opendata.smhi.se/apidocs/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="ATOM">http://opendata-download-grid-archive.smhi.se/feed/2</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-03-07</r3d:entryDate>
+        <r3d:lastUpdate>2022-06-15</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010755</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NEA Data Bank Computer Program Services</r3d:repositoryName>
+                <r3d:repositoryURL>https://www.oecd-nea.org/dbcps/</r3d:repositoryURL>
+                <r3d:description language="eng">The Data Bank operates a computer program service related to nuclear energy applications. The software library collects programs, compiles and verifies them in an appropriate computer environment, ensuring that the computer program package is complete and adequately documented.
+This collection of material contains more than 2000 documented packages and group cross-section data sets. We distribute these codes on CD-ROM, DVD and via electronic transfer to about 900 nominated NEA Data Bank establishments (see the rules for requesters).
+Standard software verification procedures are used following an ANSI/ANS standard.</r3d:description>
+                    <r3d:repositoryContact>programs@oecd-nea.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2000</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">307 Condensed Matter Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.oecd-nea.org/jcms/rni_6525/data-bank</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>computer codes</r3d:keyword>
+                    <r3d:keyword>environmental impact</r3d:keyword>
+                    <r3d:keyword>gamma heating</r3d:keyword>
+                    <r3d:keyword>nuclear models calculations</r3d:keyword>
+                    <r3d:keyword>nuclear safety</r3d:keyword>
+                    <r3d:keyword>nuclear waste management</r3d:keyword>
+                    <r3d:keyword>reactor design</r3d:keyword>
+                    <r3d:keyword>reactor economics</r3d:keyword>
+                    <r3d:keyword>spectrum calculations</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">OECD Nuclear Energy Agency, Computer Program Services</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NEA, CPS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.oecd-nea.org/dbcps/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>programs@oecd-nea.org</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>OECD Science and technology policy</r3d:policyName>
+                <r3d:policyURL>https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=OCDE/GD(95)136&amp;docLanguage=En</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>OECD Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://www.oecd.org/termsandconditions/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.oecd.org/termsandconditions/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.oecd-nea.org/dbcps/general/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.oecd.org/termsandconditions/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Data can be orderered through local NEA Liaison Officers. Find a list here https://www.oecd-nea.org/dbcps/pretlo.cgi?db</r3d:remarks>
+        <r3d:entryDate>2014-02-14</r3d:entryDate>
+        <r3d:lastUpdate>2021-12-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

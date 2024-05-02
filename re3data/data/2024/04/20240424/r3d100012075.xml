@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012075</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">D-PLACE</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Database of Places, Language, Culture and Environment</r3d:additionalName>
+                <r3d:repositoryURL>https://d-place.org</r3d:repositoryURL>
+                <r3d:description language="eng">D-PLACE contains cultural, linguistic, environmental and geographic information for over 1400 human ‘societies’. A ‘society’ in D-PLACE represents a group of people in a particular locality, who often share a language and cultural identity. All cultural descriptions are tagged with the date to which they refer and with the ethnographic sources that provided the descriptions. The majority of the cultural descriptions in D-PLACE are based on ethnographic work carried out in the 19th and early-20th centuries (pre-1950).</r3d:description>
+                    <r3d:repositoryContact>dplace@shh.mpg.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://d-place.org/contact</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">101 Ancient Cultures</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://d-place.org/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Binford Hunter-Gatherer</r3d:keyword>
+                    <r3d:keyword>Ethnographic Atlas (EA)</r3d:keyword>
+                    <r3d:keyword>Glottolog code</r3d:keyword>
+                    <r3d:keyword>anthropological</r3d:keyword>
+                    <r3d:keyword>archaeological</r3d:keyword>
+                    <r3d:keyword>cross-cultural</r3d:keyword>
+                    <r3d:keyword>cross-disciplinary</r3d:keyword>
+                    <r3d:keyword>cultural diversity</r3d:keyword>
+                    <r3d:keyword>cultural features</r3d:keyword>
+                    <r3d:keyword>evolution</r3d:keyword>
+                    <r3d:keyword>language family</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Institute for the Science of Human history</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Institut für Menschheitsgeschichte</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.shh.mpg.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05mjrzy91</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Society</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Gesellschaft</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpg.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01hhn8329</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Triangle Center for Evolutionary Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TriCEM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: NESCent</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: National Evolutionary Synthesis Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://tricem.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Sources</r3d:policyName>
+                <r3d:policyURL>https://d-place.org/source</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Imprint</r3d:policyName>
+                <r3d:policyURL>https://d-place.org/legal</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://github.com/D-PLACE/dplace/blob/master/LICENSE</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://github.com/NESCent/fcdb-api</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://d-place.org/howtocite</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>While D-PLACE is designed to be expandable, most of the initial cultural data in D-PLACE were originally compiled by two anthropologists, George P. Murdock and Lewis R. Binford, each relying on hundreds of individual references.
+D-PLACE was developed by an international team of scientists interested in cross-cultural research. It includes researchers from Max Planck Institute for the Science of Human history in Jena Germany, University of Auckland, Colorado State University, University of Toronto, University of Bristol, Yale, Human Relations Area Files, Washington University in Saint Louis, and the University of Michigan.</r3d:remarks>
+        <r3d:entryDate>2016-07-25</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-09</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

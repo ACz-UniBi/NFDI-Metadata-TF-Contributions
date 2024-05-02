@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100000021</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Chemical Database Service</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CDS</r3d:additionalName>
+                    <r3d:additionalName language="eng">CrystalWorks Server</r3d:additionalName>
+                    <r3d:additionalName language="eng">STFC Chemical Database Service</r3d:additionalName>
+                <r3d:repositoryURL>http://cds.dl.ac.uk/</r3d:repositoryURL>
+                <r3d:description language="eng">Most or all of the features are no longer available via the CDS/DL website since provision of the EPSRC UK national Chemical Database Service has been taken over by the Royal Society of Chemistry from 1st January 2013. Daresbury now offers reduced database access, but CrystalWorks developments continue here. 
+Some related features may be available via the RSC/CSD portal. For details of what is currently available on the CDS/DL website and also links to the RSC/CDS portal follow the link to the CDS/DL Homepage.   //  The service gives on-line access to a rich variety of quality databases in fields relating to chemistry. The CDS team also provides general support, training and advice.</r3d:description>
+                    <r3d:repositoryContact>cdsbb@stfc.ac.uk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2010</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://cds.dl.ac.uk/cds/service_info/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>chemistry</r3d:keyword>
+                    <r3d:keyword>crystallography</r3d:keyword>
+                    <r3d:keyword>materials</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">UKRI, Daresbury Laboratory</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/who-we-are/stfc/locations/daresbury-laboratory/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0089bg420</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>enquiries@stfc.ac.uk</r3d:institutionContact>
+                                    <r3d:institutionContact>https://www.ukri.org/who-we-are/stfc/locations/daresbury-laboratory/how-to-find-us/#contents-list</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UKRI, Engineering and Physical Sciences Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EPSRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ukri.org/councils/epsrc/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0439y7842</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013495</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ukri.org/who-we-are/epsrc/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Acceptable Use Policy</r3d:policyName>
+                <r3d:policyURL>https://community.jisc.ac.uk/library/acceptable-use-policy</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Eligibility and Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://cds.dl.ac.uk/cgi-bin/reg/cou</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cds.dl.ac.uk/cgi-bin/reg/cou</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://twitter.com/cds_daresbury</r3d:syndication>
+                <r3d:remarks>The Chemical Database Service at Daresbury has now ceased providing general user access. An EPSRC funded national service is now operated by the Royal Society of Chemistry. For further details of this service go to the CDS/RSC website:   http://cds.rsc.org/.
+Please note, however, that access to various components of the original CDS at Daresbury is still possible from within the STFC domain. Daresbury now offers reduced database access, but &quot;CrystalWorks&quot;  developments continue here.</r3d:remarks>
+        <r3d:entryDate>2012-08-26</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-19</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

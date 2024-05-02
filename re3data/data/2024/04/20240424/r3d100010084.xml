@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010084</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Historical hydrographic data from BSH</r3d:repositoryName>
+                    <r3d:additionalName language="deu">Historische hydrographische Daten des BSH</r3d:additionalName>
+                <r3d:repositoryURL>https://www.cen.uni-hamburg.de/en/icdc/data/ocean/historical-hydrographic-bsh.html</r3d:repositoryURL>
+                <r3d:description language="eng">Thousands of Temperature and salinity profiles obtained by means of Nansen hydrographic casts and available earlier only as station sheets have been digitized at the German Maritime and Hydrographic Agency (BSH).
+In a cooperative effort between the KlimaCampus of the University of Hamburg and  the German Oceanographic Data Centre (DOD, Hamburg) about 7500 hydrographic profiles  were checked and identified as missing in the international oceanographic databases. Since most of the profiles were obtained in the decades before the second World War they represent an important extension of the international historical database and a respective contribution to the IOC Global Oceanographic Data Archeology and Rescue Project (GODAR). Since 2009 our efforts resulted in locating about 7500 hydrographic profiles that are not yet available for the oceanographic community.</r3d:description>
+                    <r3d:repositoryContact>https://www.cen.uni-hamburg.de/en/icdc/data/ocean/historical-hydrographic-bsh.html#kontakt</r3d:repositoryContact>
+                    <r3d:repositoryContact>viktor.gouretski@uni-hamburg.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2019-11-27">7.500 hydrographic profiles</r3d:size>
+        <r3d:startDate>2009</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.cen.uni-hamburg.de/en/icdc/data/ocean/historical-hydrographic-bsh.html#beschreibung</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Nansen</r3d:keyword>
+                    <r3d:keyword>hydrography</r3d:keyword>
+                    <r3d:keyword>oceanography</r3d:keyword>
+                    <r3d:keyword>salinity data</r3d:keyword>
+                    <r3d:keyword>temperature distribution</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Bundesamt für Seeschiffahrt und Hydrographie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BSH</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">DOD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bsh.de/DE/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03ycvrj88</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">KlimaCampus, Integrated Climate Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">KlimaCampus Hamburg</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.klimacampus-hamburg.de/start/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Universität Hamburg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">University of Hamburg</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-hamburg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00g30e956</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012922</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Hamburg, Institut für Meereskunde, Integrated Climate Data Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">ICDC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">ZMAW</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cen.uni-hamburg.de/icdc.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>viktor.gouretski@zmaw.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>copyright</r3d:policyName>
+                <r3d:policyURL>https://www.cen.uni-hamburg.de/en/imprint.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.cen.uni-hamburg.de/en/icdc/data/ocean/historical-hydrographic-bsh.html#zitat</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://spdx.org/licenses/CC-BY-4.0.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.klimacampus-hamburg.de/impressum/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="other">https://icdc.cen.uni-hamburg.de/thredds/catalog.html</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.cen.uni-hamburg.de/en/icdc/data/ocean/historical-hydrographic-bsh.html#zitat</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                <r3d:remarks>Part of &#039;Integrated Climate Data Center&#039; r3d100010405</r3d:remarks>
+        <r3d:entryDate>2012-09-10</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

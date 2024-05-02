@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010278</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The ROSAT Mission</r3d:repositoryName>
+                    <r3d:additionalName language="deu">Rönten-Astronomie-Wave</r3d:additionalName>
+                    <r3d:additionalName language="eng">x-ray satellite</r3d:additionalName>
+                <r3d:repositoryURL>https://www.mpe.mpg.de/ROSAT</r3d:repositoryURL>
+                <r3d:description language="eng">On June 1, 1990 the German X-ray observatory ROSAT started its mission to open a new era in X-ray astronomy. Doubtless, this is the most ambitious project realized up to now in the short history of this young astronomical discipline. Equipped with the largest imaging X-ray telescope ever inserted into an earth orbit ROSAT has provided a tremendous amount of new scientific data and insights.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2013-06-13">about 80.000 cosmic X-ray sources; 6000 sources in the extreme ultraviolet regime</r3d:size>
+        <r3d:startDate>1990-06-01</r3d:startDate>
+        <r3d:endDate>1999-02-12</r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">311 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://projects.mpe.mpg.de/heg/rosat/mission/rosat/mission.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>atmosphere</r3d:keyword>
+                    <r3d:keyword>galaxy</r3d:keyword>
+                    <r3d:keyword>high resolution imager HRI</r3d:keyword>
+                    <r3d:keyword>observations</r3d:keyword>
+                    <r3d:keyword>position sensitive proportional counter</r3d:keyword>
+                    <r3d:keyword>spectroscopy</r3d:keyword>
+                    <r3d:keyword>supernova</r3d:keyword>
+                    <r3d:keyword>x-ray telescope XRT</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Federal Ministry of Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BMBF</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bmbf.de/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04pz7b180</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Aerospace Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DARA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsches Zentrum für Luft- und Raumfahrt</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dlr.de/EN/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04bwf3e34</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dlr.de/rd/en/desktopdefault.aspx/tabid-4281/6898_read-10005/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Goddard Space Flight Center, High Energy Astrophysics Science Archive Research Center</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">HEASARC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://heasarc.gsfc.nasa.gov/docs/rosat/rra/RRA.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://heasarc.gsfc.nasa.gov/docs/rosat/archive.html</r3d:institutionContact>
+                                    <r3d:institutionContact>rosathelp@olegacy.gsfc.nasa.gov</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Leibniz-Institut für Astrophysik Potsdam</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">AIP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.aip.de/de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03mrbr458</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>hbrunnerl@lmpe.mpg.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Leicester University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://le.ac.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04h699437</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>mbu@star.le.ac.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Institute for Extraterrestrial Physics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">MPE</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Institut für extraterrestrische Physik</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpe.mpg.de/main</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00e4bwe12</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>xray-info@mpe.mpg.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Smithsonian Astrophysical Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SAO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://pweb.cfa.harvard.edu/about/about-smithsonian-astrophysical-observatory</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04mh52z70</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>rsdc@cfa.harvard.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Tübingen, Institut für Astronomie und Astrophysik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">IAAT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://astro.uni-tuebingen.de/groups/rosat/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>barnstedt@astro.uni-tuebingen.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Protection Information</r3d:policyName>
+                <r3d:policyURL>https://www.mpe.mpg.de/data-protection</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.mpe.mpg.de/impressum</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>On 23 October 2011 at 03:50 CEST, the German research satellite ROSAT re-entered the atmosphere over the Bay of Bengal; it is not known whether any parts of the satellite reached Earth&#039;s surface. Determination of the time and location of re-entry was based on the evaluation of data provided by international partners, including the USA. Another access to mission data at http://heasarc.gsfc.nasa.gov/docs/rosat/rra/RRA.html</r3d:remarks>
+        <r3d:entryDate>2013-06-13</r3d:entryDate>
+        <r3d:lastUpdate>2021-04-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

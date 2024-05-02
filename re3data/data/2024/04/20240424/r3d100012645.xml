@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012645</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HeRBi</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Helmholtz Repository of Bioparts</r3d:additionalName>
+                <r3d:repositoryURL>http://www.herbi.kit.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available.  HeRBi is now part of the European Zebrafish Resource Center  https://www.re3data.org/repository/r3d100011105. Data from HeRBi: https://www.ezrc.kit.edu/search_menu.php &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                    <r3d:repositoryContact>herbi@herbi.kit.edu</r3d:repositoryContact>
+                    <r3d:repositoryContact>j.marienhagen@fz-juelich.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate>2019</r3d:endDate>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://www.herbi.kit.edu/57.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>plasmids</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Albert-Ludwigs-Universität Freiburg</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.uni-freiburg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0245cg223</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004825</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_80780</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@uni-freiburg.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsches Krebsforschungszentrum</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DKFZ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Cancer Research Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dkfz.de/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04cdgtt98</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012942</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_36666</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>kontakt@dkfz.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Forschungszentrum Jülich GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">FZJ</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Research Center Jülich</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.fz-juelich.de/portal/EN/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nv7yv05</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Helmholtz Zentrum München, Deutsches Forschungszentrum für Gesundheit und Umwelt (GmbH)</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HMGU</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Helmholtz Center Munich, German Research Center for Environmental Health</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.helmholtz-muenchen.de/en/index.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cfam450</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013835</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.helmholtz-muenchen.de/en/about-us/service/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Helmholtz-Initiative Synthetische Biologie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Helmholtz Synthetic Biology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.helmholtz.de/index.php?id=3759</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Helmholtz-Zentrum für Infektionsforschung GmbH</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">HZI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Helmholtz Centre for Infection Research</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.helmholtz-hzi.de/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03d0p2685</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@helmholtz-hzi.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KIT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.kit.edu/english/index.php</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04t3en479</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>ROR:nlx_48421</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001552</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>herbi@herbi.kit.edu</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Universität Heidelberg</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Heidelberg University</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni-heidelberg.de/index_e.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:038t36y30</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011280</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_149372</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.uni-heidelberg.de/kontakt.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>License Agreement</r3d:policyName>
+                <r3d:policyURL>http://www.herbi.kit.edu/downloads/license_agreement_Plasmids_EZRC.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.herbi.kit.edu/downloads/license_agreement_Plasmids_EZRC.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>License Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://www.herbi.kit.edu/downloads/license_agreement_Plasmids_EZRC.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>Description:
+Helmholtz Repository of Bioparts (HeRBi) provides plasmids to the scientific community, delocalised within the different Helmholtz centers.</r3d:remarks>
+        <r3d:entryDate>2018-04-18</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-07</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

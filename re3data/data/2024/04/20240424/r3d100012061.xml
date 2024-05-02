@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012061</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Genomic Data Commons</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GDC</r3d:additionalName>
+                    <r3d:additionalName language="eng">Genomic Data Commons Data Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://portal.gdc.cancer.gov/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.RyVjoS</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_014514</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The NCI&#039;s Genomic Data Commons (GDC) provides the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. 
+The GDC obtains validated datasets from NCI programs in which the strategies for tissue collection couples quantity with high quality.
+Tools are provided to guide data submissions by researchers and institutions.</r3d:description>
+                    <r3d:repositoryContact>https://gdc.cancer.gov/support</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@nci-gdc.datacommons.io</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-11-25">86.394 cases;  843.011 files; 21.446 genes; 2.610.557 mutations; 72 projects; 67 priary sites;</r3d:size>
+        <r3d:startDate>2016</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20503 Human Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://gdc.cancer.gov/about-gdc</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CGCI</r3d:keyword>
+                    <r3d:keyword>TARGET</r3d:keyword>
+                    <r3d:keyword>TCGA</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>drugs</r3d:keyword>
+                    <r3d:keyword>genomic profiles</r3d:keyword>
+                    <r3d:keyword>mutations</r3d:keyword>
+                    <r3d:keyword>oncology</r3d:keyword>
+                    <r3d:keyword>patient data</r3d:keyword>
+                    <r3d:keyword>precision medicine</r3d:keyword>
+                    <r3d:keyword>tumor</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Foundation Medicine Inc.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">FMI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.foundationmedicine.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Cancer Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">Instituto Nacional del Cáncer</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NCI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cancer.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:040gcmg81</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>GDC policies</r3d:policyName>
+                <r3d:policyURL>https://gdc.cancer.gov/about-gdc/gdc-policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>NCI Genomic Data Sharing Policy</r3d:policyName>
+                <r3d:policyURL>https://datascience.cancer.gov/data-sharing/genomic-data-sharing</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>dbGaP Application for Controlled Access Data</r3d:policyName>
+                <r3d:policyURL>https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://github.com/NCI-GDC/gdc-docs</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://datascience.cancer.gov/sites/default/files/2019-02/nci-dsp.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>dbGaP Data Submission Procedures</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=HowToSubmit.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://gdc.cancer.gov/developers/gdc-application-programming-interface-api</r3d:api>
+                    <r3d:api apiType="other">https://docs.gdc.cancer.gov/Data_Transfer_Tool/Users_Guide/Getting_Started/</r3d:api>
+                        <r3d:citationGuidelineURL>https://gdc.cancer.gov/about-gdc/gdc-faqs</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The GDC supports several cancer genome programs at the NCI Center for Cancer Genomics (CCG), including The Cancer Genome Atlas (TCGA), Therapeutically Applicable Research to Generate Effective Treatments (TARGET), and the Cancer Genome Characterization Initiative (CGCI).</r3d:remarks>
+        <r3d:entryDate>2016-07-08</r3d:entryDate>
+        <r3d:lastUpdate>2022-11-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

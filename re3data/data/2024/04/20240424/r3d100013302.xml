@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013302</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">EU Clinical Trial Register</r3d:repositoryName>
+                    <r3d:additionalName language="eng">EUCTR</r3d:additionalName>
+                    <r3d:additionalName language="eng">European Union Clinical Trials Register</r3d:additionalName>
+                <r3d:repositoryURL>https://www.clinicaltrialsregister.eu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.566n8c</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The European Union Clinical Trials Register allows you to search for protocol and results information on interventional clinical trials that are conducted in the European Union (EU) and the European Economic Area (EEA) and clinical trials conducted outside the EU / EEA that are linked to European paediatric-medicine development. The EU Clinical Trials Register is part of EudraPharm, which is the community database of authorised medicinal products. The website provides public access to information extracted from the  European Union Drug Regulating Authorities Clinical Trials Database, EudraCT.</r3d:description>
+                    <r3d:repositoryContact>https://www.clinicaltrialsregister.eu/contacts.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2020-07-22">37.606 clinical trials;  18.700 paediatric trials</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.clinicaltrialsregister.eu/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>World Health Organization - WHO</r3d:keyword>
+                    <r3d:keyword>investigational medicinal products - IMP</r3d:keyword>
+                    <r3d:keyword>paediatric investigation plan - PIP</r3d:keyword>
+                    <r3d:keyword>rare disease</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Medicines Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EMA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ema.europa.eu/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01z0wsw92</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Heads of Medicines Agencies</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.hma.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>wikidata:Q16831766</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.hma.eu/contact.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data quality</r3d:policyName>
+                <r3d:policyURL>https://www.clinicaltrialsregister.eu/dataquality.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Legal basis</r3d:policyName>
+                <r3d:policyURL>https://www.clinicaltrialsregister.eu/about.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ema.europa.eu/en/about-us/legal-notice</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning>yes</r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.clinicaltrialsregister.eu/ctr-search/rest/feed/bydates?query=</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-04-24</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-22</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010385</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">Deutsches Textarchiv</r3d:repositoryName>
+                    <r3d:additionalName language="deu">DTA</r3d:additionalName>
+                <r3d:repositoryURL>https://www.deutschestextarchiv.de/</r3d:repositoryURL>
+                <r3d:description language="eng">The German Text Archive (Deutsches Textarchiv, DTA) presents online a selection of key German-language works in various disciplines from the 17th to 19th centuries. The electronic full-texts are indexed linguistically and the search facilities tolerate a range of spelling variants. The DTA presents German-language printed works from around 1650 to 1900 as full text and as digital facsimile. The selection of texts was made on the basis of lexicographical criteria and includes scientific or scholarly texts, texts from everyday life, and literary works. The digitalisation was made from the first edition of each work. Using the digital images of these editions, the text was first typed up manually twice (‘double keying’). To represent the structure of the text, the electronic full-text was encoded in conformity with the XML standard TEI P5. The next stages complete the linguistic analysis, i.e. the text is tokenised, lemmatised, and the parts of speech are annotated. The DTA thus presents a linguistically analysed, historical full-text corpus, available for a range of questions in corpus linguistics. Thanks to the interdisciplinary nature of the DTA Corpus, it also offers valuable source-texts for neighbouring disciplines in the humanities, and for scientists, legal scholars and economists.</r3d:description>
+                    <r3d:repositoryContact>redaktion@deutschestextarchiv.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">105 Literary Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://www.deutschestextarchiv.de/doku/leitlinien</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>development of the german language</r3d:keyword>
+                    <r3d:keyword>digital facsimile</r3d:keyword>
+                    <r3d:keyword>history</r3d:keyword>
+                    <r3d:keyword>interdisciplinary</r3d:keyword>
+                    <r3d:keyword>linguistics</r3d:keyword>
+                    <r3d:keyword>scholarly texts</r3d:keyword>
+                    <r3d:keyword>scientific texts</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Berlin-Brandenburgische Akademie der Wissenschaften</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">BBAW</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bbaw.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.deutschestextarchiv.de/doku/impressum#kontakt</r3d:institutionContact>
+                                    <r3d:institutionContact>redaktion@deutschestextarchiv.de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">CLARIN-D</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Common Language Resources and Technology Infrastructure - D</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.clarin-d.de/en/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Nutzungsbedingungen</r3d:policyName>
+                <r3d:policyURL>https://www.deutschestextarchiv.de/doku/nutzungsbedingungen</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/de/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/de/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>Fedora</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://clarin.bbaw.de/oai-dta/</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://clarin.bbaw.de:8088/oaiprovider</r3d:api>
+                    <r3d:api apiType="other">http://dspin.dwds.de:8088/ddc-sru/dta/</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.deutschestextarchiv.de/doku/leitlinien</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="ATOM">http://www.deutschestextarchiv.de/dtaq/api/recent</r3d:syndication>
+                    <r3d:syndication syndicationType="ATOM">http://www.deutschestextarchiv.de/api/news</r3d:syndication>
+                    <r3d:syndication syndicationType="ATOM">http://www.deutschestextarchiv.de/api/recent</r3d:syndication>
+                <r3d:remarks>BBAW is one of the CLARIN-D service centres. It&#039;s a part of the backbone of the German section of the CLARIN European research infrastructure. federation.</r3d:remarks>
+        <r3d:entryDate>2013-04-03</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-25</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

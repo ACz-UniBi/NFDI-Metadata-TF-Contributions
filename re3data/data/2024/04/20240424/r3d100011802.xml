@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011802</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">CLARIN-PL</r3d:repositoryName>
+                    <r3d:additionalName language="pol">Centrum Technologii Jezykowiych</r3d:additionalName>
+                    <r3d:additionalName language="eng">Language Technology Centre</r3d:additionalName>
+                <r3d:repositoryURL>https://clarin-pl.eu/dspace/</r3d:repositoryURL>
+                <r3d:description language="eng">Polish CLARIN node – CLARIN-PL Language Technology Centre – is being built at Wrocław University of Technology. The LTC is addressed to scholars in the humanities and social sciences. Registered users are granted free access to digital language resources and advanced tools to explore them. They can also archive and share their own language data (in written, spoken, video or multimodal form).</r3d:description>
+                    <r3d:repositoryContact>clarin-pl@pwr.edu.pl</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://clarin-pl.eu/index.php/en/contact-and-support/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-03-11">447 results</r3d:size>
+        <r3d:startDate>2014-09-25</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://clarin-pl.eu/dspace/page/about#mission-statement</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>digital archive</r3d:keyword>
+                    <r3d:keyword>electronic dictionaries</r3d:keyword>
+                    <r3d:keyword>language models</r3d:keyword>
+                    <r3d:keyword>semantic analyses</r3d:keyword>
+                    <r3d:keyword>speech recognition</r3d:keyword>
+                    <r3d:keyword>syntactic analyses</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wp25384</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.clarin.eu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-PL</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://clarin-pl.eu/index.php/en/home/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://clarin-pl.eu/index.php/en/contact-and-support/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Institute of Computer Science, Polish Academy of Sciences, Department of Artificial Intelligence, Linguistic Engineering Group</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ICS PAS, LE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://zil.ipipan.waw.pl/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Polish Academy of Sciences, Institute of Slavic Studies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PAS, ISS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ispan.waw.pl/default/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:052tbr029</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ispan.waw.pl/default/en/about-the-institute/contacts/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Polish-Japanese Institute of Information Technology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PJA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://pja.edu.pl/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01v542j61</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>pjatk@pja.edu.pl</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Lodz</r3d:institutionName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.uni.lodz.pl/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05cq64r17</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004053</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_158123</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Wrocław</r3d:institutionName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://international.uni.wroc.pl/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00yae6e25</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000363</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_48592</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://international.uni.wroc.pl/en/international-office</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Wrocław University of Science andTechnology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="pol">Politechnika Wrocławska</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>POL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://pwr.edu.pl/en/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:008fyn775</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLARIN-PL repository About and Policies</r3d:policyName>
+                <r3d:policyURL>https://clarin-pl.eu/dspace/page/about</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Legal and Ethical Issues</r3d:policyName>
+                <r3d:policyURL>https://www.clarin.eu/governance/legal-issues-committee</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.clarin.eu/content/terms-use-and-disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.clarin.eu/content/terms-use-and-disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://clarin-pl.eu/dspace/page/about#about-contracts</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Non-Exclusive Distribution License</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://clarin-pl.eu/dspace/page/contract</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">https://vlo.clarin.eu/data/clarin/results/cmdi/CLARIN_PL_digital_repository/</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://clarin-pl.eu/oai/request?verb=Identify</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://clarin-pl.eu/dspace/page/about#citing-data-policy</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://clarin-pl.eu/dspace/feed/rss_2.0/site</r3d:syndication>
+                <r3d:remarks>CLARIN-PL is harvested by CLARIN-ERIC Virtual Language Observatory - VLO https://vlo.clarin.eu</r3d:remarks>
+        <r3d:entryDate>2015-08-26</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-11</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

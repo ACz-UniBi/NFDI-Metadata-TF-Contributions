@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012125</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Water Isotope System for Data Analysis, Visualization and Electronic Retrieval</r3d:repositoryName>
+                    <r3d:additionalName language="eng">WISER</r3d:additionalName>
+                <r3d:repositoryURL>https://nucleus.iaea.org/wiser</r3d:repositoryURL>
+                <r3d:description language="eng">WISER is a self-service platform for data of the Global Networks of Isotopes in Precipitation (GNIP) and Rivers (GNIR), hosted within the IAEA&#039;s repository for technical resources (NUCLEUS).
+GNIP in WISER currently contains over 130,000 records, and stable isotopes are current to the end of 2013, and will be updated as verified data comes in. Parts of the GNIR water isotope data is online as well (synoptic/time series), although we are still in process of verifying and completing GNIR data uploads and for other isotopic parameters over the next year. Check back occasionally for GNIR updates. Tritium data after 2009 is in the process of being updated in the next year.
+When accessing WISER through the URL https://nucleus.iaea.org/wiser, you will be forwarded to the NUCLEUS log-in page. After entering your user credentials and validation, you will be forwarded to the WISER landing page.</r3d:description>
+                    <r3d:repositoryContact>ihs@iaea.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-01-18">over 100 IAEA scientific, technical and regulatory information resources</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">32 Physics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.iaea.org/resources/nucleus-information-resources?com</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Tritium</r3d:keyword>
+                    <r3d:keyword>isotopes</r3d:keyword>
+                    <r3d:keyword>precipitation</r3d:keyword>
+                    <r3d:keyword>rain</r3d:keyword>
+                    <r3d:keyword>rivers</r3d:keyword>
+                    <r3d:keyword>snow</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Global Networks of Isotopes in Precipitation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GNIP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iaea.org/services/networks/gnip</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Networks of Isotopes in Rivers</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GNIR</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iaea.org/services/networks/gnir</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Atomic Energy Agency</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ile">IAEA</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iaea.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NUCLEUS</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iaea.org/resources/nucleus-information-resources</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://nucleus.iaea.org/pages/others/contact-us.aspx</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://nucleus.iaea.org/Pages/Others/Terms-Of-Use.aspx</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://nucleus.iaea.org/Pages/Others/Terms-Of-Use.aspx</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>WISER is covered by Thomson Reuters Data Citation Index.
+More Information see: https://web.archive.org/web/20230206051022/http://www-naweb.iaea.org/napc/ih/IHS_resources_isohis.html</r3d:remarks>
+        <r3d:entryDate>2016-08-19</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-28</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

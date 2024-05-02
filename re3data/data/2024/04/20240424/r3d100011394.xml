@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011394</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">B2SHARE</r3d:repositoryName>
+                <r3d:repositoryURL>https://b2share.eudat.eu/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.da9307</r3d:repositoryIdentifier>
+                <r3d:description language="eng">B2SHARE is a user-friendly, reliable and trustworthy way for researchers, scientific communities and citizen scientists to store and share small-scale research data from diverse contexts and disciplines. B2SHARE is able to add value to your research data via (domain tailored) metadata, and assigning citable Persistent Identifiers PIDs (Handles) to ensure long-lasting access and references. B2SHARE is one of the B2 services developed via EUDAT and long tail data deposits do not cost money. Special arrangements such as branding and special metadata elements can be made on request.</r3d:description>
+                    <r3d:repositoryContact>https://www.eudat.eu/support-request?service=B2SHARE</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@eudat.eu</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated="2022-12-16">11.214 results</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.eudat.eu/what-eudat</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Networkbased data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>B2ACCESS</r3d:keyword>
+                    <r3d:keyword>B2DROP</r3d:keyword>
+                    <r3d:keyword>B2FIND</r3d:keyword>
+                    <r3d:keyword>B2HANDLE</r3d:keyword>
+                    <r3d:keyword>B2SAFE</r3d:keyword>
+                    <r3d:keyword>B2STAGE</r3d:keyword>
+                    <r3d:keyword>EUDAT</r3d:keyword>
+                    <r3d:keyword>FAIR</r3d:keyword>
+                    <r3d:keyword>cross-disciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">EUDAT</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">European Data Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.eudat.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.eudat.eu/contact-support-request</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Research and Innovation, FP7, Infrastructures</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://commission.europa.eu/research-and-innovation_en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access and Reuse Policies</r3d:policyName>
+                <r3d:policyURL>https://www.eudat.eu/data-access-and-reuse-policies-darup</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>EUDAT CDI Acceptable Use Policy and Conditions of Use</r3d:policyName>
+                <r3d:policyURL>https://www.eudat.eu/eudat-cdi-aup</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://eudat.eu/services/userdoc/b2share-http-rest-api#The_REST_API</r3d:api>
+                    <r3d:api apiType="REST">https://eudat.eu/services/userdoc/b2share-http-rest-api#The_REST_API</r3d:api>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>B2SHARE features: integrated with the EUDAT collaborative data infrastructure, free upload and registration of stable research data, data assigned a permanent identifier, which can be retraced to the data owner, data owner defines access policy, community-specific metadata extensions and user interfaces, openly accessible and harvestable metadata, representational state transfer application programming interface (REST API) for integration with community sites, data integrity ensured by checksum during data ingest, professionally managed storage service.
+B2SHARE is based on Invenio.
+EUDAT B2SHARE on GitHub see: https://github.com/EUDAT-B2SHARE</r3d:remarks>
+        <r3d:entryDate>2014-12-16</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-16</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012311</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Metlin</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The original and most comprehensive MS/MS metabolite database</r3d:additionalName>
+                <r3d:repositoryURL>https://metlin.scripps.edu/landing_page.php?pgcontent=mainPage</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>OMICS_02633</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_010500</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_158116</r3d:repositoryIdentifier>
+                <r3d:description language="eng">METLIN represents the largest MS/MS collection of data with the database generated at multiple collision energies and in positive and negative ionization modes. The data is generated on multiple instrument types including SCIEX, Agilent, Bruker and Waters QTOF mass spectrometers.</r3d:description>
+                    <r3d:repositoryContact>https://xcmsonline.scripps.edu/landing_page.php?pgcontent=contact</r3d:repositoryContact>
+                    <r3d:repositoryContact>xcmsonline@gmail.com</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-01-23">961.829 molecules; over 14.000 metabolites have been individually analyzed; another 200.000 metabolites has in silico MS/MS data</r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20101 Biochemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20515 Gastroenterology, Metabolism</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://massconsortium.com/index-xcms-metlin.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biomarker</r3d:keyword>
+                    <r3d:keyword>chemical formula</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>mass spectrometry</r3d:keyword>
+                    <r3d:keyword>metabolism</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>phenotype</r3d:keyword>
+                    <r3d:keyword>proteomics</r3d:keyword>
+                    <r3d:keyword>tandem</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Scripps Research Institute, Scripps Center for Metabolomics and Mass Spectrometry</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://masspec.scripps.edu/landing_page.php?pgcontent=mainPage</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>masspec@scripps.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>METLIN Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://metlin.scripps.edu/landing_page.php?pgcontent=termsOfUse</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://metlin.scripps.edu/landing_page.php?pgcontent=termsOfUse</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>MySQL</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>XCMS Online: a web-based platform to process untargeted metabolomic data. // You have also access to IsoMetlin. The isoMETLIN Metabolite Database is a database designed for isotope-based metabolomics. Specifically, isoMETLIN facilitates the identification of metabolites incorporating isotopic labels. isoMETLIN enables users to search all computed isotopologues (&gt;1 million) derived from METLIN on the basis of mass-to-charge values and specified isotopes of interest, such as 13C or 15N. //
+Given the ongoing security and resource challenges of hosting METLIN academically, after ~20 years of service we have transitioned MS/MS data searching to a commercial (AWS) site, METLIN Gen2 https://massconsortium.com/. Aspects of METLIN&#039;s searching capabilities will remain intact. However, through an exclusive arrangement with Scripps, the new METLIN Gen2 subscription site will host new capabilities and data on 860,000 molecular standards (60 times bigger than the METLIN.scripps.edu site)</r3d:remarks>
+        <r3d:entryDate>2017-02-01</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011123</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">GeoReM</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Geological and Environmental Reference Materials</r3d:additionalName>
+                <r3d:repositoryURL>http://georem.mpch-mainz.gwdg.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.219aec</r3d:repositoryIdentifier>
+                <r3d:description language="eng">GeoReM is a Max Planck Institute database for reference materials of geological and environmental interest, such as rock powders, synthetic and natural glasses as well as mineral, isotopic, biological, river water and seawater reference materials. GeoReM contains published analytical data and compilation values (major and trace element concentrations and mass fractions, radiogenic and stable isotope ratios). GeoReM contains all important metadata about the analytical values such as uncertainty, analytical method and laboratory. Sample information and references are also included.  GeoReM complements the three earthchem databases: GEOROC, NAVDAT and PETDB.</r3d:description>
+                    <r3d:repositoryContact>https://www.mpic.de/3669435/group-jochum</r3d:repositoryContact>
+                    <r3d:repositoryContact>k.jochum@mpic.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2024-01-24">59.320 analyses of 3.800 reference materials from about 13.180 papers</r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://georem.mpch-mainz.gwdg.de/Georem_Flyer_final.pdf</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>materials</r3d:keyword>
+                    <r3d:keyword>methods</r3d:keyword>
+                    <r3d:keyword>samples</r3d:keyword>
+                    <r3d:keyword>standards</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GWDG</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://gwdg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00cd95c65</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">MPG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Max Planck Society</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01hhn8329</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011366</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Max-Planck-Institut für Chemie</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MPIC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Max Planck Institute for Chemistry</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpic.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02f5b7n18</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011371</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>pr@mpic.de</r3d:institutionContact>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.mpic.de/3626961/imprint</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://georem.mpch-mainz.gwdg.de/CiteGeorem.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-09-05</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

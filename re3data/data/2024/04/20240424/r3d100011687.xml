@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011687</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Global Precipitation Climatology Centre</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GPCC</r3d:additionalName>
+                    <r3d:additionalName language="deu">WZN</r3d:additionalName>
+                    <r3d:additionalName language="deu">Weltzentrum für Niederschlagsklimatologie</r3d:additionalName>
+                <r3d:repositoryURL>https://www.dwd.de/EN/ourservices/gpcc/gpcc.html</r3d:repositoryURL>
+                <r3d:description language="eng">The Global Precipitation Climatology Centre (GPCC) provides global precipitation analyses for monitoring and research of the earth&#039;s climate. The centre is a German contribution to the World Climate Research Programme (WCRP) and to the Global Climate Observing System (GCOS).</r3d:description>
+                    <r3d:repositoryContact>gpcc@dwd.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1989</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.dwd.de/EN/ourservices/gpcc/gpcc.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>agricultural</r3d:keyword>
+                    <r3d:keyword>arctic</r3d:keyword>
+                    <r3d:keyword>atmospheric chemistry</r3d:keyword>
+                    <r3d:keyword>biometeorology</r3d:keyword>
+                    <r3d:keyword>hydrometeorology</r3d:keyword>
+                    <r3d:keyword>marine meteorology</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutscher Wetterdienst</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DWD</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">German Meteorological Service</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dwd.de/EN/Home/home_node.html</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nrqs528</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Global Climate Observing System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">GCOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://gcos.wmo.int/en/home</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Climate Research Programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WCRP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wcrp-climate.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">World Meteorological Organization</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">WMO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wmo.int/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:011pjwf87</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>General Terms and Conditions of Business and Delivery</r3d:policyName>
+                <r3d:policyURL>https://www.dwd.de/EN/service/terms/terms_conditions_download.pdf?__blob=publicationFile&amp;v=2</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dwd.de/EN/service/copyright/copyright_node.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dwd.de/EN/service/copyright/copyright_node.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="FTP">https://opendata.dwd.de/climate_environment/GPCC/html/download_gate.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.dwd.de/EN/ourservices/gpcc/gpcc.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>In this framework, the Global Precipitation Climatology Centre (GPCC) has been established in 1989 on request of the World Meteorological Organization (WMO). It is operated by Deutscher Wetterdienst (DWD, National Meteorological Service of Germany) as a German contribution to the World Climate Research Programme (WCRP).</r3d:remarks>
+        <r3d:entryDate>2016-01-12</r3d:entryDate>
+        <r3d:lastUpdate>2022-01-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

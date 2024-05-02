@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013778</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Health and Disease Human Brain Tissue Resource Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">National Human Brain Bank For Health And Disease</r3d:additionalName>
+                    <r3d:additionalName language="zho">国家健康和疾病人脑组织资源库</r3d:additionalName>
+                <r3d:repositoryURL>http://zjubrainbank.zju.edu.cn/</r3d:repositoryURL>
+                <r3d:description language="eng">The National Human Brain Tissue Bank for Health and Disease (the Brain Bank) was built to meet the needs of scientific research by integrating experts and forces from neuroscience, human anatomy, pathology and other related disciplines. The Brain Bank collects and stores post-mortem brain tissue donated by patients with various neuropsychiatric disorders and normal controls, as well as their life histories, in accordance with international standards, and provides a detailed and accurate neuropathological diagnosis of these brain tissue samples (also known as the &quot;final diagnosis&quot;). The aim is to discover and elucidate the causes of human neuropsychiatric diseases such as Alzheimer&#039;s disease, Parkinson&#039;s disease, depression, schizophrenia and other human diseases, and to provide scientists with the most direct and effective means of finding the relevant pathogenesis and establishing effective treatments. The National Brain Tissue Resource for Health and Disease The goal of the National Human Brain Tissue Repository for Health and Disease is to integrate collection, diagnosis, storage and utilisation, and to build a first-class human resource preservation infrastructure in China that is in line with international standards and provides support for neuroscience research. In 2020, the National Brain Bank has established three branches of the National Brain Bank in Hefei, Anhui, Nanjing, Jiangsu, and Shanghai. major cities.</r3d:description>
+                    <r3d:repositoryContact>zjucbb@zju.edu.cn</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-03-22">390 human whole brain samples</r3d:size>
+        <r3d:startDate>2012</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>http://zjubrainbank.zju.edu.cn/about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>brain stem</r3d:keyword>
+                    <r3d:keyword>brain tissue</r3d:keyword>
+                    <r3d:keyword>cerebellum</r3d:keyword>
+                    <r3d:keyword>cerebrospinal fluid</r3d:keyword>
+                    <r3d:keyword>medulla oblongata</r3d:keyword>
+                    <r3d:keyword>pia mater</r3d:keyword>
+                    <r3d:keyword>pituitary gland</r3d:keyword>
+                    <r3d:keyword>plasma</r3d:keyword>
+                    <r3d:keyword>spinal cord</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Ministry of Science and Technology of the People&#039;s Republic of China</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">MOST</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="zho">中华人民共和国科学技术部</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.most.gov.cn/eng/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:027s68j25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Zhejiang University School of Medicine</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="zho">浙江大學醫學院</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CHN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cmm.zju.edu.cn/english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>Wikidata:Q8070676</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Standardized Operational Protocol for Human Brain Banking in China</r3d:policyName>
+                <r3d:policyURL>http://zjubrainbank.zju.edu.cn/PathWord/Qiu2019_Article_StandardizedOperationalProtoco.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://zjubrainbank.zju.edu.cn/service</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>National Health and Disease Human Brain Tissue Repository Donor Informed Consent Form</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>http://zjubrainbank.zju.edu.cn/PathWord/%E5%9B%BD%E5%AE%B6%E5%81%A5%E5%BA%B7%E5%92%8C%E7%96%BE%E7%97%85%E4%BA%BA%E8%84%91%E7%BB%84%E7%BB%87%E8%B5%84%E6%BA%90%E5%BA%93%E6%8D%90%E8%B5%A0%E8%80%85%E7%9F%A5%E6%83%85%E5%90%8C%E6%84%8F%E4%B9%A6.doc</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-03-11</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

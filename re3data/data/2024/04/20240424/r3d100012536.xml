@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012536</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">IMGT/GENE-DB</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ImMunoGeneTics / Gene-DB</r3d:additionalName>
+                    <r3d:additionalName language="eng">International ImMunoGeneTics information system/Gene-DB</r3d:additionalName>
+                <r3d:repositoryURL>http://www.imgt.org/genedb/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_006964</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-03012</r3d:repositoryIdentifier>
+                <r3d:description language="eng">IMGT/GENE-DB is the IMGT genome database for IG and TR genes from human, mouse and other vertebrates. IMGT/GENE-DB provides a full characterization of the genes and of their alleles: IMGT gene name and definition, chromosomal localization, number of alleles, and for each allele, the IMGT allele functionality, and the IMGT reference sequences and other sequences from the literature. IMGT/GENE-DB allele reference sequences are available in FASTA format (nucleotide and amino acid sequences with IMGT gaps according to the IMGT unique numbering, or without gaps).</r3d:description>
+                    <r3d:repositoryContact>Marie-Paule.Lefranc@igh.cnrs.fr.</r3d:repositoryContact>
+                    <r3d:repositoryContact>Veronique.Giudicelli@igh.cnrs.fr</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-02-11">DB contains 8280 genes 10926 alleles from 31 species</r3d:size>
+        <r3d:startDate>2003</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://www.imgt.org/genedb/doc</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>T cell receptor</r3d:keyword>
+                    <r3d:keyword>alleles</r3d:keyword>
+                    <r3d:keyword>gene expression</r3d:keyword>
+                    <r3d:keyword>genome analysis</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>human</r3d:keyword>
+                    <r3d:keyword>immunogenetics</r3d:keyword>
+                    <r3d:keyword>immunoglobulin</r3d:keyword>
+                    <r3d:keyword>immunoinformatics</r3d:keyword>
+                    <r3d:keyword>mouse</r3d:keyword>
+                    <r3d:keyword>vertebrates</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="fra">Centre National de la Recherche Scientifique</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.cnrs.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02feahw73</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011247</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_98477</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Marie-Paule.Lefranc@igh.cnrs.fr.</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Horizon 2020</r3d:institutionName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/programmes/horizon2020/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International ImMunoGeneTics information system</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMGT</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.imgt.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_012780</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-03011</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Université Montpellier</r3d:institutionName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.umontpellier.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Marie-Paule.Lefranc@igh.cnrs.fr</r3d:institutionContact>
+                                    <r3d:institutionContact>http://www.imgt.org/IMGTinformation/Contact.php</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>IMGT Documentation</r3d:policyName>
+                <r3d:policyURL>http://www.imgt.org/genedb/doc</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://www.imgt.org/about/termsofuse.php#copyright</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.imgt.org/about/termsofuse.php#copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="other">http://www.imgt.org/genedb/directlinks</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.imgt.org/IMGTindex/CitingIMGT.php</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">http://www.imgt.org/rss/</r3d:syndication>
+                <r3d:remarks>IMGT/GENE-DB is part of the IMGT®, the international ImMunoGeneTics information system®  http://www.imgt.org/</r3d:remarks>
+        <r3d:entryDate>2017-11-09</r3d:entryDate>
+        <r3d:lastUpdate>2023-06-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

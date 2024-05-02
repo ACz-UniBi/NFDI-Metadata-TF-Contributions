@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011806</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="deu">SLUB Sammlungen</r3d:repositoryName>
+                    <r3d:additionalName language="eng">SLUB Collections</r3d:additionalName>
+                    <r3d:additionalName language="deu">SLUBArchiv.digital</r3d:additionalName>
+                <r3d:repositoryURL>https://digital.slub-dresden.de/en/digital-collections/</r3d:repositoryURL>
+                <r3d:description language="eng">Founded in 1556, the SLUB today houses a variety of collections. The Library collects most comprehensively media from and about Saxony (Saxonica) and – commissioned by the German Research Foundation – literature on contemporary art, photography, industrial design and commercial art, and history of technology. In addition, also the music and the map collection have a special rank. These and other valuable materials are summarized in the special collections department. Finally the Deutsche Fotothek as one of the most important photo archives in Germany has a prominent role.</r3d:description>
+                    <r3d:repositoryContact>Simone.Georgi@slub-dresden.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>digital@slub-dresden.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2021-04-16">112.147 titles; 404.589 volumes; over 1.8 Million media items (images, maps, drawings).</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">102 History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10204 History of Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10301 Art History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10302 Musicology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10303 Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                <r3d:missionStatementURL>https://slubarchiv.slub-dresden.de/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Saxonica</r3d:keyword>
+                    <r3d:keyword>arts</r3d:keyword>
+                    <r3d:keyword>autographs</r3d:keyword>
+                    <r3d:keyword>codices</r3d:keyword>
+                    <r3d:keyword>digitalizations</r3d:keyword>
+                    <r3d:keyword>drawings</r3d:keyword>
+                    <r3d:keyword>historic maps</r3d:keyword>
+                    <r3d:keyword>history</r3d:keyword>
+                    <r3d:keyword>inkunabel</r3d:keyword>
+                    <r3d:keyword>music</r3d:keyword>
+                    <r3d:keyword>opera</r3d:keyword>
+                    <r3d:keyword>photo archive</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/en/index.jsp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.dfg.de/en/service/contact/index.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">SLUB</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Saxon State and University Library Dresden</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.slub-dresden.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wf51b65</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.slub-dresden.de/kontakt/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="deu">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden, SLUBArchiv.digital</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://slubarchiv.slub-dresden.de/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Gerald.Huebsch@slub-dresden.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>AGB Deutsche Fotothek</r3d:policyName>
+                <r3d:policyURL>https://digital.slub-dresden.de/fileadmin/groups/slubsite/Ueber_uns/PDF-Ueber_uns/AGB-einsch.Nutzugn_Online-Bilddatenbank.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>CoreTrustSeal</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2022/10/20221020-SLUBArchiv_digital_final.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Gesetz über die SLUB</r3d:policyName>
+                <r3d:policyURL>https://www.slub-dresden.de/fileadmin/groups/slubsite/Ueber_uns/Organisation/Gesetz_%C3%BCber_die_SLUB_Dresden-Fassung_vom_17.12.2013.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Implementation of the Data Seal of Approval</r3d:policyName>
+                <r3d:policyURL>https://assessment.datasealofapproval.org/assessment_178/seal/html/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use for Digital Collections</r3d:policyName>
+                <r3d:policyURL>https://digital.slub-dresden.de/en/terms-of-use-for-digital-collections/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/deed.de</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://digital.slub-dresden.de/oai/?verb=Identify</r3d:api>
+                            <r3d:pidSystem>PURL</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                    <r3d:certificate>DSA</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://digital.slub-dresden.de/rss/</r3d:syndication>
+                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2016-02-08</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-02</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

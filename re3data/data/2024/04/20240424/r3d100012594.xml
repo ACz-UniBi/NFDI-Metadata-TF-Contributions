@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012594</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Temperate Reef Base</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Temperate Reef Base Portal</r3d:additionalName>
+                    <r3d:additionalName language="eng">TemperateReefBase Data Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://temperatereefbase.imas.utas.edu.au/static/landing.html</r3d:repositoryURL>
+                <r3d:description language="eng">TemperateReefBase is a resource for temperate reef researchers worldwide to use and contribute data. Unique in its role as a one-stop-shop for global temperate reef data, TemperateReefBase was initially established by IMAS in collaboration with the Kelp Ecology Ecosystem Network (KEEN).
+KEEN was instigated through a National Centre for Ecological Analysis and Synthesis (NCEAS) working group which assembled experts from around the world to examine the impacts of global change on kelp-bed ecosystem worldwide. The group has assembled significant global data for kelps, other seaweeds and associated species including fishes, and has embarked on unprecedented global experiments and surveys in which identical experiments and surveys are being conducted at sites in kelp beds around the world to determine global trends and examine the capacity of kelps to respond to disturbance in the face of climate change and other anthropogenic stressors.
+The TemperateReefBase Data Portal is an online discovery interface showcasing temperate reef data collected from around the globe. The portal aims to make this data freely and openly available for the benefit of marine and environmental science as a whole.
+The TemperateReefBase Data Portal is hosted and maintained by the Institute for Marine and Antarctic Studies at the University of Tasmania, Australia.</r3d:description>
+                    <r3d:repositoryContact>IMAS.DataManager@utas.edu.au</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2016</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://temperatereefbase.imas.utas.edu.au/static/landing.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>boreal coastal ecysystems</r3d:keyword>
+                    <r3d:keyword>ecology</r3d:keyword>
+                    <r3d:keyword>global change</r3d:keyword>
+                    <r3d:keyword>kelp forests</r3d:keyword>
+                    <r3d:keyword>marine reef</r3d:keyword>
+                    <r3d:keyword>ocean</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian National Data Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ANDS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ands.org.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Integrated Marine Observing System</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://imos.org.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:010x3gp67</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://imos.org.au/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Kelp Ecology Ecosystem Network</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">KEEN</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.kelpecosystems.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>webmaster@kelpecosystems.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Tasmanian Partnership for Advanced Computing</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">TPAC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.tpac.org.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.tpac.org.au/index.php/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Tasmania, Institute for Marine &amp; Antarctic Studies</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IMAS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.imas.utas.edu.au/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>IMAS.DataManager@utas.edu.au</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data</r3d:policyName>
+                <r3d:policyURL>https://www.imas.utas.edu.au/data</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Data Management Policy</r3d:policyName>
+                <r3d:policyURL>https://www.imas.utas.edu.au/__data/assets/pdf_file/0009/782118/IMAS-Data-Management-Policy-2015.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/au/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://help.aodn.org.au/user-guide-introduction/imos/imos-data-licencing/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://imos.org.au/imos-data-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>TemperateReefBase Data Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://temperatereefbase.imas.utas.edu.au/submit/media/guide/TRB-DaST-UserGuide.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">http://imos.org.au/fileadmin/user_upload/shared/IMOS%20General/Framework_Policy/2016_May_update/4.2_IMOS_Data_Policy_May16_Final_14062016.pdf</r3d:api>
+                    <r3d:api apiType="OAI-PMH">https://help.aodn.org.au/web-services/</r3d:api>
+                    <r3d:api apiType="OpenDAP">https://help.aodn.org.au/web-services/</r3d:api>
+                        <r3d:citationGuidelineURL>https://help.aodn.org.au/user-guide-introduction/imos/imos-data-licencing/</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>ORCID</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The Australian Ocean Data Network (AODN) Data Portal User Guide provides a set of instructions for navigating the portal features. The screenshots in this guide are taken from the AODN portal, but the instructions are also applicable to the Temperate Reef Base Portal and provide a useful framework for discovering data.</r3d:remarks>
+        <r3d:entryDate>2018-01-22</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

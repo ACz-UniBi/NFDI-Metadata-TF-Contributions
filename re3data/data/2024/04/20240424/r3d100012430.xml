@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012430</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">AIRS/Aqua Observations of Gravity Waves</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Atmospheric Infrared Sounder / Aqua Observations of Gravity Waves</r3d:additionalName>
+                <r3d:repositoryURL>https://datapub.fz-juelich.de/slcs/airs/gravity_waves/</r3d:repositoryURL>
+                <r3d:description language="eng">This data repository provides access to gravity wave observations of the Atmospheric Infrared Sounder (AIRS) aboard NASA&#039;s Aqua satellite. Information on stratospheric gravity wave activity is derived from radiance measurements in the 4.3 and 15 micron CO2 fundamental bands. The repository provides browse images and netCDF data files for the years 2002 to 2017 and is frequently updated.</r3d:description>
+                    <r3d:repositoryContact>l.hoffmann@fz-juelich.de</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2002</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31301 Atmospheric Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://datapub.fz-juelich.de/slcs/airs/gravity_waves</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Earth Observing System - EOS</r3d:keyword>
+                    <r3d:keyword>atmospheric dynamics</r3d:keyword>
+                    <r3d:keyword>atmospheric science</r3d:keyword>
+                    <r3d:keyword>climate science</r3d:keyword>
+                    <r3d:keyword>gravity waves</r3d:keyword>
+                    <r3d:keyword>stratosphere</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Forschungszentrum Jülich</r3d:institutionName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.fz-juelich.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02nv7yv05</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_023416</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@fz-juelich.de</r3d:institutionContact>
+                                    <r3d:institutionContact>slcs_jsc@fz-juelich.de</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data access, Legal notes</r3d:policyName>
+                <r3d:policyURL>https://datapub.fz-juelich.de/slcs/airs/gravity_waves/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://datapub.fz-juelich.de/slcs/airs/gravity_waves/data/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The gravity wave data sets provided on this web site have been created using AIRS/Aqua L1B Infrared (IR) geolocated and calibrated radiances V005 distributed by the NASA Goddard Earth Sciences Data and Information Services Center (GES DISC). Please see the GES DISC website for further information: https://disc.gsfc.nasa.gov/datasets/AIRIBRAD_005/summary
+More information about AIRS: https://airs.jpl.nasa.gov/</r3d:remarks>
+        <r3d:entryDate>2017-08-04</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-23</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

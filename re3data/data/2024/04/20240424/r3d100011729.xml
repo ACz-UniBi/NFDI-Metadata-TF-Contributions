@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011729</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">European-Mediterranean Seismological Centre</r3d:repositoryName>
+                    <r3d:additionalName language="fra">CSEM</r3d:additionalName>
+                    <r3d:additionalName language="fra">Centre Sismologique Euro-Méditerranéen</r3d:additionalName>
+                    <r3d:additionalName language="eng">EMSC</r3d:additionalName>
+                <r3d:repositoryURL>https://www.emsc-csem.org/#2</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>ISSN 2495-9324</r3d:repositoryIdentifier>
+                <r3d:description language="eng">EMSC collects real time parametric data (source parmaters and phase pickings) provided by 65 seismological networks of the Euro-Med region. These data are provided to the EMSC either by email or via QWIDS (Quake Watch Information Distribution System, developped by ISTI). The collected data are automatically archived in a database, made available via an autoDRM, and displayed on the web site. The collected data are automatically merged to produce automatic locations which are sent to several seismological institutes in order to perform quick moment tensors determination.</r3d:description>
+                    <r3d:repositoryContact>contact@emsc-csem.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://www.emsc-csem.org/contact/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">317 Geography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://www.emsc-csem.org/partner_with_us/mission_and_vision/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Citizen Seismology</r3d:keyword>
+                    <r3d:keyword>EPOS</r3d:keyword>
+                    <r3d:keyword>IMPROVER</r3d:keyword>
+                    <r3d:keyword>MARsite</r3d:keyword>
+                    <r3d:keyword>NERA</r3d:keyword>
+                    <r3d:keyword>REAKT</r3d:keyword>
+                    <r3d:keyword>Seismic Portal</r3d:keyword>
+                    <r3d:keyword>Sigma</r3d:keyword>
+                    <r3d:keyword>Verce</r3d:keyword>
+                    <r3d:keyword>earthquake</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Digital Element</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.digitalelement.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.digitalelement.com/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European-Mediterranean Seismological Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CSEM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Centre Sismologique Euro-Méditerranéen</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">EMSC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.emsc-csem.org/#2</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:034j4s684</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>contact@emsc-csem.org</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">GeoSIG</r3d:institutionName>
+                                <r3d:institutionCountry>CHE</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.geosig.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Ministère de la Transition Écologique</r3d:institutionName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ecologie.gouv.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00g8rx069</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ecologie.gouv.fr/contact-mtes</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Électricité de France SA</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">EDF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.edf.fr/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wb8xz10</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://particulier.edf.fr/fr/accueil/aide-contact/contacter-edf.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data &amp; Confidentiality</r3d:policyName>
+                <r3d:policyURL>https://www.emsc-csem.org/faq/data_confidentiality.php</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Internal rules of the EMSC</r3d:policyName>
+                <r3d:policyURL>https://www.emsc-csem.org/Files/docs/about/internal_rules_2004.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Statutes of the EMSC</r3d:policyName>
+                <r3d:policyURL>https://www.emsc-csem.org/Files/docs/about/statutes_2008.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.emsc-csem.org/partner_with_us/mission_and_vision/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.emsc-csem.org/policy.php</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">https://www.emsc-csem.org/service/rss/</r3d:syndication>
+                <r3d:remarks>EMSC Members: https://www.emsc-csem.org/about/?d=1#members</r3d:remarks>
+        <r3d:entryDate>2016-03-14</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-03</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

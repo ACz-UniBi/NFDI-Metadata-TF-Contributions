@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014070</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NORMAN Substance Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">NORMAN SusDat</r3d:additionalName>
+                <r3d:repositoryURL>https://www.norman-network.com/nds/susdat/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.9ATgeT</r3d:repositoryIdentifier>
+                <r3d:description language="eng">NORMAN SusDat is a &quot;living database&quot; compiling information provided by NORMAN network members and external contributors via the NORMAN Suspect List Exchange (NORMAN-SLE). NORMAN SusDat merges the many chemical lists on the SLE into a common format and includes all data suitable for screening purposes, along with selected identifiers and predicted values as a service for NORMAN members and beyond. SusDat is undergoing constant development and improvement to expand the coverage, together with contributors and cheminformatics experts. The original lists on the NORMAN-SLE should be consulted to verify chemical information if necessary.</r3d:description>
+                    <r3d:repositoryContact>suspects@normandata.eu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2015</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>https://www.norman-network.com/nds/SLE/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biocides</r3d:keyword>
+                    <r3d:keyword>chemicals</r3d:keyword>
+                    <r3d:keyword>drugs</r3d:keyword>
+                    <r3d:keyword>food additives</r3d:keyword>
+                    <r3d:keyword>human metabolites</r3d:keyword>
+                    <r3d:keyword>human neurotoxis</r3d:keyword>
+                    <r3d:keyword>metals</r3d:keyword>
+                    <r3d:keyword>smoke</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Environmental Institute</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">EI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>SVK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ei.sk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00n893e13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">NORMAN</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NORMAN network</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Network of reference laboratories, research centres and related organisations for monitoring of emerging environmental substances</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.norman-network.com/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>General information on data processing</r3d:policyName>
+                <r3d:policyURL>http://www.normandata.eu/?q=privacy-policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.normandata.eu/?q=privacy-policy</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>NORMAN Network members: https://www.norman-network.com/?q=NORMAN%20Network
+Current members: http://www.normandata.eu/?q=node/199</r3d:remarks>
+        <r3d:entryDate>2022-11-23</r3d:entryDate>
+        <r3d:lastUpdate>2022-12-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

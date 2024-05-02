@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011282</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">The Health Improvement Network</r3d:repositoryName>
+                    <r3d:additionalName language="eng">THIN</r3d:additionalName>
+                <r3d:repositoryURL>https://www.the-health-improvement-network.com/</r3d:repositoryURL>
+                <r3d:description language="eng">THIN is a medical data collection scheme that collects anonymised patient data from its members through the healthcare software Vision. The UK Primary Care database contains longitudinal patient records for approximately 6% of the UK Population. The anonymised data collection, which goes back to 1994, is nationally representative of the UK population.</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2014-11-24">587 practices covered; 12.000.000 patients; 3.600.000 active patients</r3d:size>
+        <r3d:startDate>2002-11</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.the-health-improvement-network.co.uk/#what-is-thin</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>demographics</r3d:keyword>
+                    <r3d:keyword>diagnoses</r3d:keyword>
+                    <r3d:keyword>health service evaluation</r3d:keyword>
+                    <r3d:keyword>life sciences</r3d:keyword>
+                    <r3d:keyword>medical studies</r3d:keyword>
+                    <r3d:keyword>patient data</r3d:keyword>
+                    <r3d:keyword>practice data</r3d:keyword>
+                    <r3d:keyword>prescribing</r3d:keyword>
+                    <r3d:keyword>socioeconomics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Cegedim</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Cegedim Healthcare Solutions</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.cegedim-healthcare.co.uk/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cegedim-healthcare.co.uk/contact</r3d:institutionContact>
+                                    <r3d:institutionContact>info@cegedimrx.co.uk</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Network of Centres for Pharmacoepidemiology and Pharmacovigilance</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ENCePP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.encepp.eu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://encepp.europa.eu/contact-us_en?prefLang=de</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">IQVIA</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The Human Data Science Company</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly:  CSD Medical Research UK</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: IMS Health Ltd</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>commercial</r3d:institutionType>
+                <r3d:institutionURL>https://www.iqvia.com/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:RRID:SCR_021377</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_021377</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2017</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.iqvia.com/contact/general</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">UK National Health Service</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NHS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nhs.uk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02wnqcb97</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nhs.uk/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>European Network of Centres for Pharmacoepidemiology and Pharmacovigilance - ENCePP Guide on Methodological Standards</r3d:policyName>
+                <r3d:policyURL>https://encepp.europa.eu/encepp-toolkit/methodological-guide_en</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Legal Notices</r3d:policyName>
+                <r3d:policyURL>https://www.cegedim-healthcare.co.uk/privacy-policy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>closed</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://csdmruk.cegedim.com/our-data/accessing-the-data.shtml</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The Health Improvement Network - THIN is covered by Thomson Reuters Data Citation Index. 
+Additional Information Services (AIS) is the division of THIN which obtains anonymised hard copy information for medical studies.
+AIS liases with THIN data contributors on behalf of researchers to obtain documents which add valuable information to studies. This information can be in the form of anonymised questionnaires completed by the GP or patient, copies of patient-related correspondence, a specified intervention (e.g. a laboratory test to confirm diagnosis) or death certificates.
+All documentation is depersonalised by the practice and checked by AIS to ensure anonymisation is complete before the information is supplied to the researcher.
+All studies have ethical approval by NHS Multicentre Research Ethics Committees (MREC) before AIS requests are made to practices.</r3d:remarks>
+        <r3d:entryDate>2014-11-24</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-01</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

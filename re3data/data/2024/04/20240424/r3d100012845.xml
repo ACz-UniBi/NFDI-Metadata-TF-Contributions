@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012845</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NIDDK Information Network</r3d:repositoryName>
+                    <r3d:additionalName language="eng">National Institute of Diabetes and Digestive and Kidney Disease Information Network</r3d:additionalName>
+                    <r3d:additionalName language="eng">dkNET</r3d:additionalName>
+                <r3d:repositoryURL>https://dknet.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.1mapgk</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_001606</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_153866</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The NIDDK Information Network (dkNET) serves the needs of basic and clinical investigators by providing seamless access to large pools of data and research resources relevant to the mission of The National Institute of Diabetes Digestive and Kidney Diseases (NIDDK).</r3d:description>
+                    <r3d:repositoryContact>info@dknet.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2021-09-08">857.342.699 results from 278 data sources</r3d:size>
+        <r3d:startDate>2014</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://dknet.org/about/product_info</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>diabestes</r3d:keyword>
+                    <r3d:keyword>digestive disease</r3d:keyword>
+                    <r3d:keyword>endocrine disease</r3d:keyword>
+                    <r3d:keyword>kidney disease</r3d:keyword>
+                    <r3d:keyword>metabolic disease</r3d:keyword>
+                    <r3d:keyword>obesity</r3d:keyword>
+                    <r3d:keyword>urologic disease</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NIH, NIDDK</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.niddk.nih.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00adh9b73</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of California, San Diego</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UCSD</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ucsd.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0168r3w48</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and Conditions</r3d:policyName>
+                <r3d:policyURL>https://dknet.org/page/terms</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>alternate URL: https://scicrunch.org/dknet</r3d:remarks>
+        <r3d:entryDate>2018-08-28</r3d:entryDate>
+        <r3d:lastUpdate>2021-09-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

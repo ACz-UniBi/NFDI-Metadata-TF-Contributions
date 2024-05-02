@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012892</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="fra">BAOBAB</r3d:repositoryName>
+                    <r3d:additionalName language="fra">Base Afrique de l&#039;Ouest Beyond AMMA Base</r3d:additionalName>
+                <r3d:repositoryURL>https://baobab.sedoo.fr/catalogue/</r3d:repositoryURL>
+                <r3d:description language="eng">The projects include airborne, ground-based and ocean measurements, social science surveys, satellite data use, modelling studies and value-added product development. Therefore, the BAOBAB data portal enables to access a great amount and a large variety of data: - 250 local observation datasets, that have been collected by operational networks since 1850, long term monitoring research networks and intensive scientific campaigns; - 1350 outputs of a socio-economics questionnaire; - 60 operational satellite products and several research products; - 10 output sets of meteorological and ocean operational models and 15 of research simulations. Data documentation complies with metadata international standards, and data are delivered into standard formats. The data request interface takes full advantage of the database relational structure and enables users to elaborate multicriteria requests (period, area, property…).</r3d:description>
+                    <r3d:repositoryContact>baobab-contact@sedoo.fr</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://baobab.sedoo.fr/contact-us/</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">111 Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://baobab.sedoo.fr/en/homepage/?lang=en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>AEROCLO</r3d:keyword>
+                    <r3d:keyword>AMMA</r3d:keyword>
+                    <r3d:keyword>Africa</r3d:keyword>
+                    <r3d:keyword>DACCIWA</r3d:keyword>
+                    <r3d:keyword>FENNEC</r3d:keyword>
+                    <r3d:keyword>IMPETUS</r3d:keyword>
+                    <r3d:keyword>QWECI</r3d:keyword>
+                    <r3d:keyword>agroecology</r3d:keyword>
+                    <r3d:keyword>monsoon</r3d:keyword>
+                    <r3d:keyword>satellite</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">African Monsoon Multidisciplinary Analyses programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AMMA</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Analyses Multidisciplinaires de la Mousson Africaine</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.insu.cnrs.fr/fr/cnrsinfo/analyses-multidisciplinaires-de-la-mousson-africaine-amma</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">ESPRI Data Centre</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Centre de Données ESPRI</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">ESPRI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cds-espri.ipsl.upmc.fr/etherTypo/index.php?id=1450&amp;L=1</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">Observatoire Midi-Pyrénées</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">OMP</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.omp.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:030syve83</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="fra">SErvice de DOnnées de l’OMP</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SEDOO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FRA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sedoo.fr/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data policy</r3d:policyName>
+                <r3d:policyURL>https://baobab.sedoo.fr/templates/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://baobab.sedoo.fr/legal-mentions/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The ongoing DACCIWA (Dynamics-Aerosol-Chemistry-Cloud Interactions over West Africa) project uses the BAOBAB portal to distribute its data: https://baobab.sedoo.fr/templates/dacciwa/. 30 datasets are already available: - Local observation from DACCIWA-supersites at Savé (Benin), Kumasi (Ghana), and Ile-Ife (Nigeria); - Radiosonde data from stations in Benin, Cameroon, Côte d&#039;Ivoire, Ghana and Nigeria. During the June-July 2016 DACCIWA campaign, a day-to-day chart display software has been designed and operated in order to monitor meteorological and environment information and to meet the observational team needs: - Quickooks from DACCIWA-supersites instruments; - Atmospheric and chemical models outputs; - Satellite products (Eumetsat, TERRA-MODIS...).</r3d:remarks>
+        <r3d:entryDate>2018-11-06</r3d:entryDate>
+        <r3d:lastUpdate>2023-08-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

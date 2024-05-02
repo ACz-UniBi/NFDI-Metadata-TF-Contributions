@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013268</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">COVID-19 Interactive Map</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Johns Hopkins Coronavirus Resource Center</r3d:additionalName>
+                <r3d:repositoryURL>https://coronavirus.jhu.edu/map.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.5824e1</r3d:repositoryIdentifier>
+                <r3d:description language="eng">JHU has stopped collecting data as of 03/10/2023
+After three years of around-the-clock tracking of COVID-19 data from around the world, Johns Hopkins has discontinued the Coronavirus Resource Center’s operations. The site’s two raw data repositories will remain accessible for information collected from 1/22/20 to 3/10/23 on cases, deaths, vaccines, testing and demographics.
+
+Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). Johns Hopkins experts in global public health, infectious disease, and emergency preparedness have been at the forefront of the international response to COVID-19. This website is a resource to help advance the understanding of the virus, inform the public, and brief policymakers in order to guide a response, improve care, and save lives.  All data collected and displayed are made freely available through a GitHub repository https://github.com/CSSEGISandData/COVID-19, along with the feature layers of the dashboard, which are now included in the ESRI Living Atlas: https://livingatlas.arcgis.com/en/home/</r3d:description>
+                    <r3d:repositoryContact>COVID19map@jhu.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2020-01-22</r3d:startDate>
+        <r3d:endDate>2023-10-03</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20404 Virology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://coronavirus.jhu.edu/map-faq</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>live map</r3d:keyword>
+                    <r3d:keyword>pandemic</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Johns Hopkins University</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">JHU</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.jhu.edu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00za53h95</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_010247</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Johns Hopkins University, Center for Systems Science and Engineering</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CSSE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://systems.jhu.edu/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Map FAQ</r3d:policyName>
+                <r3d:policyURL>https://coronavirus.jhu.edu/map-faq</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://coronavirus.jhu.edu/map-faq.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://docs.github.com/de/rest?apiVersion=2022-11-28</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://coronavirus.jhu.edu/map-faq.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2020-03-12</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

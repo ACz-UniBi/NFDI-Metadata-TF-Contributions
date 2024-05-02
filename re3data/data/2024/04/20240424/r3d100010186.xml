@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010186</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ARM Data Center</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Atmospheric Radiation Measurement  Facility Data Center</r3d:additionalName>
+                <r3d:repositoryURL>https://www.arm.gov/data</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.g84yb7</r3d:repositoryIdentifier>
+                <r3d:description language="eng">US Department of Energy’s Atmospheric Radiation Measurement (ARM) Data Center is a long-term archive and distribution facility for various ground-based, aerial and model data products in support of atmospheric and climate research. ARM facility currently operates over 400 instruments at various observatories (https://www.arm.gov/capabilities/observatories/). 
+ARM Data Center (ADC) Archive currently holds over 11,000 data products with a total holding of over 3 petabytes of data that dates back to 1993, these include data from instruments, value added products, model outputs, field campaign and PI contributed data. The data center archive also includes data collected by ARM from related program (e.g., external data such as NASA satellite).</r3d:description>
+                    <r3d:repositoryContact>adc@arm.gov</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://arm.gov/connect-with-arm/organization/data-services</r3d:repositoryContact>
+                    <r3d:repositoryContact>palanisamyg@ornl.gov</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2018-12-04">11.000 data products with a total holding of over 3 petabytes of data</r3d:size>
+        <r3d:startDate>1993</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40902 Software Technology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://www.arm.gov/about/mission-and-vision-statements</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>aerosol life cycle</r3d:keyword>
+                    <r3d:keyword>climate</r3d:keyword>
+                    <r3d:keyword>cloud life cycle</r3d:keyword>
+                    <r3d:keyword>global climate</r3d:keyword>
+                    <r3d:keyword>ice</r3d:keyword>
+                    <r3d:keyword>meteorology</r3d:keyword>
+                    <r3d:keyword>polar year</r3d:keyword>
+                    <r3d:keyword>radiative processes</r3d:keyword>
+                    <r3d:keyword>snow</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Argonne National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ANL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.anl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05gvnxz63</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011095</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_55742</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Atmospheric Radiation Measurement Climate Research Facility</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARM</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.arm.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01dvj3d25</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Brookhaven National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">BNL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bnl.gov/world/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02ex6cf31</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:GAZ:00159027</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011123</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lawrence Berkeley National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LBL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lbl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02jbv0t02</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011336</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_37075</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Lawrence Livermore National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LLNL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.llnl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:041nk4h53</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>ROR:SCR_011337</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_151761</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Los Alamos National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LANL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lanl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01e41cf67</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011349</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_71073</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Renewable Energy  Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NREL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nrel.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:036266993</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Oak Ridge National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ORNL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ornl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01qz5mb56</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011475</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_149160</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Pacific Northwest National Laboratory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">PNNL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.pnnl.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05h992307</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012842</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_152675</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Sandia National Laboratories</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">SNL</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Sandia</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.sandia.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:058m7ey48</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">U.S. Department of Energy, Office of Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://science.energy.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00mmn6b08</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1993</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CoreTrustSeal Assessment</r3d:policyName>
+                <r3d:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/05/Atmospheric-Radiation-Measurement-ARM-Data-Center.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>General Guidelines</r3d:policyName>
+                <r3d:policyURL>https://www.arm.gov/guidance/datause/generalguidelines</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.arm.gov/guidance/datause/datasharing</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Data Acquisition &amp; Use</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.arm.gov/guidance/datause</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="NetCDF">https://www.unidata.ucar.edu/software/netcdf/</r3d:api>
+                    <r3d:api apiType="REST">https://adc.arm.gov/armlive/</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.arm.gov/working-with-arm/acknowledging-arm/doi-guidance-for-datastreams</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                            <r3d:syndication syndicationType="RSS">https://www.arm.gov/news/facility/post/502</r3d:syndication>
+                <r3d:remarks>ARM is covered by Clarivate Data Citation Index. The Atmospheric Radiation Measurement (ARM) Program was created in 1989 with funding from the U.S. Department of Energy (DOE) to develop several highly instrumented ground stations to study cloud formation processes and their influence on radiative transfer. This scientific infrastructure now includes three heavily instrumented fixed-location atmospheric observatories that represent a broad range of conditions are operated by the Atmospheric Radiation Measurement (ARM) user facility to gather massive amounts of atmospheric data. In addition to these fixed-location observatories, ARM also offers three mobile facilities, an aerial facility, and a data center available for use by scientists worldwide through the ARM Climate Research Facility—a scientific user facility.</r3d:remarks>
+        <r3d:entryDate>2013-01-15</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

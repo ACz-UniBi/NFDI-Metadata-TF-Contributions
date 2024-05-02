@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010977</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">HIstome</r3d:repositoryName>
+                    <r3d:additionalName language="eng">The Histone Infobase</r3d:additionalName>
+                <r3d:repositoryURL>http://www3.iiserpune.ac.in/~coee/histome/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.g56qnp</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_03500</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006972</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_151419</r3d:repositoryIdentifier>
+                <r3d:description language="eng">HIstome: The Histone Infobase is a database of human histones, their post-translational modifications and modifying enzymes. HIstome is a combined effort of researchers from two institutions, Advanced Center for Treatment, Research and Education in Cancer (ACTREC), Navi Mumbai and Center of Excellence in Epigenetics, Indian Institute of Science Education and Research (IISER), Pune.</r3d:description>
+                    <r3d:repositoryContact>histome@iiserpune.ac.in</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://www3.iiserpune.ac.in/~coee/histome/contact_us.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-12-04">Informations about ~50 histone proteins and ~150 histone modifying enzymes</r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://www3.iiserpune.ac.in/~coee/histome/how_to_use.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>RNA</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>cancer</r3d:keyword>
+                    <r3d:keyword>cell biology</r3d:keyword>
+                    <r3d:keyword>epigenetics</r3d:keyword>
+                    <r3d:keyword>histones</r3d:keyword>
+                    <r3d:keyword>human protein</r3d:keyword>
+                    <r3d:keyword>post-translational modifications PTMs</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Indian Institute of Science Education and Research</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">IISER</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="hin">भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थान</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.iiserpune.ac.in/institute/about</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:028qa3n13</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>histome@iiserpune.ac.in</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Tata Memorial Centre, Advanced Centre for Treatment, Research and Education in Cancer</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ACTREC, TMC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IND</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://actrec.gov.in/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05b9pgt88</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_006021</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://actrec.gov.in/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>ACTREC Internet and electronic access policy</r3d:policyName>
+                <r3d:policyURL>https://www.actrec.gov.in/policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ACTREC Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.actrec.gov.in/terms-use</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>TMC Policies and Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://tmc.gov.in/index.php/en/policies-terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www3.iiserpune.ac.in/~coee/histome/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www3.iiserpune.ac.in/~coee/histome/</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2014-09-03</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

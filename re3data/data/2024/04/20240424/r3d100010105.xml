@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010105</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">NEEShub</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Network for Earthquake Engineering Simulations</r3d:additionalName>
+                    <r3d:additionalName language="eng">The George E. Brown, Jr. Network for Earthquake Engineering Simulation</r3d:additionalName>
+                    <r3d:additionalName language="eng">a platform for research, collaboration and education</r3d:additionalName>
+                <r3d:repositoryURL>http://nees.org/</r3d:repositoryURL>
+                <r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  As stated 2017-08-28 NEEShub is no longer available.  
+The NEES published projects from the Project Warehouse can be found in the DesignSafe Data Depot https://www.designsafe-ci.org/data/browser/public/nees.public/.
+The NEES Databases https://datacenterhub.org/resources/395 are being transitioned to DataHub https://datacenterhub.org/ .
+Please visit DesignSafe https://www.designsafe-ci.org/ for all other inquiries.  &gt;&gt;&gt;!!!&lt;&lt;&lt;           NEES network features 14 geographically-distributed, shared-use laboratories that support several types of experimental work: geotechnical centrifuge research, shake table tests, large-scale structural testing, tsunami wave basin experiments, and field site research &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2004</r3d:startDate>
+        <r3d:endDate>2017-08-28</r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>earthquake</r3d:keyword>
+                    <r3d:keyword>field experimentation and monitoring</r3d:keyword>
+                    <r3d:keyword>geotechnical centrifuges</r3d:keyword>
+                    <r3d:keyword>large-scale laboratory experimentation</r3d:keyword>
+                    <r3d:keyword>seismology</r3d:keyword>
+                    <r3d:keyword>shake tables</r3d:keyword>
+                    <r3d:keyword>tsunami wave basin</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">George E. Brown, Jr. Network for Earthquake Engineering Simulation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NEES</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://nees.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>2000</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                        <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://opendatacommons.org/licenses/by/1.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opendatacommons.org/licenses/by/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Data from NEEShub have been transitioned to DesignSafe-CI (https://www.designsafe-ci.org/) and to DataHub https://datacenterhub.org/ . //  NEEShub is covered by Thomson Reuters Data Citation Index. The George E. Brown, Jr. Network for Earthquake Engineering Simulation (NEES) was created by the National Science Foundation (NSF) to aggressively move forward the development of improvements and innovations in infrastructure design and construction practices to prevent or minimize damage during such an event.</r3d:remarks>
+        <r3d:entryDate>2012-10-08</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-17</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100014121</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Thai National Research Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">TNRR</r3d:additionalName>
+                    <r3d:additionalName language="eng">Thai Research Archives</r3d:additionalName>
+                    <r3d:additionalName language="tha">ระบบคลังข้อมูลงานวิจัยไทย</r3d:additionalName>
+                <r3d:repositoryURL>https://tnrr.nriis.go.th</r3d:repositoryURL>
+                <r3d:description language="eng">Thai National Research Repository (TNRR) is a central database of science, research, and innovation of Thailand managed by the National Research Council of Thailand (NRCT) under the Ministry of Higher Education, Science, Research and Innovation (MHESI) Act B.E. 2562 (2019). The TNRR system serves and disseminates an extensive collection of information to the public as open access to research and innovation knowledge. The goal is to be the system that provides information services on Thailand&#039;s research findings. This information is collected from academic institutes and information-oriented government agencies in Thailand. In other words, the data in the TNRR system is accumulated from 3 national databases including 1. National Research Innovation and Information System (NRIIS), 2. Research agencies within Thailand’s research and innovation ecosystem that have agreed to share their data; including research projects, research results, bodies of knowledge, theses, as well as various inventions and innovations; and 3. Other related databases of agencies that have shared their data for audit purposes and to improve the operation of the central database, such as the Department of Provincial Administration, the Department of Intellectual Property, and the Department of Business Development, etc.
+Thai National Research Repository (TNRR) also provides open data of research findings via API  which can be accessed at https://tnrr.nriis.go.th/#/service/opendata and https://opendata.nrct.go.th/en/</r3d:description>
+                    <r3d:repositoryContact>tnrr@nrct.go.th</r3d:repositoryContact>
+                            <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2022</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>tha</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://tnrr.nriis.go.th/#/aboutus/mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Audiovisual data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biotechnology</r3d:keyword>
+                    <r3d:keyword>culture</r3d:keyword>
+                    <r3d:keyword>economic research</r3d:keyword>
+                    <r3d:keyword>engineering</r3d:keyword>
+                    <r3d:keyword>environmental science</r3d:keyword>
+                    <r3d:keyword>multidisciplinary</r3d:keyword>
+                    <r3d:keyword>society</r3d:keyword>
+                    <r3d:keyword>survey</r3d:keyword>
+                    <r3d:keyword>technology</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">National Research Council of Thailand</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NRCT</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="tha">สำนักงานการวิจัยแห่งชาติ (วช.)</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>THA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nrct.go.th/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018wfhg78</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>tnrr@nrct.go.th</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Announcement of the National Research Council of Thailand on Policies and Practices on Government Data Governance National Research Agency</r3d:policyName>
+                <r3d:policyURL>https://opendata.nrct.go.th/document/data-government1</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>TNRR Personal Data Protection Act</r3d:policyName>
+                <r3d:policyURL>https://tnrr.nriis.go.th/#/aboutus/privacypolicy</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://www.microsoft.com/en-us/sql-server/sql-server-downloads</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://tnrr.nriis.go.th/#/aboutus/rights</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Procedures for importing open datasets from the National Research Council of Thailand</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://opendata.nrct.go.th/document/import</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="REST">https://tnrr.nriis.go.th/#/api-service?keywords=&amp;pageSize=10&amp;page=1</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2023-01-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-01-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

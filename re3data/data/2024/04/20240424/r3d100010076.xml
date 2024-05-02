@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010076</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Chesapeake Bay Environmental Observatory</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CBEO</r3d:additionalName>
+                <r3d:repositoryURL>https://cbeo.communitymodeling.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>https://fairsharing.org/3001</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Chesapeake Bay Environmental Observatory (CBEO) is a prototype to demonstrate the utility of newly developed Cyberinfrastructure (CI) components for transforming environmental research, education, and management. The CBEO project uses a specific problem of water quality (hypoxia) as means of directly involving users and demonstrating the prototype’s utility. 
+Data from the Test Bed are being brought into a CBEO Portal on a National Geoinformatics Grid developed by the NSF funded GEON. This is a cyberinfrastructure netwrok that allows users access to datasets as well as the tools with which to analyze the data.
+Currently, Test Bed data avaialble on the CBEO Portal includes Water Quality Model output and water quality monitorig data from the Chesapeake Bay Program&#039;s CIMS database. This data is also available as aggregated &quot;data cubes&quot;. Avaialble tools include the Data Access System for Hydrology (DASH), Hydroseek and an online R-based interpolator.</r3d:description>
+                    <r3d:repositoryContact>djasinsk@gmail.com</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://cbeo.communitymodeling.org/contact.php</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">318 Water Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://cbeo.communitymodeling.org/merit.php</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>cyberinfrastructure</r3d:keyword>
+                    <r3d:keyword>ecosystem dynamics</r3d:keyword>
+                    <r3d:keyword>environmental observatory</r3d:keyword>
+                    <r3d:keyword>environmental science</r3d:keyword>
+                    <r3d:keyword>hydrodynamics</r3d:keyword>
+                    <r3d:keyword>trophic exchanges</r3d:keyword>
+                    <r3d:keyword>water quality</r3d:keyword>
+                    <r3d:keyword>watershed interactions</r3d:keyword>
+                    <r3d:keyword>watershed-estuary model</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Chesapeake Research Consortium</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://chesapeake.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00f2ymb10</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>doudneyj@chesapeake.org</r3d:institutionContact>
+                                    <r3d:institutionContact>http://cbeo.communitymodeling.org/contact.php</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2005</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Privacy and Security Policy</r3d:policyName>
+                <r3d:policyURL>http://www.westcoastoceans.org/index.cfm?fuseaction=content.display&amp;pageID=89</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://ches.communitymodeling.org/models.php</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>The CBEO Data portal provides search capability to discover data available from the Chesapeake Bay Environmental Observatory research project</r3d:remarks>
+        <r3d:entryDate>2012-11-13</r3d:entryDate>
+        <r3d:lastUpdate>2022-04-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

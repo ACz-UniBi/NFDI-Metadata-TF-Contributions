@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010637</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">American Type Culture Collection</r3d:repositoryName>
+                    <r3d:additionalName language="eng">ATCC</r3d:additionalName>
+                <r3d:repositoryURL>https://www.atcc.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.j0ezpm</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_001672</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-10159</r3d:repositoryIdentifier>
+                <r3d:description language="eng">While focused on supporting the scientific community, ATCC activities range widely, from repository-related operations to providing specialized services, conducting in-house R&amp;D and intellectual property management.
+ATCC serves U.S. and international researchers by characterizing cell lines, bacteria, viruses, fungi and protozoa, as well as developing and evaluating assays and techniques for validating research resources and preserving and distributing biological materials to the public and private sector research communities. Our management philosophy emphasizes customer satisfaction, value addition, cost-effective operations and competitive benchmarking for all areas of our enterprise.</r3d:description>
+                    <r3d:repositoryContact>https://www.atcc.org/support/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>other</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1998</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20103 Cell Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.atcc.org/about-us/what-we-do</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>COVID-19</r3d:keyword>
+                    <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>RNA</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                    <r3d:keyword>biomaterials</r3d:keyword>
+                    <r3d:keyword>cells</r3d:keyword>
+                    <r3d:keyword>stem cells</r3d:keyword>
+                    <r3d:keyword>virus</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">ATCC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">The Global Bioresource Center</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.atcc.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03thhhv76</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_001672</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.atcc.org/support/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">LGC Standards</r3d:institutionName>
+                                <r3d:institutionCountry>GBR</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.lgcstandards.com/DE/en</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.lgcstandards.com/DE/en/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Material Transfer Agreement</r3d:policyName>
+                <r3d:policyURL>https://www.atcc.org/policies/product-use-policies/material-transfer-agreement</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Product Use Policy</r3d:policyName>
+                <r3d:policyURL>https://www.atcc.org/policies/product-use-policies</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms and Conditions of Sale by ATCC</r3d:policyName>
+                <r3d:policyURL>https://www.atcc.org/policies/terms-and-conditions-of-sale-by-atcc</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.atcc.org/policies/product-use-policies/material-transfer-agreement</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Terms of Use</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.atcc.org/policies/website-terms-of-use</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>ATCC is an independent, private, nonprofit biological resource center (BRC) and research organization</r3d:remarks>
+        <r3d:entryDate>2014-03-06</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-05</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

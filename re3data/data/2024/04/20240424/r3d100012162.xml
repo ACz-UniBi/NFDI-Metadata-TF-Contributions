@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012162</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">LibraData</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UVA Dataverse</r3d:additionalName>
+                    <r3d:additionalName language="eng">University of Virginia Dataverse</r3d:additionalName>
+                <r3d:repositoryURL>https://dataverse.lib.virginia.edu/</r3d:repositoryURL>
+                <r3d:description language="eng">LibraData is a place for UVA researchers to share data publicly. It is UVA&#039;s local instance of Dataverse. LibraData is part of the Libra Scholarly Repository suite of services which includes works of UVA scholarship such as articles, books, theses, and data.</r3d:description>
+                    <r3d:repositoryContact>libra@virginia.edu</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2024-01-08">38 dataverses, 377 datasets, 35.446 files</r3d:size>
+        <r3d:startDate>2016-03-29</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://www.library.virginia.edu/libra/datasets#about</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>arts and humanities</r3d:keyword>
+                    <r3d:keyword>earth and environmental sciences</r3d:keyword>
+                    <r3d:keyword>engineering</r3d:keyword>
+                    <r3d:keyword>law</r3d:keyword>
+                    <r3d:keyword>social sciences</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Dataverse Project</r3d:institutionName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dataverse.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_001997</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nif-0000-00316</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://dataverse.org/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Virginia</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.library.virginia.edu/libra/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0153tk833</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011743</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_57553</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2016-03-29</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>libra@virginia.edu</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>About datasets</r3d:policyName>
+                <r3d:policyURL>https://www.library.virginia.edu/libra/datasets</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Dataverse Community Norms</r3d:policyName>
+                <r3d:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Guides</r3d:policyName>
+                <r3d:policyURL>https://uvalib.github.io/dataverse-docs/</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Terms of Use</r3d:policyName>
+                <r3d:policyURL>https://www.library.virginia.edu/libra/terms-of-use</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Libra Data Public Deposit License</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.library.virginia.edu/libra/datasets/public-dataset-license</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>Dataverse</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="OAI-PMH">https://guides.dataverse.org/en/latest/admin/discoverability.html?highlight=oai%20pmh</r3d:api>
+                    <r3d:api apiType="REST">https://guides.dataverse.org/en/latest/api/native-api.html</r3d:api>
+                    <r3d:api apiType="SWORD">https://guides.dataverse.org/en/latest/api/sword.html</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>no</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>LibraData is covered by Clarivate Data Citation Index. We’re using the Dataverse software developed by Harvard; Libra Data is UVA’s local instance of Dataverse with all data resides on servers physically located on the UVA Grounds. Libra Data is a place for UVA researchers to publish final research data for sharing publicly.</r3d:remarks>
+        <r3d:entryDate>2016-09-21</r3d:entryDate>
+        <r3d:lastUpdate>2024-01-08</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

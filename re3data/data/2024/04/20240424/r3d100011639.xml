@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011639</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Australian Waterbird Surveys</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AWS</r3d:additionalName>
+                <r3d:repositoryURL>https://aws.ecosystem.unsw.edu.au/</r3d:repositoryURL>
+                <r3d:description language="eng">Australian Waterbird Surveys (AWS) is an information source of waterbird communities around Australia, based on  surveys of their diversity and numbers. It relies on rigorous data collection protocols and includes more than 50 waterbird  species and up to 30 years of survey data. This open source also includes the extent of flooding of thousands of wetlands  observed during our surveys. As a group, waterbirds can be sentinels of the ecological health of our wetlands and rivers.  We hope this free information system will help track long-term changes in the environment, provide an assessment tool  for individual species, report on our national and international responsibilities and help improve the way we manage our  rivers and wetlands. It has been developed with the support of research and government partners.</r3d:description>
+                    <r3d:repositoryContact>ecosystem@unsw.edu.au</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://www.unsw.edu.au/research/ecosystem/our-research/rivers-and-wetlands/eastern-australian-waterbird-survey</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Eastern Australian Survey</r3d:keyword>
+                    <r3d:keyword>Lake Eyre</r3d:keyword>
+                    <r3d:keyword>Murray-Darling Basin</r3d:keyword>
+                    <r3d:keyword>Western Rivers</r3d:keyword>
+                    <r3d:keyword>ecosystem</r3d:keyword>
+                    <r3d:keyword>river</r3d:keyword>
+                    <r3d:keyword>wetlands</r3d:keyword>
+                    <r3d:keyword>wildlife</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Australian Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">ARC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.arc.gov.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:05mmh0f86</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_000952</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156882</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.arc.gov.au/engage-us/contacts</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Health and Medical Research Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NHMRC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nhmrc.gov.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:011kf5r70</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011497</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_156854</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nhmrc.gov.au/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of New South Wales, Centre for Ecosystem Science</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">UNSW, CES</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unsw.edu.au/research/ecosystem</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.unsw.edu.au/about-us/our-story/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Accessibility</r3d:policyName>
+                <r3d:policyURL>https://www.unsw.edu.au/accessibility</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.unsw.edu.au/copyright-disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.unsw.edu.au/copyright-disclaimer</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2015-08-25</r3d:entryDate>
+        <r3d:lastUpdate>2024-03-27</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

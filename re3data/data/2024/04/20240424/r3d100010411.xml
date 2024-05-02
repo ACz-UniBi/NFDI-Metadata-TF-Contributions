@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010411</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Comprehensive R Archive Network</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CRAN</r3d:additionalName>
+                <r3d:repositoryURL>https://cran.r-project.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.1a283d</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_003005</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-30270</r3d:repositoryIdentifier>
+                <r3d:description language="eng">CRAN is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R. R is ‘GNU S’, a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques: linear and nonlinear modelling, statistical tests, time series analysis, classification, clustering, etc. Please consult the R project homepage for further information.</r3d:description>
+                    <r3d:repositoryContact>cran-sysadmin@r-project.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>cran@r-project.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://cran.r-project.org/CRAN_team.htm</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1997</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">312 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31201 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">33 Mathematics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://cran.r-project.org/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Configuration data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Source code</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>R</r3d:keyword>
+                    <r3d:keyword>code</r3d:keyword>
+                    <r3d:keyword>graphics</r3d:keyword>
+                    <r3d:keyword>network</r3d:keyword>
+                    <r3d:keyword>programming language</r3d:keyword>
+                    <r3d:keyword>software system</r3d:keyword>
+                    <r3d:keyword>statistical computing</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="deu">Wirtschaftsuniversität Wien, Institut für Statistik und Mathematik</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Vienna University of Economics and Business, Institute for Statistics and Mathematics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUT</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.wu.ac.at/en/statmath/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.wu.ac.at/en/the-university/about-wu/impressum/</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CRAN Repository Policy</r3d:policyName>
+                <r3d:policyURL>https://cran.r-project.org/web/packages/policies.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cran.r-project.org/web/packages/policies.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://svn.r-project.org/R/trunk/share/licenses/license.db</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Submission</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://cran.r-project.org/web/packages/policies.html#Submission</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>other</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                    <r3d:api apiType="FTP">ftp://ftp.stat.math.ethz.ch/Software/</r3d:api>
+                    <r3d:api apiType="FTP">ftp://cran.r-project.org/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://cran.r-project.org/web/packages/policies.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks>CRAN is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. Data is available under GNU license. Mirror sites can be found here https://cran.r-project.org/mirrors.html .</r3d:remarks>
+        <r3d:entryDate>2013-06-20</r3d:entryDate>
+        <r3d:lastUpdate>2023-09-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

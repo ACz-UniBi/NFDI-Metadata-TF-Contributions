@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012902</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ArachnoServer</r3d:repositoryName>
+                <r3d:repositoryURL>https://arachnoserver.qfab.org/mainMenu.html</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.c54ywe</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000193</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_03117</r3d:repositoryIdentifier>
+                <r3d:description language="eng">ArachnoServer is a manually curated database containing information on the sequence, three-dimensional structure, and biological activity of protein toxins derived from spider venom. Spiders are the largest group of venomous animals and they are predicted to contain by far the largest number of pharmacologically active peptide toxins (Escoubas et al., 2006). ArachnoServer has been custom-built so that a wide range of biological scientists, including neuroscientists, pharmacologists, and toxinologists, can readily access key data relevant to their discipline without being overwhelmed by extraneous information.</r3d:description>
+                    <r3d:repositoryContact>support@arachnoserver.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>support@qfab.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2023-12-20">1.576 toxins; 1.458 curated toxins; 100 species</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20510 Toxicology and Occupational Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL></r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>spider toxins</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">EMBL Australia</r3d:institutionName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.emblaustralia.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:00yx5cw48</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">QFAB Bioinformatics</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Queensland Facility for Advanced Bioinformatics</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://imb.uq.edu.au/qfab</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">University of Queensland, Institute for Molecular Bioscience</r3d:institutionName>
+                                <r3d:institutionCountry>AUS</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://imb.uq.edu.au/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_012961</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Manual</r3d:policyName>
+                <r3d:policyURL>https://arachnoserver.qfab.org/docs/ArachnoServerUserManual.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>other</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://arachnoserver.qfab.org/mainMenu.html</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Data from ArachnoServer is now being used to assist the curators at UniProtKB/Swiss‐Prot to provide the most up‐to‐date descriptions  for spider toxin characterisation. The rational  toxin  names  recommended  in  ArachnoServer  are  also  being  adopted  by UniProtKB/Swiss‐Prot, and are directly searchable from their interface.</r3d:remarks>
+        <r3d:entryDate>2018-11-16</r3d:entryDate>
+        <r3d:lastUpdate>2023-12-20</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

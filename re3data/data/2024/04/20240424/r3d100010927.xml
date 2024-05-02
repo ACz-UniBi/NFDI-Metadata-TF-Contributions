@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010927</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Barcode of Life Data Systems</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BOLD Systems</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Barcode Library</r3d:additionalName>
+                <r3d:repositoryURL>https://www.boldsystems.org/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.en9npn</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>OMICS_17578</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_004278</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_29236</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Barcode of Life Data Systems (BOLD) provides DNA barcode data. BOLD&#039;s online workbench supports data validation, annotation, and publication for specimen, distributional, and molecular data. The platform consists of four main modules: a data portal, a database of barcode clusters, an educational portal, and a data collection workbench.
+BOLD is the go-to site for DNA-based identification. As the central informatics platform for DNA barcoding, BOLD plays a crucial role in assimilating and organizing data gathered by the international barcode research community. Two iBOL (International Barcode of Life) Working Groups are supporting the ongoing development of BOLD.</r3d:description>
+                    <r3d:repositoryContact>https://www.boldsystems.org/index.php/Resources/ContactUs</r3d:repositoryContact>
+                    <r3d:repositoryContact>info@boldsystems.org</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-02-01">10.315k Barcodes; 760k BINs; 236k Animal Species; 70k Plant Species;  24k Fungi and Other Species</r3d:size>
+        <r3d:startDate>2005</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">201 Basic Biological and Medical Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20105 General Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20207 Plant Genetics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.boldsystems.org/index.php/Resources/whatIsBOLD</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>BIN</r3d:keyword>
+                    <r3d:keyword>Barcode Index Number</r3d:keyword>
+                    <r3d:keyword>COI</r3d:keyword>
+                    <r3d:keyword>DNA</r3d:keyword>
+                    <r3d:keyword>bacteria</r3d:keyword>
+                    <r3d:keyword>barcoding</r3d:keyword>
+                    <r3d:keyword>bioinformatics</r3d:keyword>
+                    <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>gene sequence</r3d:keyword>
+                    <r3d:keyword>microorganisms</r3d:keyword>
+                    <r3d:keyword>molecular biology</r3d:keyword>
+                    <r3d:keyword>plants</r3d:keyword>
+                    <r3d:keyword>species identification</r3d:keyword>
+                    <r3d:keyword>taxonomists</r3d:keyword>
+                    <r3d:keyword>taxonomy</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Canada Foundation for Innovation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Fondation canadienne pour l&#039;innovation</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">innovation.ca</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.innovation.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:000az4664</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_005054</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_011134</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144042</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144043</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.innovation.ca/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">International Barcode of Life</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">iBOL</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>AAA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ibol.org/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ibol.org/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Sciences and Engineering Research Council of Canada</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">CRSNG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">Conseil de recherches en sciences naturelles et en génie du Canada</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">NSERC</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nserc-crsng.gc.ca/index_eng.asp</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01h531d29</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_013327</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_39429</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nserc-crsng.gc.ca/ContactUs-ContactezNous/index_eng.asp</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Ontario Ministry of Economic Development, Job Creation and Trade</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="fra">Ministère du Développement économique, de la Création d’emplois et du Commerce</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">formerly: Ontario Ministry of Research and Innovation</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fra">jadis: Ontario Ministère de la Recherche et de l&#039;Innovation</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.ontario.ca/page/ministry-economic-development-job-creation-trade</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_011445</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>nlx_158221</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.ontario.ca/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>data releases</r3d:policyName>
+                <r3d:policyURL>https://www.boldsystems.org/index.php/datarelease</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>iBOL Data &amp; Resource Sharing Policies</r3d:policyName>
+                <r3d:policyURL>https://www.ibol.org/phase1/resources/data-release-policy/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.boldsystems.org/index.php/resources/handbook?chapter=1_gettingstarted.html#searching</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.ibol.org/phase1/resources/data-release-policy/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>submissions to BOLD</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://www.boldsystems.org/index.php/resources/handbook?chapter=3_submissions.html</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">https://www.boldsystems.org/index.php/resources/api?type=taxonomy</r3d:api>
+                    <r3d:api apiType="REST">https://www.boldsystems.org/index.php/resources/api?type=idengine</r3d:api>
+                    <r3d:api apiType="REST">https://www.boldsystems.org/index.php/resources/api?type=webservices</r3d:api>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.boldsystems.org/index.php/Resources</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>Barcode of Life Data Systems is covered by Clarivate Data Citation Index.
+Partners: iBOL, CBOL, CCDB, GenBank, EOL, GBIF, CBG  
+Other link for this page: http://www.barcodinglife.org/
+BOLD is currently maintained and developed at a single location. Mirror sites will strengthen data security and ensure that system upgrades can be accomplished without transient disruption of services.</r3d:remarks>
+        <r3d:entryDate>2014-08-20</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-06</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

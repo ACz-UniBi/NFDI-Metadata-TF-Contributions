@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010181</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Alberta Geological Survey</r3d:repositoryName>
+                    <r3d:additionalName language="eng">AGS</r3d:additionalName>
+                <r3d:repositoryURL>https://ags.aer.ca/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_003402</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_157758</r3d:repositoryIdentifier>
+                <r3d:description language="eng">AGS delivers geoscience in several key areas, including surficial mapping, bedrock mapping, geological modelling, resource evaluation (hydrocarbons, minerals), groundwater, and geological hazards. We also are responsible for maintaining the Alberta Table of Formations and providing geoscience outreach to stakeholders ranging from professional colleagues and academia to the general public.</r3d:description>
+                    <r3d:repositoryContact>AGS-Info@aer.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://ags.aer.ca/about-the-ags/contact-us</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2019-05-20">605 maps; 5 interactive maps</r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>https://ags.aer.ca/about-the-ags/our-story</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Archived data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CO2</r3d:keyword>
+                    <r3d:keyword>coal</r3d:keyword>
+                    <r3d:keyword>core samples</r3d:keyword>
+                    <r3d:keyword>earthquakes</r3d:keyword>
+                    <r3d:keyword>gas</r3d:keyword>
+                    <r3d:keyword>geological hazards</r3d:keyword>
+                    <r3d:keyword>geosystems</r3d:keyword>
+                    <r3d:keyword>groundwater</r3d:keyword>
+                    <r3d:keyword>mapping</r3d:keyword>
+                    <r3d:keyword>oil</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Alberta Geology Survey</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">AGS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ags.aer.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>RRID:SCR_003402</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>1996</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ags.aer.ca/about-the-ags/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Copyright &amp; Legal Disclaimers</r3d:policyName>
+                <r3d:policyURL>https://ags.aer.ca/copyright-legal-disclaimers</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://ags.aer.ca/copyright-legal-disclaimers#copyright</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://open.alberta.ca/licence</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>yes</r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://ags.aer.ca/copyright-legal-disclaimers#credit</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://feeds.feedburner.com/AGSUpdates</r3d:syndication>
+                <r3d:remarks>As part of the Energy Resources Conservation Board,Alberta Geological Survey (AGS) provides geological information and expertise to government, industry and the public about Alberta’s resources and geological processes. This information helps manage and develop our resources. Contains the &#039;Geological Atlas of the Western Canada Sedimentary Basin&#039;.
+The digital data sets are packaged in a ZIP archive file format. In addition, selected data are available through the AGS Open Data Portal in spreadsheet, shapefile, or KML format.</r3d:remarks>
+        <r3d:entryDate>2013-01-08</r3d:entryDate>
+        <r3d:lastUpdate>2024-02-13</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

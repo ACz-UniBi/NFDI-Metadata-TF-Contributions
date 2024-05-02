@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012547</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Lamont-Doherty Core Repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">LDCR</r3d:additionalName>
+                <r3d:repositoryURL>http://www.ldeo.columbia.edu/core-repository</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>RRID:SCR_002216</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nlx_154738</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Lamont-Doherty Core Repository (LDCR) contains one of the world’s most unique and important collection of scientific samples from the deep sea. Sediment cores from every major ocean and sea are archived at the Core Repository. The collection contains approximately 72,000 meters of core composed of 9,700 piston cores; 7,000 trigger weight cores; and 2,000 other cores such as box, kasten, and large diameter gravity cores. We also hold 4,000 dredge and grab samples, including a large collection of manganese nodules, many of which were recovered by submersibles. Over 100,000 residues are stored and are available for sampling where core material is expended.  In addition to physical samples, a database of the Lamont core collection has been maintained for nearly 50 years and contains information on the geographic location of each collection site, core length, mineralogy and paleontology, lithology, and structure, and more recently, the full text of megascopic descriptions.</r3d:description>
+                    <r3d:repositoryContact>corelab@ldeo.columbia.edu</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>2011</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31302 Oceanography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">314 Geology and Palaeontology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">315 Geophysics and Geodesy</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">34 Geosciences (including Geography)</r3d:subject>
+                <r3d:missionStatementURL>http://www.ldeo.columbia.edu/core-repository/about-us#mission</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>CLIMAP samples</r3d:keyword>
+                    <r3d:keyword>coral cores</r3d:keyword>
+                    <r3d:keyword>deep sea</r3d:keyword>
+                    <r3d:keyword>deep sea cores</r3d:keyword>
+                    <r3d:keyword>geoscience</r3d:keyword>
+                    <r3d:keyword>marine dredge samples</r3d:keyword>
+                    <r3d:keyword>ocean sediment cores</r3d:keyword>
+                    <r3d:keyword>sea samples</r3d:keyword>
+                    <r3d:keyword>sediment</r3d:keyword>
+                    <r3d:keyword>terrestrial cores</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Columbia University, Earth Institute, Lamont-Doherty Earth Observatory</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">LDEO</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ldeo.columbia.edu/about-ldeo</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.ldeo.columbia.edu/give-ldeo/contact-us</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.nsf.gov/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:021nxhr62</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012938</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_inv_1005118</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.nsf.gov/help/contact.jsp</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>NSF Earth Sciences Division data policy statement</r3d:policyName>
+                <r3d:policyURL>https://www.nsf.gov/geo/ear/2010EAR_data_policy_9_28_10.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Ocean Sciences Division data and sample policy</r3d:policyName>
+                <r3d:policyURL>https://www.nsf.gov/pubs/2011/nsf11060/nsf11060.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Policies</r3d:policyName>
+                <r3d:policyURL>http://www.ldeo.columbia.edu/core-repository/about-us/policies-funding</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.ldeo.columbia.edu/core-repository/samples-services#request</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.nsf.gov/pubs/2011/nsf11060/nsf11060.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>DOI</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.ldeo.columbia.edu/core-repository/samples-services#request</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>no</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Following NSF guidelines, all data generated by the LDCR is made available to the public. See Sample Request Guidelines: http://www.ldeo.columbia.edu/core-repository/samples-services/sample-request-guidelines</r3d:remarks>
+        <r3d:entryDate>2017-11-16</r3d:entryDate>
+        <r3d:lastUpdate>2021-02-24</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

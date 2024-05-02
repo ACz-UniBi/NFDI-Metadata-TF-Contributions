@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100010339</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Systema Dipterorum</r3d:repositoryName>
+                    <r3d:additionalName language="eng">BDWD</r3d:additionalName>
+                    <r3d:additionalName language="eng">The BioSystematic Database of World Diptera</r3d:additionalName>
+                    <r3d:additionalName language="eng">The Diptera Site</r3d:additionalName>
+                <r3d:repositoryURL>http://www.diptera.org/</r3d:repositoryURL>
+                <r3d:description language="eng">Systema Dipterorum (and the former Biosystematic Database of World Diptera) is a source of names and information about those names and the taxa to which they apply. Systema Dipterorum is a set of tools to aid users in finding information about flies. The two main components of Systema Dipterorum are the Nomenclator and the Reference database.</r3d:description>
+                    <r3d:repositoryContact>http://www.diptera.org/ContactUs</r3d:repositoryContact>
+                    <r3d:repositoryContact>neale@bishopmuseum.org</r3d:repositoryContact>
+                    <r3d:repositoryContact>tpape@snm.ku.dk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2017-03-01">236.604 species names; 23.085 genus names;  4.647 family names;</r3d:size>
+        <r3d:startDate>2008</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>http://www.diptera.org/About</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Flies</r3d:keyword>
+                    <r3d:keyword>Fly</r3d:keyword>
+                    <r3d:keyword>Two-winged insects</r3d:keyword>
+                    <r3d:keyword>biodiversity</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Bernice Pauahi Bishop Museum</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Bishop Museum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.bishopmuseum.org/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:04m60en37</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural History Museum of Denmark</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="dan">Statens Naturhistoriske Museum</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://snm.ku.dk/english/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:040ck2b86</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Smithsonian Institution, National Museum of Natural History, Department of Entomology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">NMNH, Department of Entomology</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://naturalhistory.si.edu/research/entomology</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Systema Dipterorum team</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.diptera.org/TheTeam</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>How to Cite and Copyrights</r3d:policyName>
+                <r3d:policyURL>http://www.diptera.org/HowToCiteCopyrights</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>http://www.diptera.org/HowToCiteCopyrights</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://www.diptera.org/HowToCiteCopyrights</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                <r3d:remarks>The products of Systema Dipterorum (and the former Biosystematic Database of World Diptera) are disseminated in three formats and distributed via three media. The formats represent the traditional catalog, nomenclator and species database.  Systema Dipterorum works with ITIS (Catalogue of Life https://www.catalogueoflife.org/data/dataset/1101) and was an initial member of the Species2000 program. Systema Dipterorum is endorsed by the Council for the International Congresses of Dipterology, which is a scientific member of the International Union of Biological Sciences. 
+The Diptera Web after 12 years is now officially closed.</r3d:remarks>
+        <r3d:entryDate>2013-04-25</r3d:entryDate>
+        <r3d:lastUpdate>2021-07-21</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

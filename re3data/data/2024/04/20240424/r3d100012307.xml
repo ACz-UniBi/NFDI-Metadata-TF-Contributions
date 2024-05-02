@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012307</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">RADAR Luke</r3d:repositoryName>
+                    <r3d:additionalName language="eng">Luke research data descriptions</r3d:additionalName>
+                    <r3d:additionalName language="fin">Luonnonvarakeskuksen tutkimusaineistokuvausten hakupalvelu</r3d:additionalName>
+                    <r3d:additionalName language="eng">Research data descriptions discovery service of Natural Resources Institute Finland</r3d:additionalName>
+                <r3d:repositoryURL>http://radar.luke.fi/catalog/search/search.page</r3d:repositoryURL>
+                <r3d:description language="eng">RADAR service offers the ability to search for research data descriptions of the Natural Resources Institute Finland (Luke). The service includes descriptions of research data for agriculture, forestry and food sectors, game management, fisheries and environment. The public web service aims to facilitate discovering subjects of natural resources studies. 
+In addition to Luke&#039;s research data descriptions one can search metadata of the Finnish Environment Institute (SYKE). The interface between Luke and SYKE metadata services combines Luke&#039;s research data descriptions and SYKE&#039;s descriptions of spatial datasets and data systems into a unified search service.</r3d:description>
+                    <r3d:repositoryContact>sirpa.suonpaa@luke.fi</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2019-01-23">888 records</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>fin</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20402 Microbial Ecology and Applied Microbiology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">406 Materials Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">410 Construction Engineering and Architecture</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">41002 Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">43 Materials Science and Engineering</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">45 Construction Engineering and Architecture</r3d:subject>
+                <r3d:missionStatementURL>http://radar.luke.fi/catalog/content/about.page</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>agriculture</r3d:keyword>
+                    <r3d:keyword>economics</r3d:keyword>
+                    <r3d:keyword>fisheries</r3d:keyword>
+                    <r3d:keyword>forestry</r3d:keyword>
+                    <r3d:keyword>game</r3d:keyword>
+                    <r3d:keyword>nutrition</r3d:keyword>
+                    <r3d:keyword>statistics</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Esri Geoportal Server</r3d:institutionName>
+                                <r3d:institutionCountry>USA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.esri.com/en-us/arcgis/products/geoportal-server/overview</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, EASME, Life programme</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Life+</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://ec.europa.eu/environment/life/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://ec.europa.eu/easme/en/section/life/life-national-contact-points</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Natural Resources Institute Finland</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Luke</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="fin">Luonnonvarakeskus</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="swe">Naturresursinstitutet</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>FIN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.luke.fi/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:02hb7bm88</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate>2015-01-01</r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>Eero.Mikkola@luke.fi</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Code of conduct</r3d:policyName>
+                <r3d:policyURL>https://www.luke.fi/en/luke-3/strategy/code-of-conduct/</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.fi</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">ISO 19115</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>The RADAR service is being phased out. The open data resources of the Natural Resources Institute of Finland can be found in aggregated form at opendata.luke.fi, https://opendata.luke.fi/. The latest descriptions of the Natural Resources Institute&#039;s research data can be found at tiedejatutkimus.fi, https://research.fi/en/. Not all RADAR data descriptions have yet been transferred to the above services.</r3d:remarks>
+        <r3d:entryDate>2017-01-29</r3d:entryDate>
+        <r3d:lastUpdate>2023-11-30</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

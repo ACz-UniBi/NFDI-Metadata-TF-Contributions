@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011824</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Danish National Birth Cohort</r3d:repositoryName>
+                    <r3d:additionalName language="dan">Bedre sundhet i generationer</r3d:additionalName>
+                    <r3d:additionalName language="eng">DNBC</r3d:additionalName>
+                <r3d:repositoryURL>https://www.dnbc.dk/</r3d:repositoryURL>
+                <r3d:description language="eng">Exposures in the period from conception to early childhood - including fetal growth, cell division, and organ functioning - may have long-lasting impact on health and disease susceptibility.
+To investigate these issues the Danish National Birth Cohort (Better health in generations) was established.
+A large cohort of pregnant women with long-term follow-up of the offspring was the obvious choice because many of the exposures of interest cannot be reconstructed with suffcient validity back in time. The study needed to be large, and the aim was to recruit 100,000 women early in pregnancy, and to continue follow-up for decades. 
+Exposure information was collected by computer-assisted telephone interviews with the women twice during pregnancy and when their children were six and 18 months old. Participants were also asked to fill in a self-administered food frequency questionnaire in mid-pregnancy. Furthermore, a biological bank has been set up with blood taken from the mother twice during pregnancy and blood from theumbilical cord taken shortly after birth.</r3d:description>
+                    <r3d:repositoryContact>dnbc-research@ssi.dk</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate>1996</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://www.dnbc.dk/about-the-dnbc</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Dietary Habits of 14-year Olds</r3d:keyword>
+                    <r3d:keyword>biological samples</r3d:keyword>
+                    <r3d:keyword>food frequency</r3d:keyword>
+                    <r3d:keyword>history of birth</r3d:keyword>
+                    <r3d:keyword>lifestyle during pregnancy</r3d:keyword>
+                    <r3d:keyword>miscarriage</r3d:keyword>
+                    <r3d:keyword>post-natal</r3d:keyword>
+                    <r3d:keyword>pre-natal</r3d:keyword>
+                    <r3d:keyword>pregnancy</r3d:keyword>
+                    <r3d:keyword>triplets</r3d:keyword>
+                    <r3d:keyword>twins</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="dan">Statens Serum Institut</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="dan">SSI</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DNK</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://en.ssi.dk/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0417ye583</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>serum@ssi.dk</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Access to data from the DNBC</r3d:policyName>
+                <r3d:policyURL>https://www.dnbc.dk/access-to-dnbc-data</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Working with data from the DNBC on the VDI – general information</r3d:policyName>
+                <r3d:policyURL>https://www.dnbc.dk/-/media/arkiv/projekt-sites/dnbc/vdi-access-to-dnbc_october_2018.pdf?la=en</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.dnbc.dk/access-to-dnbc-data</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://www.dnbc.dk/access-to-dnbc-data/acknowledgement</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Danish National Birth Cohort is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2016-03-04</r3d:entryDate>
+        <r3d:lastUpdate>2023-10-31</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

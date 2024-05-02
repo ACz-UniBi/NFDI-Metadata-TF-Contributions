@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011046</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Golm Metabolome Database</r3d:repositoryName>
+                    <r3d:additionalName language="eng">GMD</r3d:additionalName>
+                <r3d:repositoryURL>http://gmd.mpimp-golm.mpg.de/</r3d:repositoryURL>
+                    <r3d:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.jykmkw</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>MIR:00000274</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:SCR_006625</r3d:repositoryIdentifier>
+                    <r3d:repositoryIdentifier>RRID:nif-0000-21180</r3d:repositoryIdentifier>
+                <r3d:description language="eng">The Golm Metabolome Database (GMD) facilitates the search for and dissemination of reference mass spectra from biologically active metabolites quantified using gas chromatography (GC) coupled to mass spectrometry (MS)</r3d:description>
+                    <r3d:repositoryContact>Kopka@mpimp-golm.mpg.de</r3d:repositoryContact>
+                    <r3d:repositoryContact>http://gmd.mpimp-golm.mpg.de/contact.aspx</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-03-18">4.663 analytes; 2.222 metabolites; 3.590 reference substances;  26.590 Spectra in total; 11.680 Spectra linked to analytes; 9.156 Spectra linked to analytes and tagged with an RI (retention index)</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">301 Molecular Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">31 Chemistry</r3d:subject>
+                <r3d:missionStatementURL>http://gmd.mpimp-golm.mpg.de/dataentities.aspx</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>biology</r3d:keyword>
+                    <r3d:keyword>chemical structure</r3d:keyword>
+                    <r3d:keyword>chromatography</r3d:keyword>
+                    <r3d:keyword>decision trees</r3d:keyword>
+                    <r3d:keyword>enzymatic activity</r3d:keyword>
+                    <r3d:keyword>genomics</r3d:keyword>
+                    <r3d:keyword>intermediate product</r3d:keyword>
+                    <r3d:keyword>mass spectrometry</r3d:keyword>
+                    <r3d:keyword>metabolic</r3d:keyword>
+                    <r3d:keyword>organic compounds</r3d:keyword>
+                    <r3d:keyword>query spectrum</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme, Coordination of Standards in MetabolomicS</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">CORDIS FP7 COSMOS</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://cordis.europa.eu/about/archives</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">German Research Foundation</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dfg.de/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:018mejw64</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_012420</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_144062</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Institute of Molecular Plant Physiology</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">MPI-MP</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Institut für Molekulare Pflanzenphysiologie</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpimp-golm.mpg.de/2168/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01fbde567</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mpimp-golm.mpg.de/2288/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Max Planck Society for the Advancement of Science e.V.</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="deu">Max-Planck-Gesellschaft zur Foerderung der Wissenschaften e.V.</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>DEU</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.mpg.de/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01hhn8329</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.mpg.de/contact/requests</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms and conditions</r3d:policyName>
+                <r3d:policyURL>http://gmd.mpimp-golm.mpg.de/termsconditions.aspx</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>http://gmd.mpimp-golm.mpg.de/termsconditions.aspx</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://www.mpimp-golm.mpg.de/2278/impress</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                    <r3d:software>
+                <r3d:softwareName>unknown</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning></r3d:versioning>
+                    <r3d:api apiType="REST">http://gmd.mpimp-golm.mpg.de/REST/</r3d:api>
+                    <r3d:api apiType="SOAP">http://gmd.mpimp-golm.mpg.de/webservices/Default.aspx</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>http://gmd.mpimp-golm.mpg.de/termsconditions.aspx</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://gmd.mpimp-golm.mpg.de/webservices/rssSpectra.ashx</r3d:syndication>
+                <r3d:remarks>Golm Metabolome Database is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+        <r3d:entryDate>2014-04-01</r3d:entryDate>
+        <r3d:lastUpdate>2022-03-18</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

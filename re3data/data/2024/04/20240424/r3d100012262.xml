@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100012262</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">ILC-CNR for CLARIN-IT repository</r3d:repositoryName>
+                    <r3d:additionalName language="eng">CLARIN-IT Repository</r3d:additionalName>
+                    <r3d:additionalName language="eng">ILC4CLARIN</r3d:additionalName>
+                <r3d:repositoryURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/</r3d:repositoryURL>
+                <r3d:description language="eng">ILC-CNR for CLARIN-IT repository is a library for linguistic data and tools. Including: Text Processing and Computational Philology; Natural Language Processing and Knowledge Extraction; Resources, Standards and Infrastructures; Computational Models of Language Usage. The studies carried out within each area are highly interdisciplinary and involve different professional skills and expertises that extend across the disciplines of Linguistics, Computational Linguistics, Computer Science and Bio-Engineering.</r3d:description>
+                    <r3d:repositoryContact>Alessandro.Enea@ilc.cnr.it</r3d:repositoryContact>
+                    <r3d:repositoryContact>dspace-clarin-it-ilc-help@ilc.cnr.it</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated=""></r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">104 Linguistics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">4 Engineering Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">409 Computer Science</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</r3d:subject>
+                <r3d:missionStatementURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/about?locale-attribute=en</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Software applications</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>Ancient Greek</r3d:keyword>
+                    <r3d:keyword>Italian Language</r3d:keyword>
+                    <r3d:keyword>bioengineering</r3d:keyword>
+                    <r3d:keyword>computational linguistics</r3d:keyword>
+                    <r3d:keyword>computational philology</r3d:keyword>
+                    <r3d:keyword>corpora</r3d:keyword>
+                    <r3d:keyword>treebanks</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>EEC</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.clarin.eu/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:03wp25384</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.clarin.eu/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">CLARIN-IT</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">l&#039;Infrastruttura Comune Italiana per le Risorse e le Tecnologie Linguistiche</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">the Italian Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.clarin-it.it/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.clarin-it.it/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="ita">CNR-ILC</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">Consiglio Nazionale delle Ricerche, Istituto di Linguistica Computazionale «A. Zampolli»</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="ita">ILC</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">National Research Council of Italy, Institute for Computational Linguistics &quot;Antonio Zampolli&quot;</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.ilc.cnr.it/en</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:028g3pe33</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.ilc.cnr.it/en/contact</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Cnr</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="ita">Consiglio Nazionale delle Ricerche</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="eng">Italy&#039;s National Research Council</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>ITA</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.cnr.it/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.cnr.it/en/contatti</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>CLARIN-IT Terms of Service</r3d:policyName>
+                <r3d:policyURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/terms-of-service</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>ILC-CNR for CLARIN-IT repository
+About and Policies</r3d:policyName>
+                <r3d:policyURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/about?locale-attribute=en</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                    <r3d:databaseLicense>
+                <r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+                <r3d:databaseLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0</r3d:databaseLicenseURL>
+            </r3d:databaseLicense>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>closed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>embargoed</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>BSD</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opensource.org/licenses/BSD-3-Clause</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>RL</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://opensource.org/licenses/MS-PL</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                    <r3d:dataLicense>
+                <r3d:dataLicenseName>other</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/licenses</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Distribution License Agreement</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/contract</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                            <r3d:software>
+                <r3d:softwareName>DSpace</r3d:softwareName>
+            </r3d:software>
+                <r3d:versioning>no</r3d:versioning>
+                            <r3d:pidSystem>hdl</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/cite</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                    <r3d:certificate>CLARIN certificate B</r3d:certificate>
+                    <r3d:certificate>other</r3d:certificate>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Searchable by CLARIN Virtual Language Observatory (VLO) facted search (ILC data &amp; tools): https://vlo.clarin.eu/search?5&amp;fq=organisation:Istituto+di+Linguistica+Computazionale+%E2%80%9CA.+Zampolli%E2%80%9D+-+Consiglio+Nazionale+delle+Ricerche+%28ILC-CNR%29&amp;fqType=organisation:or</r3d:remarks>
+        <r3d:entryDate>2016-11-28</r3d:entryDate>
+        <r3d:lastUpdate>2023-04-14</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

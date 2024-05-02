@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013940</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">Health Data Nova Scotia</r3d:repositoryName>
+                    <r3d:additionalName language="eng">HDNS</r3d:additionalName>
+                <r3d:repositoryURL>https://medicine.dal.ca/departments/department-sites/community-health/research/hdns.html</r3d:repositoryURL>
+                <r3d:description language="eng">Health Data Nova Scotia (HDNS), is a data repository based in the Faculty of Medicine&#039;s, Department of Community Health and Epidemiology at Dalhousie University, focused on supporting data driven research for a healthier Nova Scotia. HDNS facilitates research and innovation in Nova Scotia by providing access to linkable administrative health data and analysis for research and health service assessment purposes in a secure, controlled environment, while respecting the privacy and confidentiality of Nova Scotians.</r3d:description>
+                    <r3d:repositoryContact>HDNS@dal.ca</r3d:repositoryContact>
+                    <r3d:repositoryContact>https://medicine.dal.ca/departments/department-sites/community-health/research/hdns/contact.html</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                    <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2022-08-08">400 million records</r3d:size>
+        <r3d:startDate></r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">205 Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
+                <r3d:missionStatementURL>https://medicine.dal.ca/departments/department-sites/community-health/research/hdns/about.html</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>health care</r3d:keyword>
+                    <r3d:keyword>health data of Nova Scotia residents</r3d:keyword>
+                    <r3d:keyword>personal health information</r3d:keyword>
+                    <r3d:keyword>population health data</r3d:keyword>
+                    <r3d:keyword>population health databases</r3d:keyword>
+                    <r3d:keyword>population-based research</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Dalhousie University</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.dal.ca/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01e6qks80</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://www.dal.ca/admissions/contactus.html</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Dalhousie University, Faculty of Medicine&#039;s, Department of Community Health and Epidemiology</r3d:institutionName>
+                                <r3d:institutionCountry>CAN</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://medicine.dal.ca/departments/department-sites/community-health.html</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://medicine.dal.ca/departments/department-sites/community-health/our-people.html</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Access Request Policy</r3d:policyName>
+                <r3d:policyURL>https://cdn.dal.ca/content/dam/dalhousie/pdf/faculty/medicine/departments/department-sites/community-health/research/hdns/3_Data%20Access%20Request%20Policy_05-04-17.pdf</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>HDNS Policies</r3d:policyName>
+                <r3d:policyURL>https://medicine.dal.ca/departments/department-sites/community-health/research/hdns/data-access-guidelines/policies.html</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+                            <r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                                    <r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://cdn.dal.ca/content/dam/dalhousie/pdf/faculty/medicine/departments/department-sites/community-health/research/hdns/HDNS%20Guide%20to%20Using%20Our%20Services.pdf</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>closed</r3d:dataUploadType>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL></r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+        <r3d:qualityManagement>unknown</r3d:qualityManagement>
+                                <r3d:remarks></r3d:remarks>
+        <r3d:entryDate>2022-08-05</r3d:entryDate>
+        <r3d:lastUpdate>2022-08-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

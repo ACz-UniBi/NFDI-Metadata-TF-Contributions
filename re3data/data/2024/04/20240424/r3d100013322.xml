@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100013322</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="spa">Portal de Datos Abiertos UNAM, Colecciones Universitarias</r3d:repositoryName>
+                    <r3d:additionalName language="eng">UNAM Open Data Portal</r3d:additionalName>
+                <r3d:repositoryURL>https://datosabiertos.unam.mx/</r3d:repositoryURL>
+                <r3d:description language="eng">The UNAM opens the door to share millions of open data for the benefit of education and research. With this portal (www.datosabiertos.unam.mx) the university shares records of digital collections, academic research projects, repositories and publications to generate new knowledge. This way, it works as an online access point to search university collections authorized for their use, reuse and free redistribution by anyone, without copyright restrictions, patents or other control mechanisms, as long as the Terms of Free Use for UNAM Open Data are respected. 
+The UNAM Open Data Portal contains data, digital objects and geospatial layers of biological collections, artistic work, music, veterinary medicine, university projects, among others. It allows databases to be consulted and downloaded in open and structured formats. One of the most outstanding collections is the National Herbarium of Mexico (MEXU), with almost two million records and high resolution images of plants around the world, mainly collected in Mexico. MEXU is the largest herbarium in the country and in Latin America; it’s among one of the ten most active herbariums in the world.</r3d:description>
+                    <r3d:repositoryContact>contacto@dgru.unam.mx</r3d:repositoryContact>
+                    <r3d:repositoryContact>joaquin@dgru.unam.mx</r3d:repositoryContact>
+                            <r3d:type>institutional</r3d:type>
+                <r3d:size updated="2024-04-10">2.129.119 records;</r3d:size>
+        <r3d:startDate>2016-03-09</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">1 Humanities and Social Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10301 Art History</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">10302 Musicology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">11 Humanities</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">112 Economics</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">12 Social and Behavioural Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                <r3d:missionStatementURL>https://dgru.unam.mx/index.php/portal-de-datos-abiertos-unam-colecciones-universitarias-2/</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Raw data</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">other</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                            <r3d:keyword>multidisciplinary</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="spa">Dirección General de Repositorios Universitarios</r3d:institutionName>
+                                <r3d:institutionCountry>MEX</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://dgru.unam.mx/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>https://dgru.unam.mx/index.php/contacto/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Autonomous University of Mexico</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="spa">UNAM</r3d:institutionAdditionalName>
+                                    <r3d:institutionAdditionalName language="spa">Universidad Nacional Autónoma de  México</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>MEX</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.unam.mx/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:01tmp8f25</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:SCR_004360</r3d:institutionIdentifier>
+                                    <r3d:institutionIdentifier>RRID:nlx_151584</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Terms of Free Use of UNAM Open Data</r3d:policyName>
+                <r3d:policyURL>https://datosabiertos.unam.mx/informacion/termsoffree.html</r3d:policyURL>
+            </r3d:policy>
+                    <r3d:policy>
+                <r3d:policyName>Upload DataBase Policies: Lineamientos para la integración y publicación de las colecciones universitarias digitales en el Portal de Datos Abiertos UNAM, Colecciones Universitarias</r3d:policyName>
+                <r3d:policyURL>https://dgru.unam.mx/wp-content/uploads/2019/10/D.Li_.Ga_CCUD_2015_09_24_Integracion_Publicacion_Colecciones_PDA_UNAM.pdf</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://datosabiertos.unam.mx/informacion/termsoffree.html</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                            <r3d:dataUploadLicense>
+                <r3d:dataUploadLicenseName>Upload DataBase Policies: Lineamientos para la integración y publicación de las colecciones universitarias digitales en el Portal de Datos Abiertos UNAM, Colecciones Universitarias</r3d:dataUploadLicenseName>
+                <r3d:dataUploadLicenseURL>https://dgru.unam.mx/wp-content/uploads/2019/10/D.Li_.Ga_CCUD_2015_09_24_Integracion_Publicacion_Colecciones_PDA_UNAM.pdf</r3d:dataUploadLicenseURL>
+            </r3d:dataUploadLicense>
+                        <r3d:versioning>no</r3d:versioning>
+                    <r3d:api apiType="REST">https://datosabiertos.unam.mx/api/ada/</r3d:api>
+                            <r3d:pidSystem>none</r3d:pidSystem>
+                <r3d:citationGuidelineURL>https://datosabiertos.unam.mx/informacion/termsoffree.html</r3d:citationGuidelineURL>
+                    <r3d:aidSystem>none</r3d:aidSystem>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                            <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Darwin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                    <r3d:metadataStandard>
+                <r3d:metadataStandardName metadataStandardScheme="DCC">Dublin Core</r3d:metadataStandardName>
+                <r3d:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</r3d:metadataStandardURL>
+            </r3d:metadataStandard>
+                        <r3d:remarks>Institutional identifier: Each record has a unique identifier built with three main elements: institution code, collection code (dataset) and register number (catalogue number). This identifier is also included in the URL assigned to each record.
+All collections published at the UNAM open data portal have a metadata scheme with differente international standards reference. Most of their dictionaries can be consulted in spanish in the following page: https://dgru.unam.mx/index.php/portal-de-datos-abiertos-unam-colecciones-universitarias-2/</r3d:remarks>
+        <r3d:entryDate>2020-05-01</r3d:entryDate>
+        <r3d:lastUpdate>2024-04-10</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>

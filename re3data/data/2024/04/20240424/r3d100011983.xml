@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--re3data.org Schema for the Description of Research Data Repositories. Version 2.2, December 2014. doi:10.2312/re3.006-->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <r3d:repository>
+        <r3d:re3data.orgIdentifier>r3d100011983</r3d:re3data.orgIdentifier>
+        <r3d:repositoryName language="eng">National Biodiversity Data Centre - Biodiversity Maps</r3d:repositoryName>
+                    <r3d:additionalName language="eng">MApping Ireland&#039;s Wildlife</r3d:additionalName>
+                <r3d:repositoryURL>https://maps.biodiversityireland.ie/Home</r3d:repositoryURL>
+                <r3d:description language="eng">Biodiversity Maps provides access to high quality information on Ireland&#039;s biological diversity. Use the system to find out what is known about the different species that occur in Ireland, where our protected and threatened species occur, and who is recoding biodiversity. Also find out what is known about the biodiversity of your locality.
+The National Biodiversity Data Centre endeavours to provide high quality information through this data portal.</r3d:description>
+                    <r3d:repositoryContact>info@biodiversityireland.ie</r3d:repositoryContact>
+                            <r3d:type>disciplinary</r3d:type>
+                <r3d:size updated="2022-02-04">4.573.057 records; 167 datasets; 16.912 species</r3d:size>
+        <r3d:startDate>2007</r3d:startDate>
+        <r3d:endDate></r3d:endDate>
+                    <r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+                    <r3d:repositoryLanguage>gle</r3d:repositoryLanguage>
+                            <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">202 Plant Sciences</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">203 Zoology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">20710 Basic Forest Research</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">21 Biology</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</r3d:subject>
+                    <r3d:subject subjectScheme="DFG">3 Natural Sciences</r3d:subject>
+                <r3d:missionStatementURL>https://maps.biodiversityireland.ie/About</r3d:missionStatementURL>
+                    <r3d:contentType contentTypeScheme="parse">Databases</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Plain text</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Standard office documents</r3d:contentType>
+                    <r3d:contentType contentTypeScheme="parse">Structured graphics</r3d:contentType>
+                            <r3d:providerType>dataProvider</r3d:providerType>
+                    <r3d:providerType>serviceProvider</r3d:providerType>
+                            <r3d:keyword>Ireland</r3d:keyword>
+                    <r3d:keyword>amphibians</r3d:keyword>
+                    <r3d:keyword>birds</r3d:keyword>
+                    <r3d:keyword>fishes</r3d:keyword>
+                    <r3d:keyword>fungi</r3d:keyword>
+                    <r3d:keyword>higher plants</r3d:keyword>
+                    <r3d:keyword>insects</r3d:keyword>
+                    <r3d:keyword>lower plants</r3d:keyword>
+                    <r3d:keyword>mammals</r3d:keyword>
+                    <r3d:keyword>reptiles</r3d:keyword>
+                            <r3d:institution>
+                <r3d:institutionName language="eng">Compass Informatics</r3d:institutionName>
+                                <r3d:institutionCountry>IRL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>technical</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://compass.ie/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>info@compassinformatics.com</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">Department of Arts, Heritage and the Gaeltacht</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="gle">An Roinn Ealaion, Oidhreachta agus Gaeltachta</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IRL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media/?referrer=http://www.chg.gov.ie/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.ahg.gov.ie/about/contact/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">National Biodiversity Data Centre</r3d:institutionName>
+                                <r3d:institutionCountry>IRL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>http://www.biodiversityireland.ie/</r3d:institutionURL>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>http://www.biodiversityireland.ie/contact-us/</r3d:institutionContact>
+                            </r3d:institution>
+                    <r3d:institution>
+                <r3d:institutionName language="eng">The Heritage Council</r3d:institutionName>
+                                    <r3d:institutionAdditionalName language="gle">An Chomhairle Oidhreachta</r3d:institutionAdditionalName>
+                                <r3d:institutionCountry>IRL</r3d:institutionCountry>
+                                    <r3d:responsibilityType>funding</r3d:responsibilityType>
+                                    <r3d:responsibilityType>general</r3d:responsibilityType>
+                                <r3d:institutionType>non-profit</r3d:institutionType>
+                <r3d:institutionURL>https://www.heritagecouncil.ie/</r3d:institutionURL>
+                                    <r3d:institutionIdentifier>ROR:0053vns10</r3d:institutionIdentifier>
+                                <r3d:responsibilityStartDate></r3d:responsibilityStartDate>
+                <r3d:responsibilityEndDate></r3d:responsibilityEndDate>
+                                    <r3d:institutionContact>mail@heritagecouncil.ie</r3d:institutionContact>
+                            </r3d:institution>
+                            <r3d:policy>
+                <r3d:policyName>Data Use Agreement</r3d:policyName>
+                <r3d:policyURL>https://maps.biodiversityireland.ie/#/Map</r3d:policyURL>
+            </r3d:policy>
+                <r3d:databaseAccess>
+            <r3d:databaseAccessType>open</r3d:databaseAccessType>
+                    </r3d:databaseAccess>
+                            <r3d:dataAccess>
+                <r3d:dataAccessType>open</r3d:dataAccessType>
+                            </r3d:dataAccess>
+                    <r3d:dataAccess>
+                <r3d:dataAccessType>restricted</r3d:dataAccessType>
+                                    <r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+                            </r3d:dataAccess>
+                            <r3d:dataLicense>
+                <r3d:dataLicenseName>CC</r3d:dataLicenseName>
+                <r3d:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseURL>
+            </r3d:dataLicense>
+                            <r3d:dataUpload>
+                <r3d:dataUploadType>restricted</r3d:dataUploadType>
+                                    <r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+                            </r3d:dataUpload>
+                                <r3d:versioning></r3d:versioning>
+                        <r3d:citationGuidelineURL>http://maps.biodiversityireland.ie/#/Map</r3d:citationGuidelineURL>
+                <r3d:enhancedPublication>yes</r3d:enhancedPublication>
+        <r3d:qualityManagement>yes</r3d:qualityManagement>
+                                    <r3d:syndication syndicationType="RSS">http://wiki.biodiversityireland.ie/RSS.aspx</r3d:syndication>
+                <r3d:remarks>The National Biodiversity Data Centre is a national organisation for the collection, collation, management, analysis and dissemination of data on the biological diversity of Ireland. The Data Centre has developed an online mapping system, Biodiversity Maps, which provides access to data on the distribution of Ireland’s biological diversity.</r3d:remarks>
+        <r3d:entryDate>2016-05-10</r3d:entryDate>
+        <r3d:lastUpdate>2022-02-04</r3d:lastUpdate>
+    </r3d:repository>
+</r3d:re3data>
