@@ -13,6 +13,7 @@
 ADATE=`date +%Y%m%d`
 AYEAR=`date +%Y`
 AMONTH=`date +%m`
+ADAY=`date +%d`
 
 SAVEDATA="./data/${AYEAR}/${AMONTH}"
 
@@ -21,11 +22,11 @@ curl --silent 'https://www.re3data.org/api/v1/repositories' > ${SAVEDATA}/${ADAT
 
 RE3DATA=`xmlstarlet sel -t -v '//link/@href' ${SAVEDATA}/${ADATE}_repositories.xml | sed 's#/api/v1/repository/##' `
 
-mkdir -p ${SAVEDATA}/${ADATE}
+mkdir -p ${SAVEDATA}/${ADAY}
 for re3 in ${RE3DATA}; do
 
   echo -n "${re3}:"
-  curl --silent https://www.re3data.org/api/v1/repository/${re3} > ${SAVEDATA}/${ADATE}/${re3}.xml
+  curl --silent https://www.re3data.org/api/v1/repository/${re3} > ${SAVEDATA}/${ADAY}/${re3}.xml
   echo "...done."
 
   # make it fair
