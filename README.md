@@ -4,20 +4,24 @@ This repository contains data and scripts of the [NFDI Task Force Metadata](http
 
 ## Requirements
 
-- Standard Unix command line tools `bash`, `grep`, `wc`, `date`, `sed`, `curl`...
+- Standard Unix command line tools `bash`, `grep`, `wc`, `date`, `sed`, `curl`, ...
 - xmlstarlet
 - jq
 - ...
 
 ## Data
 
-### re3data
+### Re3Data
 
-Data about resarch data repositories listed in [re3data](https://www.re3data.org/).
+Data about research data repositories listed in [re3data](https://www.re3data.org/).
 
 The data is retrieved from [re3data API](https://www.re3data.org/api/) as describe at the [documentation page](https://www.re3data.org/api/doc).
 
-## wikidata
+### OpenDOAR
+
+[OpenDOAR](https://opendoar.org) is the quality-assured, global _Directory of Open Access Repositories_. You can search and browse through thousands of registered repositories based on a range of features, such as location, software or type of material held.
+
+## Wikidata
 
 *this is work in progress*
 
